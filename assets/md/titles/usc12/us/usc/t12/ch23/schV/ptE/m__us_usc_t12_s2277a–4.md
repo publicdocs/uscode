@@ -289,7 +289,7 @@
 
 [Pub. L. 102–552, title II, § 204][/us/pl/102/552/s204], Oct. 28, 1992, [106 Stat. 4106][/us/stat/106/4106], as amended by [Pub. L. 104–316, title I, § 106(e)][/us/pl/104/316/s106/e], Oct. 19, 1996, [110 Stat. 3831][/us/stat/110/3831], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Comptroller General of the United States may investigate, review, and evaluate the feasibility and appropriateness, and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, on the advantages and disadvantages of providing the Farm Credit System Insurance Corporation with—
 
@@ -323,11 +323,11 @@
 
 >     “(b) __Report on Consolidation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Comptroller General of the United States shall evaluate and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on whether there are likely to be benefits to farmer and rancher borrowers of the Farm Credit System institutions of merging the 10 district Farm Credit Banks (and the Federal Intermediate Credit Bank of Jackson) into fewer regional Farm Credit Banks.
 
->         “(2) __Factors.—__ 
+>         “(2)  __Factors__  __.—__ 
 
 >         In preparing the report, the Comptroller General shall consider—
 
@@ -343,11 +343,11 @@
 
 >             “(F) the potential impact on System-wide bond issuances.
 
->     “(c) __Potential Savings.—__ 
+>     “(c)  __Potential Savings__  __.—__ 
 
 >     The Comptroller General of the United States shall evaluate and report to the appropriate committees of Congress on the potential savings to the Farm Credit System and its shareholders that might occur if System institutions and the Farm Credit Administration were required to comply with General Services Administration standards for office space, furniture, and equipment.
 
->     “(d) __Deadline.—__ 
+>     “(d)  __Deadline__  __.—__ 
 
 >     The reports required under this section shall be provided to Congress not later than 12 months after the date of enactment of this Act \[Oct. 28, 1992\].”
 

@@ -25,9 +25,9 @@
 
             (A) insured depository institutions (as defined in section 3(c)(2) of that Act \[[12 U.S.C. 1813(c)(2)][/us/usc/t12/s1813/c/2]\]);
 
-            (B) depository institutions described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act \[[12 U.S.C. 1461(b)(1)(A)][/us/usc/t12/s1461/b/1/A]\] which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act \[[12 U.S.C. 1813(c)(2)][/us/usc/t12/s1813/c/2]\]); and
+            (B) depository institutions described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act \[[12 U.S.C. 461(b)(1)(A)][/us/usc/t12/s461/b/1/A]\] which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act \[[12 U.S.C. 1813(c)(2)][/us/usc/t12/s1813/c/2]\]); and
 
-            (C) depository institutions described in clause (v) or (vi) of section 19(b)(1)(A) of the Federal Reserve Act \[[12 U.S.C. 1461(b)(1)(A)][/us/usc/t12/s1461/b/1/A]\] which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act \[[12 U.S.C. 1813(c)(2)][/us/usc/t12/s1813/c/2]\]);
+            (C) depository institutions described in clause (v) or (vi) of section 19(b)(1)(A) of the Federal Reserve Act \[[12 U.S.C. 461(b)(1)(A)][/us/usc/t12/s461/b/1/A]\] which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act \[[12 U.S.C. 1813(c)(2)][/us/usc/t12/s1813/c/2]\]);
 
         (2) the Federal Credit Union Act \[[12 U.S.C. 1751][/us/usc/t12/s1751] et seq.\], by the National Credit Union Administration Board in the case of depository institutions described in clause (iv) of section 19(b)(1)(A) of the Federal Reserve Act \[[12 U.S.C. 461(b)(1)(A)][/us/usc/t12/s461/b/1/A]\];
 
@@ -98,9 +98,9 @@
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/usc/t12/s1813/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fq
 [/us/usc/t12/s1813/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc%2F2
-[/us/usc/t12/s1461/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1461%2Fb%2F1%2FA
+[/us/usc/t12/s461/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FA
 [/us/usc/t12/s1813/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc%2F2
-[/us/usc/t12/s1461/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1461%2Fb%2F1%2FA
+[/us/usc/t12/s461/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FA
 [/us/usc/t12/s1813/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc%2F2
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
 [/us/usc/t12/s461/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs461%2Fb%2F1%2FA

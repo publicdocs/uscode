@@ -1607,7 +1607,7 @@
 
 [Pub. L. 106–102, title IV, § 401(c)][/us/pl/106/102/s401/c], Nov. 12, 1999, [113 Stat. 1436][/us/stat/113/1436], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In the case of a company that—
 
@@ -1617,7 +1617,7 @@
 
 >         the company (including any subsidiary controlled by such company as of such date of enactment \[Nov. 12, 1999\]) shall be treated as having filed such conversion application with the Director before May 4, 1999, for purposes of section 10(c)(9)(C) of the Home Owners’ Loan Act \[[12 U.S.C. 1467a(c)(9)(C)][/us/usc/t12/s1467a/c/9/C]\] (as added by subsection (a)).
 
->     “(2) __Definitions.—__ 
+>     “(2)  __Definitions__  __.—__ 
 
 >     For purposes of paragraph (1), the terms ‘company’, ‘control’, ‘savings association’, and ‘subsidiary’ have the meanings given those terms in section 10 of the Home Owners’ Loan Act.”
 

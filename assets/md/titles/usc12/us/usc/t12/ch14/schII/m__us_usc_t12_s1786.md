@@ -45,7 +45,7 @@
 
         (2) A cease-and-desist order shall become effective at the expiration of thirty days after the service of such order upon the credit union or other person concerned (except in the case of a cease-and-desist order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided therein, except to such extent as it is stayed, modified, terminated, or set aside by action of the Board or a reviewing court.
 
-        (3) __Affirmative action to correct conditions resulting from violations or practices.—__ 
+        (3)  __Affirmative action to correct conditions resulting from violations or practices__  __.—__ 
 
         The authority to issue an order under this subsection and subsection (f) of this section which requires an insured credit union or any institution-affiliated party to take affirmative action to correct any conditions resulting from any violation or practice with respect to which such order is issued includes the authority to require such insured credit union or such party to—
 
@@ -67,7 +67,7 @@
 
             (F) take such other action as the Board determines to be appropriate.
 
-        (4) __Authority to limit activities.—__ 
+        (4)  __Authority to limit activities__  __.—__ 
 
         The authority to issue an order under this subsection or subsection (f) of this section includes the authority to place limitations on the activities or functions of an insured credit union or any institution-affiliated party.
 
@@ -79,7 +79,7 @@
 
         (3) __Incomplete or inaccurate records.—__ 
 
-            (A) __Temporary order.—__ 
+            (A)  __Temporary order__  __.—__ 
 
             If a notice of charges served under subsection (e)(1) of this section specifies, on the basis of particular facts and circumstances, that an insured credit union’s books and records are so incomplete or inaccurate that the Board is unable, through the normal supervisory process, to determine the financial condition of that insured credit union or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that insured credit union, the Board may issue a temporary order requiring—
 
@@ -87,7 +87,7 @@
 
                 (ii) affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under subsection (e)(1) of this section.
 
-            (B) __Effective period.—__ 
+            (B)  __Effective period__  __.—__ 
 
             Any temporary order issued under subparagraph (A)—
 
@@ -105,7 +105,7 @@
 
     (g) __Removal and prohibition authority__ 
 
-        (1) __Authority to issue order.—__ 
+        (1)  __Authority to issue order__  __.—__ 
 
         Whenever the Board determines that—
 
@@ -151,7 +151,7 @@
 
         (2) __Specific violations.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Whenever the Board determines that—
 
@@ -163,13 +163,13 @@
 
                 the Board may serve upon such party, officer, or director a written notice of the Board’s intention to remove such officer or director from office.
 
-            (B) __Factors to be considered.—__ 
+            (B)  __Factors to be considered__  __.—__ 
 
             In determining whether an officer or director should be removed as a result of the application of subparagraph (A)(ii), the Board shall consider whether the officer or director took appropriate action to stop, or to prevent the recurrence of, a violation described in such subparagraph.
 
         (3) __Suspension order.—__ 
 
-            (A) __Suspension or prohibition authorized.—__ 
+            (A)  __Suspension or prohibition authorized__  __.—__ 
 
             If the Board serves written notice under paragraph (1) or (2) to any institution-affiliated party of the Board’s intention to issue an order under such paragraph, the Board may suspend such party from office or prohibit such party from further participation in any manner in the conduct of the affairs of the institution, if the Board—
 
@@ -177,7 +177,7 @@
 
                 (ii) serves such person with written notice of the suspension order.
 
-            (B) __Effective period.—__ 
+            (B)  __Effective period__  __.—__ 
 
             Any suspension order issued under subparagraph (A)—
 
@@ -191,13 +191,13 @@
 
                     (II) the effective date of an order issued by the Board to such person under paragraph (1) or (2).
 
-            (C) __Copy of order.—__ 
+            (C)  __Copy of order__  __.—__ 
 
             If the Board issues a suspension order under subparagraph (A) to any institution-affiliated party, the Board shall serve a copy of such order on any insured credit union with which such party is associated at the time such order is issued.
 
         (4) A notice of intention to remove a director, committee member, officer, or other person from office or to prohibit his participation in the conduct of the affairs of an insured credit union, shall contain a statement of the facts constituting grounds therefor, and shall fix a time and place at which a hearing will be held thereon. Such hearing shall be fixed for a date not earlier than thirty days nor later than sixty days after the date of service of such notice, unless an earlier or a later date is set by the Board at the request of (A) such director, committee member, or officer or other person, and for good cause shown, or (B) the Attorney General of the United States. Unless such director, committee member, officer, or other person shall appear at the hearing in person or by a duly authorized representative, he shall be deemed to have consented to the issuance of an order of such removal or prohibition. In the event of such consent, or if upon the record made at any such hearing the Board shall find that any of the grounds specified in such notice have been established, the Board may issue such orders of suspension or removal from office, or prohibition from participation in the conduct of the affairs of the credit union, as it may deem appropriate. Any such order shall become effective at the expiration of thirty days after service upon such credit union and the director, committee member, officer, or other person concerned (except in the case of an order issued upon consent, which shall become effective at the time specified therein). Such order shall remain effective and enforceable except to such extent as it is stayed, modified, terminated, or set aside by action of the Board or a reviewing court.
 
-        (5) __Prohibition of certain specific activities.—__ 
+        (5)  __Prohibition of certain specific activities__  __.—__ 
 
         Any person subject to an order issued under this subsection shall not—
 
@@ -213,7 +213,7 @@
 
         (7) __Industrywide Prohibition.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), any person who, pursuant to an order issued under this subsection or subsection (i) of this section, has been removed or suspended from office in an insured credit union or prohibited from participating in the conduct of the affairs of an insured credit union may not, while such order is in effect, continue or commence to hold any office in, or participate in any manner in the conduct of the affairs of—
 
@@ -229,7 +229,7 @@
 
                 (vi) the Federal Housing Finance Agency and any Federal home loan bank.
 
-            (B) __Exception if agency provides written consent.—__ 
+            (B)  __Exception if agency provides written consent__  __.—__ 
 
             If, on or after the date an order is issued under this subsection which removes or suspends from office any institution-affiliated party or prohibits such party from participating in the conduct of the affairs of an insured credit union, such party receives the written consent of—
 
@@ -239,11 +239,11 @@
 
                 subparagraph (A) shall, to the extent of such consent, cease to apply to such party with respect to the institution described in each written consent. If any person receives such a written consent from the Board, the Board shall publicly disclose such consent. If the agency referred to in clause (ii) grants such a written consent, such agency shall report such action to the Board and publicly disclose such consent.
 
-            (C) __Violation of paragraph treated as violation of order.—__ 
+            (C)  __Violation of paragraph treated as violation of order__  __.—__ 
 
             Any violation of subparagraph (A) by any person who is subject to an order described in such subparagraph shall be treated as a violation of the order.
 
-            (D) __“Appropriate federal financial institutions regulatory agency” defined.—__ 
+            (D)  __“Appropriate federal financial institutions regulatory agency” defined__  __.—__ 
 
             For purposes of this paragraph, the term “appropriate Federal financial institutions regulatory agency” means—
 
@@ -255,11 +255,11 @@
 
                 (iv) the Secretary of the Treasury, in the case of the Federal Housing Finance Agency and any Federal home loan bank;  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The semicolon probably should be a period. </sup></sup> 
 
-            (E) __Consultation between agencies.—__ 
+            (E)  __Consultation between agencies__  __.—__ 
 
             The agencies referred to in clauses (i) and (ii) of subparagraph (B) shall consult with each other before providing any written consent described in subparagraph (B).
 
-            (F) __Applicability.—__ 
+            (F)  __Applicability__  __.—__ 
 
             This paragraph shall only apply to a person who is an individual, unless the Board specifically finds that it should apply to a corporation, firm, or other business enterprise.
 
@@ -323,7 +323,7 @@
 
         (1) __Suspension or prohibition authorized.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Whenever any institution-affiliated party is charged in any information, indictment, or complaint, with the commission of or participation in—
 
@@ -335,39 +335,39 @@
 
             (B) __Provisions applicable to notice.—__ 
 
-                (i) __Copy.—__ 
+                (i)  __Copy__  __.—__ 
 
                 A copy of any notice under subparagraph (A) shall also be served upon the credit union of which the subject of the order is, or most recently was, an institution-affiliated party.
 
-                (ii) __Effective period.—__ 
+                (ii)  __Effective period__  __.—__ 
 
                 A suspension or prohibition under subparagraph (A) shall remain in effect until the information, indictment, or complaint referred to in such subparagraph is finally disposed of or until terminated by the Board.
 
             (C) __Removal or prohibition.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 If a judgment of conviction or an agreement to enter a pretrial diversion or other similar program is entered against an institution-affiliated party in connection with a crime described in subparagraph (A)(i), at such time as such judgment is not subject to further appellate review, the Board may, if continued service or participation by such party may pose a threat to the interests of any credit union’s members or may threaten to impair public confidence in any credit union, issue and serve upon such party an order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of any credit union without the prior written consent of the Board.
 
-                (ii) __Required for certain offenses—__ 
+                (ii)  __Required for certain offenses__  __—__ 
 
                 In the case of a judgment of conviction or agreement against an institution-affiliated party in connection with a violation described in subparagraph (A)(ii), the Board shall issue and serve upon such party an order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of any credit union without the prior written consent of the Board.
 
             (D) __Provisions applicable to order.—__ 
 
-                (i) __Copy.—__ 
+                (i)  __Copy__  __.—__ 
 
                 A copy of any order under subparagraph (C) shall also be served upon the credit union of which the subject of the order is, or most recently was, an institution-affiliated party, whereupon such party (if a director or an officer) shall cease to be a director or officer of such credit union.
 
-                (ii) __Effect of acquittal.—__ 
+                (ii)  __Effect of acquittal__  __.—__ 
 
                 A finding of not guilty or other disposition of the charge shall not preclude the Board from instituting proceedings after such finding or disposition to remove such party from office or to prohibit further participation in credit union affairs, pursuant to paragraph (1), (2), or (3) of subsection (g) of this section.
 
-                (iii) __Effective period.—__ 
+                (iii)  __Effective period__  __.—__ 
 
                 Any notice of suspension or order of removal issued under this paragraph shall remain effective and outstanding until the completion of any hearing or appeal authorized under paragraph (3) unless terminated by the Board.
 
-            (E) __Continuation of authority.—__ 
+            (E)  __Continuation of authority__  __.—__ 
 
             The Board may issue an order under this paragraph with respect to an individual who is an institution-affiliated party at a credit union at the time of an offense described in subparagraph (A) without regard to—
 
@@ -393,7 +393,7 @@
 
         (2) __Civil money penalty.—__ 
 
-            (A) __First tier.—__ 
+            (A)  __First tier__  __.—__ 
 
             Any insured credit union which, and any institution-affiliated party who—
 
@@ -407,7 +407,7 @@
 
                 shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
 
-            (B) __Second tier.—__ 
+            (B)  __Second tier__  __.—__ 
 
             Notwithstanding subparagraph (A), any insured credit union which, and any institution-affiliated party who—
 
@@ -431,7 +431,7 @@
 
                 shall forfeit and pay a civil penalty of not more than $25,000 for each day during which such violation, practice, or breach continues.
 
-            (C) __Third tier.—__ 
+            (C)  __Third tier__  __.—__ 
 
             Notwithstanding subparagraphs (A) and (B), any insured credit union which, and any institution-affiliated party who—
 
@@ -449,7 +449,7 @@
 
                 shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subparagraph (D) for each day during which such violation, practice, or breach continues.
 
-            (D) __Maximum amounts of penalties for any violation described in subparagraph (c).—__ 
+            (D)  __Maximum amounts of penalties for any violation described in subparagraph (c)__  __.—__ 
 
             The maximum daily amount of any civil penalty which may be assessed pursuant to subparagraph (C) for any violation, practice, or breach described in such subparagraph is—
 
@@ -465,19 +465,19 @@
 
             (E) __Assessment.—__ 
 
-                (i) __Written notice.—__ 
+                (i)  __Written notice__  __.—__ 
 
                 Any penalty imposed under subparagraph (A), (B), or (C) may be assessed and collected by the Board by written notice.
 
-                (ii) __Finality of assessment.—__ 
+                (ii)  __Finality of assessment__  __.—__ 
 
                 If, with respect to any assessment under clause (i), a hearing is not requested pursuant to subparagraph (H) within the period of time allowed under such subparagraph, the assessment shall constitute a final and unappealable order.
 
-            (F) __Authority to modify or remit penalty.—__ 
+            (F)  __Authority to modify or remit penalty__  __.—__ 
 
             The Board may compromise, modify, or remit any penalty which such agency may assess or had already assessed under subparagraph (A), (B), or (C).
 
-            (G) __Mitigating factors.—__ 
+            (G)  __Mitigating factors__  __.—__ 
 
             In determining the amount of any penalty imposed under subparagraph (A), (B), or (C), the Board shall take into account the appropriateness of the penalty with respect to—
 
@@ -489,33 +489,33 @@
 
                 (iv) such other matters as justice may require.
 
-            (H) __Hearing.—__ 
+            (H)  __Hearing__  __.—__ 
 
             The insured credit union or other person against whom any penalty is assessed under this paragraph shall be afforded an agency hearing if such institution or person submits a request for such hearing within 20 days after the issuance of the notice of assessment.
 
             (I) __Collection.—__ 
 
-                (i) __Referral.—__ 
+                (i)  __Referral__  __.—__ 
 
                 If any insured credit union or other person fails to pay an assessment after any penalty assessed under this paragraph has become final, the Board shall recover the amount assessed by action in the appropriate United States district court.
 
-                (ii) __Appropriateness of penalty not reviewable.—__ 
+                (ii)  __Appropriateness of penalty not reviewable__  __.—__ 
 
                 In any civil action under clause (i), the validity and appropriateness of the penalty shall not be subject to review.
 
-            (J) __Disbursement.—__ 
+            (J)  __Disbursement__  __.—__ 
 
             All penalties collected under authority of this paragraph shall be deposited into the Treasury.
 
-            (K) __“Violate” defined.—__ 
+            (K)  __“Violate” defined__  __.—__ 
 
             For purposes of this section, the term “violate” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
-            (L) __Regulations.—__ 
+            (L)  __Regulations__  __.—__ 
 
             The Board shall prescribe regulations establishing such procedures as may be necessary to carry out this paragraph.
 
-        (3) __Notice under this section after separation from service.—__ 
+        (3)  __Notice under this section after separation from service__  __.—__ 
 
         The resignation, termination of employment or participation, or separation of a institution-affiliated party (including a separation caused by the closing of an insured credit union) shall not affect the jurisdiction and authority of the Board to issue any notice or order and proceed under this section against any such party, if such notice or order is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such credit union (whether such date occurs before, on, or after August 9, 1989).
 

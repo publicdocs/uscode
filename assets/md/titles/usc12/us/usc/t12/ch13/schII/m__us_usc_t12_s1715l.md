@@ -663,19 +663,19 @@
 
 [Pub. L. 101–494, § 1][/us/pl/101/494/s1], Oct. 31, 1990, [104 Stat. 1185][/us/stat/104/1185], provided that:
 
->     “(a) __Effective Date of Extender.—__ 
+>     “(a)  __Effective Date of Extender__  __.—__ 
 
 >     [Public Law 101–402][/us/pl/101/402] \[amending [section 1709 of this title][/us/usc/t12/s1709] and [section 11319 of Title 42][/us/usc/t42/s11319], The Public Health and Welfare, and amending provisions set out as a note below\] shall be deemed to have taken effect as if such law were enacted on September 29, 1990.
 
->     “(b) __Status of Act.—__ 
+>     “(b)  __Status of Act__  __.—__ 
 
 >     The Emergency Low Income Housing Preservation Act of 1987 \[title II of [Pub. L. 100–242][/us/pl/100/242]\] ([12 U.S.C. 1715][/us/usc/t12/s1715]l note) shall be deemed to have been in effect on and after September 29, 1990, as if [Public Law 101–402][/us/pl/101/402] had been enacted on September 29, 1990.
 
->     “(c) __Correction of Any Repeal.—__ 
+>     “(c)  __Correction of Any Repeal__  __.—__ 
 
 >     The provisions of the Emergency Low Income Housing Preservation Act of 1987 ([12 U.S.C. 1715][/us/usc/t12/s1715]l note), other than section 203, are amended to read as such provisions were in effect on September 29, 1990. The amendment made by this subsection shall take effect as if this Act were enacted on September 29, 1990.
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     If the Cranston-Gonzalez National Affordable Housing Act \[[Pub. L. 101–625][/us/pl/101/625], which was approved Nov. 28, 1990\] is enacted before the enactment of this Act \[Oct. 31, 1990\], this section shall be deemed to have taken effect immediately before the enactment of the Cranston-Gonzalez National Affordable Housing Act.”
 
@@ -691,7 +691,7 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 > “SEC. 202. __FINDINGS AND PURPOSE.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -723,7 +723,7 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 >         “(10) until the Congress can act on recommendations that will emerge from this review, interim measures are needed to avoid the irreplaceable loss of low income housing and irrevocable displacement of current tenants.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     It is the purpose of this title—
 
@@ -735,7 +735,7 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 > “SEC. 203. __TERMINATION OF CERTAIN PROVISIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Effective on November 30, 1990, or the date of enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\], whichever is earlier—
 
@@ -743,7 +743,7 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 >         “(2) each provision of law amended by subtitle B or D is amended to read as it would without such amendment.
 
->     “(b) __Savings Provision.—__ 
+>     “(b)  __Savings Provision__  __.—__ 
 
 >     The repeal or amendment of any provision under subsection (a) shall have no effect on any action taken or authorized under the provision prior to such repeal or amendment.
 
@@ -751,11 +751,11 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 > “SEC. 221. __GENERAL PREPAYMENT LIMITATION.__ 
 
->     “(a) __Prior Approval of Plan of Action.—__ 
+>     “(a)  __Prior Approval of Plan of Action__  __.—__ 
 
 >     An owner of eligible low income housing may prepay, and a mortgagee may accept prepayment of, a mortgage on such housing only in accordance with a plan of action approved by the Secretary of Housing and Urban Development under this subtitle. An insurance contract with respect to eligible low-income housing may be terminated pursuant to section 229 of the National Housing Act \[[12 U.S.C. 1715t][/us/usc/t12/s1715t]\] only in accordance with a plan of action approved by the Secretary under this subtitle.
 
->     “(b) __Alternative Prepayment Moratorium.—__ 
+>     “(b)  __Alternative Prepayment Moratorium__  __.—__ 
 
 >     In the event any court of the United States or any State invalidates the requirements established in this subtitle (1) an owner of eligible low income housing located in the geographic area subject to the jurisdiction of such court may not prepay, and a mortgagee may not accept prepayment of, a mortgage on such housing during the 2-year period following the date of such invalidation, and (2) an insurance contract with respect to eligible low-income housing located in the geographic area subject to the jurisdiction of such court may not be terminated pursuant to section 229 of the National Housing Act \[[12 U.S.C. 1715t][/us/usc/t12/s1715t]\] during the 2-year period following the date of such invalidation.
 
@@ -765,11 +765,11 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 > “SEC. 223. __PLAN OF ACTION.__ 
 
->     “(a) __Preparation and Submission.—__ 
+>     “(a)  __Preparation and Submission__  __.—__ 
 
 >     Upon receipt of a notice of intent, the Secretary shall provide the owner with such information as the owner needs to prepare a plan of action, which information shall include a description of the Federal incentives authorized under this title, and any relevant market area and demographic information that the Secretary has custody of and that the owner may use in preparing the plan. The owner shall submit the plan of action to the Secretary in such form and manner as the Secretary shall prescribe. The owner may simultaneously submit the plan of action to any appropriate State or local government agency for the jurisdiction within which the housing is located, which agency shall, in reviewing the plan, consult with representatives of the tenants of the housing.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The plan of action shall include—
 
@@ -787,21 +787,21 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 >         “(7) any other information that the Secretary determines is necessary to achieve the purposes of this title.
 
->     “(c) __Revisions.—__ 
+>     “(c)  __Revisions__  __.—__ 
 
 >     The owner may from time to time revise and amend the plan of action as may be necessary to obtain approval of the plan under this subtitle.
 
->     “(d) __Authority To Limit Contents of Plan.—__ 
+>     “(d)  __Authority To Limit Contents of Plan__  __.—__ 
 
 >     The Secretary shall limit the amount of appraisal, market area, and demographic information required under this section in the case of a plan of action requesting incentives.
 
 > “SEC. 224. __INCENTIVES TO EXTEND LOW INCOME USE.__ 
 
->     “(a) __Agreements by Secretary.—__ 
+>     “(a)  __Agreements by Secretary__  __.—__ 
 
 >     After receiving a plan of action from an owner of eligible low income housing, the Secretary may enter into such agreements as are necessary to satisfy the criteria for approval under section 225.
 
->     “(b) __Permissible Incentives.—__ 
+>     “(b)  __Permissible Incentives__  __.—__ 
 
 >     Agreements entered into under subsection (a) that by modifications to the existing regulatory agreement or mortgage extend the low income affordability restrictions through the term of the mortgage or, in the case of the prepayment of a mortgage, by a recorded instrument impose low income affordability restrictions (including the obligations specified in the regulatory agreement) through a period equivalent to the term of the original mortgage may include one or more of the following incentives that the Secretary, after taking into account local market conditions, determines to be necessary to achieve the purposes of this title:
 
@@ -823,7 +823,7 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 > “SEC. 225. __CRITERIA FOR APPROVAL OF PLAN OF ACTION.__ 
 
->     “(a) __Plan of Action Involving Termination of Low Income Affordability Restrictions.—__ 
+>     “(a)  __Plan of Action Involving Termination of Low Income Affordability Restrictions__  __.—__ 
 
 >     The Secretary may approve a plan of action that involves termination of the low income affordability restrictions only upon a written finding that—
 
@@ -843,7 +843,7 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 >             “(B) the plan has been approved by the appropriate State agency and any appropriate local government agency for the jurisdiction within which the housing is located as being in accordance with a State strategy approved by the Secretary under section 226.
 
->     “(b) __Plan of Action Including Incentives.—__ 
+>     “(b)  __Plan of Action Including Incentives__  __.—__ 
 
 >     The Secretary may approve a plan of action that includes incentives only upon finding that—
 
@@ -881,7 +881,7 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 >                 “(ii) in approving rents under this paragraph, the Secretary shall take into account any additional incentives provided under this subtitle and shall make provision for such annual rent adjustments as may be made necessary by future reasonable increases in operating costs.
 
->     “(c) __Section 8 Rental Assistance.—__ 
+>     “(c)  __Section__  __8__  __Rental Assistance__  __.—__ 
 
 >     When providing rental assistance under section 8 \[of the United States Housing Act of 1937, [42 U.S.C. 1437f][/us/usc/t42/s1437f]\], the Secretary may enter into a contract with an owner, contingent upon the future availability of appropriations for the purpose of renewing expiring contracts for rental assistance as provided in appropriations Acts, to extend the term of such rental assistance for such additional period or periods as is necessary to carry out an approved plan of action. The contract and the approved plan of action shall provide that, if the Secretary is unable to extend the term of such rental assistance or is unable to develop a revised package of incentives providing benefits to the owner comparable to those received under the original approved plan of action, the Secretary, upon the request of the owner, shall take the following actions (subject to the limitations under the following paragraphs):—
 
@@ -893,13 +893,13 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 >         At least 30 days prior to making a request under the preceding sentence, an owner shall notify the Secretary of the owner’s intention to submit the request. The Secretary shall have a period of 90 days following receipt of such notice to take action to extend the rental assistance contract and to continue the binding commitments under subsection (b).
 
->     “(d) __Relocation of Displaced Tenants.—__ 
+>     “(d)  __Relocation of Displaced Tenants__  __.—__ 
 
 >     Any plan of action shall specify actions that the Secretary and the owner shall take to ensure that any tenants, displaced as a result of a plan of action approved under subsection (a) or as a result of modifications taken pursuant to subsection (c), are relocated to affordable housing.
 
 > “SEC. 226. __ALTERNATIVE STATE STRATEGY.__ 
 
->     “(a) __Criteria for Approval.—__ 
+>     “(a)  __Criteria for Approval__  __.—__ 
 
 >     The Secretary may approve a State strategy for purposes of section 225(a) only upon finding that it is a practicable statewide strategy that ensures at a minimum that—
 
@@ -929,19 +929,19 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 >         “(2) Each State strategy shall include any other provision that the Secretary determines to be necessary to implement an approved State strategy.
 
->     “(c) __Implementation Agreements.—__ 
+>     “(c)  __Implementation Agreements__  __.—__ 
 
 >     The Secretary may enter into such agreements as are necessary to implement an approved State strategy, which agreements may include incentives that are authorized in other provisions of this subtitle.
 
 > “SEC. 227. __TIMETABLE FOR APPROVAL OF PLAN OF ACTION.__ 
 
->     “(a) __Notification of Deficiencies.—__ 
+>     “(a)  __Notification of Deficiencies__  __.—__ 
 
 >     Not later than 60 days after receipt of a plan of action, the Secretary shall notify the owner in writing of any deficiencies that prevent the plan of action from being approved. If deficiencies are found, such notice shall describe alternative ways in which the plan could be revised to meet the criteria for approval.
 
 >     “(b) __Notification of Approval.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after receipt of a plan of action, or such longer period as the owner requests, the Secretary shall notify the owner in writing whether the plan of action, including any revisions, is approved. If approval is withheld, the notice shall describe—
 
@@ -949,13 +949,13 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 >             “(B) the actions that could be taken to meet the criteria for approval.
 
->         “(2) __Opportunity to revise.—__ 
+>         “(2)  __Opportunity to revise__  __.—__ 
 
 >         The Secretary shall subsequently give the owner a reasonable opportunity to revise the plan of action and seek approval.
 
 > “SEC. 228. __MODIFICATION OF EXISTING REGULATORY AGREEMENTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     If a plan of action cannot be approved within 300 days after a plan of action is submitted, the Secretary may, upon the request of the owner, modify existing regulatory agreements to—
 
@@ -969,7 +969,7 @@ The Emergency Low Income Housing Preservation Act of 1987, consisting of title I
 
 >         “(5) ensure that units becoming vacant during the term of the agreement are made available in accordance with section 225(b)(3)(F).
 
->     “(b) __Expiration.—__ 
+>     “(b)  __Expiration__  __.—__ 
 
 >     Agreements entered into under this section shall expire upon the expiration of the 4-year period beginning on the date of the enactment of this Act \[Feb. 5, 1988\]. Upon the expiration of the agreements, the housing covered by the agreements shall be subject to any law then affecting low income affordability restrictions.
 

@@ -55,11 +55,11 @@
 
 >     “(a) __Administrative and Procedural Changes.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Housing and Urban Development (in this section referred to as the ‘Secretary’) shall, not later than the expiration of the 6-month period beginning upon after \[sic\] the date of the enactment of this Act \[July 30, 2008\], implement administrative and procedural changes to expedite approval of multifamily housing projects under the jurisdiction of the Department of Housing and Urban Development that meet the requirements of the Secretary for such approvals.
 
->         “(2) __Projects.—__ 
+>         “(2)  __Projects__  __.—__ 
 
 >         The multifamily housing projects referred to in paragraph (1) shall include—
 
@@ -67,7 +67,7 @@
 
 >             “(B) existing public housing projects and assisted housing projects, for which approval of the Secretary is necessary for transactions, in conjunction with any such low-income housing tax credits or tax-exempt housing bonds, involving the preservation or rehabilitation of the project.
 
->         “(3) __Changes.—__ 
+>         “(3)  __Changes__  __.—__ 
 
 >         The administrative and procedural changes referred to in paragraph (1) shall include all actions necessary to carry out paragraph (1), which may include—
 
@@ -87,15 +87,15 @@
 
 >             Any such changes shall be made in a manner that provides for full compliance with any existing requirements under law or regulation that are designed to protect families receiving public and assisted housing assistance, including income targeting, rent, and fair housing provisions, and shall also comply with requirements regarding environmental review and protection and wages paid to laborers.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     The Secretary shall consult with the Commissioner of the Internal Revenue Service and take such actions as are appropriate in conjunction with such consultation to simplify the coordination of rules, regulations, forms, and approval requirements for multifamily housing projects projects \[sic\] for which assistance is provided by such Department in conjunction with any low-income housing tax credits under section 42 of the Internal Revenue Code of 1986 \[[26 U.S.C. 42][/us/usc/t26/s42]\] or tax-exempt housing bonds.
 
->     “(c) __Recommendations.—__ 
+>     “(c)  __Recommendations__  __.—__ 
 
 >     In implementing the changes required under this section, the Secretary shall solicit recommendations regarding such changes from project owners and sponsors, investors and stakeholders in housing tax credits, State and local housing finance agencies, public housing agencies, tenant advocates, and other stakeholders in such projects.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than the expiration of the 9-month period beginning on the date of the enactment of this Act \[July 30, 2008\], the Secretary shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate that—
 

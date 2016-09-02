@@ -173,7 +173,7 @@
 
     (m) __Insured deposit__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (2), the term “insured deposit” means the net amount due to any depositor for deposits in an insured depository institution as determined under sections 1817(i) and 1821(a) of this title.
 
@@ -195,11 +195,11 @@
 
             (B) meets any other criteria prescribed by the Board of Directors by regulation as necessary or appropriate in its judgment to carry out the purposes of this chapter or to facilitate the administration thereof.
 
-        (3) __Uninsured deposits.—__ 
+        (3)  __Uninsured deposits__  __.—__ 
 
         The term “uninsured deposit” means the amount of any deposit of any depositor at any insured depository institution in excess of the amount of the insured deposits of such depositor (if any) at such depository institution.
 
-        (4) __Preferred deposits.—__ 
+        (4)  __Preferred deposits__  __.—__ 
 
         The term “preferred deposits” means deposits of any public unit (as defined in paragraph (1)) at any insured depository institution which are secured or collateralized as required under State law.
 

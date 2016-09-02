@@ -163,15 +163,15 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __RTC report.—__ 
+>         “(1)  __RTC report__  __.—__ 
 
 >         The Chairperson of the Thrift Depositor Protection Oversight Board shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, a final report containing a detailed description of the purposes for which the funds made available to the Resolution Trust Corporation under this Act \[See Short Title of 1993 Amendment note set out under [section 1421 of this title][/us/usc/t12/s1421]\] were used.
 
->         “(2) __SAIF report.—__ 
+>         “(2)  __SAIF report__  __.—__ 
 
 >         The Chairperson of the Federal Deposit Insurance Corporation shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a final report containing a detailed description of the purposes for which the funds made available to the Savings Association Insurance Fund under this Act were used.
 
->     “(b) __Time for Submission.—__ 
+>     “(b)  __Time for Submission__  __.—__ 
 
 >     The reports described in subsection (a) shall be transmitted—
 

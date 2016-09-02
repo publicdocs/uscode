@@ -93,7 +93,7 @@
 
 [Pub. L. 105–219, title IV, § 401][/us/pl/105/219/s401], Aug. 7, 1998, [112 Stat. 934][/us/stat/112/934], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary \[of the Treasury\] shall conduct a study of—
 
@@ -101,7 +101,7 @@
 
 >         “(2) the potential effects of the application of Federal laws, including Federal tax laws, on credit unions in the same manner as those laws are applied to other federally insured financial institutions.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Aug. 7, 1998\], the Secretary shall submit a report to the Congress on the results of the study required by subsection (a).”
 
@@ -109,33 +109,33 @@
 
 [Pub. L. 104–208, div. A, title II, § 2606][/us/pl/104/208/s2606], Sept. 30, 1996, [110 Stat. 3009–473][/us/stat/110/3009-473], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the following definitions shall apply:
 
->         “(1) __Administration.—__ 
+>         “(1)  __Administration__  __.—__ 
 
 >         The term ‘Administration’ means the National Credit Union Administration.
 
->         “(2) __Board.—__ 
+>         “(2)  __Board__  __.—__ 
 
 >         The term ‘Board’ means the National Credit Union Administration Board.
 
->         “(3) __Corporate credit union.—__ 
+>         “(3)  __Corporate credit union__  __.—__ 
 
 >         The term ‘corporate credit union’ has the meaning given such term by rule or regulation of the Board.
 
->         “(4) __Fund.—__ 
+>         “(4)  __Fund__  __.—__ 
 
 >         The term ‘Fund’ means the National Credit Union Share Insurance Fund established under section 203 of the Federal Credit Union Act \[[12 U.S.C. 1783][/us/usc/t12/s1783]\].
 
->         “(5) __Secretary.—__ 
+>         “(5)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Treasury.
 
 >     “(b) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary, in consultation with the Board, the Corporation, the Comptroller of the Currency, and the Administration, shall conduct a study and evaluation of—
 
@@ -167,7 +167,7 @@
 
 >             “(E) the supervision of corporate credit unions by the Administration.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 12 months after the date of enactment of this Act \[Sept. 30, 1996\], the Secretary shall submit to the appropriate committees of the Congress, a report that includes the results of the study and evaluation conducted under subsection (b), together with any recommendations that the Secretary considers to be appropriate.”
 

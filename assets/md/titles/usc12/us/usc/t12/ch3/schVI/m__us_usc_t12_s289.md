@@ -73,15 +73,15 @@
 
 [Pub. L. 103–66, title III, § 3002(b)][/us/pl/103/66/s3002/b], Aug. 10, 1993, [107 Stat. 337][/us/stat/107/337], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     In addition to the amounts required to be transferred from the surplus funds of the Federal reserve banks pursuant to section 7(a)(3) of the Federal Reserve Act \[former [12 U.S.C. 289(a)(3)][/us/usc/t12/s289/a/3]\], the Federal reserve banks shall transfer from such surplus funds to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury, a total amount of $106,000,000 in fiscal year 1997 and a total amount of $107,000,000 in fiscal year 1998.
 
->     “(2) __Allocation by fed.—__ 
+>     “(2)  __Allocation by fed__  __.—__ 
 
 >     Of the total amount required to be paid by the Federal reserve banks under paragraph (1) for fiscal year 1997 or 1998, the Board of Governors of the Federal Reserve System shall determine the amount each such bank shall pay in such fiscal year.
 
->     “(3) __Replenishment of surplus fund prohibited.—__ 
+>     “(3)  __Replenishment of surplus fund prohibited__  __.—__ 
 
 >     No Federal reserve bank may replenish such bank’s surplus fund by the amount of any transfer by such bank under paragraph (1) during fiscal years 1997 and 1998.”
 

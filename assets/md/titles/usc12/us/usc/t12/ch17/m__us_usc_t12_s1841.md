@@ -67,11 +67,11 @@
 
     (b) “Company” means any corporation, partnership, business trust, association, or similar organization, or any other trust unless by its terms it must terminate within twenty-five years or not later than twenty-one years and ten months after the death of individuals living on the effective date of the trust but shall not include any corporation the majority of the shares of which are owned by the United States or by any State, and shall not include a qualified family partnership. “Company covered in 1970” means a company which becomes a bank holding company as a result of the enactment of the Bank Holding Company Act Amendments of 1970 and which would have been a bank holding company on June 30, 1968, if those amendments had been enacted on that date.
 
-    (c) __Bank Defined.—__ 
+    (c)  __Bank Defined__  __.—__ 
 
     For purposes of this chapter—
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraph (2), the term “bank” means any of the following:
 
@@ -85,7 +85,7 @@
 
                 (ii) is engaged in the business of making commercial loans.
 
-        (2) __Exceptions.—__ 
+        (2)  __Exceptions__  __.—__ 
 
         The term “bank” does not include any of the following:
 
@@ -175,7 +175,7 @@
 
         (5) No domestic banking office or bank subsidiary of a bank holding company that controls a section 2(h)(2) company may offer or market products or services of such section 2(h)(2) company, or permit its products or services to be offered or marketed by or through such section 2(h)(2) company, unless such products or services were being so offered or marketed as of March 5, 1987, and then only in the same manner in which they were being offered or marketed as of that date.
 
-    (i) __Thrift Institution.—__ 
+    (i)  __Thrift Institution__  __.—__ 
 
     For purposes of this chapter, the term “thrift institution” means—
 
@@ -187,7 +187,7 @@
 
         (4) any State-chartered savings bank the holding company of which is registered pursuant to section 1730a 1 of this title.
 
-    (j) __Definition of Savings Associations and Related Term.—__ 
+    (j)  __Definition of Savings Associations and Related Term__  __.—__ 
 
     The term “savings association” or “insured institution” means—
 
@@ -197,45 +197,45 @@
 
         (3) any savings bank or cooperative bank which is deemed by the appropriate Federal banking agency to be a savings association under section 1467a(l) of this title.
 
-    (k) __Affiliate.—__ 
+    (k)  __Affiliate__  __.—__ 
 
     For purposes of this chapter, the term “affiliate” means any company that controls, is controlled by, or is under common control with another company.
 
-    (l) __Savings Bank Holding Company.—__ 
+    (l)  __Savings Bank Holding Company__  __.—__ 
 
     For purposes of this chapter, the term “savings bank holding company” means any company which controls one or more qualified savings banks if the aggregate total assets of such savings banks constitute, upon formation of the holding company and at all times thereafter, at least 70 percent of the total assets of such company.
 
     (m) \[Repealed\]
 
-    (n) __Incorporated Definitions.—__ 
+    (n)  __Incorporated Definitions__  __.—__ 
 
     For purposes of this chapter, the terms “depository institution”, “insured depository institution”, “appropriate Federal banking agency”, “default”, “in danger of default”, and “State bank supervisor” have the same meanings as in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\].
 
-    (o) __Other Definitions.—__ 
+    (o)  __Other Definitions__  __.—__ 
 
     For purposes of this chapter, the following definitions shall apply:
 
         (1) __Capital terms.—__ 
 
-            (A) __Insured depository institutions.—__ 
+            (A)  __Insured depository institutions__  __.—__ 
 
             With respect to insured depository institutions, the terms “well capitalized”, “adequately capitalized”, and “undercapitalized” have the same meanings as in section 38 of the Federal Deposit Insurance Act \[[12 U.S.C. 1831][/us/usc/t12/s1831]o\].
 
             (B) __Bank holding company.—__ 
 
-                (i) __Adequately capitalized.—__ 
+                (i)  __Adequately capitalized__  __.—__ 
 
                 With respect to a bank holding company, the term “adequately capitalized” means a level of capitalization which meets or exceeds all applicable Federal regulatory capital standards.
 
-                (ii) __Well capitalized.—__ 
+                (ii)  __Well capitalized__  __.—__ 
 
                 A bank holding company is “well capitalized” if it meets the required capital levels for well capitalized bank holding companies established by the Board.
 
-            (C) __Other capital terms.—__ 
+            (C)  __Other capital terms__  __.—__ 
 
             The terms “Tier 1” and “risk-weighted assets” have the meanings given those terms in the capital guidelines or regulations established by the Board for bank holding companies.
 
-        (2) __Antitrust laws.—__ 
+        (2)  __Antitrust laws__  __.—__ 
 
         Except as provided in [section 1849 of this title][/us/usc/t12/s1849], the term “antitrust laws”—
 
@@ -243,11 +243,11 @@
 
             (B) includes [section 45 of title 15][/us/usc/t15/s45] to the extent that such section 45 relates to unfair methods of competition.
 
-        (3) __Branch.—__ 
+        (3)  __Branch__  __.—__ 
 
         The term “branch” means a domestic branch (as defined in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\]).
 
-        (4) __Home state.—__ 
+        (4)  __Home state__  __.—__ 
 
         The term “home State” means—
 
@@ -267,7 +267,7 @@
 
             (E) with respect to a Federal savings association, the State in which the home office (as defined by the regulations of the Director of the Office of Thrift Supervision, or, on and after the transfer date,1 the Comptroller of the Currency) of the Federal savings association is located.
 
-        (5) __Host state.—__ 
+        (5)  __Host state__  __.—__ 
 
         The term “host State” means—
 
@@ -275,25 +275,25 @@
 
             (B) with respect to a bank holding company, a State, other than the home State of the company, in which the company controls, or seeks to control, a bank subsidiary.
 
-        (6) __Out-of-state bank.—__ 
+        (6)  __Out-of-state bank__  __.—__ 
 
         The term “out-of-State bank” means, with respect to any State, a bank whose home State is another State.
 
-        (7) __Out-of-state bank holding company.—__ 
+        (7)  __Out-of-state bank holding company__  __.—__ 
 
         The term “out-of-State bank holding company” means, with respect to any State, a bank holding company whose home State is another State.
 
         (8) __Lead insured depository institutions.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “lead insured depository institution” means the largest insured depository institution controlled by the subject bank holding company at any time, based on a comparison of the average total risk-weighted assets controlled by each insured depository institution during the previous 12-month period.
 
-            (B) __Branch or agency.—__ 
+            (B)  __Branch or agency__  __.—__ 
 
             For purposes of this paragraph and [section 1843(j)(4) of this title][/us/usc/t12/s1843/j/4], the term “insured depository institution” includes any branch or agency operated in the United States by a foreign bank.
 
-        (9) __Well managed.—__ 
+        (9)  __Well managed__  __.—__ 
 
         The term “well managed” means—
 
@@ -307,7 +307,7 @@
 
             (B) in the case of a company or depository institution that has not received an examination rating, the existence and use of managerial resources which the Board determines are satisfactory.
 
-        (10) __Qualified family partnership.—__ 
+        (10)  __Qualified family partnership__  __.—__ 
 
         The term “qualified family partnership” means a general or limited partnership that the Board determines—
 
@@ -349,11 +349,11 @@
 
                     (II) to section 8 of the Federal Deposit Insurance Act \[[12 U.S.C. 1818][/us/usc/t12/s1818]\].
 
-    (p) __Financial Holding Company.—__ 
+    (p)  __Financial Holding Company__  __.—__ 
 
     For purposes of this chapter, the term “financial holding company” means a bank holding company that meets the requirements of section 1843(l)(1) of this title.
 
-    (q) __Insurance Company.—__ 
+    (q)  __Insurance Company__  __.—__ 
 
     For purposes of sections 1843 and 1844 of this title, the term “insurance company” includes any person engaged in the business of insurance to the extent of such activities.
 
@@ -533,7 +533,7 @@
 
 [Pub. L. 100–86, title I, § 101(h)][/us/pl/100/86/s101/h], Aug. 10, 1987, [101 Stat. 563][/us/stat/101/563], provided that:
 
->     “(1) __Delay in application of amendment to certain institutions.—__ 
+>     “(1)  __Delay in application of amendment to certain institutions__  __.—__ 
 
 >     If—
 
@@ -543,7 +543,7 @@
 
 >         the institution shall not become a bank (for purposes of the Bank Holding Company Act of 1956 \[[12 U.S.C. 1841][/us/usc/t12/s1841] et seq.\]) due to the amendment made to such section 2(c) by this section before the date on which such institution fails to meet any requirement of paragraph (2).
 
->     “(2) __Requirements for application of subsection.—__ 
+>     “(2)  __Requirements for application of subsection__  __.—__ 
 
 >     This subsection shall not apply with respect to any institution described in paragraph (1) unless—
 
@@ -553,7 +553,7 @@
 
 >         “(C) the operation of such institution as an institution described in such section 2(c)(2)(F) begins before the end of the 180-day period beginning on the date the transfer (or other disposition) described in subparagraph (A) is completed.
 
->     “(3) __Controlling interest.—__ 
+>     “(3)  __Controlling interest__  __.—__ 
 
 >     For purposes of this subsection, a person has a controlling interest in any institution if such person controls—
 

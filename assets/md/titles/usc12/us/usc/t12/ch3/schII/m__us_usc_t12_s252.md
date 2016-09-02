@@ -57,11 +57,11 @@
 
 [Pub. L. 106–102, title I, § 109][/us/pl/106/102/s109], Nov. 12, 1999, [113 Stat. 1362][/us/stat/113/1362], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of the Treasury, in consultation with the Federal banking agencies (as defined in section 3(z) of the Federal Deposit Insurance Act \[[12 U.S.C. 1813(z)][/us/usc/t12/s1813/z]\]), shall conduct a study of the extent to which credit is being provided to and for small businesses and farms, as a result of this Act \[see Tables for classification\] and the amendments made by this Act.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Before the end of the 5-year period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Secretary, in consultation with the Federal banking agencies, shall submit a report to the Congress on the study conducted pursuant to subsection (a) and shall include such recommendations as the Secretary determines to be appropriate for administrative and legislative action.”
 
@@ -71,31 +71,31 @@
 
 > “Except as otherwise specified in this title \[see Tables for classification\], the following definitions shall apply for purposes of this title:
 
->     “(1) __Appraisal subcommittee.—__ 
+>     “(1)  __Appraisal subcommittee__  __.—__ 
 
 >     The term ‘Appraisal Subcommittee’ means the Appraisal Subcommittee established under section 1011 of the Federal Financial Institutions Examination Council Act of 1978 \[[12 U.S.C. 3310][/us/usc/t12/s3310]\] (as in existence on the day before the date of enactment of this Act \[Sept. 30, 1996\]).
 
->     “(2) __Appropriate Federal banking agency.—__ 
+>     “(2)  __Appropriate Federal banking agency__  __.—__ 
 
 >     The term ‘appropriate Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\].
 
->     “(3) __Board.—__ 
+>     “(3)  __Board__  __.—__ 
 
 >     The term ‘Board’ means the Board of Governors of the Federal Reserve System.
 
->     “(4) __Corporation.—__ 
+>     “(4)  __Corporation__  __.—__ 
 
 >     The term ‘Corporation’ means the Federal Deposit Insurance Corporation.
 
->     “(5) __Council.—__ 
+>     “(5)  __Council__  __.—__ 
 
 >     The term ‘Council’ means the Financial Institutions Examination Council established under section 1004 of the Federal Financial Institutions Examination Council Act of 1978 \[[12 U.S.C. 3303][/us/usc/t12/s3303]\].
 
->     “(6) __Insured credit union.—__ 
+>     “(6)  __Insured credit union__  __.—__ 
 
 >     The term ‘insured credit union’ has the same meaning as in section 101 of the Federal Credit Union Act \[[12 U.S.C. 1752][/us/usc/t12/s1752]\].
 
->     “(7) __Insured depository institution.—__ 
+>     “(7)  __Insured depository institution__  __.—__ 
 
 >     The term ‘insured depository institution’ has the same meaning as in section 3 of the Federal Deposit Insurance Act.”
 

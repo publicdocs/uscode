@@ -227,11 +227,11 @@
 
             (B) The analyses submitted by the Advisory Councils to the Director under paragraph (11) shall be included as part of the report required by this paragraph.
 
-            (C) __Reports.—__ 
+            (C)  __Reports__  __.—__ 
 
             The Director shall annually report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the collateral pledged to the Banks, including an analysis of collateral by type and by Bank district.
 
-            (D) __Submission to congress.—__ 
+            (D)  __Submission to congress__  __.—__ 
 
             The Director shall submit the reports under subparagraphs (A) and (C) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, not later than 180 days after July 30, 2008.
 

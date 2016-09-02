@@ -187,17 +187,17 @@
 
 [Pub. L. 100–86, title IV, § 402(d)][/us/pl/100/86/s402/d], Aug. 10, 1987, [101 Stat. 608][/us/stat/101/608], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), any regulation required to be prescribed under the amendment made by subsections (a) and (b) \[enacting sections 1467 and 1730h of this title\] shall be implemented not later than the end of the 150-day period beginning on the date of the enactment of this Act \[Aug. 10, 1987\].
 
 >     “(2) __Uniform gaap accounting standards.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the regulations required to be prescribed pursuant to subsection (b) of the amendments made by subsections (a) and (b) of this section shall take effect on December 31, 1987.
 
->         “(B) __Compliance at a later date.—__ 
+>         “(B)  __Compliance at a later date__  __.—__ 
 
 >         If any association or insured institution demonstrates to the satisfaction of the Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation, as the case may be, that it is not feasible for such association or institution to achieve compliance with the regulations referred to in subparagraph (A) by the date contained in such subparagraph, the Board or Corporation may approve a plan submitted by an association or insured institution which allows such association or institution to comply with such regulations at a later date to the extent such later date is the earlier of—
 

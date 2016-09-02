@@ -51,15 +51,15 @@
 
         (2) __Conversion of insured credit unions to mutual savings banks.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding paragraph (1), an insured credit union may convert to a mutual savings bank or savings association (if the savings association is in mutual form), as those terms are defined in [section 1813 of this title][/us/usc/t12/s1813], without the prior approval of the Board, subject to the requirements and procedures set forth in the laws and regulations governing mutual savings banks and savings associations.
 
-            (B) __Conversion proposal.—__ 
+            (B)  __Conversion proposal__  __.—__ 
 
             A proposal for a conversion described in subparagraph (A) shall first be approved, and a date set for a vote thereon by the members (either at a meeting to be held on that date or by written ballot to be filed on or before that date), by a majority of the directors of the insured credit union. Approval of the proposal for conversion shall be by the affirmative vote of a majority of the members of the insured credit union who vote on the proposal.
 
-            (C) __Notice of proposal to members.—__ 
+            (C)  __Notice of proposal to members__  __.—__ 
 
             An insured credit union that proposes to convert to a mutual savings bank or savings association under subparagraph (A) shall submit notice to each of its members who is eligible to vote on the matter of its intent to convert—
 
@@ -69,17 +69,17 @@
 
                 (iii) 30 days before the date of the member vote on the conversion.
 
-            (D) __Notice of proposal to board.—__ 
+            (D)  __Notice of proposal to board__  __.—__ 
 
             The Board may require an insured credit union that proposes to convert to a mutual savings bank or savings association under subparagraph (A) to submit a notice to the Board of its intent to convert during the 90-day period preceding the date of the completion of the conversion.
 
-            (E) __Inapplicability of chapter upon conversion.—__ 
+            (E)  __Inapplicability of chapter upon conversion__  __.—__ 
 
             Upon completion of a conversion described in subparagraph (A), the credit union shall no longer be subject to any of the provisions of this chapter.
 
             (F) __Limit on compensation of officials.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 No director or senior management official of an insured credit union may receive any economic benefit in connection with a conversion of the credit union as described in subparagraph (A), other than—
 
@@ -87,17 +87,17 @@
 
                     (II) compensation and other benefits paid to directors or senior management officials of the converted institution in the ordinary course of business.
 
-                (ii) __Senior management official.—__ 
+                (ii)  __Senior management official__  __.—__ 
 
                 For purposes of this subparagraph, the term “senior management official” means a chief executive officer, an assistant chief executive officer, a chief financial officer, and any other senior executive officer (as defined by the appropriate Federal banking agency pursuant to [section 1831i(f) of this title][/us/usc/t12/s1831i/f]).
 
             (G) __Consistent rules.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Not later than 6 months after August 7, 1998, the Administration shall promulgate final rules applicable to charter conversions described in this paragraph that are consistent with rules promulgated by other financial regulators, including the Office of the Comptroller of the Currency. The rules required by this clause shall provide that charter conversion by an insured credit union shall be subject to regulation that is no more or less restrictive than that applicable to charter conversions by other financial institutions.
 
-                (ii) __Oversight of member vote.—__ 
+                (ii)  __Oversight of member vote__  __.—__ 
 
                 The member vote concerning charter conversion under this paragraph shall be administered by the Administration, and shall be verified by the Federal or State regulatory agency that would have jurisdiction over the institution after the conversion. If either the Administration or that regulatory agency disapproves of the methods by which the member vote was taken or procedures applicable to the member vote, the member vote shall be taken again, as directed by the Administration or the agency.
 

@@ -407,15 +407,15 @@
 
 [Pub. L. 103–233, title I, § 103(c)][/us/pl/103/233/s103/c], Apr. 11, 1994, [108 Stat. 360][/us/stat/108/360], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and provisions set out below\] shall apply with respect to amounts made available for fiscal year 1994 and fiscal years thereafter.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     Section 201(n)(1) of the Housing and Community Development Amendments of 1978 \[subsec. (n)(1) of this section\] (as added by the amendment made by subsection (b)(3) of this section) shall take effect on the date of enactment of this Act \[Apr. 11, 1994\].
 
->     “(3) __Notice.—__ 
+>     “(3)  __Notice__  __.—__ 
 
 >     The Secretary shall, by notice published in the Federal Register, establish any requirements necessary to implement the amendments made by subsections (a) and (b). The notice shall invite public comments and, not later than 12 months after the date on which the notice is published, the Secretary shall issue final regulations based on the initial notice, taking into consideration any public comments received.”
 
@@ -427,7 +427,7 @@
 
 [Pub. L. 103–233, title I, § 103(h)][/us/pl/103/233/s103/h], Apr. 11, 1994, [108 Stat. 362][/us/stat/108/362], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to notice to and comment by existing tenants, to prevent the imminent default of a multifamily housing project subject to a mortgage insured under title II of the National Housing Act \[[12 U.S.C. 1707][/us/usc/t12/s1707] et seq.\], the Secretary may authorize the mortgagor to use the project for purposes not contemplated by or permitted under the regulatory agreement, if—
 
@@ -441,7 +441,7 @@
 
 >         “(E) such other use serves a public purpose.
 
->     “(2) __Displacement protection.—__ 
+>     “(2)  __Displacement protection__  __.—__ 
 
 >     The Secretary may take actions under paragraph (1) only if—
 
@@ -449,7 +449,7 @@
 
 >         “(B) the Secretary determines that sufficient habitable, affordable (as such term is defined in section 203(b) of the Housing and Community Development Amendments of 1978 \[[12 U.S.C. 1701z–11(b)][/us/usc/t12/s1701z–11/b]\]) rental housing is available in the market area in which the project is located to ensure use of such assistance.
 
->     “(3) __Implementation.—__ 
+>     “(3)  __Implementation__  __.—__ 
 
 >     The Secretary shall, by notice published in the Federal Register, which shall take effect upon publication, establish such requirements as may be necessary to implement the amendments made by this subsection. The notice shall invite public comments and, not later than 12 months after the date on which the notice is published, the Secretary shall issue final regulations based on the initial notice, taking into account any public comments received.”
 
@@ -461,7 +461,7 @@
 
 > “For purposes of this title \[amending this section, [section 1715z–1 of this title][/us/usc/t12/s1715z–1] and [section 12710 of Title 42][/us/usc/t42/s12710], The Public Health and Welfare\]:
 
->     “(1) __Covered multifamily housing property.—__ 
+>     “(1)  __Covered multifamily housing property__  __.—__ 
 
 >     The term ‘covered multifamily housing property’ means any housing—
 
@@ -487,21 +487,21 @@
 
 >             “(iii) the HOME Investment Partnerships Act \[[42 U.S.C. 12721][/us/usc/t42/s12721] et seq.\].
 
->     “(2) __Covered multifamily housing property for the elderly.—__ 
+>     “(2)  __Covered multifamily housing property for the elderly__  __.—__ 
 
 >     The term ‘covered multifamily housing property for the elderly’ means any multifamily housing project that was designed or designated to serve, or is serving, elderly persons or families and is assisted under a program administered by the Secretary.
 
->     “(3) __Secretary.—__ 
+>     “(3)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Housing and Urban Development.
 
 > “SEC. 402. __REQUIRED SUBMISSION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The owner of each covered multifamily housing property, and the owner of each covered multifamily housing property for the elderly, shall submit to the Secretary of Housing and Urban Development a comprehensive needs assessment of the property under this title. The assessment shall be prepared by an entity that does not have an identity of interest with the owner.
 
->     “(b) __Timing.—__ 
+>     “(b)  __Timing__  __.—__ 
 
 >     To ensure that assessments for all covered multifamily housing properties will be submitted on or before the conclusion of fiscal year 1997, the Secretary shall require the owners of such properties, including covered multifamily housing properties for the elderly, to submit the assessments for the properties in accordance with the following schedule:
 
@@ -511,7 +511,7 @@
 
 > “SEC. 403. __CONTENTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Each comprehensive needs assessment submitted under this title for a covered multifamily housing property or a covered multifamily housing property for the elderly shall contain the following information with respect to the property:
 
@@ -523,7 +523,7 @@
 
 >         “(4) A description of any assistance needed for the property under programs administered by the Secretary.
 
->     “(b) __Projects for the Elderly.—__ 
+>     “(b)  __Projects for the Elderly__  __.—__ 
 
 >     Each comprehensive needs assessment for a covered multifamily housing property for the elderly shall include, in addition to the information required under subsection (a), the following information with respect to the property:
 
@@ -535,25 +535,25 @@
 
 > “SEC. 404. __SUBMISSION AND REVIEW.__ 
 
->     “(a) __Form.—__ 
+>     “(a)  __Form__  __.—__ 
 
 >     The Secretary shall establish the form and manner of submission of the comprehensive needs assessments under this title.
 
->     “(b) __Resident Review.—__ 
+>     “(b)  __Resident Review__  __.—__ 
 
 >     The Secretary shall require each owner of a covered multifamily housing property and each owner of a covered multifamily housing property for the elderly to make available to the residents of the property the comprehensive needs assessment that is to be submitted to the Secretary. The Secretary shall require each owner to provide for such residents to submit comments and opinions regarding the assessment to the owner before the submission of the assessment.
 
->     “(c) __State Housing Finance Agency Review.—__ 
+>     “(c)  __State Housing Finance Agency Review__  __.—__ 
 
 >     To the extent that a covered multifamily housing property or a covered multifamily housing property for the elderly is financed or assisted by a State housing finance agency (as such term is defined in section 802 of the Housing and Community Development Act of 1974 \[[42 U.S.C. 1440][/us/usc/t42/s1440]\]), the Secretary shall require the owner of the property to submit the comprehensive needs assessment for the property to the State housing finance agency upon submitting the assessment to the Secretary.
 
 >     “(d) __Review.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall review each comprehensive needs assessment for completeness and adequacy before the expiration of the 90-day period beginning on the receipt of the assessment and shall notify the owner of the property for which the assessment was submitted of the findings of such review.
 
->         “(2) __Incomplete or inadequate assessments.—__ 
+>         “(2)  __Incomplete or inadequate assessments__  __.—__ 
 
 >         If the Secretary determines that the assessment is substantially incomplete or inadequate, the Secretary shall—
 
@@ -561,17 +561,17 @@
 
 >             “(B) require the owner to submit an amended assessment to the Secretary not later than 30 days after such notification.
 
->     “(e) __Cost of Preparation of Strategy.—__ 
+>     “(e)  __Cost of Preparation of Strategy__  __.—__ 
 
 >     The Secretary shall consider any costs relating to preparing a comprehensive needs assessment under this title for a covered multifamily housing property that do not exceed $5,000 for the property as an eligible project expense for the property. The Secretary shall provide that an owner may not increase the rental charge for any unit in a covered multifamily housing property to provide for the cost of preparing a comprehensive needs assessment.
 
->     “(f) __Publication of Method for Receiving Capital Needs Assessment.—__ 
+>     “(f)  __Publication of Method for Receiving Capital Needs Assessment__  __.—__ 
 
 >     The Secretary shall cause to be published in the Federal Register the method by which the Secretary determines which capital needs assessments will be received each year in accordance with section 402(b) and subsection (d) of this section.
 
 >     “(g) __Annual Review and Report of Funding and Targeting for Covered Multifamily Properties for the Elderly.—__ 
 
->         “(1) __Review.—__ 
+>         “(1)  __Review__  __.—__ 
 
 >         The Secretary shall annually conduct a comprehensive review of—
 
@@ -581,7 +581,7 @@
 
 >             “(C) local housing markets throughout the United States, with respect to the need, availability, and cost of housing for elderly persons and families, which shall include review of any information and plans relating to housing for elderly persons and families included in comprehensive housing affordability strategies submitted by jurisdictions pursuant to section 105 of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12705][/us/usc/t42/s12705]\].
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         The Secretary of Housing and Urban Development shall submit a report to the Congress annually describing the results of the annual comprehensive needs assessments under section 402 for covered multifamily housing properties for the elderly and the annual review conducted under paragraph (1) of this subsection, which shall contain a description of the methods used by project owners and by the Secretary to acquire the information described in section 402(b) and any findings and recommendations of the Secretary pursuant to the review.”
 
@@ -591,7 +591,7 @@
 
 [Pub. L. 102–550, title IV, § 409][/us/pl/102/550/s409], as added by [Pub. L. 103–233, title I, § 103(a)(6)][/us/pl/103/233/s103/a/6], Apr. 11, 1994, [108 Stat. 359][/us/stat/108/359], provided that:
 
->     “(a) __Allocation of Assistance.—__ 
+>     “(a)  __Allocation of Assistance__  __.—__ 
 
 >     Based upon needs identified in comprehensive needs assessments, and subject to otherwise applicable program requirements, including selection criteria, the Secretary may allocate the following assistance to owners of covered multifamily housing projects and may provide such assistance on a noncompetitive basis:
 
@@ -599,11 +599,11 @@
 
 >         “(2) Loan management assistance available pursuant to section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\].
 
->     “(b) __Operating Assistance and Capital Improvement Assistance.—__ 
+>     “(b)  __Operating Assistance and Capital Improvement Assistance__  __.—__ 
 
 >     In providing assistance under subsection (a) the Secretary shall use the selection criteria set forth in section 201(n) of the Housing and Community Development Amendments of 1978.
 
->     “(c) __Amount of Assistance.—__ 
+>     “(c)  __Amount of Assistance__  __.—__ 
 
 >     The Secretary may fund all or only a portion of the needs identified in the capital needs assessment of an owner selected to receive assistance under this section.”
 

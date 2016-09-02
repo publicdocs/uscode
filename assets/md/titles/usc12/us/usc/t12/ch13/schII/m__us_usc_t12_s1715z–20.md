@@ -33,7 +33,7 @@
 
         (3) The term “home equity conversion mortgage” means a first mortgage which provides for future payments to the homeowner based on accumulated equity and which a housing creditor (as defined in [section 3802(2) of this title][/us/usc/t12/s3802/2]) is authorized to make (A) under any law of the United States (other than [section 3803 of this title][/us/usc/t12/s3803]) or applicable agency regulations thereunder; (B) in accordance with [section 3803 of this title][/us/usc/t12/s3803], notwithstanding any State constitution, law, or regulation; or (C) under any State constitution, law, or regulation.
 
-        (4) __Mortgage.—__ 
+        (4)  __Mortgage__  __.—__ 
 
         The term “mortgage” means a first mortgage or first lien on real estate, in fee simple, a first or subordinate mortgage or lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, or a first mortgage or first lien on a leasehold—
 
@@ -41,7 +41,7 @@
 
             (B) under a lease that has a term that ends no earlier than the minimum number of years, as specified by the Secretary, beyond the actuarial life expectancy of the mortgagor or comortgagor, whichever is the later date.
 
-        (5) __First mortgage.—__ 
+        (5)  __First mortgage__  __.—__ 
 
         The term “first mortgage” means such classes of first liens as are commonly given to secure advances on, or the unpaid purchase price of, real estate or a first or subordinate lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, under the laws of the State in which the real estate or dwelling unit is located, together with the credit instruments, if any, secured thereby.
 
@@ -419,11 +419,11 @@
 
 [Pub. L. 105–276, title V, § 593(e)(2)][/us/pl/105/276/s593/e/2], Oct. 21, 1998, [112 Stat. 2655][/us/stat/112/2655], provided that:
 
->     “(A) __Notice.—__ 
+>     “(A)  __Notice__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall, by interim notice, implement the amendments made by paragraph (1) \[amending this section\] in an expeditious manner, as determined by the Secretary. Such notice shall not be effective after the date of the effectiveness of the final regulations issued under subparagraph (B) of this paragraph.
 
->     “(B) __Regulations.—__ 
+>     “(B)  __Regulations__  __.—__ 
 
 >     The Secretary shall, not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 21, 1998\], issue final regulations to implement the amendments made by paragraph (1). Such regulations shall be issued only after notice and opportunity for public comment pursuant to the provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code (notwithstanding subsections (a)(2) and (b)(3)(B) of such section).”
 

@@ -29,7 +29,7 @@
 
         (6) __Audit requirement.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Before the end of the 120-day period beginning on August 9, 1989, and notwithstanding any other provision of Federal or State law, the Board shall prescribe, by regulation, audit standards which require an outside, independent audit of any insured credit union by a certified public accountant for any fiscal year (of such credit union)—
 
@@ -39,41 +39,41 @@
 
                 (iii) during which such credit union has experienced persistent and serious recordkeeping deficiencies, as determined by the Board.
 
-            (B) __Unsafe or unsound practice.—__ 
+            (B)  __Unsafe or unsound practice__  __.—__ 
 
             The Board may treat the failure of any insured credit union to obtain an outside, independent audit for any fiscal year for which such audit is required under subparagraph (A) or (D) as an unsafe or unsound practice within the meaning of [section 1786(b) of this title][/us/usc/t12/s1786/b].
 
             (C) __Accounting principles.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Accounting principles applicable to reports or statements required to be filed with the Board by each insured credit union shall be uniform and consistent with generally accepted accounting principles.
 
-                (ii) __Board determination.—__ 
+                (ii)  __Board determination__  __.—__ 
 
                 If the Board determines that the application of any generally accepted accounting principle to any insured credit union is not appropriate, the Board may prescribe an accounting principle for application to the credit union that is no less stringent than generally accepted accounting principles.
 
-                (iii) __De minimus__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “De minimis”.__  __ </sup></sup> __  __exception.—__ 
+                (iii)  __De minimus __  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “De minimis”.__  __ </sup></sup> __  __ exception__  __.—__ 
 
                 This subparagraph shall not apply to any insured credit union, the total assets of which are less than $10,000,000, unless prescribed by the Board or an appropriate State credit union supervisor.
 
             (D) __Large credit union audit requirement.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Each insured credit union having total assets of $500,000,000 or more shall have an annual independent audit of the financial statements of the credit union, performed in accordance with generally accepted auditing standards by an independent certified public accountant or public accountant licensed by the appropriate State or jurisdiction to perform those services.
 
-                (ii) __Voluntary audits.—__ 
+                (ii)  __Voluntary audits__  __.—__ 
 
                 If a Federal credit union that is not required to conduct an audit under clause (i), and that has total assets of more than $10,000,000 conducts such an audit for any purpose, using an independent auditor who is compensated for his or her audit services with respect to that audit, the audit shall be performed consistent with the accountancy laws of the appropriate State or jurisdiction, including licensing requirements.
 
         (7) __Report to independent auditor.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Each insured credit union which has engaged the services of an independent auditor to audit such depository institution within the past 2 years shall transmit to such auditor a copy of the most recent report of condition made by such credit union (pursuant to this chapter or any other provision of law) and a copy of the most recent report of examination received by such credit union.
 
-            (B) __Additional information.—__ 
+            (B)  __Additional information__  __.—__ 
 
             In addition to the copies of the reports required to be provided to an auditor under subparagraph (A), each insured credit union shall provide such auditor with—
 
@@ -87,7 +87,7 @@
 
                     (II) any institution-affiliated party.
 
-        (8) __Data sharing with other agencies and persons.—__ 
+        (8)  __Data sharing with other agencies and persons__  __.—__ 
 
         In addition to reports of examination, reports of condition, and other reports required to be regularly provided to the Board (with respect to all insured credit unions, including a credit union for which the Corporation has been appointed conservator or liquidating agent) or an appropriate State commission, board, or authority having supervision of a State-chartered credit union, the Board may, in the discretion of the Board, furnish any report of examination or other confidential supervisory information concerning any credit union or other entity examined by the Board under authority of any Federal law, to—
 
@@ -127,7 +127,7 @@
 
                 (ii) The Board may, in its discretion, authorize insured credit unions to initially fund such deposit over a period of time in excess of one year if necessary to avoid adverse effects on the condition of insured credit unions.
 
-                (iii) __Periodic adjustment.—__ 
+                (iii)  __Periodic adjustment__  __.—__ 
 
                 The amount of each insured credit union’s deposit shall be adjusted as follows, in accordance with procedures determined by the Board, to reflect changes in the credit union’s insured shares:
 
@@ -147,11 +147,11 @@
 
         (2) __Insurance premium charges.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Each insured credit union shall, at such times as the Board prescribes (but not more than twice in any calendar year), pay to the Fund a premium charge for insurance in an amount stated as a percentage of insured shares (which shall be the same for all insured credit unions).
 
-            (B) __Relation of premium charge to equity ratio of Fund.—__ 
+            (B)  __Relation of premium charge to equity ratio of Fund__  __.—__ 
 
             The Board may assess a premium charge only if—
 
@@ -159,13 +159,13 @@
 
                 (ii) the premium charge does not exceed the amount necessary to restore the equity ratio to 1.3 percent.
 
-            (C) __Premium charge required if equity ratio falls below 1.__ 
+            (C)  __Premium charge required if equity ratio falls below 1.2 percent__  __.—__ 
 
-            2 percent.—If the Fund’s equity ratio is less than 1.2 percent, the Board shall, subject to subparagraph (B), assess a premium charge in such an amount as the Board determines to be necessary to restore the equity ratio to, and maintain that ratio at, 1.2 percent.
+            If the Fund’s equity ratio is less than 1.2 percent, the Board shall, subject to subparagraph (B), assess a premium charge in such an amount as the Board determines to be necessary to restore the equity ratio to, and maintain that ratio at, 1.2 percent.
 
             (D) __Fund restoration plans.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Whenever—
 
@@ -175,17 +175,17 @@
 
                     the Board shall establish and implement a restoration plan within 90 days that meets the requirements of clause (ii) and such other conditions as the Board determines to be appropriate.
 
-                (ii) __Requirements of restoration plan.—__ 
+                (ii)  __Requirements of restoration plan__  __.—__ 
 
                 A restoration plan meets the requirements of this clause if the plan provides that the equity ratio of the Fund will meet or exceed the minimum amount specified in subparagraph (C) before the end of the 8-year period beginning upon the implementation of the plan (or such longer period as the Board may determine to be necessary due to extraordinary circumstances).
 
-                (iii) __Transparency.—__ 
+                (iii)  __Transparency__  __.—__ 
 
                 Not more than 30 days after the Board establishes and implements a restoration plan under clause (i), the Board shall publish in the Federal Register a detailed analysis of the factors considered and the basis for the actions taken with regard to the plan.
 
         (3) __Distributions from Fund required.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Board shall, subject to the requirements of [section 1790e(e) of this title][/us/usc/t12/s1790e/e], effect a pro rata distribution to insured credit unions after each calendar year if, as of the end of that calendar year—
 
@@ -195,7 +195,7 @@
 
                 (iii) the Fund’s available assets ratio exceeds 1.0 percent.
 
-            (B) __Amount of distribution.—__ 
+            (B)  __Amount of distribution__  __.—__ 
 
             The Board shall distribute under subparagraph (A) the maximum possible amount that—
 
@@ -203,11 +203,11 @@
 
                 (ii) does not reduce the Fund’s available assets ratio below 1.0 percent.
 
-            (C) __Calculation based on certified statements.—__ 
+            (C)  __Calculation based on certified statements__  __.—__ 
 
-            In calculating the Fund’s equity ratio and available assets ratio for purposes of this paragraph, the Board shall determine the aggregate amount of the insured shares in all insured credit unions from insured credit unions certified statements under subsection (b) of this section of this section for the final reporting period of the calendar year referred to in subparagraph (A).
+            In calculating the Fund’s equity ratio and available assets ratio for purposes of this paragraph, the Board shall determine the aggregate amount of the insured shares in all insured credit unions from insured credit unions certified statements under subsection (b) of this section for the final reporting period of the calendar year referred to in subparagraph (A).
 
-        (4) __Timeliness and accuracy of data.—__ 
+        (4)  __Timeliness and accuracy of data__  __.—__ 
 
         In calculating the available assets ratio and equity ratio of the Fund, the Board shall use the most current and accurate data reasonably available.
 
@@ -217,7 +217,7 @@
 
         (2) __Penalty for failure to make accurate certified statement or to pay deposit or premium.—__ 
 
-            (A) __First tier.—__ 
+            (A)  __First tier__  __.—__ 
 
             Any insured credit union which—
 
@@ -227,7 +227,7 @@
 
                 shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false and misleading information is not corrected. The insured credit union shall have the burden of proving that an error was inadvertent or that a statement was inadvertently submitted late.
 
-            (B) __Second tier.—__ 
+            (B)  __Second tier__  __.—__ 
 
             Any insured credit union which—
 
@@ -237,19 +237,19 @@
 
                 shall be subject to a penalty of not more than $20,000 for each day during which such failure continues, such false and misleading information is not corrected, or such deposit or premium is not paid.
 
-            (C) __Third tier.—__ 
+            (C)  __Third tier__  __.—__ 
 
             Notwithstanding subparagraphs (A) and (B), if any insured credit union knowingly or with reckless disregard for the accuracy of any certified statement under subsection (b)(1) of this section submits a false or misleading certified statement under such subsection, the Board may assess a penalty of not more than $1,000,000 or not more than 1 percent of the total assets of the credit union, whichever is less, per day for each day during which the failure continues or the false or misleading information in such statement is not corrected.
 
-            (D) __Assessment procedure.—__ 
+            (D)  __Assessment procedure__  __.—__ 
 
             Any penalty imposed under this paragraph shall be assessed and collected by the Board in the manner provided in [section 1786(k)(2) of this title][/us/usc/t12/s1786/k/2] (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section.
 
-            (E) __Hearing.—__ 
+            (E)  __Hearing__  __.—__ 
 
             Any insured credit union against which any penalty is assessed under this paragraph shall be afforded an agency hearing if the credit union submits a request for such hearing within 20 days after the issuance of the notice of the assessment. [Section 1786(j) of this title][/us/usc/t12/s1786/j] shall apply to any proceeding under this subparagraph.
 
-            (F) __Special rule for disputed payments.—__ 
+            (F)  __Special rule for disputed payments__  __.—__ 
 
             No penalty may be assessed for the failure of any insured credit union to pay any deposit or premium for insurance if—
 

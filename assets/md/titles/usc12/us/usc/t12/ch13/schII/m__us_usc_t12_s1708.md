@@ -309,7 +309,7 @@
 
             (B) With respect to any employee of an appraisal company described in subparagraph (A) who is offered an appraisal assignment in connection with a mortgage under this subchapter, the person utilizing the appraiser may contract directly with the appraisal company employing the appraiser for the furnishing of the appraisal services.
 
-        (5) __Additional appraiser standards.—__ 
+        (5)  __Additional appraiser standards__  __.—__ 
 
         Beginning on July 30, 2008, any appraiser chosen or approved to conduct appraisals for mortgages under this subchapter shall—
 

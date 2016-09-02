@@ -221,11 +221,11 @@
 
 [Pub. L. 105–65, title V, § 561(b)][/us/pl/105/65/s561/b], Oct. 27, 1997, [111 Stat. 1416][/us/stat/111/1416], provided that:
 
->     “(1) __Public comment.—__ 
+>     “(1)  __Public comment__  __.—__ 
 
 >     The Secretary shall implement the amendments made by this section \[amending this section and enacting provisions set out as a note under this section\] by regulation issued after notice and opportunity for public comment. The notice shall seek comments primarily as to the definitions of the terms ‘ownership interest in’ and ‘effective control’, as those terms are used in the definition of the terms ‘agent employed to manage the property that has an identity of interest’ and ‘identity of interest agent’.
 
->     “(2) __Timing.—__ 
+>     “(2)  __Timing__  __.—__ 
 
 >     A proposed rule implementing the amendments made by this section shall be published not later than 1 year after the date of enactment of this Act \[Oct. 27, 1997\].”
 

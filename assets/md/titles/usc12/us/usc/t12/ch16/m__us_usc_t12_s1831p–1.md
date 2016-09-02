@@ -115,7 +115,7 @@
 
             The appropriate Federal banking agency shall by regulation establish deadlines that—
 
-                (i) provide institutions and companies with reasonable time to submit plans required under subparagraph (A), and generally require the institution to submit a plan not later than 30 days after the agency determines that the institution fails to meet any standard prescribed under subsection (a), (b), or (c) of this section; and
+                (i) provide institutions with reasonable time to submit plans required under subparagraph (A), and generally require the institution to submit a plan not later than 30 days after the agency determines that the institution fails to meet any standard prescribed under subsection (a), (b), or (c) of this section; and
 
                 (ii) require the agency to act on plans expeditiously, and generally not later than 30 days after the plan is submitted.
 
@@ -201,7 +201,9 @@
 
     for “or (b) of this section the agency shall require”, struck out “or company” before “to submit an acceptable plan”, substituted “; and” for period at end of cl. (i), and added cl. (ii).
 
-    Subsec. (e)(1)(B), (C). [Pub. L. 103–325, § 318(c)(2)(A)][/us/pl/103/325/s318/c/2/A], struck out “or company” before “will take to correct” in subpar. (B) and before “to submit a plan” and “fails to meet any standard” in subpar. (C).
+    Subsec. (e)(1)(B). [Pub. L. 103–325, § 318(c)(2)(A)][/us/pl/103/325/s318/c/2/A], struck out “or company” before “will take to correct”.
+
+    Subsec. (e)(1)(C)(i). [Pub. L. 103–325, § 318(c)(2)(A)][/us/pl/103/325/s318/c/2/A], (D), struck out “and companies” after “institutions” and struck out “or company” after “institution” in two places.
 
     Subsec. (e)(2). [Pub. L. 103–325, § 318(c)(2)(B)][/us/pl/103/325/s318/c/2/B], struck out “or depository institution holding company” after “insured depository institution” in introductory provisions.
 
@@ -257,6 +259,7 @@
 [/us/pl/103/325/s318/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fa
 [/us/pl/103/325/s318/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fb%2F1
 [/us/pl/103/325/s318/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fb%2F2
+[/us/pl/103/325/s318/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fc%2F2%2FA
 [/us/pl/103/325/s318/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fc%2F2%2FA
 [/us/pl/103/325/s318/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fc%2F2%2FA
 [/us/pl/103/325/s318/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs318%2Fc%2F2%2FB

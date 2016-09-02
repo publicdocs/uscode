@@ -157,7 +157,7 @@
 
         (5) This section shall apply, in the same manner as it applies to any insured depository institution for which the appropriate Federal banking agency is the Comptroller of the Currency, to any national banking association chartered by the Comptroller of the Currency, including an uninsured association.
 
-        (6) __Affirmative action to correct conditions resulting from violations or practices.—__ 
+        (6)  __Affirmative action to correct conditions resulting from violations or practices__  __.—__ 
 
         The authority to issue an order under this subsection and subsection (c) of this section which requires an insured depository institution or any institution-affiliated party to take affirmative action to correct or remedy any conditions resulting from any violation or practice with respect to which such order is issued includes the authority to require such depository institution or such party to—
 
@@ -179,17 +179,17 @@
 
             (F) take such other action as the banking agency determines to be appropriate.
 
-        (7) __Authority to limit activities.—__ 
+        (7)  __Authority to limit activities__  __.—__ 
 
         The authority to issue an order under this subsection or subsection (c) of this section includes the authority to place limitations on the activities or functions of an insured depository institution or any institution-affiliated party.
 
-        (8) __Unsatisfactory asset quality, management, earnings, or liquidity as unsafe or unsound practice.—__ 
+        (8)  __Unsatisfactory asset quality, management, earnings, or liquidity as unsafe or unsound practice__  __.—__ 
 
         If an insured depository institution receives, in its most recent report of examination, a less-than-satisfactory rating for asset quality, management, earnings, or liquidity, the appropriate Federal banking agency may (if the deficiency is not corrected) deem the institution to be engaging in an unsafe or unsound practice for purposes of this subsection.
 
         (9) \[Repealed\]
 
-        (10) __Standard for certain orders.—__ 
+        (10)  __Standard for certain orders__  __.—__ 
 
         No authority under this subsection or subsection (c) of this section to prohibit any institution-affiliated party from withdrawing, transferring, removing, dissipating, or disposing of any funds, assets, or other property may be exercised unless the appropriate Federal banking agency meets the standards of Rule 65 of the Federal Rules of Civil Procedure, without regard to the requirement of such rule that the applicant show that the injury, loss, or damage is irreparable and immediate.
 
@@ -201,7 +201,7 @@
 
         (3) __Incomplete or inaccurate records.—__ 
 
-            (A) __Temporary order.—__ 
+            (A)  __Temporary order__  __.—__ 
 
             If a notice of charges served under subsection (b)(1) of this section specifies, on the basis of particular facts and circumstances, that an insured depository institution’s books and records are so incomplete or inaccurate that the appropriate Federal banking agency is unable, through the normal supervisory process, to determine the financial condition of that depository institution or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that depository institution, the agency may issue a temporary order requiring—
 
@@ -209,7 +209,7 @@
 
                 (ii) affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under subsection (b)(1) of this section.
 
-            (B) __Effective period.—__ 
+            (B)  __Effective period__  __.—__ 
 
             Any temporary order issued under subparagraph (A)—
 
@@ -227,7 +227,7 @@
 
             (A) __Temporary order.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 If a notice of charges served under subsection (b)(1) specifies on the basis of particular facts that any person engaged or is engaging in conduct described in [section 1828(a)(4) of this title][/us/usc/t12/s1828/a/4], the Corporation or other appropriate Federal banking agency may issue a temporary order requiring—
 
@@ -235,11 +235,11 @@
 
                     (II) affirmative action to prevent any further, or to remedy any existing, violation.
 
-                (ii) __Effect of order.—__ 
+                (ii)  __Effect of order__  __.—__ 
 
                 Any temporary order issued under this subparagraph shall take effect upon service.
 
-            (B) __Effective period of temporary order.—__ 
+            (B)  __Effective period of temporary order__  __.—__ 
 
             A temporary order issued under subparagraph (A) shall remain effective and enforceable, pending the completion of an administrative proceeding pursuant to subsection (b)(1) in connection with the notice of charges—
 
@@ -247,7 +247,7 @@
 
                 (ii) if a cease-and-desist order is issued against such person, until the effective date of such order.
 
-            (C) __Civil money penalties.—__ 
+            (C)  __Civil money penalties__  __.—__ 
 
             Any violation of [section 1828(a)(4) of this title][/us/usc/t12/s1828/a/4] shall be subject to civil money penalties, as set forth in subsection (i), except that for any person other than an insured depository institution or an institution-affiliated party that is found to have violated this paragraph, the Corporation or other appropriate Federal banking agency shall not be required to demonstrate any loss to an insured depository institution.
 
@@ -257,7 +257,7 @@
 
     (e) __Removal and prohibition authority__ 
 
-        (1) __Authority to issue order.—__ 
+        (1)  __Authority to issue order__  __.—__ 
 
         Whenever the appropriate Federal banking agency determines that—
 
@@ -303,7 +303,7 @@
 
         (2) __Specific violations.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Whenever the appropriate Federal banking agency determines that—
 
@@ -317,13 +317,13 @@
 
                 the agency may serve upon such party, officer, or director a written notice of the agency’s intention to remove such party from office.
 
-            (B) __Factors to be considered.—__ 
+            (B)  __Factors to be considered__  __.—__ 
 
             In determining whether an officer or director should be removed as a result of the application of subparagraph (A)(ii), the agency shall consider whether the officer or director took appropriate action to stop, or to prevent the recurrence of, a violation described in such subparagraph.
 
         (3) __Suspension order.—__ 
 
-            (A) __Suspension or prohibition authorized.—__ 
+            (A)  __Suspension or prohibition authorized__  __.—__ 
 
             If the appropriate Federal banking agency serves written notice under paragraph (1) or (2) to any institution-affiliated party of such agency’s intention to issue an order under such paragraph, the appropriate Federal banking agency may suspend such party from office or prohibit such party from further participation in any manner in the conduct of the affairs of the depository institution, if the agency—
 
@@ -331,7 +331,7 @@
 
                 (ii) serves such party with written notice of the suspension order.
 
-            (B) __Effective period.—__ 
+            (B)  __Effective period__  __.—__ 
 
             Any suspension order issued under subparagraph (A)—
 
@@ -345,7 +345,7 @@
 
                     (II) the effective date of an order issued by the agency to such party under paragraph (1) or (2).
 
-            (C) __Copy of order.—__ 
+            (C)  __Copy of order__  __.—__ 
 
             If an appropriate Federal banking agency issues a suspension order under subparagraph (A) to any institution-affiliated party, the agency shall serve a copy of such order on any insured depository institution with which such party is associated at the time such order is issued.
 
@@ -353,7 +353,7 @@
 
         (5) For the purpose of enforcing any law, rule, regulation, or cease-and-desist order in connection with an interlocking relationship, the term “officer” within the term “institution-affiliated party” as used in this subsection means an employee or officer with management functions, and the term “director” within the term “institution-affiliated party” as used in this subsection includes an advisory or honorary director, a trustee of a depository institution under the control of trustees, or any person who has a representative or nominee serving in any such capacity.
 
-        (6) __Prohibition of certain specific activities.—__ 
+        (6)  __Prohibition of certain specific activities__  __.—__ 
 
         Any person subject to an order issued under this subsection shall not—
 
@@ -367,7 +367,7 @@
 
         (7) __Industrywide Prohibition.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), any person who, pursuant to an order issued under this subsection or subsection (g) of this section, has been removed or suspended from office in an insured depository institution or prohibited from participating in the conduct of the affairs of an insured depository institution may not, while such order is in effect, continue or commence to hold any office in, or participate in any manner in the conduct of the affairs of—
 
@@ -383,7 +383,7 @@
 
                 (vi) the Federal Housing Finance Agency and any Federal home loan bank.
 
-            (B) __Exception if agency provides written consent.—__ 
+            (B)  __Exception if agency provides written consent__  __.—__ 
 
             If, on or after the date an order is issued under this subsection which removes or suspends from office any institution-affiliated party or prohibits such party from participating in the conduct of the affairs of an insured depository institution, such party receives the written consent of—
 
@@ -393,11 +393,11 @@
 
                 subparagraph (A) shall, to the extent of such consent, cease to apply to such party with respect to the institution described in each written consent. Any agency that grants such a written consent shall report such action to the Corporation and publicly disclose such consent.
 
-            (C) __Violation of paragraph treated as violation of order.—__ 
+            (C)  __Violation of paragraph treated as violation of order__  __.—__ 
 
             Any violation of subparagraph (A) by any person who is subject to an order described in such subparagraph shall be treated as a violation of the order.
 
-            (D) __“Appropriate federal financial institutions regulatory agency” defined.—__ 
+            (D)  __“Appropriate federal financial institutions regulatory agency” defined__  __.—__ 
 
             For purposes of this paragraph and subsection (j) of this section, the term “appropriate Federal financial institutions regulatory agency” means—
 
@@ -409,11 +409,11 @@
 
                 (iv) the Secretary of the Treasury, in the case of the Federal Housing Finance Agency and any Federal home loan bank.
 
-            (E) __Consultation between agencies.—__ 
+            (E)  __Consultation between agencies__  __.—__ 
 
             The agencies referred to in clauses (i) and (ii) of subparagraph (B) shall consult with each other before providing any written consent described in subparagraph (B).
 
-            (F) __Applicability.—__ 
+            (F)  __Applicability__  __.—__ 
 
             This paragraph shall only apply to a person who is an individual, unless the appropriate Federal banking agency specifically finds that it should apply to a corporation, firm, or other business enterprise.
 
@@ -425,7 +425,7 @@
 
         (1) __Suspension or prohibition.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Whenever any institution-affiliated party is the subject of any information, indictment, or complaint, involving the commission of or participation in—
 
@@ -437,27 +437,27 @@
 
             (B) __Provisions applicable to notice.—__ 
 
-                (i) __Copy.—__ 
+                (i)  __Copy__  __.—__ 
 
                 A copy of any notice under subparagraph (A) shall also be served upon any depository institution that the subject of the notice is affiliated with at the time the notice is issued.
 
-                (ii) __Effective period.—__ 
+                (ii)  __Effective period__  __.—__ 
 
                 A suspension or prohibition under subparagraph (A) shall remain in effect until the information, indictment, or complaint referred to in such subparagraph is finally disposed of or until terminated by the agency.
 
             (C) __Removal or prohibition.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 If a judgment of conviction or an agreement to enter a pretrial diversion or other similar program is entered against an institution-affiliated party in connection with a crime described in subparagraph (A)(i), at such time as such judgment is not subject to further appellate review, the appropriate Federal banking agency may, if continued service or participation by such party posed, poses, or may pose a threat to the interests of the depositors of, or threatened, threatens, or may threaten to impair public confidence in, any relevant depository institution (as defined in subparagraph (E)), issue and serve upon such party an order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of any depository institution without the prior written consent of the appropriate agency.
 
-                (ii) __Required for certain offenses.—__ 
+                (ii)  __Required for certain offenses__  __.—__ 
 
                 In the case of a judgment of conviction or agreement against an institution-affiliated party in connection with a violation described in subparagraph (A)(ii), the appropriate Federal banking agency shall issue and serve upon such party an order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of any depository institution without the prior written consent of the appropriate agency.
 
             (D) __Provisions applicable to order.—__ 
 
-                (i) __Copy.—__ 
+                (i)  __Copy__  __.—__ 
 
                 A copy of any order under subparagraph (C) shall also be served upon any depository institution that the subject of the order is affiliated with at the time the order is issued, whereupon the institution-affiliated party who is subject to the order (if a director or an officer) shall cease to be a director or officer of such depository institution.
 
@@ -469,7 +469,7 @@
 
                 Any notice of suspension or order of removal issued under this paragraph shall remain effective and outstanding until the completion of any hearing or appeal authorized under paragraph (3) unless terminated by the agency.
 
-            (E) __Relevant depository institution.—__ 
+            (E)  __Relevant depository institution__  __.—__ 
 
             For purposes of this subsection, the term “relevant depository institution” means any depository institution of which the party is or was an institution-affiliated party at the time at which—
 
@@ -495,7 +495,7 @@
 
         (2) __Civil money penalty.—__ 
 
-            (A) __First tier.—__ 
+            (A)  __First tier__  __.—__ 
 
             Any insured depository institution which, and any institution-affiliated party who—
 
@@ -509,7 +509,7 @@
 
                 shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
 
-            (B) __Second tier.—__ 
+            (B)  __Second tier__  __.—__ 
 
             Notwithstanding subparagraph (A), any insured depository institution which, and any institution-affiliated party who—
 
@@ -533,7 +533,7 @@
 
                 shall forfeit and pay a civil penalty of not more than $25,000 for each day during which such violation, practice, or breach continues.
 
-            (C) __Third tier.—__ 
+            (C)  __Third tier__  __.—__ 
 
             Notwithstanding subparagraphs (A) and (B), any insured depository institution which, and any institution-affiliated party who—
 
@@ -551,7 +551,7 @@
 
                 shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subparagraph (D) for each day during which such violation, practice, or breach continues.
 
-            (D) __Maximum amounts of penalties for any violation described in subparagraph (c).—__ 
+            (D)  __Maximum amounts of penalties for any violation described in subparagraph (c)__  __.—__ 
 
             The maximum daily amount of any civil penalty which may be assessed pursuant to subparagraph (C) for any violation, practice, or breach described in such subparagraph is—
 
@@ -567,19 +567,19 @@
 
             (E) __Assessment.—__ 
 
-                (i) __Written notice.—__ 
+                (i)  __Written notice__  __.—__ 
 
                 Any penalty imposed under subparagraph (A), (B), or (C) may be assessed and collected by the appropriate Federal banking agency by written notice.
 
-                (ii) __Finality of assessment.—__ 
+                (ii)  __Finality of assessment__  __.—__ 
 
                 If, with respect to any assessment under clause (i), a hearing is not requested pursuant to subparagraph (H) within the period of time allowed under such subparagraph, the assessment shall constitute a final and unappealable order.
 
-            (F) __Authority to modify or remit penalty.—__ 
+            (F)  __Authority to modify or remit penalty__  __.—__ 
 
             Any appropriate Federal banking agency may compromise, modify, or remit any penalty which such agency may assess or had already assessed under subparagraph (A), (B), or (C).
 
-            (G) __Mitigating factors.—__ 
+            (G)  __Mitigating factors__  __.—__ 
 
             In determining the amount of any penalty imposed under subparagraph (A), (B), or (C), the appropriate agency shall take into account the appropriateness of the penalty with respect to—
 
@@ -591,35 +591,35 @@
 
                 (iv) such other matters as justice may require.
 
-            (H) __Hearing.—__ 
+            (H)  __Hearing__  __.—__ 
 
             The insured depository institution or other person against whom any penalty is assessed under this paragraph shall be afforded an agency hearing if such institution or person submits a request for such hearing within 20 days after the issuance of the notice of assessment.
 
             (I) __Collection.—__ 
 
-                (i) __Referral.—__ 
+                (i)  __Referral__  __.—__ 
 
                 If any insured depository institution or other person fails to pay an assessment after any penalty assessed under this paragraph has become final, the agency that imposed the penalty shall recover the amount assessed by action in the appropriate United States district court.
 
-                (ii) __Appropriateness of penalty not reviewable.—__ 
+                (ii)  __Appropriateness of penalty not reviewable__  __.—__ 
 
                 In any civil action under clause (i), the validity and appropriateness of the penalty shall not be subject to review.
 
-            (J) __Disbursement.—__ 
+            (J)  __Disbursement__  __.—__ 
 
             All penalties collected under authority of this paragraph shall be deposited into the Treasury.
 
-            (K) __Regulations.—__ 
+            (K)  __Regulations__  __.—__ 
 
             Each appropriate Federal banking agency shall prescribe regulations establishing such procedures as may be necessary to carry out this paragraph.
 
-        (3) __Notice under this section after separation from service.—__ 
+        (3)  __Notice under this section after separation from service__  __.—__ 
 
         The resignation, termination of employment or participation, or separation of a institution-affiliated party (including a separation caused by the closing of an insured depository institution) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice or order and proceed under this section against any such party, if such notice or order is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such depository institution (whether such date occurs before, on, or after August 9, 1989).
 
         (4) __Prejudgment attachment.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In any action brought by an appropriate Federal banking agency (excluding the Corporation when acting in a manner described in [section 1821(d)(18) of this title][/us/usc/t12/s1821/d/18]) pursuant to this section, or in actions brought in aid of, or to enforce an order in, any administrative or other civil action for money damages, restitution, or civil money penalties brought by such agency, the court may, upon application of the agency, issue a restraining order that—
 
@@ -629,11 +629,11 @@
 
             (B) __Standard.—__ 
 
-                (i) __Showing.—__ 
+                (i)  __Showing__  __.—__ 
 
                 Rule 65 of the Federal Rules of Civil Procedure shall apply with respect to any proceeding under subparagraph (A) without regard to the requirement of such rule that the applicant show that the injury, loss, or damage is irreparable and immediate.
 
-                (ii) __State proceeding.—__ 
+                (ii)  __State proceeding__  __.—__ 
 
                 If, in the case of any proceeding in a State court, the court determines that rules of civil procedure available under the laws of such State provide substantially similar protections to a party’s right to due process as Rule 65 (as modified with respect to such proceeding by clause (i)), the relief sought under subparagraph (A) may be requested under the laws of such State.
 
@@ -1361,13 +1361,13 @@
 
 [Pub. L. 101–73, title XII, § 1205][/us/pl/101/73/s1205], Aug. 9, 1989, [103 Stat. 521][/us/stat/103/521], as amended by [Pub. L. 102–242, title IV, § 422][/us/pl/102/242/s422], Dec. 19, 1991, [105 Stat. 2377][/us/stat/105/2377]; [Pub. L. 111–203, title III, § 367(7)][/us/pl/111/203/s367/7], July 21, 2010, [124 Stat. 1557][/us/stat/124/1557], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is hereby established the Credit Standards Advisory Committee (in this section referred to as the ‘Committee’).
 
 >     “(b) __Membership.—__ 
 
->         “(1) __Appointment.—__ 
+>         “(1)  __Appointment__  __.—__ 
 
 >         The Committee shall consist of 11 members, as follows:
 
@@ -1381,57 +1381,57 @@
 
 >             “(E) 6 members of the public appointed by the President who are knowledgeable with the credit standards and lending practices of insured depository institutions, no more than 3 of whom shall be from the same political party.
 
->         “(2) __Terms.—__ 
+>         “(2)  __Terms__  __.—__ 
 
 >         Each member appointed under paragraph (1)(E) shall serve for the life of the Committee.
 
->         “(3) __Chairperson.—__ 
+>         “(3)  __Chairperson__  __.—__ 
 
 >         The Chairperson of the Committee shall be designated by the President from among the members appointed under paragraph (1)(F) \[now (1)(E)\].
 
->         “(4) __Vacancies.—__ 
+>         “(4)  __Vacancies__  __.—__ 
 
 >         Any vacancy on the Committee shall be filled in the manner in which the original appointment was made.
 
->         “(5) __Pay and expenses.—__ 
+>         “(5)  __Pay and expenses__  __.—__ 
 
 >         Members of the Committee shall serve without pay but each member of the Committee shall be reimbursed for expenses incurred in connection with attendance of such members at meetings of the Committee. All expenses of the Committee shall be shared on a pro rata basis, based upon each agency’s total budget for the preceding year by the Federal financial regulators specified in subparagraphs (A) through (E) of paragraph (1).
 
->         “(6) __Meetings.—__ 
+>         “(6)  __Meetings__  __.—__ 
 
 >         The Committee shall meet, not less frequently than quarterly, at the call of the chairperson or a majority of the members.
 
->     “(c) __Duties of the Committee.—__ 
+>     “(c)  __Duties of the Committee__  __.—__ 
 
 >     The Committee shall do the following:
 
->         “(1) __Review credit standards, lending practices, and supervision by federal regulators.—__ 
+>         “(1)  __Review credit standards, lending practices, and supervision by federal regulators__  __.—__ 
 
 >         Review the credit standards and lending practices of insured depository institutions and the supervision of such standards and practices by the Federal financial regulators.
 
->         “(2) __Prepare recommendations.—__ 
+>         “(2)  __Prepare recommendations__  __.—__ 
 
 >         Prepare written comments and recommendations for the Federal financial regulators to ensure that insured depository institutions adhere to prudential credit standards and lending practices that are consistent for all insured depository institutions, to the maximum extent possible.
 
->         “(3) __Monitor credit standards, lending practices, and supervision by federal regulators.—__ 
+>         “(3)  __Monitor credit standards, lending practices, and supervision by federal regulators__  __.—__ 
 
 >         Monitor the credit standards and lending practices of insured depository institutions, and the supervision of such standards and practices by the Federal financial regulators, to ensure that insured depository institutions can meet the demands of a modern and globally competitive financial world.
 
 >     “(d) __Annual Report.—__ 
 
->         “(1) __Required.—__ 
+>         “(1)  __Required__  __.—__ 
 
 >         Not later than January 30 of each year, the Committee shall submit a report to the Committee on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The report required by paragraph (1) shall describe the activities of the Committee during the preceding year and the reports and recommendations made by the Committee to the Federal financial regulators.
 
->     “(e) __Conflict of Interest Guidelines.—__ 
+>     “(e)  __Conflict of Interest Guidelines__  __.—__ 
 
 >     The Committee shall prescribe such guidelines as the Committee determines to be appropriate to avoid conflicts of interest with respect to the disclosure to and use by members of the Committee of information relating to insured depository institutions and the Federal financial regulators.
 
->     “(f) __Federal Advisory Committee Act Does not Apply.—__ 
+>     “(f)  __Federal Advisory Committee Act Does not Apply__  __.—__ 
 
 >     The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply with respect to the Committee.”
 

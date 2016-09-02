@@ -155,11 +155,11 @@
 
         (12) __Earnings on balances.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Balances maintained at a Federal Reserve bank by or on behalf of a depository institution may receive earnings to be paid by the Federal Reserve bank at least once each calendar quarter, at a rate or rates not to exceed the general level of short-term interest rates.
 
-            (B) __Regulations relating to payments and distributions.—__ 
+            (B)  __Regulations relating to payments and distributions__  __.—__ 
 
             The Board may prescribe regulations concerning—
 
@@ -169,7 +169,7 @@
 
                 (iii) the responsibilities of depository institutions, Federal Home Loan Banks, and the National Credit Union Administration Central Liquidity Facility with respect to the crediting and distribution of earnings attributable to balances maintained, in accordance with subsection (c)(1)(A), in a Federal Reserve bank by any such entity on behalf of depository institutions.
 
-            (C) __Depository institutions defined.—__ 
+            (C)  __Depository institutions defined__  __.—__ 
 
             For purposes of this paragraph, the term “depository institution”, in addition to the institutions described in paragraph (1)(A), includes any trust company, corporation organized under section 25A \[[12 U.S.C. 611][/us/usc/t12/s611] et seq.\] or having an agreement with the Board under section 25 \[[12 U.S.C. 601][/us/usc/t12/s601] et seq.\], or any branch or agency of a foreign bank (as defined in [section 3101 of this title][/us/usc/t12/s3101]).
 

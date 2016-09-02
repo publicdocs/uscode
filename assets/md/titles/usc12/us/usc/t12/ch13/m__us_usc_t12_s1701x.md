@@ -35,21 +35,21 @@
 
         (4) __Homeownership and Rental Counseling Assistance.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary shall make financial assistance available under this paragraph to HUD-approved housing counseling agencies and State housing finance agencies.
 
-            (B) __Qualified entities.—__ 
+            (B)  __Qualified entities__  __.—__ 
 
             The Secretary shall establish standards and guidelines for eligibility of organizations (including governmental and nonprofit organizations) to receive assistance under this paragraph, in accordance with subparagraph (D).
 
-            (C) __Distribution.—__ 
+            (C)  __Distribution__  __.—__ 
 
             Assistance made available under this paragraph shall be distributed in a manner that encourages efficient and successful counseling programs and that ensures adequate distribution of amounts for rural areas having traditionally low levels of access to such counseling services, including areas with insufficient access to the Internet. In distributing such assistance, the Secretary may give priority consideration to entities serving areas with the highest home foreclosure rates.
 
             (D) __Limitation on distribution of assistance.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 None of the amounts made available under this paragraph shall be distributed to—
 
@@ -57,7 +57,7 @@
 
                     (II) any organization which employs applicable individuals.
 
-                (ii) __Definition of applicable individuals.—__ 
+                (ii)  __Definition of applicable individuals__  __.—__ 
 
                 In this subparagraph, the term “applicable individual” means an individual who—
 
@@ -73,11 +73,11 @@
 
                     (II) has been convicted for a violation under Federal law relating to an election for Federal office.
 
-            (E) __Grantmaking process.—__ 
+            (E)  __Grantmaking process__  __.—__ 
 
             In making assistance available under this paragraph, the Secretary shall consider appropriate ways of streamlining and improving the processes for grant application, review, approval, and award.
 
-            (F) __Authorization of appropriations.—__ 
+            (F)  __Authorization of appropriations__  __.—__ 
 
             There are authorized to be appropriated $45,000,000 for each of fiscal years 2009 through 2012 for—
 
@@ -739,7 +739,7 @@
 
             For purposes of this subsection, the term “covered assistance” means any grant or other financial assistance provided under this section.
 
-([Pub. L. 90–448, title I, § 106][/us/pl/90/448/s106], Aug. 1, 1968, [82 Stat. 490][/us/stat/82/490]; [Pub. L. 91–609, title IX, § 903(a)][/us/pl/91/609/s903/a], (b), Dec. 31, 1970, [84 Stat. 1808][/us/stat/84/1808]; [Pub. L. 93–383, title VIII, § 811][/us/pl/93/383/s811], Aug. 22, 1974, [88 Stat. 735][/us/stat/88/735]; [Pub. L. 95–128, title IX, § 903][/us/pl/95/128/s903], Oct. 12, 1977, [91 Stat. 1149][/us/stat/91/1149]; [Pub. L. 97–35, title III, § 339A][/us/pl/97/35/s339A], Aug. 13, 1982, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 465\], Nov. 30, 1983, [97 Stat. 1236][/us/stat/97/1236]; [Pub. L. 98–479, title II, § 204(f)][/us/pl/98/479/s204/f], Oct. 17, 1984, [98 Stat. 2233][/us/stat/98/2233]; [Pub. L. 100–242, title I, § 169][/us/pl/100/242/s169], Feb. 5, 1988, [101 Stat. 1865][/us/stat/101/1865]; [Pub. L. 100–628, title X, § 1009][/us/pl/100/628/s1009], Nov. 7, 1988, [102 Stat. 3266][/us/stat/102/3266]; [Pub. L. 101–137, § 8][/us/pl/101/137/s8], Nov. 3, 1989, [103 Stat. 826][/us/stat/103/826]; [Pub. L. 101–625, title V, § 577][/us/pl/101/625/s577], title VII, § 706(c), Nov. 28, 1990, [104 Stat. 4238][/us/stat/104/4238], 4286; [Pub. L. 102–550, title I, § 162(a)][/us/pl/102/550/s162/a]–(d), Oct. 28, 1992, [106 Stat. 3719–3721][/us/stat/106/3719-3721]; [Pub. L. 104–316, title I, § 106(a)][/us/pl/104/316/s106/a], Oct. 19, 1996, [110 Stat. 3830][/us/stat/110/3830]; [Pub. L. 105–276, title V, § 594(a)][/us/pl/105/276/s594/a], (b), Oct. 21, 1998, [112 Stat. 2655][/us/stat/112/2655]; [Pub. L. 107–73, title II, § 205][/us/pl/107/73/s205], Nov. 26, 2001, [115 Stat. 674][/us/stat/115/674]; [Pub. L. 109–163, div. A, title VI, § 688(a)][/us/pl/109/163/s688/a], Jan. 6, 2006, [119 Stat. 3336][/us/stat/119/3336]; [Pub. L. 110–289, div. B, title I, § 2127][/us/pl/110/289/s2127], July 30, 2008, [122 Stat. 2841][/us/stat/122/2841]; [Pub. L. 111–203, title XIV][/us/pl/111/203], §§ 1443–1445, 1448, 1449, July 21, 2010, [124 Stat. 2165–2171][/us/stat/124/2165-2171], 2173, 2174.)
+([Pub. L. 90–448, title I, § 106][/us/pl/90/448/s106], Aug. 1, 1968, [82 Stat. 490][/us/stat/82/490]; [Pub. L. 91–609, title IX, § 903(a)][/us/pl/91/609/s903/a], (b), Dec. 31, 1970, [84 Stat. 1808][/us/stat/84/1808]; [Pub. L. 93–383, title VIII, § 811][/us/pl/93/383/s811], Aug. 22, 1974, [88 Stat. 735][/us/stat/88/735]; [Pub. L. 95–128, title IX, § 903][/us/pl/95/128/s903], Oct. 12, 1977, [91 Stat. 1149][/us/stat/91/1149]; [Pub. L. 97–35, title III, § 339A][/us/pl/97/35/s339A], Aug. 13, 1981, [95 Stat. 417][/us/stat/95/417]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 465\], Nov. 30, 1983, [97 Stat. 1236][/us/stat/97/1236]; [Pub. L. 98–479, title II, § 204(f)][/us/pl/98/479/s204/f], Oct. 17, 1984, [98 Stat. 2233][/us/stat/98/2233]; [Pub. L. 100–242, title I, § 169][/us/pl/100/242/s169], Feb. 5, 1988, [101 Stat. 1865][/us/stat/101/1865]; [Pub. L. 100–628, title X, § 1009][/us/pl/100/628/s1009], Nov. 7, 1988, [102 Stat. 3266][/us/stat/102/3266]; [Pub. L. 101–137, § 8][/us/pl/101/137/s8], Nov. 3, 1989, [103 Stat. 826][/us/stat/103/826]; [Pub. L. 101–625, title V, § 577][/us/pl/101/625/s577], title VII, § 706(c), Nov. 28, 1990, [104 Stat. 4238][/us/stat/104/4238], 4286; [Pub. L. 102–550, title I, § 162(a)][/us/pl/102/550/s162/a]–(d), Oct. 28, 1992, [106 Stat. 3719–3721][/us/stat/106/3719-3721]; [Pub. L. 104–316, title I, § 106(a)][/us/pl/104/316/s106/a], Oct. 19, 1996, [110 Stat. 3830][/us/stat/110/3830]; [Pub. L. 105–276, title V, § 594(a)][/us/pl/105/276/s594/a], (b), Oct. 21, 1998, [112 Stat. 2655][/us/stat/112/2655]; [Pub. L. 107–73, title II, § 205][/us/pl/107/73/s205], Nov. 26, 2001, [115 Stat. 674][/us/stat/115/674]; [Pub. L. 109–163, div. A, title VI, § 688(a)][/us/pl/109/163/s688/a], Jan. 6, 2006, [119 Stat. 3336][/us/stat/119/3336]; [Pub. L. 110–289, div. B, title I, § 2127][/us/pl/110/289/s2127], July 30, 2008, [122 Stat. 2841][/us/stat/122/2841]; [Pub. L. 111–203, title XIV][/us/pl/111/203], §§ 1443–1445, 1448, 1449, July 21, 2010, [124 Stat. 2165–2171][/us/stat/124/2165-2171], 2173, 2174.)
 
  __References in Text__ 
 
@@ -917,7 +917,7 @@
 
 [Pub. L. 110–289, div. A, title I, § 1132][/us/pl/110/289/s1132], July 30, 2008, [122 Stat. 2727][/us/stat/122/2727], as amended by [Pub. L. 111–203, title X, § 1072(a)][/us/pl/111/203/s1072/a], July 21, 2010, [124 Stat. 2059][/us/stat/124/2059], provided that:
 
->     “(a) __Goals.—__ 
+>     “(a)  __Goals__  __.—__ 
 
 >     Financial education and counseling under this section shall have the goal of—
 
@@ -931,17 +931,17 @@
 
 >     “(b) __Grants.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Treasury (in this section referred to as the ‘Secretary’) shall make grants to eligible organizations to enable such organizations to provide a range of financial education and counseling services to prospective homebuyers or economically vulnerable individuals and families.
 
->         “(2) __Selection.—__ 
+>         “(2)  __Selection__  __.—__ 
 
 >         The Secretary shall select eligible organizations to receive assistance under this section based on their experience and ability to provide financial education and counseling services that result in documented positive behavioral changes.
 
 >     “(c) __Eligible Organizations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For purposes of this section, the term ‘eligible organization’ means an organization that is—
 
@@ -957,7 +957,7 @@
 
 >                 “(ii) specializes or has expertise in working with economically vulnerable individuals and families, but whose primary purpose is not provision of credit counseling services.
 
->         “(2) __OFE certification.—__ 
+>         “(2) __OFE__  __certification__  __.—__ 
 
 >         To be certified by the Office of Financial Education for purposes of this section, an eligible organization shall be—
 
@@ -971,7 +971,7 @@
 
 >     “(d) __Authority for Pilot Projects.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Treasury shall authorize pilot project grants to eligible organizations under subsection (c) in order to—
 
@@ -979,7 +979,7 @@
 
 >             “(B) provide such other services that will improve the financial stability and economic condition of low- and moderate-income and low-wealth individuals.
 
->         “(2) __Goal.—__ 
+>         “(2)  __Goal__  __.—__ 
 
 >         The goal of the pilot project grants under this subsection is to—
 
@@ -987,17 +987,17 @@
 
 >             “(B) establish program models for organizations to carry out effective counseling services.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Secretary such sums as are necessary to carry out this section and for the provision of additional financial educational services.
 
 >     “(f) __Study and Report on Effectiveness and Impact.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Comptroller General of the United States shall conduct a study on the effectiveness and impact of the grant program established under this section. Not later than 3 years after the date of enactment of this Act \[July 30, 2008\], the Comptroller General shall submit a report on the results of such study to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
->         “(2) __Content of study.—__ 
+>         “(2)  __Content of study__  __.—__ 
 
 >         The study required under paragraph (1) shall include an evaluation of the following:
 
@@ -1007,7 +1007,7 @@
 
 >             “(C) The effectiveness and quality of the eligible organizations providing financial education and counseling services under the grant program.
 
->     “(g) __Regulations.—__ 
+>     “(g)  __Regulations__  __.—__ 
 
 >     The Secretary is authorized to promulgate such regulations as may be necessary to implement and administer the grant program authorized by this section.”
 
@@ -1021,11 +1021,11 @@
 
 [Pub. L. 110–289, div. B, title I, § 2128][/us/pl/110/289/s2128], July 30, 2008, [122 Stat. 2841][/us/stat/122/2841], provided that:
 
->     “(a) __Establishment of Program.—__ 
+>     “(a)  __Establishment of Program__  __.—__ 
 
 >     For the period beginning on the date of enactment of this title \[July 30, 2008\] and ending on the date that is 3 years after such date of enactment, the Secretary of Housing and Urban Development shall establish and conduct a demonstration program to test the effectiveness of alternative forms of pre-purchase homeownership counseling for eligible homebuyers.
 
->     “(b) __Forms of Counseling.—__ 
+>     “(b)  __Forms of Counseling__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall provide to eligible homebuyers pre-purchase homeownership counseling under this section in the form of—
 
@@ -1039,19 +1039,19 @@
 
 >         “(5) any other form or type of counseling that the Secretary may, in his discretion, determine appropriate.
 
->     “(c) __Size of Program.—__ 
+>     “(c)  __Size of Program__  __.—__ 
 
 >     The Secretary shall make available the pre-purchase homeownership counseling described in subsection (b) to not more than 3,000 eligible homebuyers in any given year.
 
->     “(d) __Incentive To Participate.—__ 
+>     “(d)  __Incentive To Participate__  __.—__ 
 
 >     The Secretary of Housing and Urban Development may provide incentives to eligible homebuyers to participate in the demonstration program established under subsection (a). Such incentives may include the reduction of any insurance premium charges owed by the eligible homebuyer to the Secretary.
 
->     “(e) __Eligible Homebuyer Defined.—__ 
+>     “(e)  __Eligible Homebuyer Defined__  __.—__ 
 
 >     For purposes of this section an ‘eligible homebuyer’ means a first-time homebuyer who has been approved for a home loan with a loan-to-value ratio between 97 percent and 98.5 percent.
 
->     “(f) __Report to Congress.—__ 
+>     “(f)  __Report to Congress__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representative—\[sic\]
 

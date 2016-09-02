@@ -23,11 +23,11 @@
 
             (A) The Corporation and, with respect to any State depository institution, any appropriate State bank supervisor for such institution, shall have access to reports of examination made by, and reports of condition made to, the Comptroller of the Currency, the Federal Housing Finance Agency, any Federal home loan bank, or any Federal Reserve bank and to all revisions of reports of condition made to any of them, and they shall promptly advise the Corporation of any revisions or changes in respect to deposit liabilities made or required to be made in any report of condition. The Corporation may accept any report made by or to any commission, board, or authority having supervision of a depository institution, and may furnish to the Comptroller of the Currency, to the Federal Housing Finance Agency, to any Federal home loan bank, to any Federal Reserve bank, and to any such commission, board, or authority, reports of examinations made on behalf of, and reports of condition made to, the Corporation.
 
-            (B) __Additional reports.—__ 
+            (B)  __Additional reports__  __.—__ 
 
             The Board of Directors may from time to time require any insured depository institution to file such additional reports as the Corporation, after consultation with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, as appropriate, may deem advisable for insurance purposes.
 
-            (C) __Data sharing with other agencies and persons.—__ 
+            (C)  __Data sharing with other agencies and persons__  __.—__ 
 
             In addition to reports of examination, reports of condition, and other reports required to be regularly provided to the Corporation (with respect to all insured depository institutions, including a depository institution for which the Corporation has been appointed conservator or receiver) or an appropriate State bank supervisor (with respect to a State depository institution) under subparagraph (A) or (B), a Federal banking agency may, in the discretion of the agency, furnish any report of examination or other confidential supervisory information concerning any depository institution or other entity examined by such agency under authority of any Federal law, to—
 
@@ -43,7 +43,7 @@
 
         (5) The deposits to be reported on such reports of condition shall be segregated between (i) time and savings deposits and (ii) demand deposits. For this purpose, the time and savings deposits shall consist of time certificates of deposit, time deposits-open account, and savings deposits; and demand deposits shall consist of all deposits other than time and savings deposits.
 
-        (6) __Lifeline account deposits.—__ 
+        (6)  __Lifeline account deposits__  __.—__ 
 
         In the reports of condition required to be reported under this subsection, the deposits in lifeline accounts (as defined in [section 1834(a)(3)(D) of this title][/us/usc/t12/s1834/a/3/D]) shall be reported separately.
 
@@ -51,7 +51,7 @@
 
         (8) In respect of any report required or authorized to be supplied or published pursuant to this subsection or any other provision of law, the Board of Directors or the Comptroller of the Currency, as the case may be, may differentiate between domestic banks and foreign banks to such extent as, in their judgment, may be reasonably required to avoid hardship and can be done without substantial compromise of insurance risk or supervisory and regulatory effectiveness.
 
-        (9) __Data collections.—__ 
+        (9)  __Data collections__  __.—__ 
 
         In addition to or in connection with any other report required under this subsection, the Corporation shall take such action as may be necessary to ensure that—
 
@@ -65,11 +65,11 @@
 
         (11) __Streamlining reports of condition.—__ 
 
-            (A) __Review of information and schedules.—__ 
+            (A)  __Review of information and schedules__  __.—__ 
 
             Before the end of the 1-year period beginning on October 13, 2006, and before the end of each 5-year period thereafter, each Federal banking agency shall, in conjunction with the other relevant Federal banking agencies, review the information and schedules that are required to be filed by an insured depository institution in a report of condition required under paragraph (3).
 
-            (B) __Reduction or elimination of information found to be unnecessary.—__ 
+            (B)  __Reduction or elimination of information found to be unnecessary__  __.—__ 
 
             After completing the review required by subparagraph (A), a Federal banking agency, in conjunction with the other relevant Federal banking agencies, shall reduce or eliminate any requirement to file information or schedules under paragraph (3) (other than information or schedules that are otherwise required by law) if the agency determines that the continued collection of such information or schedules is no longer necessary or appropriate.
 
@@ -455,11 +455,11 @@
 
         (2)
 
-            (A) __Notice to State Agency.—__ 
+            (A)  __Notice to State Agency__  __.—__ 
 
             Upon receiving any notice under this subsection, the appropriate Federal banking agency shall forward a copy thereof to the appropriate State depository institution supervisory agency if the depository institution the voting shares of which are sought to be acquired is a State depository institution, and shall allow thirty days within which the views and recommendations of such State depository institution supervisory agency may be submitted. The appropriate Federal banking agency shall give due consideration to the views and recommendations of such State agency in determining whether to disapprove any proposed acquisition. Notwithstanding the provisions of this paragraph, if the appropriate Federal banking agency determines that it must act immediately upon any notice of a proposed acquisition in order to prevent the probable default of the depository institution involved in the proposed acquisition, such Federal banking agency may dispense with the requirements of this paragraph or, if a copy of the notice is forwarded to the State depository institution supervisory agency, such Federal banking agency may request that the views and recommendations of such State depository institution supervisory agency be submitted immediately in any form or by any means acceptable to such Federal banking agency.
 
-            (B) __Investigation of Principals Required.—__ 
+            (B)  __Investigation of Principals Required__  __.—__ 
 
             Upon receiving any notice under this subsection, the appropriate Federal banking agency shall—
 
@@ -467,11 +467,11 @@
 
                 (ii) make an independent determination of the accuracy and completeness of any information described in paragraph (6) with respect to such person.
 
-            (C) __Report.—__ 
+            (C)  __Report__  __.—__ 
 
             The appropriate Federal banking agency shall prepare a written report of any investigation under subparagraph (B) which shall contain, at a minimum, a summary of the results of such investigation. The agency shall retain such written report as a record of the agency.
 
-            (D) __Public Comment.—__ 
+            (D)  __Public Comment__  __.—__ 
 
             Upon receiving notice of a proposed acquisition, the appropriate Federal banking agency shall, unless such agency determines that an emergency exists, within a reasonable period of time—
 
@@ -533,19 +533,19 @@
 
         (9) __Reporting of stock loans.—__ 
 
-            (A) __Report required.—__ 
+            (A)  __Report required__  __.—__ 
 
             Any foreign bank, or any affiliate thereof, that has credit outstanding to any person or group of persons which is secured, directly or indirectly, by shares of an insured depository institution shall file a consolidated report with the appropriate Federal banking agency for such insured depository institution if the extensions of credit by the foreign bank or any affiliate thereof, in the aggregate, are secured, directly or indirectly, by 25 percent or more of any class of shares of the same insured depository institution.
 
-            (B) __Definitions.—__ 
+            (B)  __Definitions__  __.—__ 
 
             For purposes of this paragraph, the following definitions shall apply:
 
-                (i) __Foreign bank.—__ 
+                (i)  __Foreign bank__  __.—__ 
 
                 The terms “foreign bank” and “affiliate” have the same meanings as in [section 3101 of this title][/us/usc/t12/s3101].
 
-                (ii) __Credit outstanding.—__ 
+                (ii)  __Credit outstanding__  __.—__ 
 
                 The term “credit outstanding” includes—
 
@@ -555,7 +555,7 @@
 
                     (III) any other type of transaction that extends credit or financing to the person or group of persons.
 
-                (iii) __Group of persons.—__ 
+                (iii)  __Group of persons__  __.—__ 
 
                 The term “group of persons” includes any number of persons that the foreign bank or any affiliate thereof reasonably believes—
 
@@ -563,35 +563,35 @@
 
                     (II) have made, or propose to make, a joint filing under [section 78m of title 15][/us/usc/t15/s78m] regarding ownership of the shares of the same insured depository institution.
 
-            (C) __Inclusion of shares held by the financial institution.—__ 
+            (C)  __Inclusion of shares held by the financial institution__  __.—__ 
 
             Any shares of the insured depository institution held by the foreign bank or any affiliate thereof as principal shall be included in the calculation of the number of shares in which the foreign bank or any affiliate thereof has a security interest for purposes of subparagraph (A).
 
             (D) __Report requirements.—__ 
 
-                (i) __Timing of report.—__ 
+                (i)  __Timing of report__  __.—__ 
 
                 The report required under this paragraph shall be a consolidated report on behalf of the foreign bank and all affiliates thereof, and shall be filed in writing within 30 days of the date on which the foreign bank or affiliate thereof first believes that the security for any outstanding credit consists of 25 percent or more of any class of shares of an insured depository institution.
 
-                (ii) __Content of report.—__ 
+                (ii)  __Content of report__  __.—__ 
 
                 The report under this paragraph shall indicate the number and percentage of shares securing each applicable extension of credit, the identity of the borrower, and the number of shares held as principal by the foreign bank and any affiliate thereof.
 
-                (iii) __Copy to other agencies.—__ 
+                (iii)  __Copy to other agencies__  __.—__ 
 
                 A copy of any report under this paragraph shall be filed with the appropriate Federal banking agency for the foreign bank or any affiliate thereof (if other than the agency receiving the report under this paragraph).
 
-                (iv) __Other information.—__ 
+                (iv)  __Other information__  __.—__ 
 
                 Each appropriate Federal banking agency may require any additional information necessary to carry out the agency’s supervisory responsibilities.
 
             (E) __Exceptions.—__ 
 
-                (i) __Exception where information provided by borrower.—__ 
+                (i)  __Exception where information provided by borrower__  __.—__ 
 
                 Notwithstanding subparagraph (A), a foreign bank or any affiliate thereof shall not be required to report a transaction under this paragraph if the person or group of persons referred to in such subparagraph has disclosed the amount borrowed from such foreign bank or any affiliate thereof and the security interest of the foreign bank or any affiliate thereof to the appropriate Federal banking agency for the insured depository institution in connection with a notice filed under this subsection, an application filed under the Bank Holding Company Act of 1956 \[[12 U.S.C. 1841][/us/usc/t12/s1841] et seq.\], [section 1467a of this title][/us/usc/t12/s1467a], or any other application filed with the appropriate Federal banking agency for the insured depository institution as a substitute for a notice under this subsection, such as an application for deposit insurance, membership in the Federal Reserve System, or a national bank charter.
 
-                (ii) __Exception for shares owned for more than 1 year.—__ 
+                (ii)  __Exception for shares owned for more than 1 year__  __.—__ 
 
                 Notwithstanding subparagraph (A), a foreign bank and any affiliate thereof shall not be required to report a transaction involving—
 
@@ -611,11 +611,11 @@
 
         (15) __Investigative and Enforcement Authority.—__ 
 
-            (A) __Investigations.—__ 
+            (A)  __Investigations__  __.—__ 
 
             The appropriate Federal banking agency may exercise any authority vested in such agency under [section 1818(n) of this title][/us/usc/t12/s1818/n] in the course of conducting any investigation under paragraph (2)(B) or any other investigation which the agency, in its discretion, determines is necessary to determine whether any person has filed inaccurate, incomplete, or misleading information under this subsection or otherwise is violating, has violated, or is about to violate any provision of this subsection or any regulation prescribed under this subsection.
 
-            (B) __Enforcement.—__ 
+            (B)  __Enforcement__  __.—__ 
 
             Whenever it appears to the appropriate Federal banking agency that any person is violating, has violated, or is about to violate any provision of this subsection or any regulation prescribed under this subsection, the agency may, in its discretion, apply to the appropriate district court of the United States or the United States court of any territory for—
 
@@ -633,11 +633,11 @@
 
         (16) __Civil money penalty.—__ 
 
-            (A) __First tier.—__ 
+            (A)  __First tier__  __.—__ 
 
             Any person who violates any provision of this subsection, or any regulation or order issued by the appropriate Federal banking agency under this subsection, shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
 
-            (B) __Second tier.—__ 
+            (B)  __Second tier__  __.—__ 
 
             Notwithstanding subparagraph (A), any person who—
 
@@ -661,7 +661,7 @@
 
                 shall forfeit and pay a civil penalty of not more than $25,000 for each day during which such violation, practice, or breach continues.
 
-            (C) __Third tier.—__ 
+            (C)  __Third tier__  __.—__ 
 
             Notwithstanding subparagraphs (A) and (B), any person who—
 
@@ -679,7 +679,7 @@
 
                 shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subparagraph (D) for each day during which such violation, practice, or breach continues.
 
-            (D) __Maximum amounts of penalties for any violation described in subparagraph (c).—__ 
+            (D)  __Maximum amounts of penalties for any violation described in subparagraph (c)__  __.—__ 
 
             The maximum daily amount of any civil penalty which may be assessed pursuant to subparagraph (C) for any violation, practice, or breach described in such subparagraph is—
 
@@ -693,19 +693,19 @@
 
                     (II) 1 percent of the total assets of such institution.
 
-            (E) __Assessment; etc.—__ 
+            (E)  __Assessment; etc__  __.—__ 
 
             Any penalty imposed under subparagraph (A), (B), or (C) shall be assessed and collected by the appropriate Federal banking agency in the manner provided in subparagraphs (E), (F), (G), and (I) of [section 1818(i)(2) of this title][/us/usc/t12/s1818/i/2] for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
 
-            (F) __Hearing.—__ 
+            (F)  __Hearing__  __.—__ 
 
             The depository institution or other person against whom any penalty is assessed under this paragraph shall be afforded an agency hearing if such institution or other person submits a request for such hearing within 20 days after the issuance of the notice of assessment. [Section 1818(h) of this title][/us/usc/t12/s1818/h] shall apply to any proceeding under this paragraph.
 
-            (G) __Disbursement.—__ 
+            (G)  __Disbursement__  __.—__ 
 
             All penalties collected under authority of this paragraph shall be deposited into the Treasury.
 
-        (17) __Exceptions.—__ 
+        (17)  __Exceptions__  __.—__ 
 
         This subsection shall not apply with respect to a transaction which is subject to—
 
@@ -715,7 +715,7 @@
 
             (C) [section 1467a of this title][/us/usc/t12/s1467a].
 
-        (18) __Applicability of change in control provisions to other institutions.—__ 
+        (18)  __Applicability of change in control provisions to other institutions__  __.—__ 
 
         For purposes of this subsection, the term “insured depository institution” includes—
 
@@ -1521,7 +1521,7 @@
 
 [Pub. L. 109–171, title II, § 2109][/us/pl/109/171/s2109], Feb. 8, 2006, [120 Stat. 20][/us/stat/120/20], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 270 days after the date of the enactment of this Act \[Feb. 8, 2006\], the Board of Directors of the Federal Deposit Insurance Corporation shall prescribe final regulations, after notice and opportunity for comment—
 
@@ -1537,11 +1537,11 @@
 
 >     “(b) __Transition Provisions.—__ 
 
->         “(1) __Continuation of existing assessment regulations.—__ 
+>         “(1)  __Continuation of existing assessment regulations__  __.—__ 
 
 >         No provision of this subtitle \[subtitle B (§§ 2101–2109) of title II of [Pub. L. 109–171][/us/pl/109/171], see Short Title of 2006 Amendment note set out under [section 1811 of this title][/us/usc/t12/s1811]\] or any amendment made by this subtitle shall be construed as affecting the authority of the Corporation to set or collect deposit insurance assessments pursuant to any regulations in effect before the effective date of the final regulations prescribed under subsection (a).
 
->         “(2) __Treatment of dif members under existing regulations.—__ 
+>         “(2)  __Treatment of dif members under existing regulations__  __.—__ 
 
 >         As of the date of the merger of the Bank Insurance Fund and the Savings Association Insurance Fund pursuant to section 2102 \[[section 2102 of Pub. L. 109–171][/us/pl/109/171/s2102], set out as a Merger of BIF and SAIF note under [section 1821 of this title][/us/usc/t12/s1821]\], the assessment regulations in effect immediately before the date of the enactment of this Act \[Feb. 8, 2006\] shall continue to apply to all members of the Deposit Insurance Fund, until such regulations are modified by the Corporation, notwithstanding that such regulations may refer to ‘Bank Insurance Fund members’ or ‘Savings Association Insurance Fund members’.”
 
@@ -1563,11 +1563,11 @@
 
 >     “(c) For a period of not less than 5 years after the date of the enactment of this title \[July 21, 2010\], the Federal Deposit Insurance Corporation shall make available to the public the reserve ratio and the designated reserve ratio using both estimated insured deposits and the assessment base under \[former\] section 7(b)(2)(C) of the Federal Deposit Insurance Act \[[12 U.S.C. 1817(b)(2)][/us/usc/t12/s1817/b/2] does not contain a subpar. (C)\].
 
->     “(d) __Reserve Ratio.—__ 
+>     “(d)  __Reserve Ratio__  __.—__ 
 
 >     Notwithstanding the timing requirements of section 7(b)(3)(E)(ii) of the Federal Deposit Insurance Act \[[12 U.S.C. 1817(b)(3)(E)(ii)][/us/usc/t12/s1817/b/3/E/ii]\], the Corporation shall take such steps as may be necessary for the reserve ratio of the Deposit Insurance Fund to reach 1.35 percent of estimated insured deposits by September 30, 2020.
 
->     “(e) __Offset.—__ 
+>     “(e)  __Offset__  __.—__ 
 
 >     In setting the assessments necessary to meet the requirements of subsection (d), the Corporation shall offset the effect of subsection (d) on insured depository institutions with total consolidated assets of less than $10,000,000,000.”
 
@@ -1589,15 +1589,15 @@
 
 [Pub. L. 102–242, title I, § 122][/us/pl/102/242/s122], Dec. 19, 1991, [105 Stat. 2251][/us/stat/105/2251], as amended by [Pub. L. 102–550, title XVI, § 1603(c)][/us/pl/102/550/s1603/c], Oct. 28, 1992, [106 Stat. 4079][/us/stat/106/4079], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Before the end of the 180-day period beginning on the date of the enactment of this Act \[Dec. 19, 1991\], the appropriate Federal banking agency shall prescribe regulations requiring insured depository institutions to annually submit information on small businesses and small farm lending in their reports of condition.
 
->     “(b) __Credit Availability.—__ 
+>     “(b)  __Credit Availability__  __.—__ 
 
 >     The regulations prescribed under subsection (a) shall require insured depository institutions to submit such information as the agency may need to assess the availability of credit to small businesses and small farms.
 
->     “(c) __Contents.—__ 
+>     “(c)  __Contents__  __.—__ 
 
 >     The information required under subsection (a) may include information regarding the following:
 

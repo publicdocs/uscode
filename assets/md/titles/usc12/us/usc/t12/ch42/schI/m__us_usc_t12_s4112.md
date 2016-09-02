@@ -177,11 +177,11 @@
 
 Section 601(f) of title VI of S. 2281, One-Hundred Third Congress, as reported July 13, 1994, which was enacted into law by [Pub. L. 103–327, title II][/us/pl/103/327] \[title VI, § 601(f)\], Sept. 28, 1994, [108 Stat. 2316][/us/stat/108/2316], provided in part, that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), this section \[amending this section and [section 4119 of this title][/us/usc/t12/s4119]\] shall take effect on the date of enactment of this Act \[Sept. 28, 1994\].
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     If an owner of eligible low-income housing has a plan of action that has been approved by the Secretary and that is being implemented as of the date of enactment of this Act \[Sept. 28, 1994\], subsections (a), (b), (c), and (d) \[amending this section\] shall not apply to current tenants of such housing until the first date on which the next annual rent adjustments are made following the date of enactment of this Act.”
 

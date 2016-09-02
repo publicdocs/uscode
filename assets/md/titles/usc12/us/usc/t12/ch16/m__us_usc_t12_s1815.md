@@ -395,7 +395,7 @@
 
 [Pub. L. 111–203, title VI, § 603(a)][/us/pl/111/203/s603/a], July 21, 2010, [124 Stat. 1597][/us/stat/124/1597], provided that:
 
->     “(1) __Definitions.—__ 
+>     “(1)  __Definitions__  __.—__ 
 
 >     In this subsection—
 
@@ -405,17 +405,17 @@
 
 >         “(C) the term ‘trust bank’ means an institution described in section 2(c)(2)(D) of the Bank Holding Company Act of 1956 ([12 U.S.C. 1841(c)(2)(D)][/us/usc/t12/s1841/c/2/D]).
 
->     “(2) __Moratorium on provision of deposit insurance.—__ 
+>     “(2)  __Moratorium on provision of deposit insurance__  __.—__ 
 
 >     The Corporation may not approve an application for deposit insurance under section 5 of the Federal Deposit Insurance Act ([12 U.S.C. 1815][/us/usc/t12/s1815]) that is received after November 23, 2009, for an industrial bank, a credit card bank, or a trust bank that is directly or indirectly owned or controlled by a commercial firm.
 
 >     “(3) __Change in control.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         Except as provided in subparagraph (B), the appropriate Federal banking agency shall disapprove a change in control, as provided in section 7(j) of the Federal Deposit Insurance Act ([12 U.S.C. 1817(j)][/us/usc/t12/s1817/j]), of an industrial bank, a credit card bank, or a trust bank if the change in control would result in direct or indirect control of the industrial bank, credit card bank, or trust bank by a commercial firm.
 
->         “(B) __Exceptions.—__ 
+>         “(B)  __Exceptions__  __.—__ 
 
 >         Subparagraph (A) shall not apply to a change in control of an industrial bank, credit card bank, or trust bank—
 
@@ -431,7 +431,7 @@
 
 >             “(ii) that has obtained all regulatory approvals otherwise required for such change of control under any applicable Federal or State law, including section 7(j) of the Federal Deposit Insurance Act ([12 U.S.C. 1817(j)][/us/usc/t12/s1817/j]).
 
->     “(4) __Sunset.—__ 
+>     “(4)  __Sunset__  __.—__ 
 
 >     This subsection shall cease to have effect 3 years after the date of enactment of this Act \[July 21, 2010\].”
 

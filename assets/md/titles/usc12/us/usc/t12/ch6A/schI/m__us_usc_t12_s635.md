@@ -33,7 +33,7 @@
 
             (B) enables the Bank to cooperate fully with the Secretary of Commerce and the Administrator of the Small Business Administration to develop a program for purposes of disseminating information (using existing private institutions) to small business concerns regarding the medium-term financing provided under this paragraph.
 
-        (3) __Enhancement of Medium-Term Program.—__ 
+        (3)  __Enhancement of Medium-Term Program__  __.—__ 
 
         To enhance the medium-term financing program established pursuant to paragraph (2), the Bank shall establish measures to—
 
@@ -127,7 +127,7 @@
 
         (2) __Prohibition on Aid to Marxist-Leninist Countries.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Bank in the exercise of its functions shall not guarantee, insure, extend credit, or participate in the extension of credit—
 
@@ -137,11 +137,11 @@
 
             (B) __Marxist-Leninist country defined.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 For purposes of this paragraph, the term “Marxist-Leninist country” means any country that maintains a centrally planned economy based on the principles of Marxism-Leninism, or is economically and militarily dependent on any other such country.
 
-                (ii) __Specific countries deemed to be marxist-leninist.—__ 
+                (ii)  __Specific countries deemed to be marxist-leninist__  __.—__ 
 
                 Unless otherwise determined by the President in accordance with subparagraph (C), the following countries are deemed to be Marxist-Leninist countries for purposes of this paragraph:
 
@@ -157,21 +157,21 @@
 
                     (VI) Tibet.
 
-            (C) __Presidential determination that a country has ceased to be marxist-leninist.—__ 
+            (C)  __Presidential determination that a country has ceased to be marxist-leninist__  __.—__ 
 
             If the President determines that any country on the list contained in subparagraph (B)(ii) has ceased to be a Marxist-Leninist country (within the definition of such term in subparagraph (B)(i)), such country shall not be treated as a Marxist-Leninist country for purposes of this paragraph after the date of such determination, unless the President subsequently determines that such country has again become a Marxist-Leninist country.
 
             (D) __Presidential determination relating to financing in the national interest.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Subparagraph (A) shall not apply to guarantees, insurance, or extensions of credit by the Bank to a country, agency, or national described in clause (i) or (ii) of subparagraph (A) (in connection with transactions described in such clauses) if the President determines that such guarantees, insurance, or extensions of credit are in the national interest.
 
-                (ii) __Separate determination for certain transactions.—__ 
+                (ii)  __Separate determination for certain transactions__  __.—__ 
 
                 The President shall make a separate determination under clause (i) for each transaction described in clause (i) or (ii) of subparagraph (A) for which the Bank would extend a loan in an amount equal to or greater than $50,000,000.
 
-                (iii) __Report of clause (i) determinations to congress.—__ 
+                (iii)  __Report of clause__  __(i)__  __determinations to congress__  __.—__ 
 
                 Any determination by the President under clause (i) shall be reported to the Congress not later than the earlier of—
 
@@ -179,7 +179,7 @@
 
                     (II) the date the Bank takes final action with respect to the first transaction involving the country, agency, or national for which such determination is made after January 4, 1975, unless a report of a determination with respect to such country, agency, or national was made and reported before January 4, 1975.
 
-                (iv) __Report of clause (ii) determinations to congress.—__ 
+                (iv)  __Report of clause__  __(ii)__  __determinations to congress__  __.—__ 
 
                 Any determination by the President under clause (ii) shall be reported to the Congress not later than the earlier of—
 
@@ -393,7 +393,7 @@
 
             (B) Nothing contained in subparagraph (A) shall preclude guarantees, insurance, or credit the primary purpose of which is to support United States exports.
 
-        (11) __Prohibition Relating to Angola.—__ 
+        (11)  __Prohibition Relating to Angola__  __.—__ 
 
         The Bank may not guarantee, insure, or extend (or participate in the extension of) credit in connection with any export of any good (other than food or an agricultural commodity) or service to the People’s Republic of Angola until the President certifies to the Congress that free and fair elections have been held in Angola in which all participants were afforded free and fair access, and that the government of Angola—
 
@@ -427,11 +427,11 @@
 
             The President shall include in each report made pursuant to this paragraph a detailed statement with respect to each of the conditions set forth in this paragraph. This paragraph shall not be construed to impose any requirement with respect to Angola that is more restrictive than any requirement imposed by this section generally on all other countries.
 
-        (12) __Prohibition relating to russian transfers of certain missile systems.—__ 
+        (12)  __Prohibition relating to russian transfers of certain missile systems__  __.—__ 
 
         If the President of the United States determines that the military or Government of the Russian Federation has transferred or delivered to the People’s Republic of China an SS–N–22 missile system and that the transfer or delivery represents a significant and imminent threat to the security of the United States, the President of the United States shall notify the Bank of the transfer or delivery as soon as practicable. Upon receipt of the notice and if so directed by the President of the United States, the Board of Directors of the Bank shall not give approval to guarantee, insure, extend credit, or participate in the extension of credit in connection with the purchase of any good or service by the military or Government of the Russian Federation.
 
-        (13) __Prohibition on assistance to develop or promote certain railway connections and railway-related connections.—__ 
+        (13)  __Prohibition on assistance to develop or promote certain railway connections and railway-related connections__  __.—__ 
 
         The Bank shall not guarantee, insure, or extend (or participate in the extension of) credit in connection with the export of any good or service relating to the development or promotion of any railway connection or railway-related connection that does not traverse or connect with Armenia and does traverse or connect Baku, Azerbaijan, Tbilisi, Georgia, and Kars, Turkey.
 
@@ -443,11 +443,11 @@
 
         (3) __Transferability of Guarantees.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             With respect to medium-term and long-term obligations insured or guaranteed by the Bank after October 15, 1986, the Bank shall authorize the unrestricted transfer of such obligations by the originating lenders or their transferees to other lenders without affecting, limiting, or terminating the guarantee or insurance provided by the Bank.
 
-            (B) __Guarantee coverage.—__ 
+            (B)  __Guarantee coverage__  __.—__ 
 
             For the guarantee program provided for in this subsection, the Bank may provide up to 100 percent coverage of the interest and principal if the Board of Directors determines such coverage to be necessary to ensure acceptance of Bank guarantees by financial institutions for any transaction in any export market in which the Bank is open for business.
 
@@ -455,11 +455,11 @@
 
         (1) In carrying out its responsibilities under this subchapter, the Bank shall work to ensure that United States companies are afforded an equal and nondiscriminatory opportunity to bid for insurance in connection with transactions assisted by the Bank.
 
-        (2) __Competitive opportunity for insurance companies.—__ 
+        (2)  __Competitive opportunity for insurance companies__  __.—__ 
 
         In the case of any long-term loan or guarantee of not less than $10,000,000, the Bank shall seek to ensure that United States insurance companies are accorded a fair and open competitive opportunity to provide insurance against risk of loss in connection with any transaction with respect to which such loan or guarantee is provided.
 
-        (3) __Responsive actions.—__ 
+        (3)  __Responsive actions__  __.—__ 
 
         If the Bank becomes aware that a fair and open competitive opportunity is not accorded to any United States insurance company in a foreign country with respect to which the Bank is considering a loan or guarantee, the Bank—
 
@@ -467,11 +467,11 @@
 
             (B) shall forward information regarding any foreign country that denies United States insurance companies a fair and open competitive opportunity to the Secretary of Commerce and to the United States Trade Representative for consideration of a recommendation to the President that access by such country to export credit of the United States should be restricted.
 
-        (4) __Notice of approval.—__ 
+        (4)  __Notice of approval__  __.—__ 
 
         If the Bank approves a loan or guarantee with respect to a foreign country notwithstanding information regarding denial by that foreign country of competitive opportunities for United States insurance companies, the Bank shall include notice of such approval and the reason for such approval in the report on competition in officially supported export credit required under subsection (b)(1)(A) of this section.
 
-        (5) __Definitions.—__ 
+        (5)  __Definitions__  __.—__ 
 
         For purposes of this section—
 
@@ -1239,11 +1239,11 @@
 
 >     “(a) __Prohibition on Financing for Persons That Engage in Certain Sanctionable Activities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Beginning on the date that is 180 days after the date of the enactment of this Act \[May 30, 2012\], the Board of Directors of the Export-Import Bank of the United States may not approve any transaction that is subject to approval by the Board with respect to the provision by the Bank of any guarantee, insurance, or extension of credit, or the participation by the Bank in any extension of credit, to a person in connection with the exportation of any good or service unless the person makes the certification described in paragraph (2).
 
->         “(2) __Certification described.—__ 
+>         “(2)  __Certification described__  __.—__ 
 
 >         The certification described in this paragraph is a certification by a person—
 
@@ -1281,29 +1281,29 @@
 
 >                 “(ii) in the case of an activity described in subparagraph (A)(ii), the President has waived, pursuant to section 401(b)(1) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 ([22 U.S.C. 8551(b)(1)][/us/usc/t22/s8551/b/1]), the application of the prohibition under section 106(a) of that Act ([22 U.S.C. 8515(a)][/us/usc/t22/s8515/a]) with respect to that person.
 
->     “(b) __Prohibition on Financing.—__ 
+>     “(b)  __Prohibition on Financing__  __.—__ 
 
 >     Beginning on the date that is 180 days after the date of the enactment of this Act, the Board of Directors of the Export-Import Bank of the United States may not approve any transaction that is subject to approval by the Board with respect to the provision by the Bank of any guarantee, insurance, or extension of credit, or the participation by the Bank in any extension of credit, in connection with a financing in which a person that is a borrower or controlling sponsor, or a person that is owned or controlled by such borrower or controlling sponsor, is subject to sanctions under section 5(a) of the Iran Sanctions Act of 1996 ([Public Law 104–172][/us/pl/104/172]; [50 U.S.C. 1701][/us/usc/t50/s1701] note).
 
 >     “(c) __Advisory Opinions.—__ 
 
->         “(1) __Authority.—__ 
+>         “(1)  __Authority__  __.—__ 
 
 >         The Secretary of State is authorized to issue advisory opinions described in subsection (a)(2)(B)(i)(II).
 
->         “(2) __Notice to congress.—__ 
+>         “(2)  __Notice to congress__  __.—__ 
 
 >         If the Secretary issues an advisory opinion pursuant to paragraph (1), the Secretary shall notify the appropriate congressional committees of the opinion not later than 30 days after issuing the opinion.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Appropriate congressional committees; person.—__ 
+>         “(1)  __Appropriate congressional committees; person__  __.—__ 
 
 >         The terms ‘appropriate congressional committees’ and ‘person’ have the meanings given those terms in section 14 of the Iran Sanctions Act of 1996 ([Public Law 104–172][/us/pl/104/172]; [50 U.S.C. 1701][/us/usc/t50/s1701] note).
 
->         “(2) __Controlling sponsor.—__ 
+>         “(2)  __Controlling sponsor__  __.—__ 
 
 >         The term ‘controlling sponsor’ means a person providing controlling direct private equity investment (excluding investments made through publicly held investment funds, publicly held securities, public offerings, or similar public market vehicles) in connection with a financing.”
 
@@ -1329,11 +1329,11 @@
 
 [Pub. L. 109–438, § 19][/us/pl/109/438/s19], Dec. 20, 2006, [120 Stat. 3282][/us/stat/120/3282], provided that:
 
->     “(a) __Performance Standards.—__ 
+>     “(a)  __Performance Standards__  __.—__ 
 
 >     The Bank shall develop a set of performance standards for determining the extent to which the Bank has carried out successfully subparagraphs (E) and (I) of section 2(b)(1) of the Export-Import Bank Act of 1945 \[[12 U.S.C. 635(b)(1)(E)][/us/usc/t12/s635/b/1/E], (I)\], and the functions described in subsections (f)(1), (g)(1), (h)(1), and (i)(1) of section 3 of such Act \[[12 U.S.C. 635a(f)(1)][/us/usc/t12/s635a/f/1], (g)(1), (h)(1), (i)(1)\].
 
->     “(b) __Assessment of Standards.—__ 
+>     “(b)  __Assessment of Standards__  __.—__ 
 
 >     Within 18 months after the date of the enactment of this Act \[Dec. 20, 2006\], the Comptroller General of the United States shall transmit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate—
 
@@ -1417,11 +1417,11 @@
 
 [Pub. L. 101–179, title III, § 303][/us/pl/101/179/s303], Nov. 28, 1989, [103 Stat. 1312][/us/stat/103/1312], provided that:
 
->     “(a) __Authority to Extend Credit to Poland and Hungary.—__ 
+>     “(a)  __Authority to Extend Credit to Poland and Hungary__  __.—__ 
 
 >     Notwithstanding section 2(b)(2) of the Export-Import Bank Act of 1945 ([12 U.S.C. 635(b)(2)][/us/usc/t12/s635/b/2]), the Export-Import Bank of the United States may guarantee, insure, finance, extend credit, and participate in the extension of credit in connection with the purchase or lease of any product by the Republic of Hungary or any agency or national thereof or by the Polish People’s Republic or any agency or national thereof.
 
->     “(b) __Private Financial Intermediaries to Facilitate Exports to Poland.—__ 
+>     “(b)  __Private Financial Intermediaries to Facilitate Exports to Poland__  __.—__ 
 
 >     Consistent with the provisions of the Export-Import Bank Act of 1945 ([12 U.S.C. 635][/us/usc/t12/s635] and following), the Export-Import Bank of the United States shall work with private financial intermediaries in Poland to facilitate the export of goods and services to Poland.”
 

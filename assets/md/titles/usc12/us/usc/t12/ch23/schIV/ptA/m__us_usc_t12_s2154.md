@@ -61,31 +61,31 @@
 
 >     “(1) __In general.—__ 
 
->         “(A) __Establishment.—__ 
+>         “(A)  __Establishment__  __.—__ 
 
 >         Within 120 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall issue regulations under section 4.3(a) of the Farm Credit Act of 1971 ([12 U.S.C. 2154(c)][/us/usc/t12/s2154/c] \[[12 U.S.C. 2154(a)][/us/usc/t12/s2154/a]\]) that establish minimum permanent capital adequacy standards for Farm Credit System institutions.
 
->         “(B) __Basis for establishment.—__ 
+>         “(B)  __Basis for establishment__  __.—__ 
 
 >         The standards established under subparagraph (A) shall apply to an institution based on the financial statements of the institution prepared in accordance with generally accepted accounting principles.
 
->         “(C) __Ratio of capital to assets.—__ 
+>         “(C)  __Ratio of capital to assets__  __.—__ 
 
 >         The standards established under subparagraph (A) shall specify fixed percentages representing the ratio of permanent capital of the institution to the assets of the institution, taking into consideration relative risk factors as determined by the Farm Credit Administration.
 
->         “(D) __Phase-in period.—__ 
+>         “(D)  __Phase-in period__  __.—__ 
 
 >         The standards established under subparagraph (A) shall be phased in during the 5-year period beginning on the date of the enactment of this Act \[Jan. 6, 1988\].
 
->     “(2) __Emergency power not available.—__ 
+>     “(2)  __Emergency power not available__  __.—__ 
 
 >     The Farm Credit Administration shall not invoke the emergency provisions of section 5.17(c)(2) of the Farm Credit Act of 1971 ([12 U.S.C. 2251(c)(2)][/us/usc/t12/s2251/c/2] \[[12 U.S.C. 2252(c)(2)][/us/usc/t12/s2252/c/2]\]) with respect to the issuance of the regulations required under paragraph (1)(A).
 
->     “(3) __Prohibitions during transition period.—__ 
+>     “(3)  __Prohibitions during transition period__  __.—__ 
 
 >     During the 5-year period specified in paragraph (1)(D), the Farm Credit Administration shall not initiate any receivership, conservatorship, liquidation, or enforcement action against any System institution certified to issue preferred stock under section 6.27 of the Farm Credit Act of 1971 (as added by section 201 of this Act) \[[12 U.S.C. 2278b–7][/us/usc/t12/s2278b–7]\], solely because of the failure of such institution to meet minimum permanent capital adequacy standards unless such action is recommended or concurred in by the Farm Credit System Assistance Board established under section 6.0 of such Act (as added by section 201 of this Act) \[[12 U.S.C. 2278a][/us/usc/t12/s2278a]\].
 
->     “(4) __Permanent capital.—__ 
+>     “(4)  __Permanent capital__  __.—__ 
 
 >     For purposes of this subsection, the term ‘permanent capital’ has the same meaning given that term in section 4.3A(a)(1) of the Farm Credit Act of 1971 \[[12 U.S.C. 2154a(a)(1)][/us/usc/t12/s2154a/a/1]\].”
 

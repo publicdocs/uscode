@@ -869,11 +869,11 @@
 
 [Pub. L. 104–208, div. A, title II, § 2703(c)][/us/pl/104/208/s2703/c], Sept. 30, 1996, [110 Stat. 3009–485][/us/stat/110/3009-485], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subsections (a) \[amending this section\] and (c) \[probably should be (b), amending [section 1817 of this title][/us/usc/t12/s1817]\] and the amendments made by such subsections shall apply with respect to semiannual periods which begin after December 31, 1996.
 
->     “(2) __Termination of certain assessment rates.—__ 
+>     “(2)  __Termination of certain assessment rates__  __.—__ 
 
 >     Subparagraph (A) of section 21(f)(2) of the Federal Home Loan Bank Act \[subsec. (f)(2) of this section\] (as amended by subsection (a)) shall not apply after the earlier of—
 
@@ -905,15 +905,15 @@
 
 [Pub. L. 104–208, div. A, title II, § 2703(d)][/us/pl/104/208/s2703/d], Sept. 30, 1996, [110 Stat. 3009–486][/us/stat/110/3009-486], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Effective as of the date of the enactment of this Act \[Sept. 30, 1996\] and ending on the date provided in subsection (c)(2) of this section \[set out as a note above\], the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision shall take appropriate actions, including enforcement actions, denial of applications, or imposition of entrance and exit fees as if such transactions qualified as conversion transactions pursuant to section 5(d) of the Federal Deposit Insurance Act \[[12 U.S.C. 1815(d)][/us/usc/t12/s1815/d]\], to prevent insured depository institutions and depository institution holding companies from facilitating or encouraging the shifting of deposits from SAIF-assessable deposits to BIF-assessable deposits (as defined in section 21(k) of the Federal Home Loan Bank Act \[[12 U.S.C. 1441(k)][/us/usc/t12/s1441/k]\]) for the purpose of evading the assessments imposed on insured depository institutions with respect to SAIF-assessable deposits under section 7(b) of the Federal Deposit Insurance Act \[[12 U.S.C. 1817(b)][/us/usc/t12/s1817/b]\] and section 21(f)(2) of the Federal Home Loan Bank Act \[[12 U.S.C. 1441(f)(2)][/us/usc/t12/s1441/f/2]\].
 
->     “(2) __Regulations.—__ 
+>     “(2)  __Regulations__  __.—__ 
 
 >     The Board of Directors of the Federal Deposit Insurance Corporation may issue regulations, including regulations defining terms used in paragraph (1), to prevent the shifting of deposits described in such paragraph.
 
->     “(3) __Rule of construction.—__ 
+>     “(3)  __Rule of construction__  __.—__ 
 
 >     No provision of this subsection shall be construed as prohibiting conduct or activity of any insured depository institution which—
 
@@ -929,7 +929,7 @@
 
 [Pub. L. 100–86, title IV, § 416][/us/pl/100/86/s416], Aug. 10, 1987, [101 Stat. 623][/us/stat/101/623], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The following provisions shall cease to be effective on the date that a notice is published in the Federal Register by the Financing Corporation pursuant to subsection (b):
 

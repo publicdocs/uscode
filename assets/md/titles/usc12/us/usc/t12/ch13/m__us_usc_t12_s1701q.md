@@ -595,11 +595,11 @@
 
 [Pub. L. 106–569, title VIII, § 803][/us/pl/106/569/s803], Dec. 27, 2000, [114 Stat. 3019][/us/stat/114/3019], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The provisions of this title \[see [section 801 of Pub. L. 106–569][/us/pl/106/569/s801], set out as a Short Title of 2000 Amendment note under [section 1701 of this title][/us/usc/t12/s1701]\] and the amendments made by this title are effective as of the date of the enactment of this Act \[Dec. 27, 2000\], unless such provisions or amendments specifically provide for effectiveness or applicability upon another date certain.
 
->     “(b) __Effect of Regulatory Authority.—__ 
+>     “(b)  __Effect of Regulatory Authority__  __.—__ 
 
 >     Any authority in this title or the amendments made by this title to issue regulations, and any specific requirement to issue regulations by a date certain, may not be construed to affect the effectiveness or applicability of the provisions of this title or the amendments made by this title under such provisions and amendments and subsection (a) of this section.”
 
@@ -607,11 +607,11 @@
 
 [Pub. L. 106–74, title V, § 503][/us/pl/106/74/s503], Oct. 20, 1999, [113 Stat. 1101][/us/stat/113/1101], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The provisions of this title \[see Short Title of 1999 Amendment note set out under [section 1701 of this title][/us/usc/t12/s1701]\] and the amendments made by this title are effective as of the date of the enactment of this Act \[Oct. 20, 1999\], unless such provisions or amendments specifically provide for effectiveness or applicability upon another date certain.
 
->     “(b) __Effect of Regulatory Authority.—__ 
+>     “(b)  __Effect of Regulatory Authority__  __.—__ 
 
 >     Any authority in this title or the amendments made by this title to issue regulations, and any specific requirement to issue regulations by a date certain, may not be construed to affect the effectiveness or applicability of the provisions of this title or the amendments made by this title under such provisions and amendments and subsection (a) of this section.”
 
@@ -681,7 +681,7 @@
 
 > “In this title:
 
->     “(1) __Child.—__ 
+>     “(1)  __Child__  __.—__ 
 
 >     The term ‘child’ means an individual who—
 
@@ -689,7 +689,7 @@
 
 >         “(B) is attending school and is not more than 19 years of age.
 
->     “(2) __Covered family.—__ 
+>     “(2)  __Covered family__  __.—__ 
 
 >     The term ‘covered family’ means a family that—
 
@@ -703,33 +703,33 @@
 
 >             “(ii) a relative of the child who is raising the child.
 
->     “(3) __Elderly person.—__ 
+>     “(3)  __Elderly person__  __.—__ 
 
 >     The term ‘elderly person’ has the same meaning as in section 202(k) of the Housing Act of 1959 ([12 U.S.C. 1701q(k)][/us/usc/t12/s1701q/k]).
 
 >     “(4) __Grandparent.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘grandparent’ means, with respect to a child, an individual who is a grandparent or stepgrandparent of the child by blood or marriage, regardless of the age of such individual.
 
->         “(B) __Case of adoption.—__ 
+>         “(B)  __Case of adoption__  __.—__ 
 
 >         In the case of a child who was adopted, the term includes an individual who, by blood or marriage, is a grandparent or stepgrandparent of the child as adopted.
 
->     “(5) __Intergenerational dwelling unit.—__ 
+>     “(5)  __Intergenerational dwelling unit__  __.—__ 
 
 >     The term ‘intergenerational dwelling unit’ means a qualified dwelling unit that is reserved for occupancy only by an intergenerational family.
 
->     “(6) __Intergenerational family.—__ 
+>     “(6)  __Intergenerational family__  __.—__ 
 
 >     The term ‘intergenerational family’ means a covered family that has a head of household who is an elderly person.
 
->     “(7) __Private nonprofit organization.—__ 
+>     “(7)  __Private nonprofit organization__  __.—__ 
 
 >     The term ‘private nonprofit organization’ has the same meaning as in section 202(k) of the Housing Act of 1959 ([12 U.S.C. 1701q(k)][/us/usc/t12/s1701q/k]).
 
->     “(8) __Qualified dwelling unit.—__ 
+>     “(8)  __Qualified dwelling unit__  __.—__ 
 
 >     The term ‘qualified dwelling unit’ means a dwelling unit that—
 
@@ -739,7 +739,7 @@
 
 >         “(C) is equipped with design features appropriate to meet the special physical needs of young children, as needed.
 
->     “(9) __Raising a child.—__ 
+>     “(9)  __Raising a child__  __.—__ 
 
 >     The term ‘raising a child’ means, with respect to an individual, that the individual—
 
@@ -755,7 +755,7 @@
 
 >     “(10) __Relative.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘relative’ means, with respect to a child, an individual who—
 
@@ -763,21 +763,21 @@
 
 >             “(ii) is a relative of the child by blood or marriage, regardless of the age of the individual.
 
->         “(B) __Case of adoption.—__ 
+>         “(B)  __Case of adoption__  __.—__ 
 
 >         In the case of a child who was adopted, the term ‘relative’ includes an individual who, by blood or marriage, is a relative of the family who adopted the child.
 
->     “(11) __Secretary.—__ 
+>     “(11)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of Housing and Urban Development.
 
 > “SEC. 203. __DEMONSTRATION PROGRAM FOR ELDERLY HOUSING FOR INTERGENERATIONAL FAMILIES.__ 
 
->     “(a) __Demonstration Program.—__ 
+>     “(a)  __Demonstration Program__  __.—__ 
 
 >     The Secretary shall carry out a demonstration program (referred to in this section as the ‘demonstration program’) to provide assistance for intergenerational dwelling units for intergenerational families in connection with the supportive housing program under section 202 of the Housing Act of 1959 ([12 U.S.C. 1701q][/us/usc/t12/s1701q]).
 
->     “(b) __Intergenerational Dwelling Units.—__ 
+>     “(b)  __Intergenerational Dwelling Units__  __.—__ 
 
 >     The Secretary shall provide assistance under this section only to private nonprofit organizations selected under subsection (d) for use only for expanding the supply of intergenerational dwelling units, which units shall be provided—
 
@@ -787,7 +787,7 @@
 
 >         “(3) through the development of an annex or addition to an existing project assisted under section 202 of the Housing Act of 1959 ([12 U.S.C. 1701q][/us/usc/t12/s1701q]), that contains intergenerational dwelling units, including through the development of elder cottage housing opportunity units that are small, freestanding, barrier free, energy efficient, removable dwelling units located adjacent to a larger project or dwelling.
 
->     “(c) __Program Terms.—__ 
+>     “(c)  __Program Terms__  __.—__ 
 
 >     Assistance provided pursuant to this section shall be subject to the provisions of section 202 of the Housing Act of 1959 ([12 U.S.C. 1701q][/us/usc/t12/s1701q]), except that—
 
@@ -805,7 +805,7 @@
 
 >         “(4) the Secretary may waive or alter any other provision of that section 202 necessary to provide for assistance under the demonstration program.
 
->     “(d) __Selection.—__ 
+>     “(d)  __Selection__  __.—__ 
 
 >     The Secretary shall—
 
@@ -813,7 +813,7 @@
 
 >         “(2) to the extent that amounts are made available pursuant to subsection (f), select not less than 2 and not more than 4 projects that are assisted under section 202 of the Housing Act of 1959 ([12 U.S.C. 1701q][/us/usc/t12/s1701q]) for assistance under this section, based on the ability of the applicant to develop and operate intergenerational dwelling units and national geographical diversity among those projects funded.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 36 months after the date of enactment of this Act \[Dec. 16, 2003\], the Secretary shall submit a report to Congress that—
 
@@ -821,11 +821,11 @@
 
 >         “(2) analyzes the effectiveness of the demonstration program.
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated $10,000,000 to carry out this section.
 
->     “(g) __Sunset.—__ 
+>     “(g)  __Sunset__  __.—__ 
 
 >     The demonstration program carried out under this section shall terminate 5 years after the date of enactment of this Act.
 

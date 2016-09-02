@@ -815,7 +815,7 @@
 
 [Pub. L. 105–18, title V, § 50003][/us/pl/105/18/s50003], June 12, 1997, [111 Stat. 211][/us/stat/111/211], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The appropriate Federal banking agency may, by order, permit an insured depository institution to subtract from the institution’s total assets, in calculating compliance with the leverage limit prescribed under section 38 of the Federal Deposit Insurance Act \[[12 U.S.C. 1831][/us/usc/t12/s1831]o\], an amount not exceeding the qualifying amount attributable to insurance proceeds, if the agency determines that—
 
@@ -833,27 +833,27 @@
 
 >         “(2) the subtraction is consistent with the purpose of section 38 of the Federal Deposit Insurance Act.
 
->     “(b) __Time Limit on Exceptions.—__ 
+>     “(b)  __Time Limit on Exceptions__  __.—__ 
 
 >     Any exception made under this section shall expire not later than February 28, 1999.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Appropriate federal banking agency.—__ 
+>         “(1)  __Appropriate federal banking agency__  __.—__ 
 
 >         The term ‘appropriate Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\].
 
->         “(2) __Insured depository institution.—__ 
+>         “(2)  __Insured depository institution__  __.—__ 
 
 >         The term ‘insured depository institution’ has the same meaning as in section 3 of the Federal Deposit Insurance Act.
 
->         “(3) __Leverage limit.—__ 
+>         “(3)  __Leverage limit__  __.—__ 
 
 >         The term ‘leverage limit’ has the same meaning as in section 38 of the Federal Deposit Insurance Act \[[12 U.S.C. 1831][/us/usc/t12/s1831]o\].
 
->         “(4) __Qualifying amount attributable to insurance proceeds.—__ 
+>         “(4)  __Qualifying amount attributable to insurance proceeds__  __.—__ 
 
 >         The term ‘qualifying amount attributable to insurance proceeds’ means the amount (if any) by which the institution’s total assets exceed the institution’s average total assets during the calendar quarter ending before the date of any determination referred to in subsection (a)(1)(A), because of the deposit of insurance payments or governmental assistance made with respect to damage caused by, or other costs resulting from, the major disaster.”
 
@@ -867,7 +867,7 @@ Similar provisions were contained in the following prior acts:
 
 [Pub. L. 102–242, title I, § 131(e)][/us/pl/102/242/s131/e], Dec. 19, 1991, [105 Stat. 2267][/us/stat/105/2267], provided that:
 
->     “(1) __Dismissal from office.—__ 
+>     “(1)  __Dismissal from office__  __.—__ 
 
 >     Section 38(f)(2)(F)(ii) of the Federal Deposit Insurance Act \[[12 U.S.C. 1831][/us/usc/t12/s1831]o(f)(2)(F)(ii)\] (as added by subsection (a)) shall not apply with respect to—
 
@@ -887,7 +887,7 @@ Similar provisions were contained in the following prior acts:
 
 >             “(ii) to evade section 38(f)(2)(F)(ii).
 
->     “(2) __Restricting compensation.—__ 
+>     “(2)  __Restricting compensation__  __.—__ 
 
 >     Section 38(f)(4) of the Federal Deposit Insurance Act \[[12 U.S.C. 1831][/us/usc/t12/s1831]o(f)(4)\] (as added by subsection (a)) shall not apply with respect to any senior executive officer who accepted employment in his or her current position on or before the date of enactment of this Act \[Dec. 19, 1991\] and whose contract of employment has not been renewed or renegotiated—
 

@@ -57,11 +57,11 @@
 
 [Pub. L. 102–550, title XVI, § 1609][/us/pl/102/550/s1609], Oct. 28, 1992, [106 Stat. 4090][/us/stat/106/4090], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (b) or any other provision of this subtitle \[subtitle A (§§ 1601–1609) of title XVI of [Pub. L. 102–550][/us/pl/102/550], see Tables for classification\], the amendments made by this subtitle to the Federal Deposit Insurance Corporation Improvement Act of 1991, the Federal Deposit Insurance Act, and any other law shall take effect as if such amendments had been included in the Federal Deposit Insurance Corporation Improvement Act of 1991 \[[Pub. L. 102–242][/us/pl/102/242]\] as of the date of the enactment of such Act \[Dec. 19, 1991\].
 
->     “(b) __Effective Date of Certain Amendments.—__ 
+>     “(b)  __Effective Date of Certain Amendments__  __.—__ 
 
 >     In the case of any amendment made by this subtitle to any provision of law added or amended by the Federal Deposit Insurance Corporation Improvement Act of 1991 \[see Tables for classification\] effective after December 19, 1992, the amendment made by this subtitle shall take effect on the effective date of the amendment made by the Federal Deposit Insurance Corporation Improvement Act of 1991.”
 

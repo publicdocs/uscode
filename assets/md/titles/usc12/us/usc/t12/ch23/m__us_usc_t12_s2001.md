@@ -99,25 +99,25 @@
 
 >     “(a) __Issuance of Regulations.—__ 
 
->         “(1) __Authority.—__ 
+>         “(1)  __Authority__  __.—__ 
 
 >         The Farm Credit Administration Board shall issue such regulations as the Board considers necessary for the orderly and efficient implementation of the provisions of, and the amendments made by, this Act \[see Tables for classification\] relating to the Farm Credit Act of 1971 ([12 U.S.C. 2001][/us/usc/t12/s2001] et seq.).
 
->         “(2) __Timing.—__ 
+>         “(2)  __Timing__  __.—__ 
 
 >         To the extent the Farm Credit Administration is required to issue regulations to implement this Act and the amendments made by this Act, the Farm Credit Administration shall issue such regulations as expeditiously as possible, and, except as otherwise provided in this Act, not later than 180 days after the date of the enactment of this Act \[Jan. 6, 1988\].
 
 >     “(b) __Temporary Retention of Certain Regulations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as otherwise provided in this subsection, the regulations issued by the Farm Credit Administration before the date of the enactment of this Act \[Jan. 6, 1988\] under provisions amended by this Act shall remain in effect, notwithstanding such amendments, until the Farm Credit Administration issues regulations to implement such amendments, but in no event later than 180 days after such date of enactment.
 
->         “(2) __Certain regulations relating to borrowers’ rights.—__ 
+>         “(2)  __Certain regulations relating to borrowers’ rights__  __.—__ 
 
 >         The regulations implementing, interpreting, or applying part C of title IV ([12 U.S.C. 2201][/us/usc/t12/s2201] et seq.) \[[12 U.S.C. 2199][/us/usc/t12/s2199] et seq.\] (other than section 4.13(a) \[[12 U.S.C. 2199(a)][/us/usc/t12/s2199/a]\]) (in effect immediately before the date of the enactment of this Act), to the extent that such regulations are not contrary to this Act and the amendments made by this Act, shall remain in effect until January 1, 1989.
 
->         “(3) __Regulations relating to disclosure by banks and associations.—__ 
+>         “(3)  __Regulations relating to disclosure by banks and associations__  __.—__ 
 
 >         Any regulation issued or approved by the Farm Credit Administration that implements, interprets, or applies section 4.13(a) ([12 U.S.C. 2201(a)][/us/usc/t12/s2201/a] \[[12 U.S.C. 2199(a)][/us/usc/t12/s2199/a]\]) (in effect immediately before the date of the enactment of this Act) shall remain in effect for 120 days after such date of enactment.”
 
@@ -155,15 +155,15 @@ Pub. 92–181, § 5.43, formerly § 5.29, Dec. 10, 1971, [85 Stat. 625][/us/
 
 [Pub. L. 104–127, title VI, § 650][/us/pl/104/127/s650], Apr. 4, 1996, [110 Stat. 1105][/us/stat/110/1105], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Agriculture shall conduct a study and report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the demand for and availability of credit in rural areas for agriculture, housing, and rural development.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of the study shall be to ensure that Congress has current and comprehensive information to consider as Congress deliberates on rural credit needs and the availability of credit to satisfy the needs of rural areas of the United States.
 
->     “(c) __Items in Study.—__ 
+>     “(c)  __Items in Study__  __.—__ 
 
 >     In conducting the study, the Secretary shall base the study on the most current available data and analyze—
 
@@ -199,7 +199,7 @@ Pub. 92–181, § 5.43, formerly § 5.29, Dec. 10, 1971, [85 Stat. 625][/us/
 
 >         “(10) problems that commercial banks have in obtaining capital for lending in rural areas, how access to Farm Credit System funds would improve the availability of capital in rural areas in ways that cannot be achieved in the system in existence on the date of enactment of this Act \[Apr. 4, 1996\], and the possible effects on the viability of the Farm Credit System of granting banks access to Farm Credit System funds.
 
->     “(d) __Interagency Task Force.—__ 
+>     “(d)  __Interagency Task Force__  __.—__ 
 
 >     In completing the study, the Secretary shall use, among other things, data and information obtained by the interagency task force on rural credit.”
 

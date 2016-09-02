@@ -39,7 +39,7 @@
 
         The remedies and sanctions described in this chapter shall be the only authorized judicial remedies and sanctions for violations of this chapter.
 
-([Pub. L. 95–630, title XI, § 1117][/us/pl/95/630/s1117], Nov. 10, 1978, [92 Stat. 3708][/us/stat/92/3708]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36067, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 100–690, title VI, § 6186(d)][/us/pl/100/690/s6186/d], Nov. 18, 1988, [102 Stat. 4358][/us/stat/102/4358].)
+([Pub. L. 95–630, title XI, § 1117][/us/pl/95/630/s1117], Nov. 10, 1978, [92 Stat. 3708][/us/stat/92/3708]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 100–690, title VI, § 6186(d)][/us/pl/100/690/s6186/d], Nov. 18, 1988, [102 Stat. 4358][/us/stat/102/4358].)
 
  __Amendments__ 
 

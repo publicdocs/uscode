@@ -25,7 +25,7 @@
 
         (2) Notwithstanding any other provision of law, the Board as liquidating agent of a closed Federal credit union insured under this subchapter shall not be required to furnish bond and shall have the right to appoint an agent or agents to assist it in its duties as such liquidating agent. All fees, compensation, and expenses of liquidation and administration thereof shall be fixed by the Board and may be paid by them out of funds coming into its possession as such liquidating agent.
 
-        (3) __Liquidation to facilitate prompt corrective action.—__ 
+        (3)  __Liquidation to facilitate prompt corrective action__  __.—__ 
 
         The Board may close any credit union for liquidation, and appoint itself or another (including, in the case of a State-chartered insured credit union, the State official having jurisdiction over the credit union) as liquidating agent of that credit union, if—
 

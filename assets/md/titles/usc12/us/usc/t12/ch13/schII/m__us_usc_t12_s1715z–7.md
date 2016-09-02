@@ -171,11 +171,11 @@
 
 [Pub. L. 108–91, § 2(b)][/us/pl/108/91/s2/b], Oct. 3, 2003, [117 Stat. 1158][/us/stat/117/1158], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall take effect and apply as of the date of the enactment of this Act \[Oct. 3, 2003\].
 
->     “(2) __Effect of regulatory authority.—__ 
+>     “(2)  __Effect of regulatory authority__  __.—__ 
 
 >     Any authority of the Secretary of Housing and Urban Development to issue regulations to carry out the amendment made by subsection (a) may not be construed to affect the effectiveness or applicability of such amendment under paragraph (1) of this subsection.”
 

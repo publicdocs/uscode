@@ -293,7 +293,7 @@
 
         (7) The term “standard housing” means a dwelling unit or housing that complies with the requirements established under subsection (j) of this section.
 
-        (8) __Tribe; indian tribe.—__ 
+        (8)  __Tribe; indian tribe__  __.—__ 
 
         The term “tribe” or “Indian tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[[43 U.S.C. 1601][/us/usc/t43/s1601] et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 \[[25 U.S.C. 450][/us/usc/t25/s450] et seq.\].
 

@@ -19,15 +19,15 @@
 
     (1)
 
-        (A) __Bank.—__ 
+        (A)  __Bank__  __.—__ 
 
         The term “Federal Home Loan Bank” or “Bank” means a bank established under the authority of this chapter.
 
-        (B) __Bank system.—__ 
+        (B)  __Bank system__  __.—__ 
 
         The term “Federal Home Loan Bank System” means the Federal Home Loan Banks under the supervision of the Director.
 
-    (2) __State.—__ 
+    (2)  __State__  __.—__ 
 
     The term “State”, in addition to the States of the United States, includes the District of Columbia, Guam, Puerto Rico, the United States Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
@@ -41,11 +41,11 @@
 
     (7) An “amortized” or “installment” home mortgage loan shall, for the purposes of this chapter, be a home mortgage loan to be repaid or liquidated in not less than eight years by means of regular weekly, monthly, or quarterly payments made directly in reduction of the debt or upon stock or shares pledged as collateral for the repayment of such loan.
 
-    (8) __Savings association.—__ 
+    (8)  __Savings association__  __.—__ 
 
     The term “savings association” has the meaning given to such term in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\].
 
-    (9) __Insured depository institution.—__ 
+    (9)  __Insured depository institution__  __.—__ 
 
     The term “insured depository institution” means—
 
@@ -55,7 +55,7 @@
 
     (10) __Community financial institution.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “community financial institution” means a member—
 
@@ -63,15 +63,15 @@
 
             (ii) that has, as of the date of the transaction at issue, less than $1,000,000,000 in average total assets, based on an average of total assets over the 3 years preceding that date.
 
-        (B) __Adjustments.—__ 
+        (B)  __Adjustments__  __.—__ 
 
         The $1,000,000,000 limit referred to in subparagraph (A)(ii) shall be adjusted annually by the Director, based on the annual percentage increase, if any, in the Consumer Price Index for all urban consumers, as published by the Department of Labor.
 
-    (11) __Director.—__ 
+    (11)  __Director__  __.—__ 
 
     The term “Director” means the Director of the Federal Housing Finance Agency.
 
-    (12) __Agency.—__ 
+    (12)  __Agency__  __.—__ 
 
     The term “Agency” means the Federal Housing Finance Agency, established under [section 4511 of this title][/us/usc/t12/s4511].
 

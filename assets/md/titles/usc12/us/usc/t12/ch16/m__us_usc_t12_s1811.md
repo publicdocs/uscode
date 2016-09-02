@@ -249,7 +249,7 @@
 
 [Pub. L. 105–164, § 2][/us/pl/105/164/s2], Mar. 20, 1998, [112 Stat. 32][/us/stat/112/32], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -259,7 +259,7 @@
 
 >         “(3) Federal financial regulatory agencies must have sufficient examination authority to ensure that the safety and soundness of the Nation’s financial institutions will not be at risk.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
@@ -285,11 +285,11 @@
 
 >             “(B) with regard to leap year calculations.
 
->     “(c) __Seminars and Model Approaches to Year 2000 Computer Problem.—__ 
+>     “(c)  __Seminars and Model Approaches to Year__  __2000 Computer Problem.—__ 
 
 >         “(1) __Seminars.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Each Federal banking agency and the National Credit Union Administration Board shall offer seminars to all depository institutions and insured credit unions under the jurisdiction of such agency on the implication of the Year 2000 computer problem for—
 
@@ -297,21 +297,21 @@
 
 >                 “(ii) transactions with other financial institutions, including Federal reserve banks and Federal home loan banks.
 
->             “(B) __Content and schedule.—__ 
+>             “(B)  __Content and schedule__  __.—__ 
 
 >             The content and schedule of seminars offered pursuant to subparagraph (A) shall be determined by each Federal banking agency and the National Credit Union Administration Board taking into account the resources and examination priorities of such agency.
 
 >         “(2) __Model approaches.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Each Federal banking agency and the National Credit Union Administration Board shall make available to each depository institution and insured credit union under the jurisdiction of such agency model approaches to common Year 2000 computer problems, such as model approaches with regard to project management, vendor contracts, testing regimes, and business continuity planning.
 
->             “(B) __Variety of approaches.—__ 
+>             “(B)  __Variety of approaches__  __.—__ 
 
 >             In developing model approaches to the Year 2000 computer problem pursuant to subparagraph (A), each Federal banking agency and the National Credit Union Administration Board shall take into account the need to develop a variety of approaches to correspond to the variety of depository institutions or credit unions within the jurisdiction of the agency.
 
->         “(3) __Cooperation.—__ 
+>         “(3)  __Cooperation__  __.—__ 
 
 >         In carrying out this section, the Federal banking agencies and the National Credit Union Administration Board may cooperate and coordinate their activities with each other, the Financial Institutions Examination Council, and appropriate organizations representing depository institutions and credit unions.”
 
@@ -321,7 +321,7 @@
 
 >     “(a) __Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Treasury (hereafter in this section referred to as the ‘Secretary’) shall, after consultation with the Advisory Commission on Financial Services established under subsection (b), and consultation in accordance with paragraph (3), conduct a study of matters relating to the strengths and weaknesses of the United States financial services system in meeting the needs of the system’s users, including the needs of—
 
@@ -337,7 +337,7 @@
 
 >             “(F) exporters and other users of international financial services.
 
->         “(2) __Matters studied.—__ 
+>         “(2)  __Matters studied__  __.—__ 
 
 >         The study required under paragraph (1) shall include consideration of—
 
@@ -345,7 +345,7 @@
 
 >             “(B) the adequacy of existing statutes and regulations, and the existing regulatory structure, to meet the needs of the financial services system’s users effectively, efficiently, and without unfair, anticompetitive, or discriminatory practices.
 
->         “(3) __Consultation.—__ 
+>         “(3)  __Consultation__  __.—__ 
 
 >         Consultation in accordance with this paragraph means consultation with—
 
@@ -369,11 +369,11 @@
 
 >     “(b) __Advisory Commission on Financial Services.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         There is established the Advisory Commission on Financial Services (hereafter in this section referred to as the ‘Advisory Commission’).
 
->         “(2) __Membership of commission.—__ 
+>         “(2)  __Membership of commission__  __.—__ 
 
 >         The Advisory Commission—
 
@@ -393,19 +393,19 @@
 
 >             “(B) shall include representatives of business, agriculture, and consumers.
 
->         “(3) __Chairperson.—__ 
+>         “(3)  __Chairperson__  __.—__ 
 
 >         The Secretary or the Secretary’s designee shall serve as Chairperson of the Advisory Commission.
 
->         “(4) __Travel expenses.—__ 
+>         “(4)  __Travel expenses__  __.—__ 
 
 >         Members of the Advisory Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in performing services for the Advisory Commission.
 
->         “(5) __Termination.—__ 
+>         “(5)  __Termination__  __.—__ 
 
 >         The Advisory Commission shall terminate 30 days after the date of submission of the report required under subsection (d).
 
->     “(c) __Recommendations.—__ 
+>     “(c)  __Recommendations__  __.—__ 
 
 >     Based on the results of the study conducted under subsection (a), the Secretary shall develop such recommendations as may be appropriate for changes in statutes, regulations, and policies to improve the operation of the financial services system, including changes to better—
 
@@ -423,7 +423,7 @@
 
 >         “(7) eliminate discrimination.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 15 months after the date of enactment of this Act \[Sept. 29, 1994\], the Secretary shall submit to the President pro tempore of the Senate and the Speaker of the House of Representatives a report describing the study conducted under subsection (a) and any recommendations developed under subsection (c).”
 
@@ -471,11 +471,11 @@
 
 > “SEC. 1001. __STUDY OF FEDERAL DEPOSIT INSURANCE SYSTEM.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury, in consultation with the Comptroller of the Currency, the Chairman of the Board of Governors of the Federal Reserve System, the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, the Chairman of the National Credit Union Administration Board, the Director of the Office of Management and Budget, and individuals from the private sector, shall conduct a study of the Federal deposit insurance system.
 
->     “(b) __Topics.—__ 
+>     “(b)  __Topics__  __.—__ 
 
 >     As part of the study required under subsection (a), the Secretary of the Treasury shall investigate, review, and evaluate the following:
 
@@ -539,13 +539,13 @@
 
 >         “(12) The feasibility of adopting regulations which are the same as or similar to the provisions of England’s Banking Act, 1987, ch. 22 (4 Halsbury’s Statutes of England and Wales 527–650 (1987)), enacted on May 15, 1987, relating to the Bank of England’s relationship with auditors and reporting accountants (including sections 8, 39, 41, 45, 46, 47, 82, 83, 85, and 94 of such Act).
 
->     “(c) __Final Report.—__ 
+>     “(c)  __Final Report__  __.—__ 
 
 >     Not later than the close of the 18-month period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Secretary of the Treasury shall submit to the Congress a final report containing a detailed statement of findings made, and conclusions drawn from, the study conducted under this section, including such recommendations for administrative and legislative action as the Secretary determines to be appropriate.
 
 > “SEC. 1002. __SURVEY OF BANK FEES AND SERVICES.__ 
 
->     “(a) __Annual Survey Required.—__ 
+>     “(a)  __Annual Survey Required__  __.—__ 
 
 >     The Board of Governors of the Federal Reserve System shall obtain a sample, which is representative by geographic location and size of the institution, of—
 
@@ -555,11 +555,11 @@
 
 >     “(b) __Annual Report to Congress Required.—__ 
 
->         “(1) __Preparation.—__ 
+>         “(1)  __Preparation__  __.—__ 
 
 >         The Board of Governors of the Federal Reserve System shall prepare a report of the results of each survey conducted pursuant to subsection (a).
 
->         “(2) __Contents of the report.—__ 
+>         “(2)  __Contents of the report__  __.—__ 
 
 >         Each report prepared pursuant to paragraph (1) shall include—
 
@@ -575,13 +575,13 @@
 
 >                 “(iii) A decrease in the availability of such services.
 
->         “(3) __Submission to congress.—__ 
+>         “(3)  __Submission to congress__  __.—__ 
 
 >         The Board of Governors of the Federal Reserve System shall submit an annual report to the Congress not later than September 1, 1995, and not later than June 1 of each subsequent year.
 
 > “SEC. 1003. __GENERAL ACCOUNTING OFFICE \[GOVERNMENT ACCOUNTABILITY OFFICE\] STUDY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study of deposit insurance issues raised by section 1001 emphasizing in particular—
 
@@ -597,13 +597,13 @@
 
 >             “(B) the ability of other participants in capital markets to raise funds.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than the close of the 18-month period beginning on the date of the enactment of this Act \[Aug. 9, 1989\], the Comptroller General shall submit to the Congress the results of the study required by subsection (a).
 
 > “SEC. 1004. __STUDY REGARDING CAPITAL REQUIREMENTS FOR GOVERNMENT-SPONSORED ENTERPRISES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study of the risks undertaken by all government-sponsored enterprises and the appropriate level of capital for such enterprises consistent with—
 
@@ -613,15 +613,15 @@
 
 >         “(3) minimizing any potential impact on borrowing of the Federal Government.
 
->     “(b) __Consultation and Cooperation With Other Agencies.—__ 
+>     “(b)  __Consultation and Cooperation With Other Agencies__  __.—__ 
 
 >     The Comptroller General shall determine the structure and methodology of the study under this section in consultation with and with the cooperation of the Secretary of Agriculture and the Farm Credit Administration (with respect to the Farm Credit Banks, the Banks for Cooperatives, and the Federal Agricultural Mortgage Corporation), the Secretary of Education (with respect to the Student Loan Marketing Association and the College Construction Loan Corporation), the Secretary of Housing and Urban Development (with respect to the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation), and the government-sponsored enterprises.
 
->     “(c) __Access to Relevant Information.—__ 
+>     “(c)  __Access to Relevant Information__  __.—__ 
 
 >     Each government-sponsored enterprise shall provide full and prompt access to the Comptroller General to its books and records and shall promptly provide any other information requested by the Comptroller General. In conducting the study under this section, the Comptroller General may request information from, or the assistance of, any department or agency of the Federal Government that is authorized by law to supervise or approve any of the activities of any government-sponsored enterprise.
 
->     “(d) __Specific Requirements.—__ 
+>     “(d)  __Specific Requirements__  __.—__ 
 
 >     The study shall examine and evaluate—
 
@@ -641,7 +641,7 @@
 
 >         “(8) the quality and timeliness of information currently available to the public and the Federal Government concerning the extent and nature of the activities of government-sponsored enterprises and the financial risk associated with such activities.
 
->     “(e) __Reports to Congress.—__ 
+>     “(e)  __Reports to Congress__  __.—__ 
 
 >     The Comptroller General shall submit to the Congress 2 reports regarding the study under this section. The first report shall be submitted to the Congress not later than 9 months after the date of the enactment of this Act \[Aug. 9, 1989\] and the second report shall be submitted to the Congress not later than 21 months after the date of the enactment of this Act. Each report shall set forth—
 
@@ -659,7 +659,7 @@
 
 >         “(4) any recommendations and opinions of the Secretary of Agriculture, the Secretary of Education, the Secretary of Housing and Urban Development, and the Secretary of the Treasury regarding the report, to the extent that the recommendations and views of such officers differ from the recommendations and opinions of the Comptroller General.
 
->     “(f) __Definition.—__ 
+>     “(f)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘government-sponsored enterprises’ means the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Federal Home Loan Bank System, the Farm Credit Banks, the Banks for Cooperatives, the Federal Agricultural Mortgage Corporation, the College Construction Loan Insurance Corporation, the Student Loan Marketing Association.”
 
@@ -673,23 +673,23 @@
 
 [Pub. L. 101–73, title XII, § 1204][/us/pl/101/73/s1204], Aug. 9, 1989, [103 Stat. 520][/us/stat/103/520], provided that:
 
->     “(a) __Consultation on Expanded Use.—__ 
+>     “(a)  __Consultation on Expanded Use__  __.—__ 
 
 >     The Secretary of the Treasury shall consult with the appropriate Federal banking agencies and the National Credit Union Administration Board on methods for increasing the use of underutilized minority banks, women’s banks, and limited income credit unions as depositaries or financial agents of Federal agencies.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     The Secretary of the Treasury shall include, in the 1st annual report submitted to the Congress under [section 331(a) of title 31][/us/usc/t31/s331/a], United States Code, after the completion of the consultation required by subsection (a), a report of the actions taken by the Secretary to increase the use of underutilized minority banks, women’s banks, and limited income credit unions as depositaries or financial agents of Federal agencies.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Appropriate federal banking agency.—__ 
+>         “(1)  __Appropriate federal banking agency__  __.—__ 
 
 >         The term ‘appropriate Federal banking agency’ has the meaning given to such term in section 3(q) of the Federal Deposit Insurance Act \[[12 U.S.C. 1813(q)][/us/usc/t12/s1813/q]\].
 
->         “(2) __Minority bank.—__ 
+>         “(2)  __Minority bank__  __.—__ 
 
 >         The term ‘minority bank’ means any depository institution described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act \[[12 U.S.C. 461(b)(1)(A)(i)][/us/usc/t12/s461/b/1/A/i], (ii), (iii)\]—
 
@@ -697,15 +697,15 @@
 
 >             “(B) more than 50 percent of the net profit or loss of which accrues to 1 or more minority individuals.
 
->         “(3) __Minority.—__ 
+>         “(3)  __Minority__  __.—__ 
 
 >         The term ‘minority’ means any Black American, Native American, Hispanic American, or Asian American.
 
->         “(4) __Low-income credit union.—__ 
+>         “(4)  __Low-income credit union__  __.—__ 
 
 >         The term ‘low-income credit union’ means any depository institution described in section 19(b)(1)(A)(iv) of the Federal Reserve Act which serves predominately low-income members (as defined by the National Credit Union Administration Board pursuant to section 101(5) of the Federal Credit Union Act \[[12 U.S.C. 1752(5)][/us/usc/t12/s1752/5]\]).
 
->         “(5) __Women’s bank.—__ 
+>         “(5)  __Women’s bank__  __.—__ 
 
 >         The term ‘women’s bank’ means any depository institution described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act—
 
@@ -735,31 +735,31 @@
 
 [Pub. L. 101–73, title XIV, § 1404][/us/pl/101/73/s1404], Aug. 9, 1989, [103 Stat. 551][/us/stat/103/551], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In order to better manage the bonded indebtedness of the United States, the Secretary shall conduct 2 annual studies to assess the financial safety and soundness of the activities of all Government-sponsored enterprises and the impact of their operations on Federal borrowing.
 
 >     “(b) __Access to Relevant Information.—__ 
 
->         “(1) __Information from gse’s.—__ 
+>         “(1)  __Information from gse’s__  __.—__ 
 
 >         Each Government-sponsored enterprise shall provide full and prompt access to the Secretary to its books and records, and shall promptly provide any other information requested by the Secretary.
 
->         “(2) __Information from supervisory agencies.—__ 
+>         “(2)  __Information from supervisory agencies__  __.—__ 
 
 >         In conducting the studies under this section, the Secretary may request information from, or the assistance of, any Federal department or agency authorized by law to supervise the activities of any Government-sponsored enterprise.
 
 >         “(3) __Confidentiality of information.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall determine and maintain the confidentiality of any book, record, or information made available under this subsection in a manner generally consistent with the level of confidentiality established for the material by the Government-sponsored enterprise involved.
 
->             “(B) __Exemption from public disclosure requirements.—__ 
+>             “(B)  __Exemption from public disclosure requirements__  __.—__ 
 
 >             The Department of the Treasury shall be exempt from [section 552 of title 5][/us/usc/t5/s552], United States Code, with respect to any book, record, or information made available under this subsection and determined by the Secretary to be confidential under subparagraph (A).
 
->             “(C) __Penalty for unauthorized disclosure.—__ 
+>             “(C)  __Penalty for unauthorized disclosure__  __.—__ 
 
 >             Any officer or employee of the Department of the Treasury shall be subject to the penalties set forth in [section 1906 of title 18][/us/usc/t18/s1906], United States Code, if—
 
@@ -773,11 +773,11 @@
 
 >                          “(II) pursuant to the exceptions set forth in such section 1906.
 
->     “(c) __Assessment of Risk.—__ 
+>     “(c)  __Assessment of Risk__  __.—__ 
 
 >     In assessing the financial safety and soundness of the activities of Government-sponsored enterprises, and the impact of their activities on Federal borrowing, the Secretary shall quantify the risks associated with each Government-sponsored enterprise. In quantifying such risks, the Secretary shall determine the volume and type of securities outstanding which are issued or guaranteed by each Government-sponsored enterprise, the capitalization of each Government-sponsored enterprise, and the degree of risk involved in the operations of each Government-sponsored enterprise due to factors such as credit risk, interest rate risk, management and operations risk, and business risk. The Secretary shall also report on the quality and timeliness of information currently available to the public and the Federal Government concerning the extent and nature of the activities of Government-sponsored enterprises and the financial risk associated with such activities.
 
->     “(d) __Reports to Congress.—__ 
+>     “(d)  __Reports to Congress__  __.—__ 
 
 >     The Secretary shall submit to the Congress—
 
@@ -785,11 +785,11 @@
 
 >         “(2) by May 15, 1991, a report setting forth the results of the 2nd annual study conducted under this section.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Government-sponsored enterprise.—__ 
+>         “(1)  __Government-sponsored enterprise__  __.—__ 
 
 >         The term ‘Government-sponsored enterprise’ means—
 
@@ -797,7 +797,7 @@
 
 >             “(B) any other Government-sponsored enterprise, as designated by the Secretary.
 
->         “(2) __Secretary.—__ 
+>         “(2)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of the Treasury or his delegate.”
 

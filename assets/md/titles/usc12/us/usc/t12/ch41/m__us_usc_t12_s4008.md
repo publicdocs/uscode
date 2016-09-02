@@ -151,19 +151,19 @@
 
 [Pub. L. 105–18, title V, § 50002][/us/pl/105/18/s50002], June 12, 1997, [111 Stat. 211][/us/stat/111/211], provided that:
 
->     “(a) __Truth in Lending Act.—__ 
+>     “(a)  __Truth in Lending Act__  __.—__ 
 
 >     During the 240-day period beginning on the date of enactment of this Act \[June 12, 1997\], the Board of Governors of the Federal Reserve System may make exceptions to the Truth in Lending Act \[[15 U.S.C. 1601][/us/usc/t15/s1601] et seq.\] for transactions within an area in which the President, pursuant to section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5170][/us/usc/t42/s5170]\], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, if the Board determines that the exception can reasonably be expected to alleviate hardships to the public resulting from such disaster that outweigh possible adverse effects.
 
->     “(b) __Expedited Funds Availability Act.—__ 
+>     “(b)  __Expedited Funds Availability Act__  __.—__ 
 
 >     During the 240-day period beginning on the date of enactment of this Act \[June 12, 1997\], the Board of Governors of the Federal Reserve System may make exceptions to the Expedited Funds Availability Act \[[12 U.S.C. 4001][/us/usc/t12/s4001] et seq.\] for depository institution offices located within any area referred to in subsection (a) of this section if the Board determines that the exception can reasonably be expected to alleviate hardships to the public resulting from such disaster that outweigh possible adverse effects.
 
->     “(c) __Time Limit on Exceptions.—__ 
+>     “(c)  __Time Limit on Exceptions__  __.—__ 
 
 >     Any exception made under this section shall expire not later than September 1, 1998.
 
->     “(d) __Publication Required.—__ 
+>     “(d)  __Publication Required__  __.—__ 
 
 >     The Board of Governors of the Federal Reserve System shall publish in the Federal Register a statement that—
 

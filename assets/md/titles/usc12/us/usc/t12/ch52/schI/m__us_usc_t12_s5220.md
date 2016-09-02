@@ -93,7 +93,7 @@
 
 [Pub. L. 111–22, div. A, title VII, § 702][/us/pl/111/22/s702], May 20, 2009, [123 Stat. 1660][/us/stat/123/1660], as amended by [Pub. L. 111–203, title XIV, § 1484(1)][/us/pl/111/203/s1484/1], July 21, 2010, [124 Stat. 2204][/us/stat/124/2204], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the case of any foreclosure on a federally-related mortgage loan or on any dwelling or residential real property after the date of enactment of this title \[May 20, 2009\], any immediate successor in interest in such property pursuant to the foreclosure shall assume such interest subject to—
 
@@ -109,7 +109,7 @@
 
 >             except that nothing under this section shall affect the requirements for termination of any Federal- or State-subsidized tenancy or of any State or local law that provides longer time periods or other additional protections for tenants.
 
->     “(b) __Bona Fide Lease or Tenancy.—__ 
+>     “(b)  __Bona Fide Lease or Tenancy__  __.—__ 
 
 >     For purposes of this section, a lease or tenancy shall be considered bona fide only if—
 
@@ -119,7 +119,7 @@
 
 >         “(3) the lease or tenancy requires the receipt of rent that is not substantially less than fair market rent for the property or the unit’s rent is reduced or subsidized due to a Federal, State, or local subsidy.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘federally-related mortgage loan’ has the same meaning as in section 3 of the Real Estate Settlement Procedures Act of 1974 ([12 U.S.C. 2602][/us/usc/t12/s2602]). For purposes of this section, the date of a notice of foreclosure shall be deemed to be the date on which complete title to a property is transferred to a successor entity or person as a result of an order of a court or pursuant to provisions in a mortgage, deed of trust, or security deed.”
 

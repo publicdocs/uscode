@@ -47,11 +47,11 @@
 
 >         “(1) __Special committee.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 15 days after the date of the enactment of this section \[Jan. 6, 1988\], a special committee shall be selected pursuant to subparagraph (B), for the purpose of developing a proposal for the voluntary merger of the banks for cooperatives.
 
->             “(B) __Composition.—__ 
+>             “(B)  __Composition__  __.—__ 
 
 >             The special committee selected under subparagraph (A) shall be composed of—
 
@@ -59,27 +59,27 @@
 
 >                 “(ii) one member chosen from the board of directors of the Central Bank for Cooperatives by the board of such Bank.
 
->             “(C) __Development of plan.—__ 
+>             “(C)  __Development of plan__  __.—__ 
 
 >             Not later than 75 days after the date of the enactment of this section \[Jan. 6, 1988\], the special committee shall develop a plan of merger for all such banks and the Central Bank for Cooperatives into a National Bank for Cooperatives.
 
 >         “(2) __Prerequisites to merger.—__ 
 
->             “(A) __Submission to fca.—__ 
+>             “(A)  __Submission to fca__  __.—__ 
 
 >             On completion of the plan of merger pursuant to paragraph (1)(C), the special committee shall submit the proposed plan, together with all information that is to be distributed to the stockholders concerning such plan, to the Farm Credit Administration for approval.
 
->             “(B) __Expedited review.—__ 
+>             “(B)  __Expedited review__  __.—__ 
 
 >             Not later than 30 days after the Farm Credit Administration receives the plan of merger, the Administration shall promptly review such plan and advise the special committee concerning any required changes that are necessary to the plan.
 
->         “(3) __Submission to stockholders.—__ 
+>         “(3)  __Submission to stockholders__  __.—__ 
 
 >         On approval of the plan by the Farm Credit Administration, the special committee shall, under such procedures as may be established by the committee, submit the plan and recommendations to all voting stockholders of the district banks for cooperatives and the Central Bank for Cooperatives.
 
 >     “(b) __Voting Requirements.—__ 
 
->         “(1) __Majority vote required.—__ 
+>         “(1)  __Majority vote required__  __.—__ 
 
 >         An approval of the plan of merger developed and submitted under subsection (a) shall—
 
@@ -97,31 +97,31 @@
 
 >             “(D) take place prior to any other merger vote involving a bank for cooperatives.
 
->         “(2) __Approval by all banks for cooperatives.—__ 
+>         “(2)  __Approval by all banks for cooperatives__  __.—__ 
 
 >         If the stockholders of all of the banks for cooperatives approve the merger, the merger shall take place.
 
->         “(3) __Effect of lesser vote.—__ 
+>         “(3)  __Effect of lesser vote__  __.—__ 
 
 >         If the stockholders of more than one but fewer than all of the banks approve the plan, each such bank whose stockholders voted to approve the merger shall be merged into a single bank for cooperatives, as provided in paragraphs (4) or (5).
 
 >         “(4) __National bank for cooperatives.—__ 
 
->             “(A) __Creation.—__ 
+>             “(A)  __Creation__  __.—__ 
 
 >             If the stockholders of eight or more of the district banks for cooperatives approve the merger, such banks, and the Central Bank for Cooperatives, shall be merged into a single bank, which shall be referred to as the ‘National Bank for Cooperatives’.
 
->             “(B) __Services provided.—__ 
+>             “(B)  __Services provided__  __.—__ 
 
 >             The National Bank for Cooperatives may offer credit and related services to eligible borrowers located within any territory that may be served by Farm Credit System institutions under section 5.0 \[[12 U.S.C. 2221][/us/usc/t12/s2221]\], or to any borrower otherwise eligible under section 3.7(b) \[[12 U.S.C. 2128(b)][/us/usc/t12/s2128/b]\].
 
 >         “(5) __United Bank for Cooperatives.—__ 
 
->             “(A) __Creation.—__ 
+>             “(A)  __Creation__  __.—__ 
 
 >             If the stockholders of more than one but fewer than eight of the district banks approve the plan, each such bank, and the Central Bank for Cooperatives (if approved by a numerical majority of its stockholders), shall be merged into a single bank, which shall be referred to as the ‘United Bank for Cooperatives’.
 
->             “(B) __Services provided.—__ 
+>             “(B)  __Services provided__  __.—__ 
 
 >             The United Bank for Cooperatives shall offer credit and related services only in the territory included, as of the date of the enactment of this section \[Jan. 6, 1988\], within the boundaries of the districts that had been served by the constituent banks of the United Bank for Cooperatives, and to any borrower otherwise eligible under section 3.7(b) \[[12 U.S.C. 2128(b)][/us/usc/t12/s2128/b]\].
 
@@ -129,23 +129,23 @@
 
 >             “(A) __In general.—__ 
 
->                 “(i) __National bank for cooperatives.—__ 
+>                 “(i)  __National bank for cooperatives__  __.—__ 
 
 >                 Any of the district banks whose stockholders did not approve the plan of merger may offer credit and related services to any eligible borrowers within any territory or area that may be served by the National Bank.
 
->                 “(ii) __United bank for cooperatives.—__ 
+>                 “(ii)  __United bank for cooperatives__  __.—__ 
 
 >                 Any of the district banks whose stockholders did not approve the plan of merger shall continue as district banks for cooperatives and shall continue to serve only the territory within the boundaries of the district that such banks served as of the date of the enactment of this section \[Jan. 6, 1988\].
 
->             “(B) __Nondiscrimination.—__ 
+>             “(B)  __Nondiscrimination__  __.—__ 
 
 >             Any district bank whose stockholders did not approve the plan of merger shall be entitled to the availability, from the National Bank for Cooperatives or the United Bank for Cooperatives, as the case may be, of the same credit and related services now provided by the Central Bank for Cooperatives as of the date of the enactment of this section \[Jan. 6, 1988\], regardless of the decision not to merge.
 
->             “(C) __Subsequent mergers.—__ 
+>             “(C)  __Subsequent mergers__  __.—__ 
 
 >             Any district bank referred to in subparagraph (A) may subsequently merge with the National Bank for Cooperatives or the United Bank for Cooperatives, as the case may be, on the approval of the voting stockholders of both banks proposing to merge based on the voting requirement of subsection (b)(1).
 
->     “(c) __References.—__ 
+>     “(c)  __References__  __.—__ 
 
 >     References in this section to voting stockholders shall include subscribers to the guaranty fund.”
 

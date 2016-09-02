@@ -131,7 +131,7 @@
 
         (4) __Reports on competitive factors.—__ 
 
-            (A) __Request for report.—__ 
+            (A)  __Request for report__  __.—__ 
 
             In the interests of uniform standards and subject to subparagraph (B), before acting on any application for approval of a merger transaction, the responsible agency shall—
 
@@ -139,7 +139,7 @@
 
                 (ii) provide a copy of the request to the Corporation (when the Corporation is not the responsible agency).
 
-            (B) __Furnishing of report.—__ 
+            (B)  __Furnishing of report__  __.—__ 
 
             The report requested under subparagraph (A) shall be furnished by the Attorney General to the responsible agency—
 
@@ -147,7 +147,7 @@
 
                 (ii) not later than 10 calendar days after such date, if the requesting agency advises the Attorney General that an emergency exists requiring expeditious action.
 
-            (C) __Exceptions.—__ 
+            (C)  __Exceptions__  __.—__ 
 
             A responsible agency may not be required to request a report under subparagraph (A) if—
 
@@ -191,7 +191,7 @@
 
         (10) Until June 30, 1976, the responsible agency shall not grant any approval required by law which has the practical effect of permitting a conversion from the mutual to the stock form of organization, including approval of any application pending on the date of enactment of this subsection, except that this sentence shall not be deemed to limit now or hereafter the authority of the responsible agency to grant approvals in cases where the responsible agency finds that it must act in order to maintain the safety, soundness, and stability of an insured depository institution. The responsible agency may by rule, regulation, or otherwise and under such civil penalties (which shall be cumulative to any other remedies) as it may prescribe take whatever action it deems necessary or appropriate to implement or enforce this subsection.
 
-        (11) __Money laundering.—__ 
+        (11)  __Money laundering__  __.—__ 
 
         In every case, the responsible agency, shall take into consideration the effectiveness of any insured depository institution involved in the proposed merger transaction in combatting money laundering activities, including in overseas branches.
 
@@ -227,11 +227,11 @@
 
         (3) __Exclusive authority for additional branches.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Effective June 1, 1997, a State nonmember bank may not acquire, establish, or operate a branch in any State other than the bank’s home State (as defined in section 1831u(f)(4) 1 of this title) or a State in which the bank already has a branch unless the acquisition, establishment, or operation of a branch in such State by a State nonmember bank is authorized under this subsection or section 1823(f), 1823(k), or 1831u of this title.
 
-            (B) __Retention of branches.—__ 
+            (B)  __Retention of branches__  __.—__ 
 
             In the case of a State nonmember bank which relocates the main office of such bank from 1 State to another State after May 31, 1997, the bank may retain and operate branches within the State which was the bank’s home State (as defined in section 1831u(f)(4) 1 of this title) before the relocation of such office only to the extent the bank would be authorized, under this section or any other provision of law referred to in subparagraph (A), to acquire, establish, or commence to operate a branch in such State if—
 
@@ -247,7 +247,7 @@
 
         (4) __State “opt-in” election to permit interstate branching through de novo branches.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to subparagraph (B), the Corporation may approve an application by an insured State nonmember bank to establish and operate a de novo branch in a State (other than the bank’s home State) in which the bank does not maintain a branch if—
 
@@ -257,15 +257,15 @@
 
             (B) __Conditions on establishment and operation of interstate branch.—__ 
 
-                (i) __Establishment.—__ 
+                (i)  __Establishment__  __.—__ 
 
                 An application by an insured State nonmember bank to establish and operate a de novo branch in a host State shall be subject to the same requirements and conditions to which an application for a merger transaction is subject under paragraphs (1), (3), and (4) of [section 1831u(b) of this title][/us/usc/t12/s1831u/b].
 
-                (ii) __Operation.—__ 
+                (ii)  __Operation__  __.—__ 
 
                 Subsections (c) and (d)(2) of [section 1831u of this title][/us/usc/t12/s1831u] shall apply with respect to each branch of an insured State nonmember bank which is established and operated pursuant to an application approved under this paragraph in the same manner and to the same extent such provisions of such section apply to a branch of a State bank which resulted from a merger transaction under such [section 1831u of this title][/us/usc/t12/s1831u].
 
-            (C) __“De novo branch” defined.—__ 
+            (C)  __“De novo branch” defined__  __.—__ 
 
             For purposes of this paragraph, the term “de novo branch” means a branch of a State bank which—
 
@@ -279,11 +279,11 @@
 
                     (II) the conversion, merger, or consolidation of any such institution or branch.
 
-            (D) __“Home state” defined.—__ 
+            (D)  __“Home state” defined__  __.—__ 
 
             The term “home State” means the State by which a State bank is chartered.
 
-            (E) __“Host state” defined.—__ 
+            (E)  __“Host state” defined__  __.—__ 
 
             The term “host State” means, with respect to a bank, a State, other than the home State of the bank, in which the bank maintains, or seeks to establish and maintain, a branch.
 
@@ -1317,11 +1317,11 @@
 
 [Pub. L. 105–18, title V, § 50004][/us/pl/105/18/s50004], June 12, 1997, [111 Stat. 212][/us/stat/111/212], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     A qualifying regulatory agency may take any of the following actions with respect to depository institutions or other regulated entities whose principal place of business is within, or with respect to transactions or activities within, an area in which the President, pursuant to section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[[42 U.S.C. 5170][/us/usc/t42/s5170]\], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, if the agency determines that the action would facilitate recovery from the major disaster:
 
->         “(1) __Procedure.—__ 
+>         “(1)  __Procedure__  __.—__ 
 
 >         Exercising the agency’s authority under provisions of law other than this section without complying with—
 
@@ -1329,7 +1329,7 @@
 
 >             “(B) any provision of law that requires notice or opportunity for hearing or sets maximum or minimum time limits with respect to agency action.
 
->         “(2) __Publication requirements.—__ 
+>         “(2)  __Publication requirements__  __.—__ 
 
 >         Making exceptions, with respect to institutions or other entities for which the agency is the primary Federal regulator, to—
 
@@ -1337,7 +1337,7 @@
 
 >             “(B) any similar publication requirement.
 
->     “(b) __Publication Required.—__ 
+>     “(b)  __Publication Required__  __.—__ 
 
 >     A qualifying regulatory agency shall publish in the Federal Register a statement that—
 
@@ -1345,7 +1345,7 @@
 
 >         “(2) explains the need for the action.
 
->     “(c) __Qualifying Regulatory Agency Defined.—__ 
+>     “(c)  __Qualifying Regulatory Agency Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘qualifying regulatory agency’ means—
 
@@ -1363,7 +1363,7 @@
 
 >         “(7) with respect to chapter 53 of title 31, United States Code, the Secretary of the Treasury.
 
->     “(d) __Expiration.—__ 
+>     “(d)  __Expiration__  __.—__ 
 
 >     Any exception made under this section shall expire not later than February 28, 1998.”
 
@@ -1377,7 +1377,7 @@ Similar provisions were contained in the following prior acts:
 
 [Pub. L. 102–242, title III, § 305(b)][/us/pl/102/242/s305/b], Dec. 19, 1991, [105 Stat. 2355][/us/stat/105/2355], as amended by [Pub. L. 103–325, title III, § 335][/us/pl/103/325/s335], Sept. 23, 1994, [108 Stat. 2233][/us/stat/108/2233], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Each appropriate Federal banking agency shall revise its risk-based capital standards for insured depository institutions to ensure that those standards—
 
@@ -1395,11 +1395,11 @@ Similar provisions were contained in the following prior acts:
 
 >         “(C) take into account the size and activities of the institutions and do not cause undue reporting burdens.
 
->     “(2) __International discussions.—__ 
+>     “(2)  __International discussions__  __.—__ 
 
 >     The Federal banking agencies shall discuss the development of comparable standards with members of the supervisory committee of the Bank for International Settlements.
 
->     “(3) __Deadline for prescribing revised standards.—__ 
+>     “(3)  __Deadline for prescribing revised standards__  __.—__ 
 
 >     Each appropriate Federal banking agency shall—
 
@@ -1407,7 +1407,7 @@ Similar provisions were contained in the following prior acts:
 
 >         “(B) establish reasonable transition rules to facilitate compliance with those regulations.
 
->     “(4) __Definitions.—__ 
+>     “(4)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection, the terms ‘appropriate Federal banking agency’, ‘Federal banking agency’ and ‘insured depository institution’ have the same meanings as in section 3 of the Federal Deposit Insurance Act ([12 U.S.C. 1813][/us/usc/t12/s1813]).”
 
@@ -1415,7 +1415,7 @@ Similar provisions were contained in the following prior acts:
 
 [Pub. L. 102–242, title IV, § 475][/us/pl/102/242/s475], Dec. 19, 1991, [105 Stat. 2386][/us/stat/105/2386], as amended by [Pub. L. 102–550, title XVI, § 1606(i)(2)][/us/pl/102/550/s1606/i/2], Oct. 28, 1992, [106 Stat. 4089][/us/stat/106/4089]; [Pub. L. 106–569, title XII, § 1208][/us/pl/106/569/s1208], Dec. 27, 2000, [114 Stat. 3035][/us/stat/114/3035], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding section 5(t)(4) of the Home Owners’ Loan Act \[former [12 U.S.C. 1464(t)(4)][/us/usc/t12/s1464/t/4]\], each appropriate Federal banking agency shall determine, with respect to insured depository institutions for which it is the appropriate Federal regulator, the amount of readily marketable purchased mortgage servicing rights that may be included in calculating such institution’s tangible capital, risk-based capital, or leverage limit, if—
 
@@ -1423,15 +1423,15 @@ Similar provisions were contained in the following prior acts:
 
 >         “(2) the fair market value of such servicing rights is determined not less often than quarterly.
 
->     “(b) __Authority To Determine Percentage by Which To Discount Value of Servicing Rights.—__ 
+>     “(b)  __Authority To Determine Percentage by Which To Discount Value of Servicing Rights__  __.—__ 
 
 >     The appropriate Federal banking agencies may allow readily marketable purchased mortgage servicing rights to be valued at more than 90 percent of their fair market value but at not more than 100 percent of such value, if such agencies jointly make a finding that such valuation would not have an adverse effect on the deposit insurance funds or the safety and soundness of insured depository institutions.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     For purposes of this section, the terms ‘appropriate Federal banking agency’, ‘deposit insurance fund’, and ‘insured depository institution’ have the same meanings as in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\].
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     This section shall apply after the end of the 60-day period beginning on the date of the enactment of this Act \[Dec. 19, 1991\].”
 

@@ -59,11 +59,11 @@
 
         (9) __Cash investment requirement.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A mortgage insured under this section shall be executed by a mortgagor who shall have paid, in cash or its equivalent, on account of the property an amount equal to not less than 3.5 percent of the appraised value of the property or such larger amount as the Secretary may determine.
 
-            (B) __Family members.—__ 
+            (B)  __Family members__  __.—__ 
 
             For purposes of this paragraph, the Secretary shall consider as cash or its equivalent any amounts borrowed from a family member (as such term is defined in [section 1707 of this title][/us/usc/t12/s1707]), subject only to the requirements that, in any case in which the repayment of such borrowed amounts is secured by a lien against the property, that—
 
@@ -71,7 +71,7 @@
 
                 (ii) the sum of the principal obligation of the mortgage and the obligation secured by such lien may not exceed 100 percent of the appraised value of the property plus any initial service charges, appraisal, inspection, and other fees in connection with the mortgage.
 
-            (C) __Prohibited sources.—__ 
+            (C)  __Prohibited sources__  __.—__ 
 
             In no case shall the funds required by subparagraph (A) consist, in whole or in part, of funds provided by any of the following parties before, during, or after closing of the property sale:
 
@@ -953,11 +953,11 @@
 
 [Pub. L. 101–494, § 4][/us/pl/101/494/s4], Oct. 31, 1990, [104 Stat. 1185][/us/stat/104/1185], provided that:
 
->     “(a) __Extension.—__ 
+>     “(a)  __Extension__  __.—__ 
 
 >     If upon enactment of this Act \[see Effective Date of 1990 Amendments note above\], section 203(b)(2) of the National Housing Act ([12 U.S.C. 1709(b)(2)][/us/usc/t12/s1709/b/2]) provides for an increase in the maximum dollar amount limitations on the principal obligations of mortgages insured under such section until October 31, 1990, then notwithstanding such section, such maximum dollar amount limitations may be increased (to the percent specified in such section) until November 30, 1990.
 
->     “(b) __Limitations.—__ 
+>     “(b)  __Limitations__  __.—__ 
 
 >     If upon enactment of this Act such section 203(b)(2) \[[12 U.S.C. 1709(b)(2)][/us/usc/t12/s1709/b/2]\] provides for an increase in the maximum dollar amount limitations (referred to in subsection (a)) until a date other than October 31, 1990, this section shall not apply. This section shall not apply with respect to any amendment to section 203(b)(2) of the National Housing Act made after the date of the enactment of this Act \[Oct. 31, 1990\].”
 
@@ -969,19 +969,19 @@
 
 [Pub. L. 101–508, title II, § 2103(b)][/us/pl/101/508/s2103/b], (c), Nov. 5, 1990, [104 Stat. 1388–18][/us/stat/104/1388-18], 1388–19, as amended by [Pub. L. 102–550, title I, § 185(c)(3)][/us/pl/102/550/s185/c/3], title V, § 507(b), Oct. 28, 1992, [106 Stat. 3748][/us/stat/106/3748], 3782, provided that:
 
->     “(b) __Transition Provisions.—__ 
+>     “(b)  __Transition Provisions__  __.—__ 
 
 >     Notwithstanding section 203(c) of the National Housing Act \[[12 U.S.C. 1709(c)][/us/usc/t12/s1709/c]\] (as amended by subsection (a)), mortgage insurance premiums on mortgages executed during fiscal years 1991 through 1994 and that are obligations of the Mutual Mortgage Insurance Fund or of the General Insurance Fund pursuant to section 203(v) of the National Housing Act shall be subject to the following requirements:
 
->         “(1) __1991 and 1992.—__ 
+>         “(1) __1991__  __and 1992__  __.—__ 
 
 >         For mortgages executed during fiscal years 1991 and 1992 (but after the date of the effectiveness of regulations issued under subsection (c)), the Secretary shall establish and collect the following premiums:
 
->             “(A) __Up-front.—__ 
+>             “(A)  __Up-front__  __.—__ 
 
 >             At the time of insurance, a single premium payment in an amount not exceeding 3.80 percent of the amount of the original insured principal obligation of the mortgage.
 
->             “(B) __Annual.—__ 
+>             “(B)  __Annual__  __.—__ 
 
 >             In addition to the premium under subparagraph (A), annual premium payments in an amount not exceeding 0.50 percent of the remaining insured principal balance (excluding the portion of the remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayments), for any mortgage involving an original principal obligation (excluding any premium collected under subparagraph (A)) that is—
 
@@ -991,15 +991,15 @@
 
 >                 “(iii) greater than 95 percent of such value, for the first 10 years of the mortgage term.
 
->         “(2) __1993 and 1994.—__ 
+>         “(2) __1993__  __and 1994__  __.—__ 
 
 >         For mortgages executed during fiscal years 1993 and 1994, the Secretary shall establish and collect the following premiums:
 
->             “(A) __Up-front.—__ 
+>             “(A)  __Up-front__  __.—__ 
 
 >             At the time of insurance, a single premium payment in an amount not exceeding 3.00 percent of the amount of the original insured principal obligation of the mortgage.
 
->             “(B) __Annual.—__ 
+>             “(B)  __Annual__  __.—__ 
 
 >             In addition to the premium under subparagraph (A), annual premium payments in an amount not exceeding 0.50 percent of the remaining insured principal balance (excluding the portion of the remaining balance attributable to the premium collected under subparagraph (A) and without taking into account delinquent payments or prepayments), for any mortgage involving an original principal obligation (excluding any premium collected under subparagraph (A)) that is—
 
@@ -1009,11 +1009,11 @@
 
 >                 “(iii) greater than 95 percent of such value, for the first 30 years of the mortgage term.
 
->         “(3) __Refunds.—__ 
+>         “(3)  __Refunds__  __.—__ 
 
 >         With respect to any mortgage subject to premiums under this subsection, the Secretary shall refund all of the unearned premium charges paid on a mortgage pursuant to paragraph (1)(A) or (2)(A) upon payment in full of the principal obligation of the mortgage prior to the maturity date.
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     The Secretary shall issue regulations to carry out this section and the amendments made by this section \[amending this section\] not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Nov. 5, 1990\].”
 
@@ -1049,7 +1049,7 @@
 
 [Pub. L. 110–289, div. B, title I, § 2130][/us/pl/110/289/s2130], July 30, 2008, [122 Stat. 2842][/us/stat/122/2842], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, including any provision of this title \[see Short Title of 2008 Amendment note set out under [section 1701 of this title][/us/usc/t12/s1701]\] and any amendment made by this title—
 
@@ -1063,7 +1063,7 @@
 
 >             “(B) publishes notice of such increase in the Federal Register.
 
->     “(b) __Waiver.—__ 
+>     “(b)  __Waiver__  __.—__ 
 
 >     The Secretary of Housing and Urban Development may waive the 30-day notice requirement under subsection (a)(2), if the Secretary determines that waiting 30-days before increasing premiums would cause substantial damage to the solvency of multifamily housing programs under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\].”
 

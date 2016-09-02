@@ -205,7 +205,7 @@
 
                 (ii) __Exception__ 
 
-                The Comptroller may permit a savings association to exceed the limitation set forth in clause (i) if the Director determines that the increased authority—
+                The Comptroller may permit a savings association to exceed the limitation set forth in clause (i) if the Comptroller determines that the increased authority—
 
                     (I) poses no significant risk to the safe and sound operation of the association, and
 
@@ -733,7 +733,7 @@
 
         (5) For purposes of this subsection, the term “loan” includes obligations and extensions or advances of credit.
 
-        (6) __Exceptions.—__ 
+        (6)  __Exceptions__  __.—__ 
 
         The Board may, by regulation or order, permit such exceptions to the prohibitions of this subsection as the Board in  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be preceded by a comma. </sup></sup>  consultation with the Comptroller and the Corporation, considers will not be contrary to the purposes of this subsection and which conform to exceptions granted by the Board pursuant to [section 1972 of this title][/us/usc/t12/s1972].
 
@@ -1901,7 +1901,7 @@ Act Oct. 20, 1951, title VI, § 615, [65 Stat. 569][/us/stat/65/569], provided
 
 [Pub. L. 101–73, title III, § 305(a)][/us/pl/101/73/s305/a], (b), Aug. 9, 1989, [103 Stat. 351][/us/stat/103/351], as amended by [Pub. L. 111–203, title III, § 367(3)][/us/pl/111/203/s367/3], July 21, 2010, [124 Stat. 1556][/us/stat/124/1556], provided that:
 
->     “(a) __Divestiture of Certain Loans and Investments Not Required.—__ 
+>     “(a)  __Divestiture of Certain Loans and Investments Not Required__  __.—__ 
 
 >     The limitations on loans and investments contained in section 5(c) of the Home Owners’ Loan Act \[[12 U.S.C. 1464(c)][/us/usc/t12/s1464/c]\], as amended by section 301, do not require the divestiture of any loan or investment that was lawful when made under the provisions of such section as those provisions were in effect at the time such loan or investment was made.
 

@@ -391,11 +391,11 @@
 
 [Pub. L. 101–625, title III, § 328][/us/pl/101/625/s328], Nov. 28, 1990, [104 Stat. 4138][/us/stat/104/4138], as amended by [Pub. L. 102–242, title II, § 226][/us/pl/102/242/s226], Dec. 19, 1991, [105 Stat. 2307][/us/stat/105/2307], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     Not later than the expiration of the 60-day period beginning on the date of enactment this Act \[Nov. 28, 1990\], the Secretary of Housing and Urban Development shall implement a system of mortgage insurance for mortgages insured under section 207, 221, 223, 232, or 241 of the National Housing Act \[[12 U.S.C. 1713][/us/usc/t12/s1713], 1715l, 1715n, 1715w, 1715z–6\] that delegates processing functions to selected approved mortgagees or other individuals and entities expressly approved by the Department of Housing and Urban Development. Under such system, the Secretary shall retain the authority to approve rents, expenses, property appraisals, and mortgage amounts and to execute a firm commitment.
 
->     “(b) __Full Insurance Program.—__ 
+>     “(b)  __Full Insurance Program__  __.—__ 
 
 >     Notwithstanding subsection (a), the Secretary shall maintain a viable system for full insurance programs under such Act \[this chapter\] under which all processing functions are performed by officers and employees of the Department of Housing and Urban Development.”
 

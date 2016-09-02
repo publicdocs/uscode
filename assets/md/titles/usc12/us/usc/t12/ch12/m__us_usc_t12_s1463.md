@@ -177,7 +177,7 @@
 
 [Pub. L. 101–73, title III, § 308][/us/pl/101/73/s308], Aug. 9, 1989, [103 Stat. 353][/us/stat/103/353], as amended by [Pub. L. 111–203, title III, § 367(4)][/us/pl/111/203/s367/4], July 21, 2010, [124 Stat. 1556][/us/stat/124/1556], provided that:
 
->     “(a) __Consultation on Methods.—__ 
+>     “(a)  __Consultation on Methods__  __.—__ 
 
 >     The Secretary of the Treasury shall consult with the Chairman of the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Chairman of the National Credit Union Administration, and the Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation on methods for best achieving the following goals:
 
@@ -207,11 +207,11 @@
 
 >         “(5) Providing for training, technical assistance, and educational programs.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Minority financial institution.—__ 
+>         “(1)  __Minority financial institution__  __.—__ 
 
 >         The term ‘minority depository institution’ means any depository institution that—
 
@@ -221,11 +221,11 @@
 
 >             “(C) in the case of a mutual institution where the majority of the Board of Directors, account holders, and the community which it services is predominantly minority.
 
->         “(2) __Minority.—__ 
+>         “(2)  __Minority__  __.—__ 
 
 >         The term ‘minority’ means any black American, Native American, Hispanic American, or Asian American.
 
->     “(c) __Reports.—__ 
+>     “(c)  __Reports__  __.—__ 
 
 >     The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Chairman of the National Credit Union Administration, and the Chairperson of Board of Directors of the Federal Deposit Insurance Corporation shall each submit an annual report to the Congress containing a description of actions taken to carry out this section.”
 

@@ -161,7 +161,7 @@
 
 [Pub. L. 102–550, title IX, § 916][/us/pl/102/550/s916], Oct. 28, 1992, [106 Stat. 3881][/us/stat/106/3881], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall submit to the Congress, not later than 1 year after the date of the enactment of this Act \[Oct. 28, 1992\], a report describing—
 
@@ -175,7 +175,7 @@
 
 >     “(b) __Contents.—__ 
 
->         “(1) __Enforcement.—__ 
+>         “(1)  __Enforcement__  __.—__ 
 
 >         The description under subsection (a)(1) of the Secretary’s enforcement efforts shall include, at a minimum—
 
@@ -189,7 +189,7 @@
 
 >             “(E) a separate description of the activities carried out under section 3 with respect to each of these programs.
 
->         “(2) __Impediments.—__ 
+>         “(2)  __Impediments__  __.—__ 
 
 >         The discussion under subsection (a)(2) of the external impediments to effective enforcement of section 3 of the Housing and Urban Development Act of 1968 shall include, at a minimum, a discussion of—
 
@@ -203,7 +203,7 @@
 
 >             “(E) any lack of resources on the part of recipients of assistance who are responsible for carrying out section 3 of the Housing and Urban Development Act of 1968.
 
->     “(c) __Consultation.—__ 
+>     “(c)  __Consultation__  __.—__ 
 
 >     In preparing the report under this subsection, the Secretary shall consult with the Secretary of Labor, the Secretary of Commerce, the Secretary of Health and Human Services, the Administrator of the Small Business Administration, other appropriate Federal officials, and recipients of Federal housing and community development assistance who are responsible for executing section 3 of the Housing and Urban Development Act of 1968 \[[12 U.S.C. 1701u][/us/usc/t12/s1701u]\].”
 

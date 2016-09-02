@@ -91,7 +91,7 @@
 
 [Pub. L. 105–219, title II, § 203(b)][/us/pl/105/219/s203/b], Aug. 7, 1998, [112 Stat. 922][/us/stat/112/922], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary \[of the Treasury\] shall conduct a study of member business lending by insured credit unions, including—
 
@@ -107,11 +107,11 @@
 
 >         “(F) the effect of enactment of this Act \[see Short Title of 1998 Amendment note set out under [section 1751 of this title][/us/usc/t12/s1751]\] on the number of insured credit unions involved in member business lending and the overall amount of commercial lending.
 
->     “(2) __NCUA cooperation.—__ 
+>     “(2)  __NCUA cooperation__  __.—__ 
 
 >     The National Credit Union Administration shall, upon request, provide such information as the Secretary may require to conduct the study required under paragraph (1).
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Not later than 12 months after the date of enactment of this Act \[Aug. 7, 1998\], the Secretary shall submit a report to the Congress on the results of the study conducted under paragraph (1).”
 

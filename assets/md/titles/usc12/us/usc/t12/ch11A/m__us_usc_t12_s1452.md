@@ -125,11 +125,11 @@
 
 >     “(A) __Interim board.—__ 
 
->         “(i) __Establishment.—__ 
+>         “(i)  __Establishment__  __.—__ 
 
 >         There shall be an interim Board of Directors of the Federal Home Loan Mortgage Corporation, which shall serve from the date of the enactment of this Act \[Aug. 9, 1989\] until the date of the 1st meeting of the voting common shareholders of the Corporation at which the first election of the directors elected by the shareholders occurs.
 
->         “(ii) __Members.—__ 
+>         “(ii)  __Members__  __.—__ 
 
 >         The interim Board of Directors of the Federal Home Loan Mortgage Corporation shall consist of—
 
@@ -137,11 +137,11 @@
 
 >             “(II) the persons who were (on the day before the date of the enactment of this Act) the Chairman of the Federal Home Loan Bank Board and the Secretary of Housing and Urban Development (or their designees).
 
->         “(iii) __Quorum.—__ 
+>         “(iii)  __Quorum__  __.—__ 
 
 >         A quorum of the interim Board of Directors of the Federal Home Loan Mortgage Corporation shall consist of a majority of the directors duly serving from time to time.
 
->     “(B) __Election of permanent directors.—__ 
+>     “(B)  __Election of permanent directors__  __.—__ 
 
 >     The first meeting of the voting common shareholders of the Federal Home Loan Mortgage Corporation for election of directors shall occur, under procedures established by the Corporation, within 6 months after the date of the enactment of this Act.”
 

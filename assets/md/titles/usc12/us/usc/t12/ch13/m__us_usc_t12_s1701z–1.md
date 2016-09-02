@@ -57,7 +57,7 @@
 
 [Pub. L. 105–276, title V, § 599G][/us/pl/105/276/s599G], Oct. 21, 1998, [112 Stat. 2666][/us/stat/112/2666], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall, to the extent amounts are provided in appropriation Acts to carry out this section, carry out a program to demonstrate the effectiveness of making grants for rehabilitation of single family housing located within 10 demonstration areas designated by the Secretary. Of the areas designated by the Secretary under this section—
 
@@ -69,11 +69,11 @@
 
 >         In selecting areas, the Secretary shall provide for national geographic and demographic diversity.
 
->     “(b) __Grantees.—__ 
+>     “(b)  __Grantees__  __.—__ 
 
 >     Grants under the program under this section may be made only to agencies of State and local governments and non-profit organizations operating within the demonstration areas.
 
->     “(c) __Selection Criteria.—__ 
+>     “(c)  __Selection Criteria__  __.—__ 
 
 >     In selecting among applications for designation of demonstration areas and grants under this section, the Secretary shall consider—
 
@@ -91,7 +91,7 @@
 
 >         “(7) the extent to which the application provides for the involvement of local residents in the planning of rehabilitation activities in the demonstration area.
 
->     “(d) __Use of Grant Funds.—__ 
+>     “(d)  __Use of Grant Funds__  __.—__ 
 
 >     Funds from grants made under this section may be used by grantees—
 
@@ -101,15 +101,15 @@
 
 >         “(3) to provide technical assistance in conjunction with the rehabilitation of owner-occupied 1- to 4-family residences, including counseling, selection contractors, monitoring of work, approval of contractor payments, and final inspection of work.
 
->     “(e) __Definition of Rehabilitation.—__ 
+>     “(e)  __Definition of Rehabilitation__  __.—__ 
 
 >     For purposes of this section, the term ‘rehabilitation’ has the meaning given such term in section 203(k)(2)(B) of the National Housing Act ([12 U.S.C. 1709(k)(2)(B)][/us/usc/t12/s1709/k/2/B]).
 
->     “(f) __Authorization of Appropriations.—__ 
+>     “(f)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary to carry out this section such sums as may be necessary for each of fiscal years 1999 through 2003.
 
->     “(g) __Effective Date.—__ 
+>     “(g)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
 

@@ -31,7 +31,7 @@
 
 [Pub. L. 106–102, title I, § 108][/us/pl/106/102/s108], Nov. 12, 1999, [113 Stat. 1361][/us/stat/113/1361], provided that:
 
->     “(a) __Study Required.—__ 
+>     “(a)  __Study Required__  __.—__ 
 
 >     The Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall conduct a study of—
 
@@ -41,23 +41,23 @@
 
 >         “(3) the manner in which any such requirement could be incorporated into existing capital standards and other issues relating to the transition to such a requirement.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Before the end of the 18-month period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall submit a report to the Congress containing the findings and conclusions of the Board and the Secretary in connection with the study required under subsection (a), together with such legislative and administrative proposals as the Board and the Secretary may determine to be appropriate.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of subsection (a), the following definitions shall apply:
 
->         “(1) __Bank holding company.—__ 
+>         “(1)  __Bank holding company__  __.—__ 
 
 >         The term ‘bank holding company’ has the meaning given the term in section 2 of the Bank Holding Company Act of 1956 \[[12 U.S.C. 1841][/us/usc/t12/s1841]\].
 
->         “(2) __Insured depository institution.—__ 
+>         “(2)  __Insured depository institution__  __.—__ 
 
 >         The term ‘insured depository institution’ has the meaning given the term in section 3(c) of the Federal Deposit Insurance Act \[[12 U.S.C. 1813(c)][/us/usc/t12/s1813/c]\].
 
->         “(3) __Subordinated debt.—__ 
+>         “(3)  __Subordinated debt__  __.—__ 
 
 >         The term ‘subordinated debt’ means unsecured debt that—
 
@@ -73,15 +73,15 @@
 
 [Pub. L. 106–102, title VII, § 729][/us/pl/106/102/s729], Nov. 12, 1999, [113 Stat. 1476][/us/stat/113/1476], provided that:
 
->     “(a) __Study Required.—__ 
+>     “(a)  __Study Required__  __.—__ 
 
 >     The Federal banking agencies shall conduct a study of banking regulations regarding the delivery of financial services, including those regulations that may assume that there will be person-to-person contact during the course of a financial services transaction, and report their recommendations on adapting those existing requirements to online banking and lending.
 
->     “(b) __Report Required.—__ 
+>     “(b)  __Report Required__  __.—__ 
 
 >     Before the end of the 2-year period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Federal banking agencies shall submit a report to the Congress on the findings and conclusions of the agencies with respect to the study required under subsection (a), together with such recommendations for legislative or regulatory action as the agencies may determine to be appropriate.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘Federal banking agencies’ means each Federal banking agency (as defined in section 3(z) of the Federal Deposit Insurance Act \[[12 U.S.C. 1813(z)][/us/usc/t12/s1813/z]\]).”
 
@@ -105,7 +105,7 @@
 
 [Pub. L. 103–325, title III, § 328][/us/pl/103/325/s328], Sept. 23, 1994, [108 Stat. 2230][/us/stat/108/2230], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Treasury, in consultation with the Federal banking agencies, shall conduct a study of the effect that the implementation of risk-based capital standards for depository institutions, including the Basle international capital standards, is having on—
 
@@ -117,11 +117,11 @@
 
 >     “(b) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Before the end of the 1-year period beginning on the date of enactment of this Act \[Sept. 23, 1994\], the Secretary of the Treasury shall submit a report to the Congress on the findings and conclusions of the Secretary with respect to the study conducted under subsection (a).
 
->         “(2) __Recommendations.—__ 
+>         “(2)  __Recommendations__  __.—__ 
 
 >         The report shall contain any recommendations with respect to capital standards that the Secretary of the Treasury may determine to be appropriate.”
 
@@ -129,7 +129,7 @@
 
 [Pub. L. 103–325, title III, § 329][/us/pl/103/325/s329], Sept. 23, 1994, [108 Stat. 2230][/us/stat/108/2230], provided that:
 
->     “(a) __Federal Reserve Study.—__ 
+>     “(a)  __Federal Reserve Study__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System, in consultation with the Federal Deposit Insurance Corporation and the National Credit Union Administration Board, shall conduct a study and report to the Congress on—
 
@@ -141,7 +141,7 @@
 
 >         “(4) the impact that the failure to pay interest on sterile reserves has had on the ability of the banking industry to compete with nonbanking providers of financial services and with foreign banks.
 
->     “(b) __Budgetary Impact Study.—__ 
+>     “(b)  __Budgetary Impact Study__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Sept. 23, 1994\], the Director of the Office of Management and Budget and the Director of the Congressional Budget Office, in consultation with the Committees on the Budget of the Senate and the House of Representatives, shall jointly conduct a study and report to the Congress on the budgetary impact of—
 
@@ -153,7 +153,7 @@
 
 [Pub. L. 103–325, title III, § 330][/us/pl/103/325/s330], Sept. 23, 1994, [108 Stat. 2231][/us/stat/108/2231], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of the Treasury, in consultation with the Board of Governors of the Federal Reserve System, the Administrator of the Small Business Administration, the Secretary of Housing and Urban Development, and the other Federal banking agencies, shall conduct a study of the process, including any Federal laws, by which credit is made available for consumers and small businesses in order to identify procedures, including any Federal laws, which have the effect of—
 
@@ -165,15 +165,15 @@
 
 >     “(b) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 1 year after the date of enactment of this Act \[Sept. 23, 1994\], the Secretary of the Treasury shall submit a report to the Congress on the findings and conclusions of the Secretary with respect to the study conducted under subsection (a).
 
->         “(2) __Recommendations.—__ 
+>         “(2)  __Recommendations__  __.—__ 
 
 >         The report required by paragraph (1) shall contain any recommendations for administrative action or statutory changes that the Secretary of the Treasury may determine to be appropriate.
 
->     “(c) __Public Participation.—__ 
+>     “(c)  __Public Participation__  __.—__ 
 
 >     In conducting the study required by subsection (a), comments shall be solicited from consumers, representatives of consumers, insured depository institutions, insured credit unions, other lenders, and other interested parties.”
 
@@ -181,11 +181,11 @@
 
 [Pub. L. 103–325, title III, § 333][/us/pl/103/325/s333], Sept. 23, 1994, [108 Stat. 2233][/us/stat/108/2233], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Board of Governors of the Federal Reserve System (hereafter in this section referred to as the ‘Board’) shall conduct a study on the advisability of extending the 1-business-day period specified in section 603(b)(1) of the Expedited Funds Availability Act \[[12 U.S.C. 4002(b)(1)][/us/usc/t12/s4002/b/1]\], regarding availability of funds deposited by local checks, to 2 business days.
 
->     “(b) __Considerations.—__ 
+>     “(b)  __Considerations__  __.—__ 
 
 >     In conducting the study under subsection (a), the Board shall consider—
 
@@ -193,7 +193,7 @@
 
 >         “(2) whether extension of the time period referred to in subsection (a) is necessary to diminish the volume of any such check-related losses.
 
->     “(c) __Report to the Congress.—__ 
+>     “(c)  __Report to the Congress__  __.—__ 
 
 >     Not later than 2 years after the date of enactment of this Act \[Sept. 23, 1994\], the Board shall submit a report to the Congress concerning the results of the study conducted under this section and including any recommendations for legislative action.”
 
@@ -201,7 +201,7 @@
 
 [Pub. L. 103–325, title III, § 341][/us/pl/103/325/s341], Sept. 23, 1994, [108 Stat. 2238][/us/stat/108/2238], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Sept. 23, 1994\], the Federal Financial Institutions Examination Council shall—
 
@@ -209,7 +209,7 @@
 
 >         “(2) report the results of such study to the Congress.
 
->     “(b) __Additional Factors.—__ 
+>     “(b)  __Additional Factors__  __.—__ 
 
 >     The study required under subsection (a) shall consider the feasibility of—
 

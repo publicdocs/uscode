@@ -115,11 +115,11 @@
 
 >         “(1) __50 percent risk-weighted classification.—__ 
 
->             “(a)    \[(A) __\] In general.—__ 
+>             “(a)    \[(A) __\]__  __In general__  __.—__ 
 
 >                 To provide consistent regulatory treatment of loans made for the construction of single family housing, not later than the expiration of the 120-day period beginning on the date of this Act \[probably means date of enactment, Dec. 12, 1991\] each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that any single family residence construction loan described under subparagraph (B) shall be considered as a loan within the 50 percent risk-weighted category.
 
->                 “(B) __Requirements.—__ 
+>                 “(B)  __Requirements__  __.—__ 
 
 >                 Subparagraph (A) shall apply to any construction loan—    “(i) made for the construction of a residence consisting of 1 to 4 dwelling units;
 
@@ -133,7 +133,7 @@
 
 >                     “(iv) that meets any other underwriting characteristics that the appropriate Federal banking agency may establish, consistent with the purposes of the minimum acceptable capital requirements to maintain the safety and soundness of financial institutions.
 
->         “(2) __100 percent risk-weighted classification.—__ 
+>         “(2) __100__  __percent risk-weighted classification__  __.—__ 
 
 >         Not later than the expiration of the 120-day period beginning on the date of this Act \[Dec. 12, 1991\] each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that—
 
@@ -145,11 +145,11 @@
 
 >         “(1) __50 percent risk-weighted classification.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             To provide consistent regulatory treatment of loans made for the purchase of multifamily rental and homeowner properties, not later than the expiration of the 120-day period beginning on the date of this Act \[Dec. 12, 1991\] each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that any multifamily housing loan described under subparagraph (B) and any security collateralized by such a loan shall be considered as a loan or security within the 50 percent risk-weighted category.
 
->             “(B) __Requirements.—__ 
+>             “(B)  __Requirements__  __.—__ 
 
 >             Subparagraph (A) shall apply to any loan—
 
@@ -175,15 +175,15 @@
 
 >                 “(iv) that meets any other underwriting characteristics that the appropriate Federal banking agency may establish, consistent with the purposes of the minimum acceptable capital requirements to maintain the safety and soundness of financial institutions.
 
->         “(2) __Sale pursuant to pro rata loss sharing arrangements.—__ 
+>         “(2)  __Sale pursuant to pro rata loss sharing arrangements__  __.—__ 
 
 >         Not later than the expiration of the 120-day period beginning on the date of this Act \[Dec. 12, 1991\], each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to provide that any loan fully secured by a first lien on a multifamily housing property that is sold subject to a pro rata loss sharing arrangement by an institution subject to the jurisdiction of the agency shall be treated as sold to the extent that loss is incurred by the purchaser of the loan. For purposes of this paragraph, the term ‘pro rata loss sharing arrangement’ means an agreement providing that the purchaser of a loan shares in any loss incurred on the loan with the selling institution on a pro rata basis.
 
->         “(3) __Sale pursuant to other arrangements for loss.—__ 
+>         “(3)  __Sale pursuant to other arrangements for loss__  __.—__ 
 
 >         Not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 12, 1991\], each Federal banking agency shall amend the regulations and guidelines of the agency establishing minimum acceptable capital levels to take into account other loss sharing arrangements, in connection with the sale by an institution subject to the jurisdiction of the agency of any loan that is fully secured by a first lien on multifamily housing property, for purposes of determining the extent to which such loans shall be treated as sold. For purposes of this paragraph, the term ‘other loss sharing arrangement’ means an agreement providing that the purchaser of a loan shares in any loss incurred on the loan with the selling institution on other than a pro rata basis.
 
->     “(c) __Appropriate Federal Banking Agency.—__ 
+>     “(c)  __Appropriate Federal Banking Agency__  __.—__ 
 
 >     For purposes of this section, the term ‘Federal banking agency’ means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, and the Director of the Office of Thrift Supervision.”
 

@@ -71,17 +71,17 @@
 
         (10) __Notice and comment requirements.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Before any meeting of the Board for final consideration of a long-term transaction the value of which exceeds $100,000,000, and concurrent with any statement required to be submitted under [section 635(b)(3) of this title][/us/usc/t12/s635/b/3] with respect to the transaction, the Bank shall provide a notice and comment period.
 
-            (B) __Financial threshold determinations.—__ 
+            (B)  __Financial threshold determinations__  __.—__ 
 
             For purposes of determining whether the value of a proposed transaction exceeds the financial threshold set forth in subparagraph (A), the Bank shall aggregate the dollar amount of the proposed transaction and the dollar amounts of all long-term loans and guarantees, approved by the Bank in the preceding 12-month period, that involved the same foreign entity and substantially the same product to be produced.
 
             (C) __Specific requirements.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 The Bank shall—
 
@@ -91,7 +91,7 @@
 
                     (III) notify the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives of the application, and seek comments on the application from the Department of Commerce and the Office of Management and Budget.
 
-                (ii) __Content of notice.—__ 
+                (ii)  __Content of notice__  __.—__ 
 
                 The notice published under clause (i)(I) with respect to an application for a loan or financial guarantee shall include appropriate information about—
 
@@ -103,23 +103,23 @@
 
             (D) __Procedure regarding materially changed applications.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 If a material change is made to an application to which this paragraph applies, after a notice with respect to the application is published under subparagraph (C)(i)(I), the Bank shall publish in the Federal Register a revised notice of the application and provide for an additional comment period as provided in subparagraph (C)(i)(II).
 
-                (ii) __Material change defined.—__ 
+                (ii)  __Material change defined__  __.—__ 
 
                 In clause (i), the term “material change”, with respect to an application for a loan or guarantee, includes an increase of at least 25 percent in the amount of a loan or guarantee requested in the application.
 
-            (E) __Requirement to address views of commenters.—__ 
+            (E)  __Requirement to address views of commenters__  __.—__ 
 
             Before taking final action on an application to which this paragraph applies, the staff of the Bank shall provide in writing to the Board of Directors the views of any person who submitted comments on the application pursuant to this paragraph.
 
-            (F) __Publication of conclusions.—__ 
+            (F)  __Publication of conclusions__  __.—__ 
 
             Within 30 days after a final decision of the Board of Directors with respect to an application to which this paragraph applies, the Bank shall provide to a commenter on the application or the decision who makes a request therefor, a non-confidential summary of the facts found and conclusions reached in any detailed analysis or similar study with respect to the loan or guarantee that is the subject of the application, that was submitted to the Board of Directors. Such summary should be sent within 30 days of the receipt of the written request or date of the final decision of the Board of Directors, whichever is later.
 
-            (G) __Rule of interpretation.—__ 
+            (G)  __Rule of interpretation__  __.—__ 
 
             The obligations imposed by this paragraph shall not be interpreted to create, modify, or preclude any legal right of action.
 
@@ -381,11 +381,11 @@
 
 [Pub. L. 107–189, § 10(a)][/us/pl/107/189/s10/a], June 14, 2002, [116 Stat. 702][/us/stat/116/702], provided that:
 
->     “(1) __Negotiations.—__ 
+>     “(1)  __Negotiations__  __.—__ 
 
 >     The Secretary of the Treasury shall seek to negotiate an OECD Arrangement on Untied Aid. In the negotiations, the Secretary should seek agreement on subjecting untied aid to the rules governing the Arrangement, including the rules governing disclosure.
 
->     “(2) __Report to the congress.—__ 
+>     “(2)  __Report to the congress__  __.—__ 
 
 >     Within 1 year after the date of the enactment of this Act \[June 14, 2002\], the Secretary of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the successes, failures, and obstacles in initiating negotiations, and if negotiations were initiated, in reaching the agreement described in paragraph (1).”
 
@@ -401,11 +401,11 @@
 
 >     “\[(a) Repealed. [Pub. L. 102–429, title I][/us/pl/102/429], §117(b), Oct. 21, 1996, [106 Stat. 2196][/us/stat/106/2196].\]
 
->     “(b) __Sunset.—__ 
+>     “(b)  __Sunset__  __.—__ 
 
 >     Effective 2 years after the date of enactment of this Act \[Oct. 21, 1992\], subsection (a) is hereby repealed.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act, the Export-Import Bank of the United States shall submit a report to the Congress on—
 

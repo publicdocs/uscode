@@ -101,25 +101,25 @@
 
 [Pub. L. 100–233, title IV, § 411][/us/pl/100/233/s411], Jan. 6, 1988, [101 Stat. 1638][/us/stat/101/1638], as amended by [Pub. L. 100–399, title IV, § 403][/us/pl/100/399/s403], Aug. 17, 1988, [102 Stat. 999][/us/stat/102/999], provided that:
 
->     “(a) __Submission of Proposal.—__ 
+>     “(a)  __Submission of Proposal__  __.—__ 
 
 >     Not later than 6 months after the date of the merger of the Federal land bank and the Federal intermediate credit bank in a district, the Boards of Directors of each Federal land bank association and each production credit association in such district, that share substantially the same geographical territory with each other, shall submit to the voting stockholders of each such association for their approval, a plan, approved by the supervising bank and the Farm Credit Administration, for merging such associations.
 
 >     “(b) __Prerequisites to Merger.—__ 
 
->         “(1) __Stockholder vote.—__ 
+>         “(1)  __Stockholder vote__  __.—__ 
 
 >         The stockholder vote required for approval of a merger under subsection (a) shall be a majority of the voting stockholders of each association voting, in person or by written proxy, at a duly authorized stockholders meeting.
 
->         “(2) __Submission to fca.—__ 
+>         “(2)  __Submission to fca__  __.—__ 
 
 >         Not later than 60 days prior to the end of the 12-month period beginning on the date of the enactment of this section \[Jan. 6, 1988\], the plan of merger under subsection (a), together with all information to be presented to the stockholders, shall be submitted to the Farm Credit Administration.
 
->         “(3) __Expedited consideration by fca.—__ 
+>         “(3)  __Expedited consideration by fca__  __.—__ 
 
 >         The Farm Credit Administration shall expedite its consideration of the plan and accompanying information submitted under paragraph (2) so that review and approval of such plan and information shall be completed by the Administration so as to enable a stockholder vote to occur within the 12-month period referred to in paragraph (2).
 
->     “(c) __Direct Lenders.—__ 
+>     “(c)  __Direct Lenders__  __.—__ 
 
 >     On approval of a merger under this subsection, the resulting association shall be a direct lender in the same manner as applies to production credit associations.”
 
@@ -127,15 +127,15 @@
 
 [Pub. L. 100–233, title IV, § 433][/us/pl/100/233/s433], Jan. 6, 1988, [101 Stat. 1662][/us/stat/101/1662], as amended by [Pub. L. 100–399, title IV, § 417][/us/pl/100/399/s417], Aug. 17, 1988, [102 Stat. 1004][/us/stat/102/1004], provided that:
 
->     “(a) __Petition of Bank.—__ 
+>     “(a)  __Petition of Bank__  __.—__ 
 
 >     Notwithstanding any other provision of law, effective for the 12-month period beginning on the date of enactment of this Act \[Jan. 6, 1988\], each Federal land bank association or production credit association, whose chartered territory adjoins the territory of another district, may petition the Farm Credit Administration to amend the charters of the association and the adjoining district bank to provide that the territory of the association is part of the adjoining district.
 
->     “(b) __Requirements of Petition.—__ 
+>     “(b)  __Requirements of Petition__  __.—__ 
 
 >     To be considered under this section, the petition must be signed by not less than 15 percent of the stockholders of the association. Only one such petition may be filed by an association under this section.
 
->     “(c) __FCA Action.—__ 
+>     “(c)  __FCA Action__  __.—__ 
 
 >     The Farm Credit Administration shall take any action necessary—
 

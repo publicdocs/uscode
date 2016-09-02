@@ -255,11 +255,11 @@
 
 [Pub. L. 102–242, title I, § 151(b)][/us/pl/102/242/s151/b], Dec. 19, 1991, [105 Stat. 2285][/us/stat/105/2285], as amended by [Pub. L. 102–550, title XVI, § 1603(f)(1)][/us/pl/102/550/s1603/f/1], Oct. 28, 1992, [106 Stat. 4081][/us/stat/106/4081], provided that:
 
->     “(1) __Deadline for initial independent audit.—__ 
+>     “(1)  __Deadline for initial independent audit__  __.—__ 
 
 >     The initial annual audit under section 43(a)(1) of the Federal Deposit Insurance Act \[[12 U.S.C. 1831t(a)(1)][/us/usc/t12/s1831t/a/1]\] (as added by subsection (a)) shall be completed not later than 120 days after the date of enactment of this Act \[Dec. 19, 1991\].
 
->     “(2) __Business plan required.—__ 
+>     “(2)  __Business plan required__  __.—__ 
 
 >     Not later than 240 days after the date of enactment of this Act \[Dec. 19, 1991\], any private deposit insurer shall provide a business plan to each appropriate supervisor of each State in which deposits are received by any depository institution lacking Federal deposit insurance the deposits of which are insured by a private deposit insurer. The business plan shall explain in detail why the private deposit insurer is viable, and shall, at a minimum—
 
@@ -275,7 +275,7 @@
 
 >         “(B) include, for the preceding 5 years, copies of annual audits, annual reports, and annual meeting agendas and minutes.
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection, the terms ‘appropriate supervisor’, ‘depository institution’, ‘lacking Federal deposit insurance’, and ‘private deposit insurer’ have the same meaning as in section 43(f) of the Federal Deposit Insurance Act \[[12 U.S.C. 1831t(f)][/us/usc/t12/s1831t/f]\] (as added by subsection (a)).”
 

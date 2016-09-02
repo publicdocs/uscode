@@ -21,7 +21,7 @@
 
         (1) after May 9, 1956, acquire direct or indirect ownership or control of any voting shares of any company which is not a bank, or
 
-        (2) after two years from the date as of which it becomes a bank holding company, or in the case of a company which has been continuously affiliated since May 15, 1955, with a company which was registered under the Investment Company Act of 1940 \[[15 U.S.C. 80a–1][/us/usc/t15/s80a–1] et seq.\], prior to May 15, 1955, in such a manner as to constitute an affiliated company within the meaning of that Act, after December 31, 1978, or, in the case of any company which becomes, as a result of the enactment of the Bank Holding Company Act Amendments of 1970, a bank holding company on December 31, 1970, after December 31, 1980, retain direct or indirect ownership or control of any voting shares of any company which is not a bank or bank holding company or engage in any activities other than (A) those of banking or of managing or controlling banks and other subsidiaries authorized under this chapter or of furnishing services to or performing services for its subsidiaries, and (B) those permitted under paragraph (8) of subsection (c) of this section subject to all the conditions specified in such paragraph or in any order or regulation issued by the Board under such paragraph: Provided, That a company covered in 1970 may also engage in those activities in which directly or through a subsidiary (i) it was lawfully engaged on June 30, 1968 (or on a date subsequent to June 30, 1968 in the case of activities carried on as the result of the acquisition by such company or subsidiary, pursuant to a binding written contract entered into on or before June 30, 1968, of another company engaged in such activities at the time of the acquisition), and (ii) it has been continuously engaged since June 30, 1968 (or such subsequent date). The Board by order, after opportunity for hearing, may terminate the authority conferred by the preceding proviso on any company to engage directly or through a subsidiary in any activity otherwise permitted by that proviso if it determines, having due regard to the purposes of this chapter, that such action is necessary to prevent undue concentration of resources, decreased or unfair competition, conflicts of interest, or unsound banking practices; and in the case of any such company controlling a bank having bank assets in excess of $60,000,000 on or after December 31, 1970, the Board shall determine, within two years after such date (or, if later, within two years after the date on which the bank assets first exceed $60,000,000), whether the authority conferred by the preceding proviso with respect to such company should be terminated as provided in this sentence. Nothing in this paragraph shall be construed to authorize any bank holding company referred to in the preceding proviso, or any subsidiary thereof, to engage in activities authorized by that proviso through the acquisition, pursuant to a contract entered into after June 30, 1968, of any interest in or the assets of a going concern engaged in such activities. Any company which is authorized to engage in any activity pursuant to the preceding proviso or subsection (d) of this section but, as a result of action of the Board, is required to terminate such activity may (notwithstanding any otherwise applicable time limit prescribed in this paragraph) retain the ownership or control of shares in any company carrying on such activity for a period of ten years from the date on which its authority was so terminated by the Board. Notwithstanding any other provision of this paragraph, if any company that became a bank holding company as a result of the enactment of the Competitive Equality Amendments of 1987 acquired, between March 5, 1987, and August 10, 1987, an institution that became a bank as a result of the enactment of such Amendments, that company shall, upon enactment of such Amendments, immediately come into compliance with the requirements of this chapter.
+        (2) after two years from the date as of which it becomes a bank holding company, or in the case of a company which has been continuously affiliated since May 15, 1955, with a company which was registered under the Investment Company Act of 1940 \[[15 U.S.C. 80a–1][/us/usc/t15/s80a–1] et seq.\], prior to May 15, 1955, in such a manner as to constitute an affiliated company within the meaning of that Act, after December 31, 1978, or, in the case of any company which becomes, as a result of the enactment of the Bank Holding Company Act Amendments of 1970, a bank holding company on December 31, 1970, after December 31, 1980, retain direct or indirect ownership or control of any voting shares of any company which is not a bank or bank holding company or engage in any activities other than (A) those of banking or of managing or controlling banks and other subsidiaries authorized under this chapter or of furnishing services to or performing services for its subsidiaries, and (B) those permitted under paragraph (8) of subsection (c) of this section subject to all the conditions specified in such paragraph or in any order or regulation issued by the Board under such paragraph: Provided, That a company covered in 1970 may also engage in those activities in which directly or through a subsidiary (i) it was lawfully engaged on June 30, 1968 (or on a date subsequent to June 30, 1968 in the case of activities carried on as the result of the acquisition by such company or subsidiary, pursuant to a binding written contract entered into on or before June 30, 1968, of another company engaged in such activities at the time of the acquisition), and (ii) it has been continuously engaged since June 30, 1968 (or such subsequent date). The Board by order, after opportunity for hearing, may terminate the authority conferred by the preceding proviso on any company to engage directly or through a subsidiary in any activity otherwise permitted by that proviso if it determines, having due regard to the purposes of this chapter, that such action is necessary to prevent undue concentration of resources, decreased or unfair competition, conflicts of interest, or unsound banking practices; and in the case of any such company controlling a bank having bank assets in excess of $60,000,000 on or after December 31, 1970, the Board shall determine, within two years after such date (or, if later, within two years after the date on which the bank assets first exceed $60,000,000), whether the authority conferred by the preceding proviso with respect to such company should be terminated as provided in this sentence. Nothing in this paragraph shall be construed to authorize any bank holding company referred to in the preceding proviso, or any subsidiary thereof, to engage in activities authorized by that proviso through the acquisition, pursuant to a contract entered into after June 30, 1968, of any interest in or the assets of a going concern engaged in such activities. Any company which is authorized to engage in any activity pursuant to the preceding proviso or subsection (d) of this section but, as a result of action of the Board, is required to terminate such activity may (notwithstanding any otherwise applicable time limit prescribed in this paragraph) retain the ownership or control of shares in any company carrying on such activity for a period of ten years from the date on which its authority was so terminated by the Board. Notwithstanding any other provision of this paragraph, if any company that became a bank holding company as a result of the enactment of the Competitive Equality Amendments of 1987 acquired, between March 5, 1987, and August 10, 1987, an institution that became a bank as a result of the enactment of such Amendments, that company shall, upon the enactment of such Amendments, immediately come into compliance with the requirements of this chapter.
 
         The Board is authorized, upon application by a bank holding company, to extend the two year period referred to in paragraph (2) above from time to time as to such bank holding company for not more than one year at a time, if, in its judgment, such an extension would not be detrimental to the public interest, but no such extensions shall in the aggregate exceed three years. Notwithstanding any other provision of this chapter, the period ending December 31, 1980, referred to in paragraph (2) above, may be extended by the Board of Governors to December 31, 1984, but only for the divestiture by a bank holding company of real estate or interests in real estate lawfully acquired for investment or development. In making its decision whether to grant such extension, the Board shall consider whether the company has made a good faith effort to divest such interests and whether such extension is necessary to avert substantial loss to the company.
 
@@ -87,7 +87,7 @@
 
                     (III) the bank holding company fails to furnish the information required under clause (iii).
 
-                (v) __Leverage.—__ 
+                (v)  __Leverage__  __.—__ 
 
                 The Board may not disapprove any proposed investment solely on the basis of the anticipated or proposed asset-to-equity ratio of the export trading company with respect to which such investment is proposed, unless the anticipated or proposed annual average asset-to-equity ratio is greater than 20-to-1.
 
@@ -129,7 +129,7 @@
 
             (G) __Determination of status as export trading company.—__ 
 
-                (i) __Time period requirements.—__ 
+                (i)  __Time period requirements__  __.—__ 
 
                 For purposes of determining whether an export trading company is operated principally for the purposes described in subparagraph (F)(i)—
 
@@ -137,7 +137,7 @@
 
                     (II) not less than 4 consecutive years of operations of such company (not including any portion of the period referred to in subclause (I)) shall be taken into account in making any such determination.
 
-                (ii) __Export revenue requirements.—__ 
+                (ii)  __Export revenue requirements__  __.—__ 
 
                 A company shall not be treated as operated principally for the purposes described in subparagraph (F)(i) unless—
 
@@ -147,11 +147,11 @@
 
             (H) __Inventory.—__ 
 
-                (i) __No general limitation.—__ 
+                (i)  __No general limitation__  __.—__ 
 
                 The Board may not prescribe by regulation any maximum dollar amount limitation on the value of goods which an export trading company may maintain in inventory at any time.
 
-                (ii) __Specific limitation by order.—__ 
+                (ii)  __Specific limitation by order__  __.—__ 
 
                 Notwithstanding clause (i), the Board may issue an order establishing a maximum dollar amount limitation on the value of goods which a particular export trading company may maintain in inventory at any time (after such company has been operating for a reasonable period of time) if the Board finds that, under the facts and circumstances, such limitation is necessary to prevent risks that would affect the financial or managerial resources of an investor bank holding company to an extent which would be likely to have a materially adverse effect on the safety and soundness of any subsidiary bank of such bank holding company.
 
@@ -1011,7 +1011,7 @@
 
     1987—[Pub. L. 100–86, § 509(a)][/us/pl/100/86/s509/a], repealed [Pub. L. 97–320, § 141][/us/pl/97/320/s141]. See 1982 Amendment note below.
 
-    Subsec. (a)(2). [Pub. L. 100–86, § 101(b)][/us/pl/100/86/s101/b], inserted at end “Notwithstanding any other provision of this paragraph, if any company that became a bank holding company as a result of the enactment of the Competitive Equality Amendments of 1987 acquired, between March 5, 1987, and August 10, 1987, an institution that became a bank as a result of the enactment of such Amendments, that company shall, upon enactment of such Amendments, immediately come into compliance with the requirements of this chapter.”
+    Subsec. (a)(2). [Pub. L. 100–86, § 101(b)][/us/pl/100/86/s101/b], inserted at end “Notwithstanding any other provision of this paragraph, if any company that became a bank holding company as a result of the enactment of the Competitive Equality Amendments of 1987 acquired, between March 5, 1987, and August 10, 1987, an institution that became a bank as a result of the enactment of such Amendments, that company shall, upon the enactment of such Amendments, immediately come into compliance with the requirements of this chapter.”
 
     Subsec. (c)(8). [Pub. L. 100–86, § 502(h)(2)][/us/pl/100/86/s502/h/2], struck out semicolon at end and substituted a period and following sentences: “If an application is filed under this paragraph in connection with an application to make an acquisition pursuant to section 13(f) of the Federal Deposit Insurance Act, the Board may dispense with the notice and hearing requirement of this paragraph and the Board may approve or deny the application under this paragraph without notice or hearing. If an application described in the preceding sentence is approved, the Board shall publish in the Federal Register, not later than 7 days after such approval is granted, the order approving the application and a description of the nonbanking activities involved in the acquisition;”.
 
@@ -1095,11 +1095,11 @@
 
 [Pub. L. 106–102, title I, § 103(d)][/us/pl/106/102/s103/d], Nov. 12, 1999, [113 Stat. 1351][/us/stat/113/1351], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     By the end of the 4-year period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall submit a joint report to the Congress containing a summary of new activities, including grandfathered commercial activities, in which any financial holding company is engaged pursuant to subsection (k)(1) or (n) of section 4 of the Bank Holding Company Act of 1956 \[[12 U.S.C. 1843(k)(1)][/us/usc/t12/s1843/k/1], (n)\] (as added by subsection (a)).
 
->     “(2) __Other contents.—__ 
+>     “(2)  __Other contents__  __.—__ 
 
 >     The report submitted to the Congress pursuant to paragraph (1) shall also contain the following:
 

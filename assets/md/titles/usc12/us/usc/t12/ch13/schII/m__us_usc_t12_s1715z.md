@@ -609,11 +609,11 @@
 
 [Pub. L. 100–242, title IV, § 401(d)][/us/pl/100/242/s401/d], Feb. 5, 1988, [101 Stat. 1899][/us/stat/101/1899], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Effective on October 1, 1989, the program under section 235 of the National Housing Act \[this section\] shall terminate.
 
->     “(2) __Savings provision.—__ 
+>     “(2)  __Savings provision__  __.—__ 
 
 >     The provisions of paragraph (1) shall not affect—
 

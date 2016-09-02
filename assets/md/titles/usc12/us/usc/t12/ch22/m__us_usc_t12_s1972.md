@@ -45,11 +45,11 @@
 
         (F) __Civil money penalty.—__ 
 
-            (i) __First tier.—__ 
+            (i)  __First tier__  __.—__ 
 
             Any bank which, and any institution-affiliated party (within the meaning of [section 1813(u) of this title][/us/usc/t12/s1813/u]) with respect to such bank who, violates any provision of this paragraph shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
 
-            (ii) __Second tier.—__ 
+            (ii)  __Second tier__  __.—__ 
 
             Notwithstanding clause (i), any bank which, and any institution-affiliated party (within the meaning of [section 1813(u) of this title][/us/usc/t12/s1813/u]) with respect to such bank who—
 
@@ -73,7 +73,7 @@
 
                 shall forfeit and pay a civil penalty of not more than $25,000 for each day during which such violation, practice, or breach continues.
 
-            (iii) __Third tier.—__ 
+            (iii)  __Third tier__  __.—__ 
 
             Notwithstanding clauses (i) and (ii), any bank which, and any institution-affiliated party (within the meaning of [section 1813(u) of this title][/us/usc/t12/s1813/u]) with respect to such bank who—
 
@@ -91,7 +91,7 @@
 
                 shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under clause (iv) for each day during which such violation, practice, or breach continues.
 
-            (iv) __Maximum amounts of penalties for any violation described in clause (iii).—__ 
+            (iv)  __Maximum amounts of penalties for any violation described in clause__  __(iii).—__ 
 
             The maximum daily amount of any civil penalty which may be assessed pursuant to clause (iii) for any violation, practice, or breach described in such clause is—
 
@@ -105,7 +105,7 @@
 
                     (bb) 1 percent of the total assets of such bank.
 
-            (v) __Assessment; etc.—__ 
+            (v)  __Assessment; etc__  __.—__ 
 
             Any penalty imposed under clause (i), (ii), or (iii) may be assessed and collected—
 
@@ -117,19 +117,19 @@
 
                 in the manner provided in subparagraphs (E), (F), (G), and (I) of [section 1818(i)(2) of this title][/us/usc/t12/s1818/i/2] for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
 
-            (vi) __Hearing.—__ 
+            (vi)  __Hearing__  __.—__ 
 
             The bank or other person against whom any penalty is assessed under this subparagraph shall be afforded an agency hearing if such bank or person submits a request for such hearing within 20 days after the issuance of the notice of assessment. [Section 1818(h) of this title][/us/usc/t12/s1818/h] shall apply to any proceeding under this subparagraph.
 
-            (vii) __Disbursement.—__ 
+            (vii)  __Disbursement__  __.—__ 
 
             All penalties collected under authority of this subsection shall be deposited into the Treasury.
 
-            (viii) __“Violate” defined.—__ 
+            (viii)  __“Violate” defined__  __.—__ 
 
             For purposes of this paragraph, the term “violate” includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
-            (ix) __Regulations.—__ 
+            (ix)  __Regulations__  __.—__ 
 
             The Comptroller of the Currency, the Board, and the Federal Deposit Insurance Corporation shall prescribe regulations establishing such procedures as may be necessary to carry out this subparagraph.
 
@@ -143,7 +143,7 @@
 
             (iii) the terms “control of a company” and “company” have the same meaning as under [section 375b of this title][/us/usc/t12/s375b].
 
-        (H) __Notice Under This Section After Separation From Service.—__ 
+        (H)  __Notice Under This Section After Separation From Service__  __.—__ 
 
         The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of [section 1813(u) of this title][/us/usc/t12/s1813/u]) with respect to such a bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after August 9, 1989).
 

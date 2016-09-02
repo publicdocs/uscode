@@ -17,7 +17,7 @@
 
 ## “SEC. 205. STUDY OF HOUSING NEEDS OF GRANDPARENT-HEADED AND RELATIVE-HEADED FAMILIES.
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary and the Director of the Bureau of the Census jointly shall—
 
@@ -25,7 +25,7 @@
 
 >         “(2) submit a report to Congress regarding the results of the study conducted under paragraph (1).
 
->     “(b) __Report and Recommendations.—__ 
+>     “(b)  __Report and Recommendations__  __.—__ 
 
 >     The report required under subsection (a) shall—
 
@@ -37,7 +37,7 @@
 
 [Pub. L. 106–569, title VIII, § 811][/us/pl/106/569/s811], Dec. 27, 2000, [114 Stat. 3019][/us/stat/114/3019], as amended by [Pub. L. 107–116, title VI, § 633(a)][/us/pl/107/116/s633/a], Jan. 10, 2002, [115 Stat. 2228][/us/stat/115/2228]; [Pub. L. 111–372, title II][/us/pl/111/372], §§ 201–204, Jan. 4, 2011, [124 Stat. 4079–4081][/us/stat/124/4079-4081], provided that:
 
->     “(a) __Approval of Prepayment of Debt.—__ 
+>     “(a)  __Approval of Prepayment of Debt__  __.—__ 
 
 >     Upon request of the project sponsor of a project assisted with a loan under section 202 of the Housing Act of 1959 \[[12 U.S.C. 1701q][/us/usc/t12/s1701q]\](as in effect before the enactment of the Cranston-Gonzalez National Affordable Housing Act \[[Pub. L. 101–625][/us/pl/101/625], which was approved Nov. 28, 1990\]), for which the Secretary’s consent to prepayment is required,, \[sic\] the Secretary shall approve the prepayment of any indebtedness to the Secretary relating to any remaining principal and interest under the loan as part of a prepayment plan under which—
 
@@ -65,11 +65,11 @@
 
 >         “(3) notwithstanding paragraph (2)(A), the prepayment and refinancing authorized pursuant to paragraph (2)(B) involves an increase in debt service only in the case of a refinancing of a project assisted with a loan under such section 202 carrying an interest rate of 6 percent or lower.
 
->     “(b) __Sources of Refinancing.—__ 
+>     “(b)  __Sources of Refinancing__  __.—__ 
 
 >     In the case of prepayment under this section involving refinancing, the project sponsor may refinance the project through any third party source, including financing by State and local housing finance agencies, use of tax-exempt bonds, multi-family mortgage insurance under the National Housing Act \[[12 U.S.C. 1701][/us/usc/t12/s1701] et seq.\], reinsurance, or other credit enhancements, including risk sharing as provided under section 542 of the Housing and Community Development Act of 1992 \[[12 U.S.C. 1715z–22][/us/usc/t12/s1715z–22]\](\[former\] [12 U.S.C. 1707][/us/usc/t12/s1707] note). For purposes of underwriting a loan insured under the National Housing Act, the Secretary may assume that any section 8 rental assistance contract relating to a project will be renewed for the term of such loan.
 
->     “(c) __Use of Proceeds.—__ 
+>     “(c)  __Use of Proceeds__  __.—__ 
 
 >     Upon execution of the refinancing for a project pursuant to this section, the Secretary shall ensure that proceeds are used in a manner advantageous to tenants of the project, or are used in the provision of affordable rental housing and related social services for elderly persons that are tenants of the project or are tenants of other HUD-assisted senior housing by the private nonprofit organization project owner, private nonprofit organization project sponsor, or private nonprofit organization project developer, including—
 
@@ -91,7 +91,7 @@
 
 >             “(B) in the case of a project refinanced through any other source of refinancing, 15 percent of the acceptable development cost.    “For purposes of paragraph (6)(B), the term ‘acceptable development cost’ shall include, as applicable, the cost of acquisition, rehabilitation, loan prepayment, initial reserve deposits, and transaction costs.
 
->     “(d) __Use of Certain Project Funds.—__ 
+>     “(d)  __Use of Certain Project Funds__  __.—__ 
 
 >     The Secretary shall allow a project sponsor that is prepaying and refinancing a project under this section—
 
@@ -99,7 +99,7 @@
 
 >         “(2) to use any reserves for replacement in excess of $1,000 per individual dwelling unit for activities described in paragraphs (2) and (3) of subsection (c).
 
->     “(e) __Senior Preservation Rental Assistance Contracts.—__ 
+>     “(e)  __Senior Preservation Rental Assistance Contracts__  __.—__ 
 
 >     Notwithstanding any other provision of law, in connection with a prepayment plan for a project approved under subsection (a) by the Secretary or as otherwise approved by the Secretary to prevent displacement of elderly residents of the project in the case of refinancing or recapitalization and to further preservation and affordability of such project, the Secretary shall provide project-based rental assistance for the project under a senior preservation rental assistance contract, as follows:
 
@@ -113,7 +113,7 @@
 
 >         “(2) Any projects for which a senior preservation rental assistance contract is provided shall be subject to a use agreement to ensure continued project affordability having a term of the longer of (A) the term of the senior preservation rental assistance contract, or (B) such term as is required by the new financing.
 
->     “(f) __Subordination or Assumption of Existing Debt.—__ 
+>     “(f)  __Subordination or Assumption of Existing Debt__  __.—__ 
 
 >     In lieu of prepayment under this section of the indebtedness with respect to a project, the Secretary may approve—
 
@@ -121,11 +121,11 @@
 
 >         “(2) the assumption (which may include the subordination described in paragraph (1)) of the loan for the project under such section 202 in connection with the transfer of the project with such a loan to a private nonprofit organization.
 
->     “(g) __Flexible Subsidy Debt.—__ 
+>     “(g)  __Flexible Subsidy Debt__  __.—__ 
 
 >     The Secretary shall waive the requirement that debt for a project pursuant to the flexible subsidy program under section 201 of the Housing and Community Development Amendments of 1978 ([12 U.S.C. 1715z–1a][/us/usc/t12/s1715z–1a]) be prepaid in connection with a prepayment, refinancing, or transfer under this section of a project if the financial transaction or refinancing cannot be completed without the waiver.
 
->     “(h) __Tenant Involvement in Prepayment and Refinancing.—__ 
+>     “(h)  __Tenant Involvement in Prepayment and Refinancing__  __.—__ 
 
 >     The Secretary shall not accept an offer to prepay the loan for any project under section 202 of the Housing Act of 1959 unless the Secretary—
 
@@ -133,7 +133,7 @@
 
 >         “(2) has determined that the owner of the project has provided the tenants with an opportunity to comment on the owner’s request for approval of a prepayment, including on the description of any anticipated rehabilitation or other use of the proceeds from the transaction, and its impacts on project rents, tenant contributions, or the affordability restrictions for the project, and that the owner has responded to such comments in writing.
 
->     “(i) __Definition of Private Nonprofit Organization.—__ 
+>     “(i)  __Definition of Private Nonprofit Organization__  __.—__ 
 
 >     For purposes of this section, the term ‘private nonprofit organization’ has the meaning given such term in section 202(k) of the Housing Act of 1959 ([12 U.S.C. 1701q(k)][/us/usc/t12/s1701q/k]).”
 
@@ -151,7 +151,7 @@
 
 [Pub. L. 102–550, title VI, § 677(b)][/us/pl/102/550/s677/b], Oct. 28, 1992, [106 Stat. 3829][/us/stat/106/3829], provided that:
 
->     “(1) __Availability of section 8 assistance.—__ 
+>     “(1)  __Availability of section 8 assistance__  __.—__ 
 
 >     Subject to the availability of appropriations for contract amendments for the purpose of this paragraph, in determining the amount of assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] to be provided for a project assisted under section 202 of the Housing Act of 1959 \[[12 U.S.C. 1701q][/us/usc/t12/s1701q]\], as in effect before the effectiveness of the amendments made by section 801 of the Cranston-Gonzalez National Affordable Housing Act \[[Pub. L. 101–625][/us/pl/101/625], see Effective Date of 1990 Amendment note above\], the Secretary shall consider (and annually adjust for) the costs of—
 
@@ -161,11 +161,11 @@
 
 >         Not more than 15 percent of the cost of the provision of services under subparagraph (B) may be considered under this paragraph for purposes of determining the amount of assistance provided.
 
->     “(2) __Inapplicability of hud reform act provisions.—__ 
+>     “(2)  __Inapplicability of hud reform act provisions__  __.—__ 
 
 >     Notwithstanding section 102 of the Department of Housing and Urban Development Reform Act of 1989 \[[42 U.S.C. 3545][/us/usc/t42/s3545]\], the provisions of paragraphs (1), (2), and (3) of subsection (a) of such section shall not apply to amendments to contracts under section 8 of the United States Housing Act of 1937 made to carry out the purposes of paragraph (1) of this subsection.
 
->     “(3) __Limitation.—__ 
+>     “(3)  __Limitation__  __.—__ 
 
 >     If a project is receiving congregate housing services assistance under the Congregate Housing Services Act of 1978 \[[42 U.S.C. 8001][/us/usc/t42/s8001] et seq.\] or section 802 of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 8011][/us/usc/t42/s8011]\], the amount of costs provided pursuant to paragraph (1) for the project may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such section 802 or eligible project residents under the Congregate Housing Services Act of 1978, as applicable.”
 
@@ -173,7 +173,7 @@
 
 [Pub. L. 101–625, title VIII, § 801(d)][/us/pl/101/625/s801/d], Nov. 28, 1990, [104 Stat. 4304][/us/stat/104/4304], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary may, subject to the availability of appropriations for contract amendments for the purposes of this subsection—
 
@@ -183,7 +183,7 @@
 
 >         as are necessary to ensure the expedited financing and construction of qualified supportive housing for the elderly provided that the Secretary finds that any applicable cost containment rules and regulations have been satisfied.
 
->     “(2) __Definition.—__ 
+>     “(2)  __Definition__  __.—__ 
 
 >     For purposes of this subsection, the term ‘supportive housing for the elderly’ means housing—
 
@@ -195,19 +195,19 @@
 
 [Pub. L. 101–625, title VIII, § 806(b)][/us/pl/101/625/s806/b], Nov. 28, 1990, [104 Stat. 4323][/us/stat/104/4323], as amended by [Pub. L. 102–550, title VI, § 602(d)][/us/pl/102/550/s602/d], Oct. 28, 1992, [106 Stat. 3804][/us/stat/106/3804], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Housing and Urban Development shall carry out a program to determine the feasibility of including, as an eligible development cost under section 202 of the Housing Act of 1959 \[[12 U.S.C. 1701q][/us/usc/t12/s1701q]\], the cost of purchasing and installing elder cottage housing opportunity units that are small, freestanding, barrier-free, energy efficient, removable, and designed to be installed adjacent to existing 1- to 4-family dwellings. In conducting the demonstration, the Secretary shall determine whether the durability of such units is appropriate for making such units generally eligible for assistance under the programs under such sections.
 
->     “(2) __Allocation.—__ 
+>     “(2)  __Allocation__  __.—__ 
 
 >     Notwithstanding any other law, the Secretary shall reserve from any amounts available for capital advances and project rental assistance under section 202 of the Housing Act of 1959, amounts sufficient in each of fiscal years 1993 and 1994 to provide not less than 100 units under the demonstration under this subsection in connection with each such section. Any amounts reserved under this paragraph shall be available only for carrying out the demonstration under this subsection and, for purposes of the demonstration, the cost of purchasing and installing an elder cottage housing opportunity unit shall be considered an eligible development cost under sec­tions \[sic\] 202 of the Housing Act of 1959.
 
->     “(3) __Report.—__ 
+>     “(3)  __Report__  __.—__ 
 
 >     Not later than January 1, 1994, the Secretary shall submit a report to the Congress on the results of the demonstration under this subsection, which shall be based on actual experience in implementing this subsection.
 
->     “(4) __Implementation.—__ 
+>     “(4)  __Implementation__  __.—__ 
 
 >     The Secretary shall issue regulations to carry out the demonstration under this subsection not later than the expiration of the 6-month period beginning on the date of the enactment of the Housing and Community Development Act of 1992 \[Oct. 28, 1992\].”
 

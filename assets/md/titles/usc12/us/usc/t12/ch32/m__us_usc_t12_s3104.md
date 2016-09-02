@@ -97,11 +97,11 @@
 
 [Pub. L. 103–328, title I, § 107(b)][/us/pl/103/328/s107/b], Sept. 29, 1994, [108 Stat. 2359][/us/stat/108/2359], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Each Federal banking agency, after consultation with the other Federal banking agencies to assure uniformity, shall revise the regulations adopted by such agency under section 6 of the International Banking Act of 1978 \[[12 U.S.C. 3104][/us/usc/t12/s3104]\] to ensure that the regulations are consistent with the objective set forth in section 6(a) of the International Banking Act of 1978.
 
->     “(2) __Specific factors.—__ 
+>     “(2)  __Specific factors__  __.—__ 
 
 >     In carrying out paragraph (1), each Federal banking agency shall consider whether to permit an uninsured branch of a foreign bank to accept initial deposits of less than $100,000 only from—
 
@@ -125,7 +125,7 @@
 
 >         “(F) persons who are depositing funds in connection with the issuance of a financial instrument by the branch for the transmission of funds.
 
->     “(3) __Reduction in regulatory de minimis exemption.—__ 
+>     “(3)  __Reduction in regulatory de minimis exemption__  __.—__ 
 
 >     In carrying out paragraph (1), each Federal banking agency shall limit any exemption which is—
 
@@ -135,11 +135,11 @@
 
 >         to not more than 1 percent of the average deposits at such branch.
 
->     “(4) __Additional relevant considerations.—__ 
+>     “(4)  __Additional relevant considerations__  __.—__ 
 
 >     In carrying out paragraph (1), each Federal banking agency shall also consider the importance of maintaining and improving the availability of credit to all sectors of the United States economy, including the international trade finance sector of the United State \[sic\] economy.
 
->     “(5) __Deadline for prescribing revised regulations.—__ 
+>     “(5)  __Deadline for prescribing revised regulations__  __.—__ 
 
 >     Each Federal banking agency—
 
@@ -147,7 +147,7 @@
 
 >         “(B) may establish reasonable transition rules to facilitate any termination of any deposit-taking activities that were permissible under regulations that were in effect before the date of enactment of this Act.
 
->     “(6) __Definitions.—__ 
+>     “(6)  __Definitions__  __.—__ 
 
 >     For purposes of this subsection—
 

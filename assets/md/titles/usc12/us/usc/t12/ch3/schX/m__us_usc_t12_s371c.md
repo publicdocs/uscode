@@ -123,7 +123,7 @@
 
             (D) an asset whose terms have been renegotiated or compromised due to the deteriorating financial condition of the obligor.
 
-        (11) __Rebuttable presumption of control of portfolio companies.—__ 
+        (11)  __Rebuttable presumption of control of portfolio companies__  __.—__ 
 
         In addition to paragraph (3), a company or shareholder shall be presumed to control any other company if the company or shareholder, directly or indirectly, or acting through 1 or more other persons, owns or controls 15 percent or more of the equity capital of the other company pursuant to subparagraph (H) or (I) of [section 1843(k)(4) of this title][/us/usc/t12/s1843/k/4] or rules adopted under section 122 of the Gramm-Leach-Bliley Act, if any, unless the company or shareholder provides information acceptable to the Board to rebut this presumption of control.
 
@@ -219,7 +219,7 @@
 
         (2)
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Board may, at its discretion, by regulation exempt transactions or relationships from the requirements of this section if—
 
@@ -229,7 +229,7 @@
 
             (B) __Additional exemptions.—__ 
 
-                (i) __National banks.—__ 
+                (i)  __National banks__  __.—__ 
 
                 The Comptroller of the Currency may, by order, exempt a transaction of a national bank from the requirements of this section if—
 
@@ -237,7 +237,7 @@
 
                     (II) before the end of the 60-day period beginning on the date on which the Federal Deposit Insurance Corporation receives notice of the finding under subclause (I), the Federal Deposit Insurance Corporation does not object, in writing, to the finding, based on a determination that the exemption presents an unacceptable risk to the Deposit Insurance Fund.
 
-                (ii) __State banks.—__ 
+                (ii)  __State banks__  __.—__ 
 
                 The Federal Deposit Insurance Corporation may, by order, exempt a transaction of a State nonmember bank, and the Board may, by order, exempt a transaction of a State member bank, from the requirements of this section if—
 
@@ -247,15 +247,15 @@
 
         (3) __Rulemaking required concerning derivative transactions and intraday credit.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than 18 months after November 12, 1999, the Board shall adopt final rules under this section to address as covered transactions credit exposure arising out of derivative transactions between member banks and their affiliates and intraday extensions of credit by member banks to their affiliates.
 
-            (B) __Effective date.—__ 
+            (B)  __Effective date__  __.—__ 
 
             The effective date of any final rule adopted by the Board pursuant to subparagraph (A) shall be delayed for such period as the Board deems necessary or appropriate to permit banks to conform their activities to the requirements of the final rule without undue hardship.
 
-        (4) __Amounts of covered transactions.—__ 
+        (4)  __Amounts of covered transactions__  __.—__ 
 
         The Board may issue such regulations or interpretations as the Board determines are necessary or appropriate with respect to the manner in which a netting agreement may be taken into account in determining the amount of a covered transaction between a member bank or a subsidiary and an affiliate, including the extent to which netting agreements between a member bank or a subsidiary and an affiliate may be taken into account in determining whether a covered transaction is fully secured for purposes of subsection (d)(4). An interpretation under this paragraph with respect to a specific member bank, subsidiary, or affiliate shall be issued jointly with the appropriate Federal banking agency for such member bank, subsidiary, or affiliate.
 
@@ -359,11 +359,11 @@
 
 [Pub. L. 111–203, title VI, § 609(b)][/us/pl/111/203/s609/b], (c), July 21, 2010, [124 Stat. 1611][/us/stat/124/1611], provided that:
 
->     “(b) __Prospective Application of Amendment.—__ 
+>     “(b)  __Prospective Application of Amendment__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall apply with respect to any covered transaction between a bank and a subsidiary of the bank, as those terms are defined in section 23A of the Federal Reserve Act ([12 U.S.C. 371c][/us/usc/t12/s371c]), that is entered into on or after the date of enactment of this Act \[July 21, 2010\].
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     The amendments made by this section shall take effect 1 year after the transfer date.”
 

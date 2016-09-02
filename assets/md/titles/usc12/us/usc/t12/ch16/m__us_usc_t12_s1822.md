@@ -205,19 +205,19 @@
 
 [Pub. L. 103–44, § 2][/us/pl/103/44/s2], June 28, 1993, [107 Stat. 221][/us/stat/107/221], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The amendments made by section 1 of this Act \[amending this section\] shall only apply with respect to institutions for which the Corporation has initiated the payment of insured deposits under section 11(f) of the Federal Deposit Insurance Act \[[12 U.S.C. 1821(f)][/us/usc/t12/s1821/f]\] after the date of enactment of this Act \[June 28, 1993\].
 
->     “(b) __Special Rule for Receiverships in Progress.—__ 
+>     “(b)  __Special Rule for Receiverships in Progress__  __.—__ 
 
 >     Section 12(e) of the Federal Deposit Insurance Act \[[12 U.S.C. 1822(e)][/us/usc/t12/s1822/e]\] as in effect on the day before the date of enactment of this Act \[June 28, 1993\] shall apply with respect to insured deposits in depository institutions for which the Corporation was first appointed receiver during the period between January 1, 1989 and the date of enactment of this Act, except that such section 12(e) shall not bar any claim made against the Corporation by an insured depositor for an insured or transferred deposit, so long as such claim is made prior to the termination of the receivership.
 
->     “(c) __Information to States.—__ 
+>     “(c)  __Information to States__  __.—__ 
 
 >     Within 120 days after the date of enactment of this Act \[June 28, 1993\], the Corporation shall provide, at the request of and for the sole use of any State, the name and last known address of any insured depositor (as shown on the records of the institution in default) eligible to make a claim against the Corporation solely due to the operation of subsection (b) of this section.
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘Corporation’ means the Federal Deposit Insurance Corporation, the Resolution Trust Corporation, or the Federal Savings and Loan Insurance Corporation, as appropriate.”
 

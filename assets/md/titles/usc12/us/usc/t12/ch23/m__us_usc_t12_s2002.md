@@ -51,11 +51,11 @@
 
 [Pub. L. 100–399, title X, § 1001][/us/pl/100/399/s1001], Aug. 17, 1988, [102 Stat. 1008][/us/stat/102/1008], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this Act \[see Tables for classification\] shall take effect as if enacted immediately after the enactment of the 1987 Act \[[Pub. L. 100–233][/us/pl/100/233], which was enacted Jan. 6, 1988\].
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The amendments made by sections 102(b), 102(f), 102(g), 102(h), 201(q), 302(c), 302(d), 302(e), 401, 402(b), 409(d), 411, 414, and 901 (other than by subsections (a), (b), (c), (e), (f), and (g) thereof) of this Act \[see Tables for classification\] shall take effect immediately after the amendment made by section 401 of the 1987 Act takes effect \[[section 401 of Pub. L. 100–233][/us/pl/100/233/s401], effective 6 months after Jan. 6, 1988\].”
 
@@ -73,29 +73,29 @@
 
 >         “(1) __Special committee.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 6 months after the date of the enactment of this section \[Jan. 6, 1988\], a special committee shall be selected pursuant to regulations of the Farm Credit Administration for the purpose of developing a proposal for the consolidation of Farm Credit System districts.
 
->             “(B) __Composition.—__ 
+>             “(B)  __Composition__  __.—__ 
 
 >             The special committee selected under subparagraph (A) shall be composed of one representative from each Farm Credit Bank board and the members of the Board of Directors of the Assistance Board.
 
->         “(2) __Development of proposal.—__ 
+>         “(2)  __Development of proposal__  __.—__ 
 
 >         Not later than 6 months after the formation of the special committee, the committee shall develop a proposal to consolidate the Farm Credit Banks into no less than six financially viable Farm Credit Banks through inter-district mergers.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than the end of each calendar quarter beginning at least 6 months after the selection of the special committee, such committee shall prepare and submit, to the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report on the progress of the committee in developing a proposal under this subsection.
 
 >     “(b) __Prerequisites to Consolidation.—__ 
 
->         “(1) __FCA review of proposal.—__ 
+>         “(1)  __FCA review of proposal__  __.—__ 
 
 >         Prior to the submission of the proposal developed under subsection (a)(2) to the stockholders under paragraph (3), the proposal together with all information to be presented to the stockholders, shall be submitted to the Farm Credit Administration for approval.
 
->         “(2) __Prerequisites.—__ 
+>         “(2)  __Prerequisites__  __.—__ 
 
 >         The proposal developed under subsection (a)(2) shall not be submitted to stockholders under paragraph (3) unless the proposal is approved by—
 
@@ -103,11 +103,11 @@
 
 >             “(B) the members of the special committee that represent the districts affected by the terms of the proposal.
 
->         “(3) __Submission to stockholders.—__ 
+>         “(3)  __Submission to stockholders__  __.—__ 
 
 >         Not later than the end of the 18-month period after the date of enactment of this Act \[Jan. 6, 1988\], each Farm Credit Bank involved, in consultation with the special committee, shall submit the proposed merger affecting such bank to the voting stockholders of each such bank.
 
->         “(4) __Stockholder vote.—__ 
+>         “(4)  __Stockholder vote__  __.—__ 
 
 >         Each association shall be entitled to cast a number of votes equal to the number of voting stockholders of such association.”
 

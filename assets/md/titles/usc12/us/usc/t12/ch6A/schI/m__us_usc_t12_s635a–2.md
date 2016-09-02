@@ -37,15 +37,15 @@
 
 [Pub. L. 112–122, § 16][/us/pl/112/122/s16], May 30, 2012, [126 Stat. 359][/us/stat/126/359], provided that:
 
->     “(a) __GAO Study.—__ 
+>     “(a)  __GAO Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study of the process and methodology used by the Export-Import Bank of the United States (in this section referred to as the ‘Bank’) to calculate the effects of the provision of financing by the Bank on the creation and maintenance of employment in the United States, determine and assess the basis on which the Bank has so used the methodology, and make any recommendations the Comptroller General deems appropriate.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Within 1 year after the date of the enactment of this Act \[May 30, 2012\], the Comptroller General shall submit to the Congress and the Bank the results of the study required by subsection (a).
 
->     “(c) __Implementation of Recommendations.—__ 
+>     “(c)  __Implementation of Recommendations__  __.—__ 
 
 >     If the report submitted pursuant to subsection (b) includes recommendations, the Bank may establish a more accurate methodology of the kind described in subsection (a) based on the recommendations.”
 

@@ -987,7 +987,7 @@ Part C—Specific Bureau Authorities  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft12%2Fs5538" data-uslm-ref="/us/usc/t12/s5538">5538.</a>  </td>
 
-    <td> Mortgages loans; rulemaking procedures; enforcement.  </td>
+    <td> Mortgage loans; rulemaking procedures; enforcement.  </td>
 
   </tr>
 

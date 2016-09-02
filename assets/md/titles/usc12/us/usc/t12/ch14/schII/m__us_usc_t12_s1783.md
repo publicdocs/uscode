@@ -37,11 +37,11 @@
 
         (4) __Temporary increases authorized.—__ 
 
-            (A) __Recommendations for increase.—__ 
+            (A)  __Recommendations for increase__  __.—__ 
 
             During the period beginning on May 20, 2009, and ending on December 31, 2010, if, upon the written recommendation of the Board (upon a vote of not less than two-thirds of the members of the Board) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board), the Secretary of the Treasury (in consultation with the President) determines that additional amounts above the $6,000,000,000 amount specified in paragraph (1) are necessary, such amount shall be increased to the amount so determined to be necessary, not to exceed $30,000,000,000.
 
-            (B) __Report required.—__ 
+            (B)  __Report required__  __.—__ 
 
             If the borrowing authority of the Board is increased above $6,000,000,000 pursuant to subparagraph (A), the Board shall promptly submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the reasons and need for the additional borrowing authority and its intended uses.
 

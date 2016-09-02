@@ -251,11 +251,11 @@
 
 [Pub. L. 102–242, title III, § 306(m)][/us/pl/102/242/s306/m], Dec. 19, 1991, [105 Stat. 2360][/us/stat/105/2360], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Board of Governors of the Federal Reserve System shall, not later than 120 days after the date of enactment of this Act \[Dec. 19, 1991\], promulgate final regulations to implement the amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\], other than the amendments made by subsections (i) and (k) \[amending sections 1468 and 1828 of this title\].
 
->     “(2) __Limiting extensions of credit to executive officers.—__ 
+>     “(2)  __Limiting extensions of credit to executive officers__  __.—__ 
 
 >     The Federal Deposit Insurance Corporation and Director of the Office of Thrift Supervision shall each, not later than 120 days after the date of enactment of this Act, promulgate final regulations prescribing the maximum amount that a nonmember insured bank or insured savings association (as the case may be) may lend under section 22(g)(4) of the Federal Reserve Act \[[12 U.S.C. 375a(4)][/us/usc/t12/s375a/4]\], as made applicable to those institutions by subsections (k) and (i), respectively.”
 

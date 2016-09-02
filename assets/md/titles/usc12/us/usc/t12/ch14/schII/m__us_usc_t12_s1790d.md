@@ -505,11 +505,11 @@
 
 [Pub. L. 105–219, title III, § 301(e)][/us/pl/105/219/s301/e], Aug. 7, 1998, [112 Stat. 931][/us/stat/112/931], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), section 216 of the Federal Credit Union Act \[[12 U.S.C. 1790d][/us/usc/t12/s1790d]\] (as added by this section) shall become effective 2 years after the date of enactment of this Act \[Aug. 7, 1998\].
 
->     “(2) __Risk-based net worth requirement.—__ 
+>     “(2)  __Risk-based net worth requirement__  __.—__ 
 
 >     Section 216(d) of the Federal Credit Union Act (as added by this section) shall become effective on January 1, 2001.”
 
@@ -517,7 +517,7 @@
 
 [Pub. L. 105–219, title III, § 301(d)][/us/pl/105/219/s301/d], Aug. 7, 1998, [112 Stat. 930][/us/stat/112/930], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the Board shall—
 
@@ -527,11 +527,11 @@
 
 >     “(2) __Risk-based net worth requirement.—__ 
 
->         “(A) __Advance notice of proposed rulemaking.—__ 
+>         “(A)  __Advance notice of proposed rulemaking__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act, the Board shall publish in the Federal Register an advance notice of proposed rulemaking, as required by section 216(d) of the Federal Credit Union Act, as added by this Act.
 
->         “(B) __Final regulations.—__ 
+>         “(B)  __Final regulations__  __.—__ 
 
 >         The Board shall promulgate final regulations, as required by section 216(d) not later than 2 years after the date of enactment of this Act.”
 

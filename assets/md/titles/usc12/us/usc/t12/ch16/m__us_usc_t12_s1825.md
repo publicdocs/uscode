@@ -29,7 +29,7 @@
 
         (3) The Corporation shall not be liable for any amounts in the nature of penalties or fines, including those arising from the failure of any person to pay any real property, personal property, probate, or recording tax or any recording or filing fees when due.
 
-        (4) __Exemption from criminal prosecution.—__ 
+        (4)  __Exemption from criminal prosecution__  __.—__ 
 
         The Corporation shall be exempt from all prosecution by the United States or any State, county, municipality, or local authority for any criminal offense arising under Federal, State, county, municipal, or local law, which was allegedly committed by the institution, or persons acting on behalf of the institution, prior to the appointment of the Corporation as receiver.
 

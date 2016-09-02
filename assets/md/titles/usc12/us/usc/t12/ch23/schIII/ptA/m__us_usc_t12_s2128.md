@@ -45,7 +45,7 @@
 
         (3) A bank for cooperatives is authorized to provide such services as may be customary and normal in maintaining relationships with domestic or foreign entities to facilitate the activities specified in paragraphs (1) and (2), consistent with this chapter.
 
-        (4) __Definition of agricultural supply.—__ 
+        (4)  __Definition of agricultural supply__  __.—__ 
 
         In this subsection, the term “agricultural supply” includes—
 

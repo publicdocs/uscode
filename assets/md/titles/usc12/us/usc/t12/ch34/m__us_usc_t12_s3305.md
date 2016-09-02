@@ -65,11 +65,11 @@
 
 [Pub. L. 102–242, title I, § 111(d)][/us/pl/102/242/s111/d], Dec. 19, 1991, [105 Stat. 2241][/us/stat/105/2241], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The appropriate Federal banking agencies, acting through the Federal Financial Institutions Examination Council, shall each establish a comparable examination improvement program that meets the requirements of paragraph (2).
 
->     “(2) __Requirements.—__ 
+>     “(2)  __Requirements__  __.—__ 
 
 >     An examination improvement program meets the requirements of this paragraph if, under the program, the agency is required—
 
@@ -81,7 +81,7 @@
 
 [Pub. L. 102–242, title II, § 221][/us/pl/102/242/s221], Dec. 19, 1991, [105 Stat. 2305][/us/stat/105/2305], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Dec. 19, 1991\], the Federal Financial Institutions Examination Council, in consultation with individuals representing insured depository institutions, consumers, community groups, and other interested parties, shall—
 
@@ -103,11 +103,11 @@
 
 >             “(B) endangering the safety and soundness of insured depository institutions.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Dec. 19, 1991\], the Federal Financial Institutions Examination Council shall submit to the Congress a report describing the revisions identified under subsection (a)(3).
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the terms ‘insured depository institution’ and ‘Federal banking agency’ have the same meanings as in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\].”
 

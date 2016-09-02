@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t12/ch53/schV/ptC/m__us_usc_t12_s5537.md) | [Next](./../../../../../..//us/usc/t12/ch53/schV/ptD/m__us_usc_t12_ch53_schV_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5538)
 
-## § 5538. Mortgages loans; rulemaking procedures; enforcement
+## § 5538. Mortgage loans; rulemaking procedures; enforcement
 
     (a)
 

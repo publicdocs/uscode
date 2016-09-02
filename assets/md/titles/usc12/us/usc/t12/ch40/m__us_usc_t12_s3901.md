@@ -41,7 +41,7 @@
 
 [Pub. L. 101–240, title V, § 531][/us/pl/101/240/s531], Dec. 19, 1989, [103 Stat. 2513][/us/stat/103/2513], provided that:
 
->     “(a) __Statement of Policy.—__ 
+>     “(a)  __Statement of Policy__  __.—__ 
 
 >     It is the sense of the Congress that—
 
@@ -53,27 +53,27 @@
 
 >         “(4) in order to avoid any bias against such swaps in the regulatory framework applicable to the financial reporting of banking institutions, where payment is made in local currency at the free market rate, appropriate recognition of the fair market exchange value of the currency so received should be made.
 
->     “(b) __Notification Relating to Local Currency Repayment Through Debt-for-Development Swaps.—__ 
+>     “(b)  __Notification Relating to Local Currency Repayment Through Debt-for-Development Swaps__  __.—__ 
 
 >     Before the end of the 6-month period beginning on the date of the enactment of this section \[Dec. 19, 1989\], each appropriate Federal banking agency shall adopt uniform guidelines that will effectuate the policy set forth in subsection (a) concerning the regulatory framework and accounting treatment of debt-for-development swaps involving repayment in local currency at the free market rate. For the purpose of such guidelines, the impact of such swaps on reported loan loss reserves shall be determined by valuing currency received in such swaps at fair market exchange value.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     As used in this section:
 
->         “(1) __Appropriate federal banking agency.—__ 
+>         “(1)  __Appropriate federal banking agency__  __.—__ 
 
 >         The term ‘appropriate Federal banking agency’ has the meaning given such term in section 903(1) of the International Lending Supervision Act of 1983 \[[12 U.S.C. 3902(1)][/us/usc/t12/s3902/1]\].
 
->         “(2) __Banking institution.—__ 
+>         “(2)  __Banking institution__  __.—__ 
 
 >         The term ‘banking institution’ has the meaning given such term in section 903(2) of the International Lending Supervision Act of 1983.
 
->         “(3) __Debt-for-development swap.—__ 
+>         “(3)  __Debt-for-development swap__  __.—__ 
 
 >         The term ‘debt-for-development swap’ has the meaning given such term in section 1608(b)(2) of the International Financial Institutions Act \[[22 U.S.C. 262p–4c(b)(2)][/us/usc/t22/s262p–4c/b/2]\].
 
->         “(4) __Highly indebted country.—__ 
+>         “(4)  __Highly indebted country__  __.—__ 
 
 >         The term ‘highly indebted country’ means any country designated as a ‘Highly Indebted Country’ in the annual World Debt Tables most recently published by the International Bank for Reconstruction and Development before the date of the enactment of this section \[Dec. 19, 1989\].”
 

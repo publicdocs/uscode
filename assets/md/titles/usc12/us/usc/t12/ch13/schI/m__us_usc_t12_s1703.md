@@ -107,19 +107,19 @@
 
         (7) With respect to the financing of alterations, repairs, and improvements to existing structures or the building of new structures as authorized under clause (i) of the first sentence of subsection (a) of this section, any loan broker (as defined by the Secretary) or any other party having a financial interest in the making of such a loan or advance of credit or in providing assistance to the borrower in preparing the loan application or otherwise assisting the borrower in obtaining the loan or advance of credit who knowingly (as defined in [section 1735f–14(g) of this title][/us/usc/t12/s1735f–14/g]) submits to any such financial institution or to the Secretary false information shall be subject to a civil money penalty in the amount and manner provided under [section 1735f–14 of this title][/us/usc/t12/s1735f–14] with respect to mortgagees and lenders under this chapter.
 
-        (8) __Insurance benefits for manufactured housing loans.—__ 
+        (8)  __Insurance benefits for manufactured housing loans__  __.—__ 
 
         Any contract of insurance with respect to loans, advances of credit, or purchases in connection with a manufactured home or a lot on which to place a manufactured home (or both) for a financial institution that is executed under this subchapter after July 30, 2008, by the Secretary shall be conclusive evidence of the eligibility of such financial institution for insurance, and the validity of any contract of insurance so executed shall be incontestable in the hands of the bearer from the date of the execution of such contract, except for fraud or misrepresentation on the part of such institution.
 
-        (9) __Annual indexing of manufactured housing loans.—__ 
+        (9)  __Annual indexing of manufactured housing loans__  __.—__ 
 
         The Secretary shall develop a method of indexing in order to annually adjust the loan limits established in subparagraphs (A)(ii), (C), (D), and (E) of this subsection. Such index shall be based on the manufactured housing price data collected by the United States Census Bureau. The Secretary shall establish such index no later than 1 year after July 30, 2008.
 
-        (10) __Financial soundness of manufactured housing program.—__ 
+        (10)  __Financial soundness of manufactured housing program__  __.—__ 
 
         The Secretary shall establish such underwriting criteria for loans and advances of credit in connection with a manufactured home or a lot on which to place a manufactured home (or both), including such loans and advances represented by obligations purchased by financial institutions, as may be necessary to ensure that the program under this subchapter for insurance for financial institutions against losses from such loans, advances of credit, and purchases is financially sound.
 
-        (11) __Leasehold requirements.—__ 
+        (11)  __Leasehold requirements__  __.—__ 
 
         No insurance shall be granted under this section to any such financial institution with respect to any obligation representing any such loan, advance of credit, or purchase by it, made for the purposes of financing a manufactured home which is intended to be situated in a manufactured home community pursuant to a lease, unless such lease—
 

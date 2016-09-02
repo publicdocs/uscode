@@ -39,11 +39,11 @@
 
 [Pub. L. 102–552, title II, § 201(c)][/us/pl/102/552/s201/c], Oct. 28, 1992, [106 Stat. 4105][/us/stat/106/4105], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and sections 5314 and 5315 of Title 5, Government Organization and Employees\] shall become effective on January 1, 1996.
 
->     “(2) __Transitional provision.—__ 
+>     “(2)  __Transitional provision__  __.—__ 
 
 >     The Board of Directors of the Farm Credit System Insurance Corporation as established by section 5.53 of the Farm Credit Act of 1971 ([12 U.S.C. 2277a–2][/us/usc/t12/s2277a–2]) (as it existed before the amendments made by subsection (a) of this section) shall continue in existence and continue to manage the Farm Credit System Insurance Corporation until at least two members are appointed by the President, by and with the advice and consent of the Senate, to the new Board established by section 5.53 of such Act (as amended by subsection (a) of this section).”
 

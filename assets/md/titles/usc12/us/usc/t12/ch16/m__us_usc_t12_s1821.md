@@ -293,11 +293,11 @@
 
         The grounds for appointing a conservator or receiver (which may be the Corporation) for any insured depository institution are as follows:
 
-            (A) __Assets insufficient for obligations.—__ 
+            (A)  __Assets insufficient for obligations__  __.—__ 
 
             The institution’s assets are less than the institution’s obligations to its creditors and others, including members of the institution.
 
-            (B) __Substantial dissipation.—__ 
+            (B)  __Substantial dissipation__  __.—__ 
 
             Substantial dissipation of assets or earnings due to—
 
@@ -305,27 +305,27 @@
 
                 (ii) any unsafe or unsound practice.
 
-            (C) __Unsafe or unsound condition.—__ 
+            (C)  __Unsafe or unsound condition__  __.—__ 
 
             An unsafe or unsound condition to transact business.
 
-            (D) __Cease and desist orders.—__ 
+            (D)  __Cease and desist orders__  __.—__ 
 
             Any willful violation of a cease-and-desist order which has become final.
 
-            (E) __Concealment.—__ 
+            (E)  __Concealment__  __.—__ 
 
             Any concealment of the institution’s books, papers, records, or assets, or any refusal to submit the institution’s books, papers, records, or affairs for inspection to any examiner or to any lawful agent of the appropriate Federal banking agency or State bank or savings association supervisor.
 
-            (F) __Inability to meet obligations.—__ 
+            (F)  __Inability to meet obligations__  __.—__ 
 
             The institution is likely to be unable to pay its obligations or meet its depositors’ demands in the normal course of business.
 
-            (G) __Losses.—__ 
+            (G)  __Losses__  __.—__ 
 
             The institution has incurred or is likely to incur losses that will deplete all or substantially all of its capital, and there is no reasonable prospect for the institution to become adequately capitalized (as defined in section 1831o(b) of this title) without Federal assistance.
 
-            (H) __Violations of law.—__ 
+            (H)  __Violations of law__  __.—__ 
 
             Any violation of any law or regulation, or any unsafe or unsound practice or condition that is likely to—
 
@@ -335,15 +335,15 @@
 
                 (iii) otherwise seriously prejudice the interests of the institution’s depositors or the Deposit Insurance Fund.
 
-            (I) __Consent.—__ 
+            (I)  __Consent__  __.—__ 
 
             The institution, by resolution of its board of directors or its shareholders or members, consents to the appointment.
 
-            (J) __Cessation of insured status.—__ 
+            (J)  __Cessation of insured status__  __.—__ 
 
             The institution ceases to be an insured institution.
 
-            (K) __Undercapitalization.—__ 
+            (K)  __Undercapitalization__  __.—__ 
 
             The institution is undercapitalized (as defined in section 1831o(b) of this title), and—
 
@@ -363,7 +363,7 @@
 
                 (ii) otherwise has substantially insufficient capital.
 
-            (M) __Money laundering offense.—__ 
+            (M)  __Money laundering offense__  __.—__ 
 
             The Attorney General notifies the appropriate Federal banking agency or the Corporation in writing that the insured depository institution has been found guilty of a criminal offense under section 1956 or 1957 of title 18 or section 5322 or 5324 of title 31.
 
@@ -2843,13 +2843,13 @@
 
 [Pub. L. 102–242, title III, § 311(c)][/us/pl/102/242/s311/c], Dec. 19, 1991, [105 Stat. 2366][/us/stat/105/2366], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by subsection (a) and paragraphs (2) and (3) of subsection (b) \[amending this section and [section 1817 of this title][/us/usc/t12/s1817]\] shall take effect at the end of the 2-year period beginning on the date of the enactment of this Act \[Dec. 19, 1991\].
 
 >     “(2) __Application to time deposits.—__ 
 
->         “(A) __Certain deposits excluded.—__ 
+>         “(A)  __Certain deposits excluded__  __.—__ 
 
 >         Except with respect to the amendment referred to in paragraph (3), the amendments made by subsections (a) and (b) \[amending this section and sections 1813 and 1817 of this title\] shall not apply to any time deposit which—
 
@@ -2857,7 +2857,7 @@
 
 >             “(ii) matures after the end of the 2-year period referred to in paragraph (1).
 
->         “(B) __Rollovers and renewals treated as new deposit.—__ 
+>         “(B)  __Rollovers and renewals treated as new deposit__  __.—__ 
 
 >         Any renewal or rollover of a time deposit described in subparagraph (A) after the date of the enactment of this Act shall be treated as a new deposit which is not described in such subparagraph.
 
@@ -2903,11 +2903,11 @@
 
 [Pub. L. 102–242, title III, § 311(b)(4)][/us/pl/102/242/s311/b/4], Dec. 19, 1991, [105 Stat. 2365][/us/stat/105/2365], provided that:
 
->     “(A) __Review of coverage.—__ 
+>     “(A)  __Review of coverage__  __.—__ 
 
 >     For the purpose of prescribing regulations, during the 1-year period beginning on the date of the enactment of this Act \[Dec. 19, 1991\], the Board of Directors shall review the capacities and rights in which deposit accounts are maintained and for which deposit insurance coverage is provided by the Corporation.
 
->     “(B) __Regulations.—__ 
+>     “(B)  __Regulations__  __.—__ 
 
 >     After the end of the 1-year period referred to in subparagraph (A), the Board of Directors may prescribe regulations that provide for separate insurance coverage for the different capacities and rights in which deposit accounts are maintained if a determination is made by the Board of Directors that such separate insurance coverage is consistent with—
 
@@ -2915,7 +2915,7 @@
 
 >         “(ii) the insurance provisions of the Federal Deposit Insurance Act \[[12 U.S.C. 1811][/us/usc/t12/s1811] et seq.\].
 
->     “(C) __Delayed effective date for regulations.—__ 
+>     “(C)  __Delayed effective date for regulations__  __.—__ 
 
 >     No regulation prescribed under subparagraph (B) may take effect before the 2-year period beginning on the date of the enactment of this Act \[Dec. 19, 1991\].”
 
@@ -2933,23 +2933,23 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Merger.—__ 
+>         “(1)  __Merger__  __.—__ 
 
 >         The Bank Insurance Fund and the Savings Association Insurance Fund shall be merged into the Deposit Insurance Fund.
 
->         “(2) __Disposition of assets and liabilities.—__ 
+>         “(2)  __Disposition of assets and liabilities__  __.—__ 
 
 >         All assets and liabilities of the Bank Insurance Fund and the Savings Association Insurance Fund shall be transferred to the Deposit Insurance Fund.
 
->         “(3) __No separate existence.—__ 
+>         “(3)  __No separate existence__  __.—__ 
 
 >         The separate existence of the Bank Insurance Fund and the Savings Association Insurance Fund shall cease on the effective date of the merger thereof under this section.
 
->     “(b) __Repeal of Outdated Merger Provision.—__ 
+>     “(b)  __Repeal of Outdated Merger Provision__  __.—__ 
 
 >     Section 2704 of the Deposit Insurance Funds Act of 1996 ([12 U.S.C. 1821][/us/usc/t12/s1821] note) \[[section 2704 of Pub. L. 104–208][/us/pl/104/208/s2704], which amended this section, sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831m, 1831o, 1833a, 1834, 1841, and 3341 of this title, and [section 905 of Title 2][/us/usc/t2/s905], The Congress, repealed [section 1831h of this title][/us/usc/t12/s1831h], and enacted provisions set out as notes under this section\] is repealed.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall take effect no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning on the date of the enactment of this Act \[Feb. 8, 2006\].”
 
@@ -2965,11 +2965,11 @@
 
 [Pub. L. 103–204, § 26(b)][/us/pl/103/204/s26/b], Dec. 17, 1993, [107 Stat. 2409][/us/stat/107/2409], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Comptroller General of the United States shall conduct a study to determine the feasibility and effectiveness of establishing a single Federal agency responsible for selling and otherwise disposing of real property owned or held by the Department of Housing and Urban Development, the Farmers Home Administration of the Department of Agriculture, the Federal Deposit Insurance Corporation, and the Resolution Trust Corporation. The study shall examine the real property disposition procedures of such agencies and corporations, analyze the feasibility of consolidating such procedures through such single agency, and determine the characteristics and authority necessary for any such single agency to efficiently carry out such disposition activities.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 12 months after the date of enactment of this Act \[Dec. 17, 1993\], the Comptroller General shall submit a report to the Congress on the study required under paragraph (1), which shall describe any findings under the study and contain any recommendations of the Comptroller General for the establishment of such single agency.”
 
@@ -2977,11 +2977,11 @@
 
 [Pub. L. 103–204, § 37][/us/pl/103/204/s37], Dec. 17, 1993, [107 Stat. 2416][/us/stat/107/2416], provided that:
 
->     “(a) __Transactions Involving Certain Institutions.—__ 
+>     “(a)  __Transactions Involving Certain Institutions__  __.—__ 
 
 >     Section 11(a)(4)(B) of the Federal Deposit Insurance Act \[[12 U.S.C. 1821(a)(4)(B)][/us/usc/t12/s1821/a/4/B]\] shall not prohibit assistance from the Bank Insurance Fund that otherwise meets all the criteria established in section 13(c) of such Act \[[12 U.S.C. 1823(c)][/us/usc/t12/s1823/c]\] from being provided to an insured depository institution that became wholly-owned, either directly or through a wholly-owned subsidiary, by an entity or instrumentality of a State government during the period beginning on January 1, 1992, and ending on the date of enactment of this Act \[Dec. 17, 1993\].
 
->     “(b) __Transactions Involving the FDIC as Receiver.—__ 
+>     “(b)  __Transactions Involving the FDIC as Receiver__  __.—__ 
 
 >     Notwithstanding the extension, pursuant to section 27 \[[12 U.S.C. 1831d][/us/usc/t12/s1831d]\], of the Resolution Trust Corporation’s jurisdiction to be appointed conservator or receiver of certain savings associations after September 30, 1993, no provision of this Act \[see Short Title of 1993 Amendment note set out under [section 1421 of this title][/us/usc/t12/s1421]\] or any amendment made by this Act shall invalidate or otherwise affect—
 
@@ -2993,15 +2993,15 @@
 
 [Pub. L. 102–242, title III, § 311(d)][/us/pl/102/242/s311/d], Dec. 19, 1991, [105 Stat. 2366][/us/stat/105/2366], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Federal Deposit Insurance Corporation, in conjunction with such consultants and technical experts as the Corporation determines to be appropriate, shall conduct a study of the cost and feasibility of tracking the insured and uninsured deposits of any individual and the exposure, under any Act of Congress or any regulation of any appropriate Federal banking agency, of the Federal Government with respect to all insured depository institutions.
 
->     “(2) __Analysis of costs and benefits.—__ 
+>     “(2)  __Analysis of costs and benefits__  __.—__ 
 
 >     The study under paragraph (1) shall include detailed, technical analysis of the costs and benefits associated with the least expensive way to implement the system.
 
->     “(3) __Specific factors to be studied.—__ 
+>     “(3)  __Specific factors to be studied__  __.—__ 
 
 >     As part of the study under paragraph (1), the Corporation shall investigate, review, and evaluate—
 
@@ -3015,15 +3015,15 @@
 
 >         “(E) the manner in which systems would be administered and enforced.
 
->     “(4) __Federal reserve board survey.—__ 
+>     “(4)  __Federal reserve board survey__  __.—__ 
 
 >     As part of the informational study required under paragraph (1), the Board of Governors of the Federal Reserve System shall conduct, in conjunction with other Federal departments and agencies as necessary, a survey of the ownership of deposits held by individuals including the dollar amount of deposits held, the type of deposit accounts held, and the type of financial institutions in which the deposit accounts are held.
 
->     “(5) __Analysis by fdic.—__ 
+>     “(5)  __Analysis by fdic__  __.—__ 
 
 >     The results of the survey under paragraph (4) shall be provided to the Federal Deposit Insurance Corporation before the end of the 1-year period beginning on the date of the enactment of this Act \[Dec. 19, 1991\] for analysis and inclusion in the informational study.
 
->     “(6) __Report to congress.—__ 
+>     “(6)  __Report to congress__  __.—__ 
 
 >     Before the end of the 18-month period beginning on the date of the enactment of this Act, the Federal Deposit Insurance Corporation shall submit to the Congress a report containing a detailed statement of findings made and conclusions drawn from the study conducted under this section, including such recommendations for administrative and legislative action as the Corporation determines to be appropriate.”
 
@@ -3031,7 +3031,7 @@
 
 [Pub. L. 102–242, title IV, § 451][/us/pl/102/242/s451], Dec. 19, 1991, [105 Stat. 2382][/us/stat/105/2382], as amended by [Pub. L. 102–550, title XVI, § 1606(g)(1)][/us/pl/102/550/s1606/g/1], Oct. 28, 1992, [106 Stat. 4088][/us/stat/106/4088], provided that:
 
->     “(a) __Continuation Coverage.—__ 
+>     “(a)  __Continuation Coverage__  __.—__ 
 
 >     The Federal Deposit Insurance Corporation—
 
@@ -3039,11 +3039,11 @@
 
 >         “(2) shall require that any successor described in subsection (b)(1)(B)(iii) provide a group health plan with respect to former employees of such institution in the same manner as the failed depository institution would have been required to provide but for its failure.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 
->         “(1) __Successor.—__ 
+>         “(1)  __Successor__  __.—__ 
 
 >         An entity is a successor of a failed depository institution during any period if—
 
@@ -3059,19 +3059,19 @@
 
 >                 “(iii) an entity that acquires such assets or liabilities from the Federal Deposit Insurance Corporation or a bridge bank.
 
->         “(2) __Failed depository institution.—__ 
+>         “(2)  __Failed depository institution__  __.—__ 
 
 >         The term ‘failed depository institution’ means any depository institution (as defined in section 3(c) of the Federal Deposit Insurance Act \[[12 U.S.C. 1813(c)][/us/usc/t12/s1813/c]\]) for which a receiver has been appointed.
 
->         “(3) __Bridge bank.—__ 
+>         “(3)  __Bridge bank__  __.—__ 
 
 >         The term ‘bridge bank’ has the meaning given such term by section 3(i)(2) of the Federal Deposit Insurance Act \[[12 U.S.C. 1813(i)(2)][/us/usc/t12/s1813/i/2]\].
 
->     “(c) __No premium costs imposed on fdic.—__ 
+>     “(c)  __No premium costs imposed on fdic__  __.—__ 
 
 >     Subsection (a) shall not be construed as requiring the Federal Deposit Insurance Corporation to incur, by reason of this section, any obligation for any premium under any group health plan referred to in such subsection.
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     This section shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1991\], regardless of whether the qualifying event under section 603 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1163][/us/usc/t29/s1163]\] occurred before, on, or after such date.”
 
@@ -3081,27 +3081,27 @@
 
 > “For purposes of this subtitle \[subtitle G (§§ 2701–2711) of title II of div. A of [Pub. L. 104–208][/us/pl/104/208], see Short Title of 1996 Amendment note set out under [section 1811 of this title][/us/usc/t12/s1811]\], the following definitions shall apply:
 
->     “(1) __Bank insurance fund.—__ 
+>     “(1)  __Bank insurance fund__  __.—__ 
 
 >     The term ‘Bank Insurance Fund’ means the fund established pursuant to section (11)(a)(5)(A) of the Federal Deposit Insurance Act \[former [12 U.S.C. 1821(a)(5)(A)][/us/usc/t12/s1821/a/5/A]\], as that section existed on the day before the date of enactment of this Act \[Sept. 30, 1996\].
 
->     “(2) __BIF member, saif member.—__ 
+>     “(2)  __BIF member, saif member__  __.—__ 
 
 >     The terms ‘Bank Insurance Fund member’ and ‘Savings Association Insurance Fund member’ have the same meanings as in section 7(l) of the Federal Deposit Insurance Act \[[12 U.S.C. 1817][/us/usc/t12/s1817](l)\].
 
->     “(3) __Various banking terms.—__ 
+>     “(3)  __Various banking terms__  __.—__ 
 
 >     The terms ‘bank’, ‘Board of Directors’, ‘Corporation’, ‘deposit’, ‘insured depository institution’, ‘Federal savings association’, ‘savings association’, ‘State savings bank’, and ‘State depository institution’ have the same meanings as in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\].
 
->     “(4) __Deposit insurance fund.—__ 
+>     “(4)  __Deposit insurance fund__  __.—__ 
 
 >     The term ‘Deposit Insurance Fund’ means the fund established under section 11(a)(4) of the Federal Deposit Insurance Act \[former [12 U.S.C. 1821(a)(4)][/us/usc/t12/s1821/a/4]\] (as amended by section 2704(d) of this subtitle).
 
->     “(5) __Depository institution holding company.—__ 
+>     “(5)  __Depository institution holding company__  __.—__ 
 
 >     The term ‘depository institution holding company’ has the same meaning as in section 3 of the Federal Deposit Insurance Act \[[12 U.S.C. 1813][/us/usc/t12/s1813]\].
 
->     “(6) __Designated reserve ratio.—__ 
+>     “(6)  __Designated reserve ratio__  __.—__ 
 
 >     The term ‘designated reserve ratio’ has the same meaning as in section 7(b)(2)(A)(iv) of the Federal Deposit Insurance Act \[former [12 U.S.C. 1817(b)(2)(A)(iv)][/us/usc/t12/s1817/b/2/A/iv], see [12 U.S.C. 1817(b)(3)][/us/usc/t12/s1817/b/3]\].
 
@@ -3109,7 +3109,7 @@
 
 >     The term ‘Savings Association Insurance Fund’ means the fund established pursuant to section 11(a)(6)(A) of the Federal Deposit Insurance Act \[former [12 U.S.C. 1821(a)(6)(A)][/us/usc/t12/s1821/a/6/A]\], as that section existed on the day before the date of enactment of this Act \[Sept. 30, 1996\].
 
->     “(8) __SAIF-assessable deposit.—__ 
+>     “(8)  __SAIF-assessable deposit__  __.—__ 
 
 >     The term ‘SAIF-assessable deposit’—
 

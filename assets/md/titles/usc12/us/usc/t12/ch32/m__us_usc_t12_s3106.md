@@ -31,11 +31,11 @@
 
         (3) __Termination of grandfathered rights.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             If any foreign bank or foreign company files a declaration under section 4(l)(1)(C)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Bank Holding Company Act of 1956 \[[12 U.S.C. 1843][/us/usc/t12/s1843](l)(1)(C)\], any authority conferred by this subsection on any foreign bank or company to engage in any activity that the Board has determined to be permissible for financial holding companies under section 4(k) of such Act \[[12 U.S.C. 1843(k)][/us/usc/t12/s1843/k]\] shall terminate immediately.
 
-            (B) __Restrictions and requirements authorized.—__ 
+            (B)  __Restrictions and requirements authorized__  __.—__ 
 
             If a foreign bank or company that engages, directly or through an affiliate pursuant to paragraph (1), in an activity that the Board has determined to be permissible for financial holding companies under section 4(k) of the Bank Holding Company Act of 1956 \[[12 U.S.C. 1843(k)][/us/usc/t12/s1843/k]\] has not filed a declaration with the Board of its status as a financial holding company under such section by the end of the 2-year period beginning on November 12, 1999, the Board, giving due regard to the principle of national treatment and equality of competitive opportunity, may impose such restrictions and requirements on the conduct of such activities by such foreign bank or company as are comparable to those imposed on a financial holding company organized under the laws of the United States, including a requirement to conduct such activities in compliance with any prudential safeguards established under [section 1828a of this title][/us/usc/t12/s1828a].
 

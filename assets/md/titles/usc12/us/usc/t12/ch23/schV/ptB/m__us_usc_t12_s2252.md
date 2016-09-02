@@ -251,7 +251,7 @@
 
 [Pub. L. 104–105, title II, § 212][/us/pl/104/105/s212], Feb. 10, 1996, [110 Stat. 174][/us/stat/110/174], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -261,7 +261,7 @@
 
 >         “(3) the cost savings described in paragraph (2) ultimately benefit the farmers, ranchers, agricultural cooperatives, and rural residents of the United States.
 
->     “(b) __Continuation of Regulatory Review.—__ 
+>     “(b)  __Continuation of Regulatory Review__  __.—__ 
 
 >     The Farm Credit Administration shall continue the comprehensive review of regulations governing the Farm Credit System to identify and eliminate, consistent with law, safety, and soundness, all regulations that are unnecessary, unduly burdensome or costly, or not based on law.”
 

@@ -221,11 +221,11 @@
 
 [Pub. L. 105–65, title V, § 541][/us/pl/105/65/s541], Oct. 27, 1997, [111 Stat. 1412][/us/stat/111/1412], provided that:
 
->     “(a) __Issuance of Necessary Regulations.—__ 
+>     “(a)  __Issuance of Necessary Regulations__  __.—__ 
 
 >     Notwithstanding section 7(o) of the Department of Housing and Urban Development Act \[[42 U.S.C. 3535][/us/usc/t42/s3535](o)\] or part 10 of title 24, Code of Federal Regulations (as in existence on the date of enactment of this Act \[Oct. 27, 1997\]), the Secretary shall issue such regulations as the Secretary determines to be necessary to implement this subtitle \[subtitle C (§§ 541–564) of title V of [Pub. L. 105–65][/us/pl/105/65], enacting [section 1437z–1 of Title 42][/us/usc/t42/s1437z–1], The Public Health and Welfare, amending this section, sections 1708, 1715z–4a, 1715z–19, and 1735f–15 of this title, [section 1516 of Title 18][/us/usc/t18/s1516], Crimes and Criminal Procedure, [section 6103 of Title 26][/us/usc/t26/s6103], Internal Revenue Code, and sections 503 and 1437z of Title 42, and enacting provisions set out as notes under [section 1735f–15 of this title][/us/usc/t12/s1735f–15] and sections 503 and 1437z–1 of Title 42\] and the amendments made by this subtitle in accordance with section 552 or 553 of title 5, United States Code, as determined by the Secretary.
 
->     “(b) __Use of Existing Regulations.—__ 
+>     “(b)  __Use of Existing Regulations__  __.—__ 
 
 >     In implementing any provision of this subtitle, the Secretary may, in the discretion of the Secretary, provide for the use of existing regulations to the extent appropriate, without rulemaking.”
 

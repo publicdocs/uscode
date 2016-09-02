@@ -121,13 +121,13 @@
 
 [Pub. L. 101–73, title III, § 304][/us/pl/101/73/s304], Aug. 9, 1989, [103 Stat. 351][/us/stat/103/351], provided that:
 
->     “(a) __Consistency of Certain Regulations With Section 23A of the Federal Reserve Act \[__  __[__  __12 U.S.C. 371c__  __][/us/usc/t12/s371c]__  __\].—Not later than 6 months after the date of enactment of this Act \[__  __Aug. 9, 1989__  __\], the Director of the Office of Thrift Supervision shall revise the Director’s conflicts regulations so as not to prohibit a thrift institution from purchasing mortgages from a mortgage-banking affiliate to the same extent as a member bank may do so under section 250.250 of title 12, Code of Federal Regulations.__ 
+>     “(a)  __Consistency of Certain Regulations With Section__  __23A__  __of the Federal Reserve Act__  __\[__  __[__  __12 U.S.C. 371c__  __][/us/usc/t12/s371c]__  __\].—Not later than 6 months after the date of enactment of this Act \[__  __Aug. 9, 1989__  __\], the Director of the Office of Thrift Supervision shall revise the Director’s conflicts regulations so as not to prohibit a thrift institution from purchasing mortgages from a mortgage-banking affiliate to the same extent as a member bank may do so under section 250.250 of title 12, Code of Federal Regulations.__ 
 
->     “(b) __Transitional Period.—__ 
+>     “(b)  __Transitional Period__  __.—__ 
 
 >     Notwithstanding section 11(a) of the Home Owners’ Loan Act \[[12 U.S.C. 1468(a)][/us/usc/t12/s1468/a]\] (as added by section 301 of this Act), a thrift institution that, before May 1, 1989, had received approval from the Federal Savings and Loan Insurance Corporation pursuant to section 408(d)(6) of the National Housing Act \[former [12 U.S.C. 1730a(d)(6)][/us/usc/t12/s1730a/d/6]\] as then in effect to purchase mortgages from a mortgage-banking affiliate may, during the 6-month period following the date on which final regulations are prescribed pursuant to subsection (a), continue to engage in transactions for which it had received such approval. Any savings association that engages in such transactions pursuant to this subsection shall comply with the standards that were applicable under section 408(d)(6) as in effect on May 1, 1989.
 
->     “(c) __Authority To Extend Regulatory Approvals That Would Otherwise Lapse During the Transitional Period.—__ 
+>     “(c)  __Authority To Extend Regulatory Approvals That Would Otherwise Lapse During the Transitional Period__  __.—__ 
 
 >     The Director of the Office of Thrift Supervision may extend until the expiration of the 6-month period described in subsection (b) any approval granted by the Federal Savings and Loan Insurance Corporation that expires or would expire before the expiration of that 6-month period. In determining whether to grant such exemptions, the Director shall apply the standards that were applicable under section 408(d)(6) of the National Housing Act \[former [12 U.S.C. 1730a(d)(6)][/us/usc/t12/s1730a/d/6]\] as in effect on May 1, 1989.”
 

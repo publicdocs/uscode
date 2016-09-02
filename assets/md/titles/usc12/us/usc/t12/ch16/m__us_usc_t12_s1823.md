@@ -71,7 +71,7 @@
 
         (4) __Least-cost resolution required.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding any other provision of this chapter, the Corporation may not exercise any authority under this subsection or subsection (d), (f), (h), (i), or (k) of this section with respect to any insured depository institution unless—
 
@@ -79,11 +79,11 @@
 
                 (ii) the total amount of the expenditures by the Corporation and obligations incurred by the Corporation (including any immediate and long-term obligation of the Corporation and any direct or contingent liability for future payment by the Corporation) in connection with the exercise of any such authority with respect to such institution is the least costly to the Deposit Insurance Fund of all possible methods for meeting the Corporation’s obligation under this section.
 
-            (B) __Determining least costly approach.—__ 
+            (B)  __Determining least costly approach__  __.—__ 
 
             In determining how to satisfy the Corporation’s obligations to an institution’s insured depositors at the least possible cost to the Deposit Insurance Fund, the Corporation shall comply with the following provisions:
 
-                (i) __Present-value analysis; documentation required.—__ 
+                (i)  __Present-value analysis; documentation required__  __.—__ 
 
                 The Corporation shall—
 
@@ -93,17 +93,17 @@
 
                     (III) retain the documentation for not less than 5 years.
 
-                (ii) __Foregone tax revenues.—__ 
+                (ii)  __Foregone tax revenues__  __.—__ 
 
                 Federal tax revenues that the Government would forego as the result of a proposed transaction, to the extent reasonably ascertainable, shall be treated as if they were revenues foregone by the Deposit Insurance Fund.
 
             (C) __Time of determination.—__ 
 
-                (i) __General rule.—__ 
+                (i)  __General rule__  __.—__ 
 
                 For purposes of this subsection, the determination of the costs of providing any assistance under paragraph (1) or (2) or any other provision of this section with respect to any depository institution shall be made as of the date on which the Corporation makes the determination to provide such assistance to the institution under this section.
 
-                (ii) __Rule for liquidations.—__ 
+                (ii)  __Rule for liquidations__  __.—__ 
 
                 For purposes of this subsection, the determination of the costs of liquidation of any depository institution shall be made as of the earliest of—
 
@@ -113,13 +113,13 @@
 
                     (III) the date on which the Corporation makes any determination to provide any assistance under this section with respect to such institution.
 
-            (D) __Liquidation costs.—__ 
+            (D)  __Liquidation costs__  __.—__ 
 
             In determining the cost of liquidating any depository institution for the purpose of comparing the costs under subparagraph (A) (with respect to such institution), the amount of such cost may not exceed the amount which is equal to the sum of the insured deposits of such institution as of the earliest of the dates described in subparagraph (C), minus the present value of the total net amount the Corporation reasonably expects to receive from the disposition of the assets of such institution in connection with such liquidation.
 
             (E) __Deposit insurance fund available for intended purpose only.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 After December 31, 1994, or at such earlier time as the Corporation determines to be appropriate, the Corporation may not take any action, directly or indirectly, with respect to any insured depository institution that would have the effect of increasing losses to the Deposit Insurance Fund by protecting—
 
@@ -127,21 +127,21 @@
 
                     (II) creditors other than depositors.
 
-                (ii) __Deadline for regulations.—__ 
+                (ii)  __Deadline for regulations__  __.—__ 
 
                 The Corporation shall prescribe regulations to implement clause (i) not later than January 1, 1994, and the regulations shall take effect not later than January 1, 1995.
 
-                (iii) __Purchase and assumption transactions.—__ 
+                (iii)  __Purchase and assumption transactions__  __.—__ 
 
                 No provision of this subparagraph shall be construed as prohibiting the Corporation from allowing any person who acquires any assets or assumes any liabilities of any insured depository institution for which the Corporation has been appointed conservator or receiver to acquire uninsured deposit liabilities of such institution so long as the insurance fund does not incur any loss with respect to such deposit liabilities in an amount greater than the loss which would have been incurred with respect to such liabilities if the institution had been liquidated.
 
-            (F) __Discretionary determinations.—__ 
+            (F)  __Discretionary determinations__  __.—__ 
 
             Any determination which the Corporation may make under this paragraph shall be made in the sole discretion of the Corporation.
 
             (G) __Systemic risk.—__ 
 
-                (i) __Emergency determination by secretary of the treasury.—__ 
+                (i)  __Emergency determination by secretary of the treasury__  __.—__ 
 
                 Notwithstanding subparagraphs (A) and (E), if, upon the written recommendation of the Board of Directors (upon a vote of not less than two-thirds of the members of the Board of Directors) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board), the Secretary of the Treasury (in consultation with the President) determines that—
 
@@ -153,19 +153,19 @@
 
                 (ii) __Repayment of loss.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     The Corporation shall recover the loss to the Deposit Insurance Fund arising from any action taken or assistance provided with respect to an insured depository institution under clause (i) from 1 or more special assessments on insured depository institutions, depository institution holding companies (with the concurrence of the Secretary of the Treasury with respect to holding companies), or both, as the Corporation determines to be appropriate.
 
-                    (II) __Treatment of depository institution holding companies.—__ 
+                    (II)  __Treatment of depository institution holding companies__  __.—__ 
 
                     For purposes of this clause, sections 1817(c)(2) and 1828(h) of this title shall apply to depository institution holding companies as if they were insured depository institutions.
 
-                    (III) __Regulations.—__ 
+                    (III)  __Regulations__  __.—__ 
 
                     The Corporation shall prescribe such regulations as it deems necessary to implement this clause. In prescribing such regulations, defining terms, and setting the appropriate assessment rate or rates, the Corporation shall establish rates sufficient to cover the losses incurred as a result of the actions of the Corporation under clause (i) and shall consider: the types of entities that benefit from any action taken or assistance provided under this subparagraph; economic conditions, the effects on the industry, and such other factors as the Corporation deems appropriate and relevant to the action taken or the assistance provided. Any funds so collected that exceed actual losses shall be placed in the Deposit Insurance Fund.
 
-                (iii) __Documentation required.—__ 
+                (iii)  __Documentation required__  __.—__ 
 
                 The Secretary of the Treasury shall—
 
@@ -173,7 +173,7 @@
 
                     (II) retain the documentation for review under clause (iv).
 
-                (iv) __GAO review.—__ 
+                (iv)  __GAO review__  __.—__ 
 
                 The Comptroller General of the United States shall review and report to the Congress on any determination under clause (i), including—
 
@@ -185,15 +185,15 @@
 
                 (v) __Notice.—__ 
 
-                    (I) __In general.—__ 
+                    (I)  __In general__  __.—__ 
 
                     Not later than 3 days after making a determination under clause (i), the Secretary of the Treasury shall provide written notice of any determination under clause (i) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives.
 
-                    (II) __Description of basis of determination.—__ 
+                    (II)  __Description of basis of determination__  __.—__ 
 
                     The notice under subclause (I) shall include a description of the basis for any determination under clause (i).
 
-            (H) __Rule of construction.—__ 
+            (H)  __Rule of construction__  __.—__ 
 
             No provision of law shall be construed as permitting the Corporation to take any action prohibited by paragraph (4) unless such provision expressly provides, by direct reference to this paragraph, that this paragraph shall not apply with respect to such action.
 
@@ -209,11 +209,11 @@
 
         (8) __Assistance before appointment of conservator or receiver.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Subject to the least-cost provisions of paragraph (4), the Corporation shall consider providing direct financial assistance under this section for depository institutions before the appointment of a conservator or receiver for such institution only under the following circumstances:
 
-                (i) __Troubled condition criteria.—__ 
+                (i)  __Troubled condition criteria__  __.—__ 
 
                 The Corporation determines—
 
@@ -221,7 +221,7 @@
 
                     (II) it is unlikely that the institution can meet all currently applicable capital standards without assistance.
 
-                (ii) __Other criteria.—__ 
+                (ii)  __Other criteria__  __.—__ 
 
                 The depository institution meets the following criteria:
 
@@ -229,7 +229,7 @@
 
                     (II) The institution’s management did not engage in any insider dealing, speculative practice, or other abusive activity.
 
-            (B) __Public disclosure.—__ 
+            (B)  __Public disclosure__  __.—__ 
 
             Any determination under this paragraph to provide assistance under this section shall be made in writing and published in the Federal Register.
 
@@ -237,7 +237,7 @@
 
         (10) In its annual report to the Congress, the Corporation shall report the total amount it has saved, or estimates it has saved, by exercising the authority provided in this subsection.
 
-        (11) __Unenforceability of certain agreements.—__ 
+        (11)  __Unenforceability of certain agreements__  __.—__ 
 
         No provision contained in any existing or future standstill, confidentiality, or other agreement that, directly or indirectly—
 
@@ -337,7 +337,7 @@
 
         (3) __Emergency Interstate Acquisitions of Insured Banks in Danger of Default.—__ 
 
-            (A) __Acquisition of insured banks in danger of default.—__ 
+            (A)  __Acquisition of insured banks in danger of default__  __.—__ 
 
             One or more out-of-State banks or out-of-State holding companies may acquire and retain all or part of the shares or assets of, or otherwise acquire and retain—
 
@@ -345,7 +345,7 @@
 
                 (ii) 2 or more affiliated insured banks in danger of default which have aggregate total assets of $500,000,000 or more, if the aggregate total assets of such banks is equal to or greater than 33 percent of the aggregate total assets of all affiliated insured banks.
 
-            (B) __Acquisition of a holding company or other bank affiliate.—__ 
+            (B)  __Acquisition of a holding company or other bank affiliate__  __.—__ 
 
             If one or more out-of-State banks or out-of-State holding companies acquire 1 or more affiliated insured banks under subparagraph (A) the aggregate total assets of which is equal to or greater than 33 percent of the aggregate total assets of all affiliated insured banks, any such out-of-State bank or out-of-State holding company may also, as part of the same transaction, acquire and retain the shares or assets of, or otherwise acquire and retain—
 
@@ -353,11 +353,11 @@
 
                 (ii) any other affiliated insured bank.
 
-            (C) __Request for assistance by corporate board of directors.—__ 
+            (C)  __Request for assistance by corporate board of directors__  __.—__ 
 
             The Corporation may assist an acquisition or merger authorized under subparagraph (A) only if the board of directors or trustees of each insured bank in danger of default which is being acquired has requested in writing that the Corporation assist the acquisition or merger.
 
-            (D) __Certain acquisitions authorized after assistance is provided.—__ 
+            (D)  __Certain acquisitions authorized after assistance is provided__  __.—__ 
 
             Notwithstanding paragraph (1), if—
 
@@ -367,21 +367,21 @@
 
                 the insured bank, the holding company, and such other affiliated insured bank shall remain eligible, subject to such terms and conditions as the Corporation (in the Corporation’s discretion) may impose, to be acquired by an out-of-State bank or out-of-State holding company under this paragraph as long as any portion of such assistance remains outstanding.
 
-            (E) __State bank supervisor approval.—__ 
+            (E)  __State bank supervisor approval__  __.—__ 
 
             The Corporation may take no final action in connection with any acquisition under this paragraph unless the State bank supervisor of the State in which the bank in danger of default is located approves the acquisition.
 
-            (F) __Other requirements not affected.—__ 
+            (F)  __Other requirements not affected__  __.—__ 
 
             This paragraph does not affect any other requirement under Federal or State law for regulatory approval of an acquisition under this paragraph.
 
-            (G) __Acquisition may be conditioned on receipt of consideration for corporation’s assistance.—__ 
+            (G)  __Acquisition may be conditioned on receipt of consideration for corporation’s assistance__  __.—__ 
 
             Any acquisition described in subparagraph (D) may be conditioned on the receipt of such consideration for the Corporation’s assistance as the Board of Directors deems appropriate.
 
         (4)
 
-            (A) __Acquisitions Not Subject to Certain Other Laws.—__ 
+            (A)  __Acquisitions Not Subject to Certain Other Laws__  __.—__ 
 
             [Section 1842(d) of this title][/us/usc/t12/s1842/d], any provision of State law, and section 1730a(e)(3)  <sup>\[3\]</sup>  <sup><sup> 3 See References in Text note below. </sup></sup>  of this title shall not apply to prohibit any acquisition under paragraph (2) or (3), except that an out-of-State bank may make such an acquisition only if such ownership is otherwise specifically authorized.
 
@@ -391,11 +391,11 @@
 
             (D) __Subsequent Nonemergency Interstate Acquisitions Subject to State Law.—__ 
 
-                (i) __In general.—__ 
+                (i)  __In general__  __.—__ 
 
                 Any out-of-State bank holding company which acquires control of an insured bank in any State under paragraph (2) or (3) may acquire any other insured bank and establish branches in such State to the same extent as a bank holding company whose insured bank subsidiaries’ operations are principally conducted in such State may acquire any other insured bank or establish branches.
 
-                (ii) __Delayed date of applicability.—__ 
+                (ii)  __Delayed date of applicability__  __.—__ 
 
                 Clause (i) shall not apply with respect to any out-of-State bank holding company referred to in such clause before the earlier of—
 
@@ -403,11 +403,11 @@
 
                     (II) the end of any period established under State law during which such out-of-State bank holding company may not be treated as a bank holding company whose insured bank subsidiaries’ operations are principally conducted in such State for purposes of acquiring other insured banks or establishing bank branches.
 
-                (iii) __Determination of principally conducted.—__ 
+                (iii)  __Determination of principally conducted__  __.—__ 
 
                 For purposes of this subparagraph, the State in which the operations of a holding company’s insured bank subsidiaries are principally conducted is the State determined under [section 1842(d) of this title][/us/usc/t12/s1842/d] with respect to such holding company.
 
-            (E) __Certain State Interstate Banking Laws Inapplicable.—__ 
+            (E)  __Certain State Interstate Banking Laws Inapplicable__  __.—__ 
 
             Any holding company which acquires control of any insured bank or holding company under paragraph (2) or (3) or subparagraph (D) of this paragraph shall not, by reason of such acquisition, be required under the law of any State to divest any other insured bank or be prevented from acquiring any other bank or holding company.
 
@@ -445,7 +445,7 @@
 
                 (vi) Sixth, between depository institutions of different types in different States other than the States described in clause (v).
 
-            (C) __Minority Bank Priority.—__ 
+            (C)  __Minority Bank Priority__  __.—__ 
 
             In the case of a minority-controlled bank, the Corporation shall seek an offer from other minority-controlled banks before proceeding with the bidding priorities set forth in subparagraph (B).
 
@@ -491,21 +491,21 @@
 
         (9) __No Assistance Authorized for Certain Subsidiaries of Holding Companies.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Corporation shall not provide any assistance to a subsidiary, other than a subsidiary that is an insured depository institution, of a holding company in connection with any acquisition under this subsection.
 
-            (B) __Intermediate holding company permitted.—__ 
+            (B)  __Intermediate holding company permitted__  __.—__ 
 
             This paragraph does not prohibit an intermediate holding company or an affiliate of an insured depository institution from being a conduit for assistance ultimately intended for an insured bank.
 
         (10) __Annual Report.—__ 
 
-            (A) __Required.—__ 
+            (A)  __Required__  __.—__ 
 
             In its annual report to Congress the Corporation shall include a report on the acquisitions under this subsection during the preceding year.
 
-            (B) __Contents.—__ 
+            (B)  __Contents__  __.—__ 
 
             The report required under subparagraph (A) shall contain the following information:
 
@@ -513,21 +513,21 @@
 
                 (ii) A brief description of each such acquisition and the circumstances under which such acquisition occurred.
 
-        (11) __Determination of Total Assets.—__ 
+        (11)  __Determination of Total Assets__  __.—__ 
 
         For purposes of this subsection, the total assets of any insured bank shall be determined on the basis of the most recent report of condition of such bank which is available at the time of such determination.
 
         (12) __Acquisition of minority bank by minority bank holding company without regard to asset size.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             For the purpose of ensuring continued minority control of a minority-controlled bank, paragraphs (2) and (3) shall apply with respect to the acquisition of a minority-controlled bank by an out-of-State minority-controlled depository institution or depository institution holding company without regard to the fact that the total assets of such minority-controlled bank are less than $500,000,000.
 
-            (B) __Definitions.—__ 
+            (B)  __Definitions__  __.—__ 
 
             For purposes of this paragraph:
 
-                (i) __Minority bank.—__ 
+                (i)  __Minority bank__  __.—__ 
 
                 The term “minority bank” means any depository institution described in clause (i), (ii), or (iii) of [section 461(b)(1)(A) of this title][/us/usc/t12/s461/b/1/A]—
 
@@ -535,7 +535,7 @@
 
                     (II) more than 50 percent of the net profit or loss of which accrues to minority individuals.
 
-                (ii) __Minority.—__ 
+                (ii)  __Minority__  __.—__ 
 
                 The term “minority” means any Black American, Native American, Hispanic American, or Asian American.
 
@@ -1067,39 +1067,39 @@
 
 [Pub. L. 102–242, title I, § 143][/us/pl/102/242/s143], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     It is the sense of the Congress that the Federal banking agencies should facilitate early resolution of troubled insured depository institutions whenever feasible if early resolution would have the least possible long-term cost to the deposit insurance fund, consistent with the least-cost and prompt corrective action provisions of the Federal Deposit Insurance Act \[[12 U.S.C. 1811][/us/usc/t12/s1811] et seq.\].
 
->     “(b) __General Principles.—__ 
+>     “(b)  __General Principles__  __.—__ 
 
 >     In encouraging the Federal banking agencies to pursue early resolution strategies, the Congress contemplates that any resolution transaction under section 13(c) of that Act \[[12 U.S.C. 1823(c)][/us/usc/t12/s1823/c]\] would observe the following general principles:
 
->         “(1) __Competitive negotiation.—__ 
+>         “(1)  __Competitive negotiation__  __.—__ 
 
 >         The transaction should be negotiated competitively, taking into account the value of expediting the process.
 
->         “(2) __Resulting institution adequately capitalized.—__ 
+>         “(2)  __Resulting institution adequately capitalized__  __.—__ 
 
 >         Any insured depository institution created or assisted in the transaction (hereafter the ‘resulting institution’) and any institution acquiring the troubled institution should meet all applicable minimum capital standards.
 
->         “(3) __Substantial private investment.—__ 
+>         “(3)  __Substantial private investment__  __.—__ 
 
 >         The transaction should involve substantial private investment.
 
->         “(4) __Concessions.—__ 
+>         “(4)  __Concessions__  __.—__ 
 
 >         Preexisting owners and debtholders of any troubled institution or its holding company should make substantial concessions.
 
->         “(5) __Qualified management.—__ 
+>         “(5)  __Qualified management__  __.—__ 
 
 >         Directors and senior management of the resulting institution should be qualified to perform their duties, and should not include individuals substantially responsible for the troubled institution’s problems.
 
->         “(6) __FDIC’s participation.—__ 
+>         “(6)  __FDIC’s participation__  __.—__ 
 
 >         The transaction should give the Federal Deposit Insurance Corporation an opportunity to participate in the success of the resulting institution.
 
->         “(7) __Structure of transaction.—__ 
+>         “(7)  __Structure of transaction__  __.—__ 
 
 >         The transaction should, insofar as practical, be structured so that—
 
@@ -1115,7 +1115,7 @@
 
 >             “(B) new investors share risk with the Corporation.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Two years after the date of enactment of this Act \[Dec. 19, 1991\], the Federal Deposit Insurance Corporation shall submit a report to Congress analyzing the effect of early resolution on the deposit insurance funds.”
 

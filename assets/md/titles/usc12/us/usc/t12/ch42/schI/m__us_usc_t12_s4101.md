@@ -69,11 +69,11 @@
 
 [Pub. L. 102–550, title III, § 314][/us/pl/102/550/s314], Oct. 28, 1992, [106 Stat. 3770][/us/stat/106/3770], provided that:
 
->     “(a) __Elihpa of 1987.—__ 
+>     “(a)  __Elihpa of__  __1987.—__ 
 
 >     The Secretary may not require, as a condition of eligibility for or receipt of technical assistance made available under the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992 ([Public Law 102–139][/us/pl/102/139] \[[105 Stat. 736][/us/stat/105/736], see Tables for classification\]) (including any phase of a grant), that an applicant participate in a training program sponsored or conducted by the Department of Housing and Urban Development for acquisition of eligible low income housing under the provisions of the Emergency Low Income Housing Preservation Act of 1987 \[see Codification note above\], and may not provide any preference or priority for such assistance for any applicant based on participation in such a program.
 
->     “(b) __Lihprha of 1990.—__ 
+>     “(b)  __Lihprha of__  __1990.—__ 
 
 >     The Secretary may require, as a condition of eligibility for or receipt of technical assistance made available under the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992 ([Public Law 102–139][/us/pl/102/139]) (including any phase of a grant), that an applicant participate in a training program sponsored or conducted by the Department of Housing and Urban Development for acquisition of eligible low-income housing under this title \[enacting sections 4141 to 4147 of this title, amending sections 1715z–1, 1715z–6, 4103, 4105 to 4112, 4116, 4119, 4121, 4122, 4124, and 4125 of this title, enacting provisions set out as notes under this section and sections 1715z–6, 4109, and 4117 of this title, and amending provisions set out as a note under this section\], and may provide preference or priority for such assistance for applicants based on participation in such a program, but only if the program is made available on a nationwide basis not later than March 1, 1993.”
 
@@ -81,15 +81,15 @@
 
 [Pub. L. 101–625, title VI, § 604][/us/pl/101/625/s604], Nov. 28, 1990, [104 Stat. 4277][/us/stat/104/4277], as amended by [Pub. L. 102–550, title III, § 313][/us/pl/102/550/s313], Oct. 28, 1992, [106 Stat. 3769][/us/stat/106/3769], provided that:
 
->     “(a) __Housing Eligible for Election.—__ 
+>     “(a)  __Housing Eligible for Election__  __.—__ 
 
 >     Any owner of housing that becomes eligible low-income housing before January 1, 1991 and who, before such date, filed a notice of intent under section 222 of the Emergency Low Income Housing Preservation Act of 1987 \[formerly set out in a note under section 1715l of this title\] (as such section existed before the date of the enactment of this Act \[Nov. 28, 1990\]) or under section 212 of such Act \[[12 U.S.C. 4102][/us/usc/t12/s4102]\] (as amended by section 601(a)) may elect to be subject to (1) the provisions of such Act as in effect before the date of the enactment of this Act, or (2) the provisions of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[see Short Title note above\], after the date of the enactment of this Act. The Secretary shall establish procedures for owners to make the election under the preceding sentence. An owner that elects to be subject to the provisions of the Emergency Low Income Housing Preservation Act of 1987 shall comply with section 212(b), section 217(a)(2), and section 217(c) of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[[12 U.S.C. 4102(b)][/us/usc/t12/s4102/b] and 4107(a)(2), (c)\].
 
->     “(b) __Right of Conversion to New System.—__ 
+>     “(b)  __Right of Conversion to New System__  __.—__ 
 
 >     Any owner who has filed a plan of action on or before October 11, 1990, shall have the right to convert to the system of incentives and restrictions under this subtitle \[subtitle A of title VI of [Pub. L. 101–625][/us/pl/101/625], see Effective Date note above\], with such adjustments as the Secretary determines to be appropriate to compensate for the value of any incentives the owner received under the Emergency Low Income Housing Preservation Act of 1987 \[see Codification note preceding this section\]. Owners filing plans after such date shall not have any right under this subsection.
 
->     “(c) __Effectiveness of Repealed Provisions.—__ 
+>     “(c)  __Effectiveness of Repealed Provisions__  __.—__ 
 
 >     Notwithstanding the amendment made by section 601(a) \[enacting this chapter\], the provisions of the Emergency Low Income Housing Preservation Act of 1987 (as in effect immediately before the date of the enactment of this Act \[Nov. 28, 1990\]) shall apply with respect to any housing for which the election under subsection (a)(1) is made. With respect to housing for which such an election is made—
 
@@ -103,7 +103,7 @@
 
 >         “(2) the provisions of section 233(1)(A)(i) of such Act \[formerly set out in a note under section 1715l of this title\] shall not apply, and the term ‘eligible low income housing’ shall, for purposes of such Act, shall \[sic\] include housing financed by a loan or mortgage that is insured or held by the Secretary or a State or State agency under section 221(d)(3) of the National Housing Act \[[12 U.S.C. 1715][/us/usc/t12/s1715]l(d)(3)\] and receiving loan management assistance under section 8 of the United States Housing Act of 1937 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] due to a conversion from section 101 of the Housing and Urban Development Act of 1965 \[[12 U.S.C. 1701s][/us/usc/t12/s1701s]\].
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     Not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary of Housing and Urban Development shall, subject to the provisions of [section 553 of title 5][/us/usc/t5/s553], United States Code, publish proposed rules to implement this subtitle and the amendments made by this subtitle. Not later than 45 days after the expiration of the period under the preceding sentence the Secretary shall issue interim or final rules to implement such provisions.”
 

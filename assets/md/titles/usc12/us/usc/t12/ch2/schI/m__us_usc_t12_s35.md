@@ -69,7 +69,7 @@
 
 [Pub. L. 111–203, title VI, § 612(e)][/us/pl/111/203/s612/e], July 21, 2010, [124 Stat. 1613][/us/stat/124/1613], provided that:
 
->     “(1) __Copy of conversion application.—__ 
+>     “(1)  __Copy of conversion application__  __.—__ 
 
 >     At the time an insured depository institution files a conversion application, the insured depository institution shall transmit a copy of the conversion application to—
 
@@ -77,7 +77,7 @@
 
 >         “(B) the Federal banking agency that would be the appropriate Federal banking agency of the insured depository institution after the proposed conversion.
 
->     “(2) __Notification and access to information.—__ 
+>     “(2)  __Notification and access to information__  __.—__ 
 
 >     Upon receipt of a copy of the application described in paragraph (1), the appropriate Federal banking agency for the insured depository institution proposing the conversion shall—
 

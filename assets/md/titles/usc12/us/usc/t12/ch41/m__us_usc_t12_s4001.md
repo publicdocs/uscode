@@ -163,11 +163,11 @@
 
 [Pub. L. 100–86, title VI, § 613][/us/pl/100/86/s613], Aug. 10, 1987, [101 Stat. 652][/us/stat/101/652], provided that:
 
->     “(a) __Date of Enactment.—__ 
+>     “(a)  __Date of Enactment__  __.—__ 
 
 >     Except as provided in subsection (b), this title \[enacting this chapter, amending [section 248a of this title][/us/usc/t12/s248a], and enacting provisions set out as notes under this section and [section 248a of this title][/us/usc/t12/s248a]\] shall take effect on the date of the enactment of this title \[Aug. 10, 1987\].
 
->     “(b) __1 Year After Date of Enactment.—__ 
+>     “(b) __1__  __Year After Date of Enactment__  __.—__ 
 
 >     Sections 603, 604, 605, 606, 610, and 611 \[enacting sections 4002 to 4005, 4009, and 4010 of this title\] shall take effect on September 1, 1988.”
 

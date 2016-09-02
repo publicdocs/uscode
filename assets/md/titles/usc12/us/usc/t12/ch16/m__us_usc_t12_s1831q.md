@@ -619,11 +619,11 @@
 
 [Pub. L. 103–204, § 14(b)][/us/pl/103/204/s14/b], Dec. 17, 1993, [107 Stat. 2393][/us/stat/107/2393], as amended by [Pub. L. 105–216, § 14(e)][/us/pl/105/216/s14/e], (f), July 29, 1998, [112 Stat. 910][/us/stat/112/910], provided that:
 
->     “(1) __Establishment.—__ 
+>     “(1)  __Establishment__  __.—__ 
 
 >     There is hereby established the Affordable Housing Advisory Board (in this subsection referred to as the ‘Advisory Board’) to advise the Thrift Depositor Protection Oversight Board and the Board of Directors of the Federal Deposit Insurance Corporation on policies and programs related to the provision of affordable housing, including the operation of the affordable programs.
 
->     “(2) __Membership.—__ 
+>     “(2)  __Membership__  __.—__ 
 
 >     The Advisory Board shall consist of—
 
@@ -635,13 +635,13 @@
 
 >         “(D) 2 persons who are members of the National Housing Advisory Board pursuant to section 21A(d)(2)(B)(ii) of the Federal Home Loan Bank Act \[[12 U.S.C. 1441a(d)(2)(B)(ii)][/us/usc/t12/s1441a/d/2/B/ii]\] (as in effect before the effective date of the repeal under subsection (c)(2) \[90 days after Dec. 17, 1993\]), who shall be appointed by such Board before such effective date.
 
->     “(3) __Terms.—__ 
+>     “(3)  __Terms__  __.—__ 
 
 >     Each member shall be appointed for a term of 4 years, except as provided in paragraphs (4) and (5).
 
 >     “(4) __Terms of initial appointees.—__ 
 
->         “(A) __Permanent positions.—__ 
+>         “(A)  __Permanent positions__  __.—__ 
 
 >         As designated by the Secretary of Housing and Urban Development at the time of appointment, of the members first appointed under paragraph (2)(D)—
 
@@ -653,33 +653,33 @@
 
 >             “(iv) 1 shall be appointed for a term of 4 years.
 
->         “(B) __Interim members.—__ 
+>         “(B)  __Interim members__  __.—__ 
 
 >         The members of the Advisory Board under paragraph (2)(E) shall be appointed for a single term of 4 years, which shall begin upon the earlier of (i) the expiration of the 90-day period beginning on the date of the enactment of this Act \[Dec. 17, 1993\], or (ii) the first meeting of the Advisory Board.
 
->     “(5) __Vacancies.—__ 
+>     “(5)  __Vacancies__  __.—__ 
 
 >     Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office. A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
 >     “(6) __Meetings.—__ 
 
->         “(A) __Timing.—__ 
+>         “(A)  __Timing__  __.—__ 
 
 >         The Advisory Board shall meet 2 times a year or at the request of the Board of Directors of the Federal Deposit Insurance Corporation. The first meeting of the Advisory Board shall take place not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Dec. 17, 1993\].
 
->         “(B) __Advice.—__ 
+>         “(B)  __Advice__  __.—__ 
 
 >         The Advisory Board shall submit information and advice resulting from each meeting, in such form as the Board considers appropriate, to the Thrift Depositor Protection Oversight Board and the Board of Directors of the Federal Deposit Insurance Corporation.
 
->     “(7) __Annual reports.—__ 
+>     “(7)  __Annual reports__  __.—__ 
 
 >     For each year, the Advisory Board shall submit a report containing its findings and recommendations to the Committee on Banking, Housing, and Urban affairs \[sic\] of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Federal Deposit Insurance Corporation, and the Resolution Trust Corporation. The first such report shall be made not later than the expiration of the 6-month period beginning on the date of the enactment of this Act \[Dec. 17, 1993\].
 
->     “(8) __Definition.—__ 
+>     “(8)  __Definition__  __.—__ 
 
 >     For purposes of this subsection, the term ‘affordable housing programs’ means the program under \[former\] section 21A(c) of the Federal Home Loan Bank Act \[[12 U.S.C. 1441a(c)][/us/usc/t12/s1441a/c]\] and the program under section 40 of the Federal Deposit Insurance Act \[[12 U.S.C. 1831q][/us/usc/t12/s1831q]\].
 
->     “(9) __Sunset.—__ 
+>     “(9)  __Sunset__  __.—__ 
 
 >     The Advisory Board established under this subsection shall terminate on September 30, 1998.”
 

@@ -39,13 +39,13 @@
 
 [Pub. L. 106–102, title VII, § 715][/us/pl/106/102/s715], Nov. 12, 1999, [113 Stat. 1470][/us/stat/113/1470], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of the Treasury, in consultation with the Federal banking agencies (as defined in section 3(z) of the Federal Deposit Insurance Act \[[12 U.S.C. 1813(z)][/us/usc/t12/s1813/z]\]), shall conduct a study of the extent to which adequate services are being provided as intended by the Community Reinvestment Act of 1977 \[[12 U.S.C. 2901][/us/usc/t12/s2901] et seq.\], including services in low- and moderate-income neighborhoods and for persons of modest means, as a result of the enactment of this Act \[see Tables for classification\].
 
 >     “(b) __Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Treasury shall—
 
@@ -53,7 +53,7 @@
 
 >             “(B) before the end of the 2-year period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], in consultation with the Federal banking agencies, submit a final report to the Congress on the study conducted pursuant to subsection (a).
 
->         “(2) __Recommendations.—__ 
+>         “(2)  __Recommendations__  __.—__ 
 
 >         The final report submitted under paragraph (1)(B) shall include such recommendations as the Secretary determines to be appropriate for administrative and legislative action with respect to institutions covered under the Community Reinvestment Act of 1977 \[[12 U.S.C. 2901][/us/usc/t12/s2901] et seq.\].”
 
@@ -61,11 +61,11 @@
 
 [Pub. L. 102–550, title IX, § 910][/us/pl/102/550/s910], Oct. 28, 1992, [106 Stat. 3874][/us/stat/106/3874], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 12 months after the date of enactment of this section \[Oct. 28, 1992\], the Board of Governors of the Federal Reserve System, in consultation with the Comptroller of the Currency, the Chairman of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the Chairman of the National Credit Union Administration, shall submit a report to the Congress comparing residential, small business, and commercial lending by insured depository institutions in low-income, minority, and distressed neighborhoods to such lending in other neighborhoods.
 
->     “(b) __Contents of Report.—__ 
+>     “(b)  __Contents of Report__  __.—__ 
 
 >     The report required by subsection (a) shall—
 
