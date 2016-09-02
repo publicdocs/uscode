@@ -1603,6 +1603,14 @@ Lincoln National Memorial, District of Columbia.—Act Feb. 9, 1911, ch. 42, 36 
 
     <td> 
 
+ Military Divers Memorial.—Pub. L. 113–66, div. B, title XXVIII, § 2842, Dec. 26, 2013, 127 Stat. 1024.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 Mount Rushmore National Memorial, South Dakota.—Act Feb. 25, 1929, ch. 315, 45 Stat. 1300.  </td>
 
   </tr>
