@@ -61,10 +61,6 @@
 
 (Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 580][/us/stat/100/580]; amended [Pub. L. 109–435, title VI, § 604(b)][/us/pl/109/435/s604/b], Dec. 20, 2006, [120 Stat. 3241][/us/stat/120/3241].)
 
- __References in Text__ 
-
-    The provisions of law governing appointments in the competitive service, referred to in subsec. (a)(1), are classified generally to section 3301 et seq. of this title.
-
  __Amendments__ 
 
     2006—Subsec. (c)(4). [Pub. L. 109–435][/us/pl/109/435] substituted “Postal Regulatory Commission” for “Postal Rate Commission”.

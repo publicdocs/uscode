@@ -337,6 +337,22 @@ July 18, 1966, Pub. L. 89–504, § 404(a), 80 Stat. 297.  </td>
 
     1967—Subsec. (b)(2)(B). [Pub. L. 90–206][/us/pl/90/206] designated existing provisions as cls. (i) and (iii) and added cls. (ii) and (iv).
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–277, § 2(i)][/us/pl/113/277/s2/i], as added by [Pub. L. 114–13, § 1(a)][/us/pl/114/13/s1/a], May 19, 2015, [129 Stat. 197][/us/stat/129/197], provided that: 
+
+> “Subsections (b), (c), (d), and (g) \[enacting [section 5550 of this title][/us/usc/t5/s5550], amending this section and sections 5547 and 8331 of this title and [section 213 of Title 29][/us/usc/t29/s213], Labor, and enacting provisions set out as a note under [section 5550 of this title][/us/usc/t5/s5550]\], and the amendments made by such subsections, shall take effect on the first day of the first pay period beginning on or after January 1, 2016, except that—
+
+>     “(1) any provision in [section 5550(b) of title 5][/us/usc/t5/s5550/b], United States Code, as added by subsection (b), relating to administering elections and making advance assignments to a regular tour of duty shall be applicable before such effective date to the extent determined necessary by the Director of the Office of Personnel Management; and
+
+>     “(2) the Director may issue regulations as necessary prior to such effective date.”
+
+\[[Pub. L. 114–13, § 1(b)][/us/pl/114/13/s1/b], May 19, 2015, [129 Stat. 197][/us/stat/129/197], provided that: 
+
+> “The amendment made by subsection (a) \[enacting [section 2(i) of Pub. L. 113–277][/us/pl/113/277/s2/i], set out above\] shall be deemed to have been enacted on the date of enactment of the Border Patrol Agent Pay Reform Act of 2014 ([Public Law 113–277][/us/pl/113/277]) \[approved Dec. 18, 2014\].”
+
+\]
+
  __Effective Date of 2000 Amendment__ 
 
 [Pub. L. 106–558, § 2(b)][/us/pl/106/558/s2/b], Dec. 21, 2000, [114 Stat. 2777][/us/stat/114/2777], as amended by [Pub. L. 107–20, title II, § 2605][/us/pl/107/20/s2605], July 24, 2001, [115 Stat. 178][/us/stat/115/178], provided that: 
@@ -479,6 +495,17 @@ July 18, 1966, Pub. L. 89–504, § 404(a), 80 Stat. 297.  </td>
 [/us/pl/92/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F194
 [/us/pl/90/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F556
 [/us/pl/90/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F206
+[/us/pl/113/277/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fi
+[/us/pl/114/13/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F13%2Fs1%2Fa
+[/us/stat/129/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F197
+[/us/usc/t5/s5550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5550
+[/us/usc/t29/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213
+[/us/usc/t5/s5550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5550
+[/us/usc/t5/s5550/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5550%2Fb
+[/us/pl/114/13/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F13%2Fs1%2Fb
+[/us/stat/129/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F197
+[/us/pl/113/277/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fi
+[/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
 [/us/pl/106/558/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F558%2Fs2%2Fb
 [/us/stat/114/2777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2777
 [/us/pl/107/20/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2605

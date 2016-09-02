@@ -165,13 +165,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >           <tr>
 
->             <td> 
-
-   </td>
-
->             <td> 
-
-   </td>
+>             <td>   </td>
 
 >         
 
@@ -181,7 +175,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS3  </td>
+>         “GS–3  </td>
 
 >             <td> 
 
@@ -195,7 +189,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS4  </td>
+>         “GS–4  </td>
 
 >             <td> 
 
@@ -209,7 +203,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS5  </td>
+>         “GS–5  </td>
 
 >             <td> 
 
@@ -223,7 +217,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS6  </td>
+>         “GS–6  </td>
 
 >             <td> 
 
@@ -237,7 +231,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS7  </td>
+>         “GS–7  </td>
 
 >             <td> 
 
@@ -251,7 +245,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS8  </td>
+>         “GS–8  </td>
 
 >             <td> 
 
@@ -265,7 +259,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS9  </td>
+>         “GS–9  </td>
 
 >             <td> 
 
@@ -279,7 +273,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS10  </td>
+>         “GS–10  </td>
 
 >             <td> 
 
@@ -297,13 +291,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >           <tr>
 
->             <td> 
-
-   </td>
-
->             <td> 
-
-   </td>
+>             <td>   </td>
 
 >         
 
@@ -313,7 +301,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS3  </td>
+>         “GS–3  </td>
 
 >             <td> 
 
@@ -327,7 +315,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS4  </td>
+>         “GS–4  </td>
 
 >             <td> 
 
@@ -341,7 +329,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS5  </td>
+>         “GS–5  </td>
 
 >             <td> 
 
@@ -355,7 +343,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS6  </td>
+>         “GS–6  </td>
 
 >             <td> 
 
@@ -369,7 +357,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS7  </td>
+>         “GS–7  </td>
 
 >             <td> 
 
@@ -383,7 +371,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS8  </td>
+>         “GS–8  </td>
 
 >             <td> 
 
@@ -397,7 +385,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS9  </td>
+>         “GS–9  </td>
 
 >             <td> 
 
@@ -411,7 +399,7 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >             <td> 
 
->         “GS10  </td>
+>         “GS–10  </td>
 
 >             <td> 
 

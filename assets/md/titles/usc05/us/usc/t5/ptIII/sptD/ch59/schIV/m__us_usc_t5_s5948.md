@@ -103,7 +103,7 @@
 
  __References in Text__ 
 
-    Sections 4104 and 4114 of title 38, referred to in subsec. (a), were repealed by [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 210][/us/stat/105/210], and a new section 4101 containing different subject matter was added. For provisions similar to those contained in sections 4104 and 4114 prior to repeal, see sections 7401 and 7405 to 7407 of Title 38, Veterans’ Benefits.
+    Sections 4104 and 4114 of title 38, referred to in subsec. (a), were repealed by [Pub. L. 102–40, title IV, § 401(a)(3)][/us/pl/102/40/s401/a/3], May 7, 1991, [105 Stat. 210][/us/stat/105/210]. Subsequently, [section 2004 of Title 38][/us/usc/t38/s2004], Veterans’ Benefits, was renumbered as [section 4104 of Title 38][/us/usc/t38/s4104] and a new [section 4114 of Title 38][/us/usc/t38/s4114] was added. The new sections 4104 and 4114 do not contain the same subject matter as the former sections. For provisions similar to those contained in former sections 4104 and 4114 prior to repeal, see sections 7401 and 7405 to 7407 of Title 38.
 
     The Public Health Service Act, referred to in subsec. (a), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], as amended. Title II of the Public Health Service Act is classified generally to subchapter I (§ 201 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42][/us/usc/t42/s201] and Tables.
 
@@ -340,6 +340,9 @@
 [/us/stat/114/3054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F3054
 [/us/pl/102/40/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs401%2Fa%2F3
 [/us/stat/105/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F210
+[/us/usc/t38/s2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2004
+[/us/usc/t38/s4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4104
+[/us/usc/t38/s4114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4114
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201

@@ -909,6 +909,10 @@ Sept. 27, 1965, Pub. L. 89–205, § 1(a), 79 Stat. 840.  </td>
 
     Commissioned Officer Corps of Environmental Science Services Administration, referred to in par. (13)(C), changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see 1970 Reorg. Plan No. 4, § 4(d), eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090], set out in the Appendix to this title.
 
+ __Effective Date of of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–277][/us/pl/113/277] effective on the first day of the first pay period beginning on or after Jan. 1, 2016, subject to certain exceptions, see [section 2(i) of Pub. L. 113–277][/us/pl/113/277/s2/i], set out as a note under [section 5542 of this title][/us/usc/t5/s5542].
+
  __Effective Date of 2012 Amendment__ 
 
 [Pub. L. 112–141, div. F, title I, § 100121(d)][/us/pl/112/141/s100121/d], July 6, 2012, [126 Stat. 914][/us/stat/126/914], provided that: 
@@ -3047,6 +3051,9 @@ By the authority vested in me as President by the Federal Employees’ Retiremen
 [/us/pl/99/371/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F371%2Fs101%2Fa
 [/us/usc/t20/s4301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4301%2Fa
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
+[/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
+[/us/pl/113/277/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fi
+[/us/usc/t5/s5542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542
 [/us/pl/112/141/s100121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100121%2Fd
 [/us/stat/126/914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F914
 [/us/pl/110/181/s1115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1115%2Fc

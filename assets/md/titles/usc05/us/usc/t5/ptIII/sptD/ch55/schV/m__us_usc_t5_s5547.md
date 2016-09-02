@@ -191,6 +191,10 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 
     1982—[Pub. L. 97–276][/us/pl/97/276] inserted provision directing that first sentence of this section not apply to any employee of Federal Aviation Administration who is paid premium pay under [section 5546a of this title][/us/usc/t5/s5546a].
 
+ __Effective Date of of 2014 Amendment__ 
+
+    Amendment by [Pub. L. 113–277][/us/pl/113/277] effective on the first day of the first pay period beginning on or after Jan. 1, 2016, subject to certain exceptions, see [section 2(i) of Pub. L. 113–277][/us/pl/113/277/s2/i], set out as a note under [section 5542 of this title][/us/usc/t5/s5542].
+
  __Effective Date of 2001 Amendment__ 
 
 [Pub. L. 107–107, div. A, title XI, § 1114(c)][/us/pl/107/107/s1114/c], Dec. 28, 2001, [115 Stat. 1240][/us/stat/115/1240], provided that: 
@@ -289,6 +293,9 @@ Sept. 1, 1954, ch. 1208, § 209, 68 Stat. 1112.  </td>
 [/us/pl/98/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525
 [/us/pl/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F276
 [/us/usc/t5/s5546a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5546a
+[/us/pl/113/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277
+[/us/pl/113/277/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs2%2Fi
+[/us/usc/t5/s5542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5542
 [/us/pl/107/107/s1114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1114%2Fc
 [/us/stat/115/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1240
 [/us/pl/103/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329

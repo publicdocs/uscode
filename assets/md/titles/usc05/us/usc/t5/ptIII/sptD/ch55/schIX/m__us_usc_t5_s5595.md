@@ -299,7 +299,7 @@ Nov. 2, 1966, Pub. L. 89–737, § 2, 80 Stat. 1164.  </td>
 
     “Government Publishing Office” substituted for “Government Printing Office” in subsec. (a)(1)(C), (2)(B)(ix) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
-    “Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (b), on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+    “Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (b) on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date of 1999 Amendment__ 
 

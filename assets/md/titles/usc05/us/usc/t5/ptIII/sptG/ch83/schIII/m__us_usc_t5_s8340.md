@@ -275,7 +275,7 @@ In subsection (a), the words “Effective December 1, 1965 \* \* \* before D
 
  __Effective Date of 1984 Amendment__ 
 
-[Section 201(b) of Pub. L. 98–270][/us/pl/98/270/s201/b] provided that:
+[Pub. L. 98–270, title II, § 201(b)][/us/pl/98/270/s201/b], Apr. 18, 1984, [98 Stat. 157][/us/stat/98/157], provided that:
 
 >     “(1) The amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Apr. 18, 1984\], except that no adjustment under [section 8340(b) of title 5][/us/usc/t5/s8340/b], United States Code (as amended by such subsection), shall be made during the period beginning on the date of the enactment of this Act and ending November 30, 1984.
 
@@ -287,23 +287,23 @@ In subsection (a), the words “Effective December 1, 1965 \* \* \* before D
 
  __Effective Date of 1982 Amendment__ 
 
-[Section 304(c) of Pub. L. 97–253][/us/pl/97/253/s304/c] provided that: 
+[Pub. L. 97–253, title III, § 304(c)][/us/pl/97/253/s304/c], Sept. 8, 1982, [96 Stat. 795][/us/stat/96/795], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 8345 of this title][/us/usc/t5/s8345]\] shall apply with respect to any annuity commencing on or after October 1, 1982, and with respect to any adjustment or redetermination of any annuity made on or after such date”.
 
-[Section 309(b) of Pub. L. 97–253][/us/pl/97/253/s309/b] provided that: 
+[Pub. L. 97–253, title III, § 309(b)][/us/pl/97/253/s309/b], Sept. 8, 1982, [96 Stat. 799][/us/stat/96/799], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending this section\] shall not cause any annuity to be reduced below the rate that is payable on the date of the enactment of this Act \[Sept. 8, 1982\], but shall apply to any adjustment occurring on or after such date of enactment under [section 8340 of title 5][/us/usc/t5/s8340], United States Code, to any annuity payable from the Civil Service Retirement and Disability Fund, whether such annuity has a commencing date before, on, or after the date of enactment of this Act.”
 
  __Effective Date of 1981 Amendment__ 
 
-[Section 1702(c) of Pub. L. 97–35][/us/pl/97/35/s1702/c] provided that: 
+[Pub. L. 97–35, title XVII, § 1702(c)][/us/pl/97/35/s1702/c], Aug. 13, 1981, [95 Stat. 754][/us/stat/95/754], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\] and shall apply to annuities which commence before, on, or after such date.”
 
  __Effective Date of 1980 Amendment__ 
 
-[Section 401(b) of Pub. L. 96–499][/us/pl/96/499/s401/b] provided that:
+[Pub. L. 96–499, title IV, § 401(b)][/us/pl/96/499/s401/b], Dec. 5, 1980, [94 Stat. 2605][/us/stat/94/2605], provided that:
 
 >     “(1) The amendment made by subsection (a)(1) \[amending this section\] shall apply with respect to annuities commencing after the 45th day after the date of the enactment of this Act \[Dec. 5, 1980\].
 
@@ -315,23 +315,23 @@ In subsection (a), the words “Effective December 1, 1965 \* \* \* before D
 
  __Effective Date of 1976 Amendment__ 
 
-[Section 1306(b) of Pub. L. 94–440][/us/pl/94/440/s1306/b] provided that: 
+[Pub. L. 94–440, title XIII, § 1306(b)][/us/pl/94/440/s1306/b], Oct. 1, 1976, [90 Stat. 1462][/us/stat/90/1462], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any increase in annuities after the date of enactment of this Act \[Oct. 1, 1976\].”
 
-[Section 1306(c)(2) of Pub. L. 94–440][/us/pl/94/440/s1306/c/2] provided that: 
+[Pub. L. 94–440, § 1306(c)(2)][/us/pl/94/440/s1306/c/2], Oct. 1, 1976, [90 Stat. 1462][/us/stat/90/1462], provided that: 
 
 > “The amendment made by subsection (1) \[amending this section\] shall apply to any increase in annuities after the date of enactment of this Act \[Oct. 1, 1976\], except that with respect to the first date after the date of enactment of this Act on which the Commission is to determine a percent change, such percent change shall be determined by computing the change in the price index published for the month immediately preceding such first date over the price index for the last month prior to the date of enactment of this Act for which the price index showed a percent rise forming the basis for a cost-of-living annuity increase under [section 8340(b) of title 5][/us/usc/t5/s8340/b], United States Code \[subsec. (b) of this section\], as in effect immediately prior to the date of the enactment of this Act \[Oct. 1, 1976\].”
 
  __Effective Date of 1973 Amendment__ 
 
-[Section 2 of Pub. L. 93–136][/us/pl/93/136/s2] provided that: 
+[Pub. L. 93–136, § 2][/us/pl/93/136/s2], Oct. 24, 1973, [87 Stat. 490][/us/stat/87/490], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall apply only with respect to annuities which commence on or after July 2, 1973.”
 
  __Effective Date of 1969 Amendment__ 
 
-[Section 207(b) of Pub. L. 91–93][/us/pl/91/93/s207/b] provided that: 
+[Pub. L. 91–93, title II, § 207(b)][/us/pl/91/93/s207/b], Oct. 20, 1969, [83 Stat. 140][/us/stat/83/140], provided that: 
 
 > “The amendments made by section 204(a) of this Act to [section 8340 of title 5][/us/usc/t5/s8340], United States Code, shall apply only to annuity increases which become effective under such section 8340 after the date of enactment of this Act \[Oct. 20, 1969\].”
 
@@ -359,7 +359,7 @@ In subsection (a), the words “Effective December 1, 1965 \* \* \* before D
 
  __Time of Payment of Annuity or Retired or Retirement Pay Which President Adjusts__ 
 
-[Section 2201(a) of Pub. L. 98–369][/us/pl/98/369/s2201/a] provided that: 
+[Pub. L. 98–369, div. B, title II, § 2201(a)][/us/pl/98/369/s2201/a], July 18, 1984, [98 Stat. 1058][/us/stat/98/1058], provided that: 
 
 > “Notwithstanding any other provision of law, beginning with the monthly rate payable for December 1984, any annuity or retired or retirement pay payable under any retirement system for Government officers or employees which the President adjusts pursuant to [section 8340(b) of title 5][/us/usc/t5/s8340/b], United States Code, shall be paid no earlier than the first business day of the succeeding month.”
 
@@ -502,23 +502,32 @@ In subsection (a), the words “Effective December 1, 1965 \* \* \* before D
 [/us/pl/91/93/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93%2Fs204%2Fa
 [/us/pl/91/93/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93%2Fs204%2Fb
 [/us/pl/98/270/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F270%2Fs201%2Fb
+[/us/stat/98/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F157
 [/us/usc/t5/s8340/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340%2Fb
 [/us/usc/t5/s8340/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340%2Fb
 [/us/usc/t5/s8340/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340%2Fa%2F1
 [/us/pl/97/253/s304/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs304%2Fc
+[/us/stat/96/795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F795
 [/us/usc/t5/s8345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8345
 [/us/pl/97/253/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs309%2Fb
+[/us/stat/96/799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F799
 [/us/usc/t5/s8340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340
 [/us/pl/97/35/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1702%2Fc
+[/us/stat/95/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F754
 [/us/pl/96/499/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs401%2Fb
+[/us/stat/94/2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2605
 [/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/pl/95/454/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs907
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/pl/94/440/s1306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs1306%2Fb
+[/us/stat/90/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1462
 [/us/pl/94/440/s1306/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440%2Fs1306%2Fc%2F2
+[/us/stat/90/1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1462
 [/us/usc/t5/s8340/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340%2Fb
 [/us/pl/93/136/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F136%2Fs2
+[/us/stat/87/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F490
 [/us/pl/91/93/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F93%2Fs207%2Fb
+[/us/stat/83/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F140
 [/us/usc/t5/s8340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340
 [/us/pl/103/66/s11001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs11001
 [/us/stat/107/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F408
@@ -527,6 +536,7 @@ In subsection (a), the words “Effective December 1, 1965 \* \* \* before D
 [/us/pl/102/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F496
 [/us/stat/106/3196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3196
 [/us/pl/98/369/s2201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2201%2Fa
+[/us/stat/98/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1058
 [/us/usc/t5/s8340/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8340%2Fb
 [/us/pl/97/253/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253%2Fs301%2Fa
 [/us/stat/96/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F790
