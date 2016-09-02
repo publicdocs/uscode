@@ -17,7 +17,7 @@
 
     Subject to the concurrence of the head of the department or agency concerned, the Secretary may make such provisions as he shall deem appropriate, authorizing the performance by any officer, agency, or employee of the United States Government departments or offices, or the governments of any areas over which the United States exercises sovereignty, jurisdiction, or control, of any function of the Secretary, contained in this chapter.
 
-(Added [Pub. L. 87–826, § 2][/us/pl/87/826/s2], Oct. 15, 1962, [76 Stat. 952][/us/stat/76/952].)
+(Added [Pub. L. 87–826][/us/pl/87/826], § 2, Oct. 15, 1962, [76 Stat. 952][/us/stat/76/952].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/826/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826%2Fs2
+[/us/pl/87/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826
 [/us/stat/76/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F952
 
 

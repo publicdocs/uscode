@@ -17,11 +17,11 @@
 
     The Secretary shall take, compile, and publish censuses of manufactures, of mineral industries, and of other businesses, including the distributive trades, service establishments, and transportation (exclusive of means of transportation for which statistics are required by law to be filed with, and are compiled and published by, a designated regulatory body), in the year 1964, then in the year 1968, and every fifth year thereafter, and each such census shall relate to the year immediately preceding the taking thereof.
 
-([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1019][/us/stat/68/1019]; [Pub. L. 85–207, § 8][/us/pl/85/207/s8], Aug. 28, 1957, [71 Stat. 482][/us/stat/71/482]; [Pub. L. 88–532][/us/pl/88/532], Aug. 31, 1964, [78 Stat. 737][/us/stat/78/737].)
+([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1019][/us/stat/68/1019]; [Pub. L. 85–207][/us/pl/85/207], § 8, Aug. 28, 1957, [71 Stat. 482][/us/stat/71/482]; [Pub. L. 88–532][/us/pl/88/532], Aug. 31, 1964, [78 Stat. 737][/us/stat/78/737].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., § 121 ([June 19, 1948, ch. 502, § 1][/us/act/1948-06-19/ch502/s1], [62 Stat. 478][/us/stat/62/478]; [June 18, 1954, ch. 315][/us/act/1954-06-18/ch315], [68 Stat. 258][/us/stat/68/258]).
+    Based on title 13, U.S.C., 1952 ed., § 121 ([June 19, 1948, ch. 502][/us/act/1948-06-19/ch502], § 1, [62 Stat. 478][/us/stat/62/478]; [June 18, 1954, ch. 315][/us/act/1954-06-18/ch315], [68 Stat. 258][/us/stat/68/258]).
 
     Section was subsection (a) of [section 121 of title 13][/us/usc/t13/s121], U.S.C., 1952 ed. The remainder of such section 121, which constituted subsection (b) thereof, is incorporated in subchapter IV of this chapter.
 
@@ -39,7 +39,7 @@
 
  __Census Data on Women Owned Businesses; Study and Report__ 
 
-[Pub. L. 100–533, title V, § 501][/us/pl/100/533/s501], Oct. 25, 1988, [102 Stat. 2697][/us/stat/102/2697], provided that:
+[Pub. L. 100–533, title V][/us/pl/100/533/tV], § 501, Oct. 25, 1988, [102 Stat. 2697][/us/stat/102/2697], provided that:
 
 >     “(a)  __Bureau of Labor Statistics__  __.—__ 
 
@@ -68,11 +68,11 @@
 
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1019
-[/us/pl/85/207/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs8
+[/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/stat/71/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F482
 [/us/pl/88/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F532
 [/us/stat/78/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F737
-[/us/act/1948-06-19/ch502/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502%2Fs1
+[/us/act/1948-06-19/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502
 [/us/stat/62/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F478
 [/us/act/1954-06-18/ch315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-06-18%2Fch315
 [/us/stat/68/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F258
@@ -84,7 +84,7 @@
 [/us/pl/88/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F532
 [/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/usc/t13/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs191
-[/us/pl/100/533/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs501
+[/us/pl/100/533/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtV
 [/us/stat/102/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2697
 
 

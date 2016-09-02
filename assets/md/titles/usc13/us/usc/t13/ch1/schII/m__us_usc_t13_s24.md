@@ -27,11 +27,11 @@
 
     (f) Notwithstanding any other provision of law prohibiting the expenditure of public money for telephone service, the Secretary, under such regulations as he shall prescribe, may authorize reimbursement for tolls or charges for telephone service from private residences or private apartments to the extent such charges are determined by the Secretary to have been incurred to facilitate the collection of information in connection with the censuses and surveys authorized by this title.
 
-([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1015][/us/stat/68/1015]; [Pub. L. 86–769, § 3][/us/pl/86/769/s3], Sept. 13, 1960, [74 Stat. 911][/us/stat/74/911]; [Pub. L. 88–535][/us/pl/88/535], Aug. 31, 1964, [78 Stat. 744][/us/stat/78/744].)
+([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1015][/us/stat/68/1015]; [Pub. L. 86–769][/us/pl/86/769], § 3, Sept. 13, 1960, [74 Stat. 911][/us/stat/74/911]; [Pub. L. 88–535][/us/pl/88/535], Aug. 31, 1964, [78 Stat. 744][/us/stat/78/744].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., §§ 111, 122, 203, 252, and [section 1442 of title 42][/us/usc/t42/s1442], U.S.C. 1952 ed., The Public Health and Welfare ([Mar. 6, 1902, ch. 139, § 7][/us/act/1902-03-06/ch139/s7], [32 Stat. 52][/us/stat/32/52]; [June 7, 1906, ch. 3048][/us/act/1906-06-07/ch3048], [34 Stat. 218][/us/stat/34/218]; [June 18, 1929, ch. 28, § 3][/us/act/1929-06-18/ch28/s3], [46 Stat. 21][/us/stat/46/21]; 1939 Reorganization Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1431][/us/stat/53/1431]; 1940 Reorganization Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1232][/us/stat/54/1232]; [June 25, 1947, ch. 124][/us/act/1947-06-25/ch124], [61 Stat. 163][/us/stat/61/163]; [June 19, 1948, ch. 502, § 2][/us/act/1948-06-19/ch502/s2], [62 Stat. 479][/us/stat/62/479]; [July 6, 1949, ch. 298][/us/act/1949-07-06/ch298], §§ 1, 2, [63 Stat. 406][/us/stat/63/406]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 607, [63 Stat. 441][/us/stat/63/441]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Sept. 7, 1950, ch. 910][/us/act/1950-09-07/ch910], §§ 2, 4, [64 Stat. 784][/us/stat/64/784], 785).
+    Based on title 13, U.S.C., 1952 ed., §§ 111, 122, 203, 252, and [section 1442 of title 42][/us/usc/t42/s1442], U.S.C. 1952 ed., The Public Health and Welfare ([Mar. 6, 1902, ch. 139][/us/act/1902-03-06/ch139], § 7, [32 Stat. 52][/us/stat/32/52]; [June 7, 1906, ch. 3048][/us/act/1906-06-07/ch3048], [34 Stat. 218][/us/stat/34/218]; [June 18, 1929, ch. 28][/us/act/1929-06-18/ch28], § 3, [46 Stat. 21][/us/stat/46/21]; 1939 Reorganization Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1431][/us/stat/53/1431]; 1940 Reorganization Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1232][/us/stat/54/1232]; [June 25, 1947, ch. 124][/us/act/1947-06-25/ch124], [61 Stat. 163][/us/stat/61/163]; [June 19, 1948, ch. 502][/us/act/1948-06-19/ch502], § 2, [62 Stat. 479][/us/stat/62/479]; [July 6, 1949, ch. 298][/us/act/1949-07-06/ch298], §§ 1, 2, [63 Stat. 406][/us/stat/63/406]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 607, [63 Stat. 441][/us/stat/63/441]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Sept. 7, 1950, ch. 910][/us/act/1950-09-07/ch910], §§ 2, 4, [64 Stat. 784][/us/stat/64/784], 785).
 
     Section consolidates those provisions of sections 111, 122, 203 and 252 of title 13, U.S.C., 1952 ed., which related to appointment of special personnel for census work, collection of statistics, etc., and the use of permanent employees for such purpose, with that part of subsection (b) of [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., which made such section 203 applicable to housing censuses (subchapter II of chapter 5 of this title).
 
@@ -53,9 +53,9 @@
 
  __References in Text__ 
 
-    Title VII of the Classification Act of 1949, as amended, referred to in subsec. (a), is title VII of [act Oct. 28, 1949, ch. 872][/us/act/1949-10-28/ch872], [63 Stat. 967][/us/stat/63/967], as amended, which was classified to sections 1121 to 1123 of former Title 5, Executive Departments and Government Officers and Employees, and was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], and reenacted by the first section thereof as sections 5335 and 5336 of Title 5, Government Organization and Employees.
+    Title VII of the Classification Act of 1949, as amended, referred to in subsec. (a), is title VII of [act Oct. 28, 1949, ch. 872][/us/act/1949-10-28/ch872], [63 Stat. 967][/us/stat/63/967], as amended, which was classified to sections 1121 to 1123 of former Title 5, Executive Departments and Government Officers and Employees, and was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], and reenacted by the first section thereof as sections 5335 and 5336 of Title 5, Government Organization and Employees.
 
-    Section 4 of the Travel Expense Act of 1949, as amended ([5 U.S.C. 837][/us/usc/t5/s837]), referred to in subsec. (d), was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], and reenacted by the first section thereof as [section 5704 of Title 5][/us/usc/t5/s5704].
+    Section 4 of the Travel Expense Act of 1949, as amended ([5 U.S.C. 837][/us/usc/t5/s837]), referred to in subsec. (d), was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], and reenacted by the first section thereof as [section 5704 of Title 5][/us/usc/t5/s5704].
 
  __Amendments__ 
 
@@ -77,22 +77,22 @@
 [/us/usc/t5/s837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs837
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1015
-[/us/pl/86/769/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F769%2Fs3
+[/us/pl/86/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F769
 [/us/stat/74/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F911
 [/us/pl/88/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F535
 [/us/stat/78/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F744
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442
-[/us/act/1902-03-06/ch139/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-03-06%2Fch139%2Fs7
+[/us/act/1902-03-06/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-03-06%2Fch139
 [/us/stat/32/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F52
 [/us/act/1906-06-07/ch3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-07%2Fch3048
 [/us/stat/34/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F218
-[/us/act/1929-06-18/ch28/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28%2Fs3
+[/us/act/1929-06-18/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28
 [/us/stat/46/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F21
 [/us/stat/53/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1431
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
 [/us/act/1947-06-25/ch124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch124
 [/us/stat/61/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F163
-[/us/act/1948-06-19/ch502/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502%2Fs2
+[/us/act/1948-06-19/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502
 [/us/stat/62/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F479
 [/us/act/1949-07-06/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-06%2Fch298
 [/us/stat/63/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F406
@@ -112,10 +112,10 @@
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442
 [/us/act/1949-10-28/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch872
 [/us/stat/63/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F967
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
 [/us/usc/t5/s837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs837
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
 [/us/usc/t5/s5704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5704
 [/us/pl/88/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F535

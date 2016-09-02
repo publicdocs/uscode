@@ -17,9 +17,9 @@
 
  __Amendments__ 
 
-    1997—[Pub. L. 105–113, § 3(b)(1)][/us/pl/105/113/s3/b/1], Nov. 21, 1997, [111 Stat. 2275][/us/stat/111/2275], substituted “POPULATION, HOUSING, AND UNEMPLOYMENT” for “POPULATION, HOUSING, AGRICULTURE, IRRIGATION,, AND UNEMPLOYMENT”.
+    1997—[Pub. L. 105–113][/us/pl/105/113], § 3(b)(1), Nov. 21, 1997, [111 Stat. 2275][/us/stat/111/2275], substituted “POPULATION, HOUSING, AND UNEMPLOYMENT” for “POPULATION, HOUSING, AGRICULTURE, IRRIGATION,, AND UNEMPLOYMENT”.
 
-    1986—[Pub. L. 99–544, § 1(b)][/us/pl/99/544/s1/b], Oct. 27, 1986, [100 Stat. 3046][/us/stat/100/3046], struck out “DRAINAGE” after “IRRIGATION,”.
+    1986—[Pub. L. 99–544][/us/pl/99/544], § 1(b), Oct. 27, 1986, [100 Stat. 3046][/us/stat/100/3046], struck out “DRAINAGE” after “IRRIGATION,”.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/105/113/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113%2Fs3%2Fb%2F1
+[/us/pl/105/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113
 [/us/stat/111/2275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2275
-[/us/pl/99/544/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F544%2Fs1%2Fb
+[/us/pl/99/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F544
 [/us/stat/100/3046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3046
 
 

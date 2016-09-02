@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–228, div. B, title XIV, § 1404(f)(2)][/us/pl/107/228/s1404/f/2], Sept. 30, 2002, [116 Stat. 1456][/us/stat/116/1456], added item 305 and struck out former item 305 “Violations, penalties”.
+    2002—[Pub. L. 107–228, div. B, title XIV][/us/pl/107/228/dB/tXIV], § 1404(f)(2), Sept. 30, 2002, [116 Stat. 1456][/us/stat/116/1456], added item 305 and struck out former item 305 “Violations, penalties”.
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/107/228/s1404/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1404%2Ff%2F2
+[/us/pl/107/228/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIV
 [/us/stat/116/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1456
 
 

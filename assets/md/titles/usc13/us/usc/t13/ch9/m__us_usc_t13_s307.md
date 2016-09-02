@@ -17,7 +17,7 @@
 
     The following sections only, 1, 2, 3, 4, 5, 6, 7, 11, 21, 22, 23, 24, 211, 212, 213, and 214, of chapters 1 through 7 of this title are applicable to this chapter.
 
-(Added [Pub. L. 87–826, § 2][/us/pl/87/826/s2], Oct. 15, 1962, [76 Stat. 952][/us/stat/76/952].)
+(Added [Pub. L. 87–826][/us/pl/87/826], § 2, Oct. 15, 1962, [76 Stat. 952][/us/stat/76/952].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/826/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826%2Fs2
+[/us/pl/87/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826
 [/us/stat/76/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F952
 
 

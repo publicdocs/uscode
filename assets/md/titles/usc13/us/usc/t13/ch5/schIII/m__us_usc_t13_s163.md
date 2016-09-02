@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., § 251 ([Sept. 7, 1950, ch. 910, § 1][/us/act/1950-09-07/ch910/s1], [64 Stat. 784][/us/stat/64/784]).
+    Based on title 13, U.S.C., 1952 ed., § 251 ([Sept. 7, 1950, ch. 910][/us/act/1950-09-07/ch910], § 1, [64 Stat. 784][/us/stat/64/784]).
 
     Section was derived from part of subsection (b) of [section 251 of title 13][/us/usc/t13/s251], U.S.C., 1952 ed. Subsection (a) of such section 251 is also incorporated in this subchapter, and the remainder of such subsection (b) thereof is incorporated in subchapter I of chapter 1 of this title. See Distribution Table.
 
@@ -36,7 +36,7 @@
 
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1021
-[/us/act/1950-09-07/ch910/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch910%2Fs1
+[/us/act/1950-09-07/ch910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch910
 [/us/stat/64/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F784
 [/us/usc/t13/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs251
 

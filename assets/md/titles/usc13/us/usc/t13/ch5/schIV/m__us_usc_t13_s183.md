@@ -19,7 +19,7 @@
 
     (b) This section shall not apply with respect to any law of the United States which, for purposes of determining the amount of benefit received by State, county, or local units of general purpose government, provides that only population or population characteristics data obtained in the most recent decennial census may be used in such determination.
 
-(Added [Pub. L. 94–521, § 8(a)][/us/pl/94/521/s8/a], Oct. 17, 1976, [90 Stat. 2463][/us/stat/90/2463].)
+(Added [Pub. L. 94–521][/us/pl/94/521], § 8(a), Oct. 17, 1976, [90 Stat. 2463][/us/stat/90/2463].)
 
  __Effective Date__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/94/521/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs8%2Fa
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/stat/90/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2463
 [/us/pl/94/521/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs17
 [/us/usc/t13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs1

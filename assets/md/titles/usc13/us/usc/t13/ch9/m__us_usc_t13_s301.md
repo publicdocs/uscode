@@ -65,7 +65,7 @@
 
     (h) The Secretary is authorized to require by regulation the filing of Shippers’ Export Declarations under this chapter through an automated and electronic system for the filing of export information established by the Department of the Treasury.
 
-(Added [Pub. L. 87–826, § 2][/us/pl/87/826/s2], Oct. 15, 1962, [76 Stat. 951][/us/stat/76/951]; amended [Pub. L. 93–618, title VI, § 609(a)][/us/pl/93/618/s609/a], Jan. 3, 1975, [88 Stat. 2074][/us/stat/88/2074]; [Pub. L. 96–39, title XI, § 1108(a)][/us/pl/96/39/s1108/a], July 26, 1979, [93 Stat. 313][/us/stat/93/313]; [Pub. L. 96–275, § 1][/us/pl/96/275/s1], June 17, 1980, [94 Stat. 539][/us/stat/94/539]; [Pub. L. 100–418, title I][/us/pl/100/418], §§ 1214(a)(2), 1931(a), 1932, Aug. 23, 1988, [102 Stat. 1155][/us/stat/102/1155], 1320; [Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, § 1252(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–506; [Pub. L. 110–246, title III, § 3001(b)(1)(A)][/us/pl/110/246/s3001/b/1/A], (2)(M), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
+(Added [Pub. L. 87–826][/us/pl/87/826], § 2, Oct. 15, 1962, [76 Stat. 951][/us/stat/76/951]; amended [Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 609(a), Jan. 3, 1975, [88 Stat. 2074][/us/stat/88/2074]; [Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1108(a), July 26, 1979, [93 Stat. 313][/us/stat/93/313]; [Pub. L. 96–275][/us/pl/96/275], § 1, June 17, 1980, [94 Stat. 539][/us/stat/94/539]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], §§ 1214(a)(2), 1931(a), 1932, Aug. 23, 1988, [102 Stat. 1155][/us/stat/102/1155], 1320; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XII, § 1252(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–506; [Pub. L. 110–246, title III][/us/pl/110/246/tIII], § 3001(b)(1)(A), (2)(M), June 18, 2008, [122 Stat. 1820][/us/stat/122/1820].)
 
  __References in Text__ 
 
@@ -81,15 +81,15 @@
 
     1999—Subsec. (h). [Pub. L. 106–113][/us/pl/106/113] added subsec. (h).
 
-    1988—Subsec. (b). [Pub. L. 100–418, § 1214(a)(2)(A)][/us/pl/100/418/s1214/a/2/A], substituted “Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “Tariff Schedules of the United States Annotated and general statistical headnote 1 thereof”.
+    1988—Subsec. (b). [Pub. L. 100–418][/us/pl/100/418], § 1214(a)(2)(A), substituted “Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes and general statistical note 1 thereof” for “Tariff Schedules of the United States Annotated and general statistical headnote 1 thereof”.
 
-    Subsec. (e). [Pub. L. 100–418, § 1932][/us/pl/100/418/s1932], inserted at end “The information required to be reported under this subsection shall be reported in a form that is adjusted for economic inflation or deflation (on a constant dollar basis consistent with the reporting of the National Income and Product Accounts), and in a form that is not so adjusted.”
+    Subsec. (e). [Pub. L. 100–418][/us/pl/100/418], § 1932, inserted at end “The information required to be reported under this subsection shall be reported in a form that is adjusted for economic inflation or deflation (on a constant dollar basis consistent with the reporting of the National Income and Product Accounts), and in a form that is not so adjusted.”
 
-    [Pub. L. 100–418, § 1931(a)][/us/pl/100/418/s1931/a], struck out at end “The values and balance of trade required to be reported by this subsection shall be released no later than 48 hours before the release of any other government statistics concerning values of United States imports or United States balance of trade, or statistics from which such values or balance may be derived.”
+    [Pub. L. 100–418][/us/pl/100/418], § 1931(a), struck out at end “The values and balance of trade required to be reported by this subsection shall be released no later than 48 hours before the release of any other government statistics concerning values of United States imports or United States balance of trade, or statistics from which such values or balance may be derived.”
 
-    [Pub. L. 100–418, § 1214(a)(2)(B)][/us/pl/100/418/s1214/a/2/B], substituted “heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes” for “item in the Tariff Schedules of the United States Annotated” in first sentence.
+    [Pub. L. 100–418][/us/pl/100/418], § 1214(a)(2)(B), substituted “heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes” for “item in the Tariff Schedules of the United States Annotated” in first sentence.
 
-    Subsec. (f). [Pub. L. 100–418, § 1214(a)(2)(C)][/us/pl/100/418/s1214/a/2/C], substituted “heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes” for “item of the Tariff Schedules of the United States Annotated” and “under that heading or subheading” for “under that item”, in two places.
+    Subsec. (f). [Pub. L. 100–418][/us/pl/100/418], § 1214(a)(2)(C), substituted “heading or subheading in the Harmonized Tariff Schedule of the United States Annotated for Statistical Reporting Purposes” for “item of the Tariff Schedules of the United States Annotated” and “under that heading or subheading” for “under that item”, in two places.
 
     1980—Subsec. (g). [Pub. L. 96–275][/us/pl/96/275] added subsec. (g).
 
@@ -103,7 +103,7 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, § 1252(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–506, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XII, § 1252(c)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–506, provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect 270 days after the Secretary of Commerce, the Secretary of the Treasury, and the Director of the National Institute of Standards and Technology jointly provide a certification to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives that a secure Automated Export System available through the Internet that is capable of handling the expected volume of information required to be filed under subsection (b) \[set out below\], plus the anticipated volume from voluntary use of the Automated Export System, has been successfully implemented and tested and is fully functional with respect to reporting all items on the United States Munitions List, including their quantities and destinations.”
 
@@ -115,7 +115,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–275, § 4][/us/pl/96/275/s4], June 17, 1980, [94 Stat. 540][/us/stat/94/540], provided that:
+[Pub. L. 96–275][/us/pl/96/275], § 4, June 17, 1980, [94 Stat. 540][/us/stat/94/540], provided that:
 
 >     “(a) Except as provided in subsection (b), this Act, and the amendments made by this Act \[amending this section and enacting provisions set out as a note under this section\], shall become effective on the later of July 1, 1980, or the date of enactment of this Act \[June 17, 1980\].
 
@@ -123,25 +123,25 @@
 
  __Effective Date of 1979 Amendment__ 
 
-[Pub. L. 96–39, title XI, § 1108(b)][/us/pl/96/39/s1108/b], July 26, 1979, [93 Stat. 314][/us/stat/93/314], provided that: 
+[Pub. L. 96–39, title XI][/us/pl/96/39/tXI], § 1108(b), July 26, 1979, [93 Stat. 314][/us/stat/93/314], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to reports made after December 31, 1979.”
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 93–618, title VI, § 609(b)][/us/pl/93/618/s609/b], Jan. 3, 1975, [88 Stat. 2075][/us/stat/88/2075], provided that: 
+[Pub. L. 93–618, title VI][/us/pl/93/618/tVI], § 609(b), Jan. 3, 1975, [88 Stat. 2075][/us/stat/88/2075], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1975.”
 
  __Effective Date__ 
 
-[Pub. L. 87–826, § 4][/us/pl/87/826/s4], Oct. 15, 1962, [76 Stat. 953][/us/stat/76/953], provided that: 
+[Pub. L. 87–826][/us/pl/87/826], § 4, Oct. 15, 1962, [76 Stat. 953][/us/stat/76/953], provided that: 
 
 > “The provisions of this Act \[enacting section 301 et seq. of this title and repealing sections 173, 174, 177, 179, 181, 184 to 187, and 193 of Title 15, Commerce and Trade, sections 92 and 95 of former Title 46, Shipping, and [section 1486 of Title 48][/us/usc/t48/s1486], Territories and Insular Possessions\] shall take effect one hundred and eighty days after approval \[Oct. 15, 1962\], except that the last sentence of section 337, ‘Fifth’ of the Revised Statutes \[[section 174 of Title 15][/us/usc/t15/s174]\], and the requirement for oaths as found in section 4200 of the Revised Statutes \[section 92 of former Title 46\] shall be repealed effective on the date this Act is approved \[Oct. 15, 1962\].”
 
  __Regulations__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, § 1252(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–506, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XII, § 1252(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–506, provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -159,7 +159,7 @@
 
  __Improvements to the Automated Export System__ 
 
-[Pub. L. 107–228, div. B, title XIV, § 1404(a)][/us/pl/107/228/s1404/a]–(c), Sept. 30, 2002, [116 Stat. 1454][/us/stat/116/1454], provided that:
+[Pub. L. 107–228, div. B, title XIV][/us/pl/107/228/dB/tXIV], § 1404(a)–(c), Sept. 30, 2002, [116 Stat. 1454][/us/stat/116/1454], provided that:
 
 >     “(a)  __Contribution to the Automated Export System__  __.—__ 
 
@@ -187,7 +187,7 @@
 
  __Volumetric Index__ 
 
-[Pub. L. 100–418, title I, § 1931(b)][/us/pl/100/418/s1931/b], Aug. 23, 1988, [102 Stat. 1320][/us/stat/102/1320], provided that:
+[Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1931(b), Aug. 23, 1988, [102 Stat. 1320][/us/stat/102/1320], provided that:
 
 >     “(1) The Director of the Census, in consultation with the Director of the Bureau of Economic Analysis and the Commissioner of Labor Statistics, shall conduct a study to determine the feasibility of developing, and of publishing, an index that measures the real volume of merchandise trade on a monthly basis, which would be reported simultaneously with the balance of merchandise trade for the United States.
 
@@ -195,13 +195,13 @@
 
  __Congressional Access to Information__ 
 
-[Pub. L. 96–275, § 3][/us/pl/96/275/s3], June 17, 1980, [94 Stat. 540][/us/stat/94/540], provided that: 
+[Pub. L. 96–275][/us/pl/96/275], § 3, June 17, 1980, [94 Stat. 540][/us/stat/94/540], provided that: 
 
 > “Nothing in this Act \[enacting subsec. (g) of this section, amending section 93 of former Title 46, Shipping, and enacting provisions set out as notes under this section\] shall be construed as authorizing the withholding of information from Congress.”
 
  __Definitions__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(7)][/us/pl/106/113/s1000/a/7] \[div. B, title XII, subtitle E, § 1256\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–507, provided that: 
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(7) \[div. B, title XII, subtitle E, § 1256\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–507, provided that: 
 
 > “In this subtitle \[amending this section and enacting provisions set out as notes above\]:
 
@@ -228,19 +228,19 @@
 ----------
 ----------
 
-[/us/pl/87/826/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826%2Fs2
+[/us/pl/87/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826
 [/us/stat/76/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F951
-[/us/pl/93/618/s609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs609%2Fa
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2074
-[/us/pl/96/39/s1108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1108%2Fa
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F313
-[/us/pl/96/275/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F275%2Fs1
+[/us/pl/96/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F275
 [/us/stat/94/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F539
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1155
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/110/246/s3001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs3001%2Fb%2F1%2FA
+[/us/pl/110/246/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtIII
 [/us/stat/122/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1820
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/act/1954-07-10/ch649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-10%2Fch649
@@ -251,43 +251,43 @@
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/100/418/s1214/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fa%2F2%2FA
-[/us/pl/100/418/s1932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1932
-[/us/pl/100/418/s1931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1931%2Fa
-[/us/pl/100/418/s1214/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fa%2F2%2FB
-[/us/pl/100/418/s1214/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fa%2F2%2FC
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/96/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F275
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/100/418/s1214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fa%2F2
 [/us/pl/100/418/s1217/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1217%2Fb%2F1
 [/us/usc/t19/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3001
-[/us/pl/96/275/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F275%2Fs4
+[/us/pl/96/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F275
 [/us/stat/94/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F540
-[/us/pl/96/39/s1108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs1108%2Fb
+[/us/pl/96/39/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2FtXI
 [/us/stat/93/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F314
-[/us/pl/93/618/s609/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs609%2Fb
+[/us/pl/93/618/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtVI
 [/us/stat/88/2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2075
-[/us/pl/87/826/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826%2Fs4
+[/us/pl/87/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826
 [/us/stat/76/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F953
 [/us/usc/t48/s1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1486
 [/us/usc/t15/s174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs174
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/228/s1404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1404%2Fa
+[/us/pl/107/228/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIV
 [/us/stat/116/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1454
 [/us/stat/116/1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1453
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
-[/us/pl/100/418/s1931/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1931%2Fb
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1320
-[/us/pl/96/275/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F275%2Fs3
+[/us/pl/96/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F275
 [/us/stat/94/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F540
-[/us/pl/106/113/s1000/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F7
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 

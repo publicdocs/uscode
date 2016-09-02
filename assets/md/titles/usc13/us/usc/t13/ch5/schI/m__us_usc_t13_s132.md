@@ -21,7 +21,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., § 123 ([June 19, 1948, ch. 502, § 3][/us/act/1948-06-19/ch502/s3], [62 Stat. 479][/us/stat/62/479]).
+    Based on title 13, U.S.C., 1952 ed., § 123 ([June 19, 1948, ch. 502][/us/act/1948-06-19/ch502], § 3, [62 Stat. 479][/us/stat/62/479]).
 
     Section was derived from all of [section 123 of title 13][/us/usc/t13/s123], U.S.C., 1952 ed., except the first sentence. That sentence is incorporated with other provisions in chapter 1 of this title. See Distribution Table.
 
@@ -38,7 +38,7 @@
 
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1019
-[/us/act/1948-06-19/ch502/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502%2Fs3
+[/us/act/1948-06-19/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502
 [/us/stat/62/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F479
 [/us/usc/t13/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs123
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263

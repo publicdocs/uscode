@@ -17,11 +17,11 @@
 
     When any request for information, made by the Secretary or other authorized officer or employee of the Department of Commerce or bureau or agency thereof, is made by registered or certified mail or telegram, the return receipt therefor or other written receipt thereof shall be prima facie evidence of an official request in any prosecution under such section.
 
-([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1025][/us/stat/68/1025]; [Pub. L. 85–207, § 19][/us/pl/85/207/s19], Aug. 28, 1957, [71 Stat. 484][/us/stat/71/484]; [Pub. L. 94–521, § 15(b)][/us/pl/94/521/s15/b], Oct. 17, 1976, [90 Stat. 2465][/us/stat/90/2465].)
+([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1025][/us/stat/68/1025]; [Pub. L. 85–207][/us/pl/85/207], § 19, Aug. 28, 1957, [71 Stat. 484][/us/stat/71/484]; [Pub. L. 94–521][/us/pl/94/521], § 15(b), Oct. 17, 1976, [90 Stat. 2465][/us/stat/90/2465].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., §§ 74, 84 ([Aug. 7, 1916, ch. 274, § 4][/us/act/1916-08-07/ch274/s4], [39 Stat. 437][/us/stat/39/437]; [Apr. 2, 1924, ch. 80, § 4][/us/act/1924-04-02/ch80/s4], [43 Stat. 32][/us/stat/43/32]; [June 18, 1929, ch. 28, § 21][/us/act/1929-06-18/ch28/s21], [46 Stat. 26][/us/stat/46/26]; [June 14, 1938, ch. 358][/us/act/1938-06-14/ch358], [52 Stat. 678][/us/stat/52/678]; [July 25, 1947, ch. 331][/us/act/1947-07-25/ch331], [61 Stat. 457][/us/stat/61/457]).
+    Based on title 13, U.S.C., 1952 ed., §§ 74, 84 ([Aug. 7, 1916, ch. 274][/us/act/1916-08-07/ch274], § 4, [39 Stat. 437][/us/stat/39/437]; [Apr. 2, 1924, ch. 80][/us/act/1924-04-02/ch80], § 4, [43 Stat. 32][/us/stat/43/32]; [June 18, 1929, ch. 28][/us/act/1929-06-18/ch28], § 21, [46 Stat. 26][/us/stat/46/26]; [June 14, 1938, ch. 358][/us/act/1938-06-14/ch358], [52 Stat. 678][/us/stat/52/678]; [July 25, 1947, ch. 331][/us/act/1947-07-25/ch331], [61 Stat. 457][/us/stat/61/457]).
 
     Section consolidates part of [section 74 of title 13][/us/usc/t13/s74], U.S.C., 1952 ed., which section related to the collection of cotton statistics, with part of section 84 of such title, which section related to the collection of statistics on oilseeds, nuts and kernels, fats, oils and greases. For remainder of such sections 74 and 84, see Distribution Table.
 
@@ -52,15 +52,15 @@
 
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1025
-[/us/pl/85/207/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs19
+[/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/stat/71/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F484
-[/us/pl/94/521/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs15%2Fb
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/stat/90/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2465
-[/us/act/1916-08-07/ch274/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-07%2Fch274%2Fs4
+[/us/act/1916-08-07/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-07%2Fch274
 [/us/stat/39/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F437
-[/us/act/1924-04-02/ch80/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-04-02%2Fch80%2Fs4
+[/us/act/1924-04-02/ch80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-04-02%2Fch80
 [/us/stat/43/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F32
-[/us/act/1929-06-18/ch28/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28%2Fs21
+[/us/act/1929-06-18/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28
 [/us/stat/46/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F26
 [/us/act/1938-06-14/ch358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-14%2Fch358
 [/us/stat/52/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F678

@@ -19,7 +19,7 @@
 
     (b) If the Secretary is unable to produce and publish current data during any fiscal year on total population for any county and local unit of general purpose government as required by this section, a report shall be submitted by the Secretary to the President of the Senate and to the Speaker of the House of Representatives not later than 90 days before the commencement of the following fiscal year, enumerating each government excluded and giving the reasons for such exclusion.
 
-(Added [Pub. L. 94–521, § 8(a)][/us/pl/94/521/s8/a], Oct. 17, 1976, [90 Stat. 2462][/us/stat/90/2462].)
+(Added [Pub. L. 94–521][/us/pl/94/521], § 8(a), Oct. 17, 1976, [90 Stat. 2462][/us/stat/90/2462].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t13/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs141
 [/us/usc/t13/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs141
-[/us/pl/94/521/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs8%2Fa
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/stat/90/2462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2462
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1021

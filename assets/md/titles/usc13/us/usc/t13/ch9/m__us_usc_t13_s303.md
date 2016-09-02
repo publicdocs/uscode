@@ -17,7 +17,7 @@
 
     To assist the Secretary to carry out the provisions of this chapter, the Secretary of the Treasury shall collect information in the form and manner prescribed by the regulations issued pursuant to this chapter from persons engaged in foreign commerce or trade and from the owners or operators of carriers.
 
-(Added [Pub. L. 87–826, § 2][/us/pl/87/826/s2], Oct. 15, 1962, [76 Stat. 951][/us/stat/76/951]; amended [Pub. L. 107–228, div. B, title XIV, § 1404(d)][/us/pl/107/228/s1404/d], Sept. 30, 2002, [116 Stat. 1454][/us/stat/116/1454].)
+(Added [Pub. L. 87–826][/us/pl/87/826], § 2, Oct. 15, 1962, [76 Stat. 951][/us/stat/76/951]; amended [Pub. L. 107–228, div. B, title XIV][/us/pl/107/228/dB/tXIV], § 1404(d), Sept. 30, 2002, [116 Stat. 1454][/us/stat/116/1454].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/87/826/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826%2Fs2
+[/us/pl/87/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826
 [/us/stat/76/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F951
-[/us/pl/107/228/s1404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1404%2Fd
+[/us/pl/107/228/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIV
 [/us/stat/116/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1454
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 

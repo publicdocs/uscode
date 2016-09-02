@@ -49,7 +49,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., § 81 ([Aug. 7, 1916, ch. 274, § 1][/us/act/1916-08-07/ch274/s1], [39 Stat. 436][/us/stat/39/436]; [July 25, 1947, ch. 331][/us/act/1947-07-25/ch331], [61 Stat. 457][/us/stat/61/457]).
+    Based on title 13, U.S.C., 1952 ed., § 81 ([Aug. 7, 1916, ch. 274][/us/act/1916-08-07/ch274], § 1, [39 Stat. 436][/us/stat/39/436]; [July 25, 1947, ch. 331][/us/act/1947-07-25/ch331], [61 Stat. 457][/us/stat/61/457]).
 
     References to the Secretary (of Commerce) were substituted for references to the Director of the Census, to conform with 1950 Reorganization Plan No. 5, §§ 1, 2, effective May 24, 1950, 15 F.R. 3174, [64 Stat. 1263][/us/stat/64/1263]. See Revision Note to [section 4 of this title][/us/usc/t13/s4].
 
@@ -64,7 +64,7 @@
 
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1017
-[/us/act/1916-08-07/ch274/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-07%2Fch274%2Fs1
+[/us/act/1916-08-07/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-07%2Fch274
 [/us/stat/39/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F436
 [/us/act/1947-07-25/ch331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch331
 [/us/stat/61/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F457

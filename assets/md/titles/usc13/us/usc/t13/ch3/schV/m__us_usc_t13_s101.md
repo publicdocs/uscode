@@ -31,7 +31,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., §§ 111, 113 ([Mar. 6, 1902, ch. 139, § 7][/us/act/1902-03-06/ch139/s7], [32 Stat. 52][/us/stat/32/52]; [June 7, 1906, ch. 3048][/us/act/1906-06-07/ch3048], [34 Stat. 218][/us/stat/34/218]; [June 18, 1929, ch. 28, § 3][/us/act/1929-06-18/ch28/s3], [46 Stat. 21][/us/stat/46/21]; [Mar. 4, 1931, ch. 490][/us/act/1931-03-04/ch490], [46 Stat. 1517][/us/stat/46/1517]; 1939 Reorganization Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1431][/us/stat/53/1431]; 1940 Reorganization Plan No. III, § 3, 5 F.R. 2107, [54 Stat. 1232][/us/stat/54/1232]; [June 25, 1947, ch. 124][/us/act/1947-06-25/ch124], [61 Stat. 163][/us/stat/61/163]; [Sept. 7, 1950, ch. 910, § 4][/us/act/1950-09-07/ch910/s4], [64 Stat. 785][/us/stat/64/785]).
+    Based on title 13, U.S.C., 1952 ed., §§ 111, 113 ([Mar. 6, 1902, ch. 139][/us/act/1902-03-06/ch139], § 7, [32 Stat. 52][/us/stat/32/52]; [June 7, 1906, ch. 3048][/us/act/1906-06-07/ch3048], [34 Stat. 218][/us/stat/34/218]; [June 18, 1929, ch. 28][/us/act/1929-06-18/ch28], § 3, [46 Stat. 21][/us/stat/46/21]; [Mar. 4, 1931, ch. 490][/us/act/1931-03-04/ch490], [46 Stat. 1517][/us/stat/46/1517]; 1939 Reorganization Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1431][/us/stat/53/1431]; 1940 Reorganization Plan No. III, § 3, 5 F.R. 2107, [54 Stat. 1232][/us/stat/54/1232]; [June 25, 1947, ch. 124][/us/act/1947-06-25/ch124], [61 Stat. 163][/us/stat/61/163]; [Sept. 7, 1950, ch. 910][/us/act/1950-09-07/ch910], § 4, [64 Stat. 785][/us/stat/64/785]).
 
     Section consolidates part of [section 111 of title 13][/us/usc/t13/s111], U.S.C., 1952 ed., with section 113 of such title which also related to statistics with respect to crime and to the “defective, dependent, and delinquent classes”.
 
@@ -54,11 +54,11 @@
 
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1018
-[/us/act/1902-03-06/ch139/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-03-06%2Fch139%2Fs7
+[/us/act/1902-03-06/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-03-06%2Fch139
 [/us/stat/32/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F52
 [/us/act/1906-06-07/ch3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-07%2Fch3048
 [/us/stat/34/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F218
-[/us/act/1929-06-18/ch28/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28%2Fs3
+[/us/act/1929-06-18/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28
 [/us/stat/46/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F21
 [/us/act/1931-03-04/ch490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1931-03-04%2Fch490
 [/us/stat/46/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F1517
@@ -66,7 +66,7 @@
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
 [/us/act/1947-06-25/ch124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch124
 [/us/stat/61/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F163
-[/us/act/1950-09-07/ch910/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch910%2Fs4
+[/us/act/1950-09-07/ch910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch910
 [/us/stat/64/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F785
 [/us/usc/t13/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs111
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263

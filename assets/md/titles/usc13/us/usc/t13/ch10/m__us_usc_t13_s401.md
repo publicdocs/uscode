@@ -27,7 +27,7 @@
 
     As used in subsection (a), the terms “business enterprise” and “United States” have the meanings given those terms in section 3 of the International Investment and Trade in Services Survey Act.
 
-(Added [Pub. L. 101–533, § 5(a)][/us/pl/101/533/s5/a], Nov. 7, 1990, [104 Stat. 2347][/us/stat/104/2347].)
+(Added [Pub. L. 101–533][/us/pl/101/533], § 5(a), Nov. 7, 1990, [104 Stat. 2347][/us/stat/104/2347].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/101/533/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs5%2Fa
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2347
 [/us/pl/94/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F472
 [/us/stat/90/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2059

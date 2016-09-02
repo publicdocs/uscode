@@ -31,11 +31,11 @@
 
     (d) Where the doctrine, teaching, or discipline of any religious denomination or church prohibits the disclosure of information relative to membership, a refusal, in such circumstances, to furnish such information shall not be an offense under this chapter.
 
-([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1024][/us/stat/68/1024]; [Pub. L. 94–521, § 15(a)][/us/pl/94/521/s15/a], Oct. 17, 1976, [90 Stat. 2465][/us/stat/90/2465].)
+([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1024][/us/stat/68/1024]; [Pub. L. 94–521][/us/pl/94/521], § 15(a), Oct. 17, 1976, [90 Stat. 2465][/us/stat/90/2465].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., §§ 111, 122 ([Mar. 2, 1902, ch. 139, § 7][/us/act/1902-03-02/ch139/s7], [32 Stat. 52][/us/stat/32/52]; [June 7, 1906, ch. 3048][/us/act/1906-06-07/ch3048], [34 Stat. 218][/us/stat/34/218]; [June 18, 1929, ch. 28, § 3][/us/act/1929-06-18/ch28/s3], [46 Stat. 26][/us/stat/46/26]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1431][/us/stat/53/1431]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1232][/us/stat/54/1232]; [June 25, 1947, ch. 124][/us/act/1947-06-25/ch124], [61 Stat. 163][/us/stat/61/163]; [June 19, 1948, ch. 502, § 1][/us/act/1948-06-19/ch502/s1], [62 Stat. 478][/us/stat/62/478]; [Sept. 7, 1950, ch. 910, § 4][/us/act/1950-09-07/ch910/s4], [64 Stat. 785][/us/stat/64/785]).
+    Based on title 13, U.S.C., 1952 ed., §§ 111, 122 ([Mar. 2, 1902, ch. 139][/us/act/1902-03-02/ch139], § 7, [32 Stat. 52][/us/stat/32/52]; [June 7, 1906, ch. 3048][/us/act/1906-06-07/ch3048], [34 Stat. 218][/us/stat/34/218]; [June 18, 1929, ch. 28][/us/act/1929-06-18/ch28], § 3, [46 Stat. 26][/us/stat/46/26]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1431][/us/stat/53/1431]; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2107, [54 Stat. 1232][/us/stat/54/1232]; [June 25, 1947, ch. 124][/us/act/1947-06-25/ch124], [61 Stat. 163][/us/stat/61/163]; [June 19, 1948, ch. 502][/us/act/1948-06-19/ch502], § 1, [62 Stat. 478][/us/stat/62/478]; [Sept. 7, 1950, ch. 910][/us/act/1950-09-07/ch910], § 4, [64 Stat. 785][/us/stat/64/785]).
 
     Section consolidates parts of sections 111 and 122 of title 13, U.S.C., 1952 ed., with changes in phraseology necessary to effect consolidation and to preserve the intent, scope and meaning of the parts of such sections so consolidated. For remainder of such sections 111 and 122, see Distribution Table.
 
@@ -47,9 +47,9 @@
 
  __Amendments__ 
 
-    1976—Subsec. (a)(1). [Pub. L. 94–521, § 15(a)(1)][/us/pl/94/521/s15/a/1], inserted “and questionnaires” after “schedules”.
+    1976—Subsec. (a)(1). [Pub. L. 94–521][/us/pl/94/521], § 15(a)(1), inserted “and questionnaires” after “schedules”.
 
-    Subsec. (b). [Pub. L. 94–521, § 15(a)(2)][/us/pl/94/521/s15/a/2], struck out reference to imprisonment provisions provided by sections 221 and 224 of this title.
+    Subsec. (b). [Pub. L. 94–521][/us/pl/94/521], § 15(a)(2), struck out reference to imprisonment provisions provided by sections 221 and 224 of this title.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -65,21 +65,21 @@
 [/us/usc/t13/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs222
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1024
-[/us/pl/94/521/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs15%2Fa
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/stat/90/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2465
-[/us/act/1902-03-02/ch139/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-03-02%2Fch139%2Fs7
+[/us/act/1902-03-02/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-03-02%2Fch139
 [/us/stat/32/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F52
 [/us/act/1906-06-07/ch3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-07%2Fch3048
 [/us/stat/34/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F218
-[/us/act/1929-06-18/ch28/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28%2Fs3
+[/us/act/1929-06-18/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28
 [/us/stat/46/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F26
 [/us/stat/53/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1431
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
 [/us/act/1947-06-25/ch124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch124
 [/us/stat/61/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F163
-[/us/act/1948-06-19/ch502/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502%2Fs1
+[/us/act/1948-06-19/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502
 [/us/stat/62/478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F478
-[/us/act/1950-09-07/ch910/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch910%2Fs4
+[/us/act/1950-09-07/ch910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch910
 [/us/stat/64/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F785
 [/us/usc/t13/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs122
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
@@ -88,8 +88,8 @@
 [/us/usc/t13/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs252
 [/us/usc/t13/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs111
 [/us/usc/t13/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs102
-[/us/pl/94/521/s15/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs15%2Fa%2F1
-[/us/pl/94/521/s15/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs15%2Fa%2F2
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/pl/94/521/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs17
 [/us/usc/t13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs1

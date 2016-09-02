@@ -23,11 +23,11 @@
 
     (d) All moneys received in payment for work or services enumerated under this section shall be deposited in a separate account which may be used to pay directly the costs of such work or services, to repay appropriations which initially bore all or part of such costs, or to refund excess sums when necessary.
 
-([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1013][/us/stat/68/1013]; [Pub. L. 85–207, § 4][/us/pl/85/207/s4], Aug. 28, 1957, [71 Stat. 481][/us/stat/71/481]; [Pub. L. 94–521, § 6(a)][/us/pl/94/521/s6/a], Oct. 17, 1976, [90 Stat. 2460][/us/stat/90/2460].)
+([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1013][/us/stat/68/1013]; [Pub. L. 85–207][/us/pl/85/207], § 4, Aug. 28, 1957, [71 Stat. 481][/us/stat/71/481]; [Pub. L. 94–521][/us/pl/94/521], § 6(a), Oct. 17, 1976, [90 Stat. 2460][/us/stat/90/2460].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., § 218, and [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., The Public Health and Welfare ([June 18, 1929, ch. 28, § 18][/us/act/1929-06-18/ch28/s18], [46 Stat. 25][/us/stat/46/25]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 607, [63 Stat. 441][/us/stat/63/441]).
+    Based on title 13, U.S.C., 1952 ed., § 218, and [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., The Public Health and Welfare ([June 18, 1929, ch. 28][/us/act/1929-06-18/ch28], § 18, [46 Stat. 25][/us/stat/46/25]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 607, [63 Stat. 441][/us/stat/63/441]).
 
     Section consolidates [section 218 of title 13][/us/usc/t13/s218], U.S.C., 1952 ed., with that part of subsection (b) of [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., which made such section 218 applicable to the censuses of housing. For remainder of such [section 1442 of title 42][/us/usc/t42/s1442] (which has been transferred in its entirety to this revised title), see Distribution Table.
 
@@ -45,9 +45,9 @@
 
     Subsec. (c). [Pub. L. 94–521][/us/pl/94/521] struck out “the authority of” after “furnished under”, substituted “any respondent or other person” for “the persons”, and inserted “except in the prosecution of alleged violations of this title” after “relates,”.
 
-    1957—Subsec. (b). [Pub. L. 85–207, § 4(a)][/us/pl/85/207/s4/a], inserted sentence at end respecting engagement in joint statistical projects.
+    1957—Subsec. (b). [Pub. L. 85–207][/us/pl/85/207], § 4(a), inserted sentence at end respecting engagement in joint statistical projects.
 
-    Subsec. (d). [Pub. L. 85–207, § 4(b)][/us/pl/85/207/s4/b], required the deposit in a separate account of moneys received in payment for work or services, previously credited to an appropriation for collecting statistics, and permitted certain uses of such account.
+    Subsec. (d). [Pub. L. 85–207][/us/pl/85/207], § 4(b), required the deposit in a separate account of moneys received in payment for work or services, previously credited to an appropriation for collecting statistics, and permitted certain uses of such account.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -63,12 +63,12 @@
 [/us/usc/t13/s191/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs191%2Fa
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1013
-[/us/pl/85/207/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs4
+[/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/stat/71/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F481
-[/us/pl/94/521/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs6%2Fa
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/stat/90/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2460
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442
-[/us/act/1929-06-18/ch28/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28%2Fs18
+[/us/act/1929-06-18/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28
 [/us/stat/46/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F25
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F441
@@ -82,8 +82,8 @@
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
-[/us/pl/85/207/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs4%2Fa
-[/us/pl/85/207/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs4%2Fb
+[/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
+[/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/pl/94/521/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs17
 [/us/usc/t13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs1

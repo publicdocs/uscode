@@ -17,7 +17,7 @@
 
     In advance of, in conjunction with, or after the taking of each census provided for by this chapter, the Secretary may make surveys and collect such preliminary and supplementary statistics related to the main topic of the census as are necessary to the initiation, taking, or completion thereof.
 
-(Added [Pub. L. 85–207, § 14][/us/pl/85/207/s14], Aug. 28, 1957, [71 Stat. 484][/us/stat/71/484].)
+(Added [Pub. L. 85–207][/us/pl/85/207], § 14, Aug. 28, 1957, [71 Stat. 484][/us/stat/71/484].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/207/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs14
+[/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/stat/71/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F484
 
 

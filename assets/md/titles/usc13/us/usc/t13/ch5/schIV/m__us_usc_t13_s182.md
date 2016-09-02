@@ -17,7 +17,7 @@
 
     The Secretary may make surveys deemed necessary to furnish annual and other interim current data on the subjects covered by the censuses provided for in this title.
 
-(Added [Pub. L. 94–521, § 8(a)][/us/pl/94/521/s8/a], Oct. 17, 1976, [90 Stat. 2463][/us/stat/90/2463].)
+(Added [Pub. L. 94–521][/us/pl/94/521], § 8(a), Oct. 17, 1976, [90 Stat. 2463][/us/stat/90/2463].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/94/521/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs8%2Fa
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/stat/90/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2463
 [/us/pl/94/521/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs17
 [/us/usc/t13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs1

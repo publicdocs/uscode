@@ -17,9 +17,9 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–467, § 1(a)][/us/pl/99/467/s1/a], Oct. 14, 1986, [100 Stat. 1192][/us/stat/100/1192], substituted “V” for “IV” as subchapter designation.
+    1986—[Pub. L. 99–467][/us/pl/99/467], § 1(a), Oct. 14, 1986, [100 Stat. 1192][/us/stat/100/1192], substituted “V” for “IV” as subchapter designation.
 
-    1983—[Pub. L. 97–454, § 1(a)(1)][/us/pl/97/454/s1/a/1], Jan. 12, 1983, [96 Stat. 2494][/us/stat/96/2494], substituted “IV” for “III” as subchapter designation.
+    1983—[Pub. L. 97–454][/us/pl/97/454], § 1(a)(1), Jan. 12, 1983, [96 Stat. 2494][/us/stat/96/2494], substituted “IV” for “III” as subchapter designation.
 
 ----------
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/99/467/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F467%2Fs1%2Fa
+[/us/pl/99/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F467
 [/us/stat/100/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1192
-[/us/pl/97/454/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F454%2Fs1%2Fa%2F1
+[/us/pl/97/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F454
 [/us/stat/96/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2494
 
 

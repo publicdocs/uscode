@@ -17,7 +17,7 @@
 
     The Secretary shall perform the functions and duties imposed upon him by this title, may issue such rules and regulations as he deems necessary to carry out such functions and duties, and may delegate the performance of such functions and duties and the authority to issue such rules and regulations to such officers and employees of the Department of Commerce as he may designate.
 
-([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1013][/us/stat/68/1013]; [Pub. L. 94–521, § 3(a)][/us/pl/94/521/s3/a], Oct. 17, 1976, [90 Stat. 2459][/us/stat/90/2459].)
+([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1013][/us/stat/68/1013]; [Pub. L. 94–521][/us/pl/94/521], § 3(a), Oct. 17, 1976, [90 Stat. 2459][/us/stat/90/2459].)
 
  __Historical and Revision Notes__ 
 
@@ -44,7 +44,7 @@
 
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1013
-[/us/pl/94/521/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs3%2Fa
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/stat/90/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2459
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
 [/us/usc/t5/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs591

@@ -21,7 +21,7 @@
 
     (c) The Secretary may utilize temporary staff, including employees of Federal, State, or local agencies or instrumentalities, and employees of private organizations to assist the Bureau in performing the work authorized by this title, but only if such temporary staff is sworn to observe the limitations imposed by [section 9 of this title][/us/usc/t13/s9].
 
-([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1014][/us/stat/68/1014]; [Pub. L. 86–769, § 2][/us/pl/86/769/s2], Sept. 13, 1960, [74 Stat. 911][/us/stat/74/911]; [Pub. L. 88–448, title IV, § 401(p)][/us/pl/88/448/s401/p], Aug. 19, 1964, [78 Stat. 492][/us/stat/78/492]; [Pub. L. 94–521, § 12(b)][/us/pl/94/521/s12/b], Oct. 17, 1976, [90 Stat. 2465][/us/stat/90/2465].)
+([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1014][/us/stat/68/1014]; [Pub. L. 86–769][/us/pl/86/769], § 2, Sept. 13, 1960, [74 Stat. 911][/us/stat/74/911]; [Pub. L. 88–448, title IV][/us/pl/88/448/tIV], § 401(p), Aug. 19, 1964, [78 Stat. 492][/us/stat/78/492]; [Pub. L. 94–521][/us/pl/94/521], § 12(b), Oct. 17, 1976, [90 Stat. 2465][/us/stat/90/2465].)
 
  __Historical and Revision Notes__ 
 
@@ -45,9 +45,9 @@
 
  __References in Text__ 
 
-    The Classification Act of 1949, referred to in subsec. (a), is [act Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], [63 Stat. 954][/us/stat/63/954], as amended, which was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
+    The Classification Act of 1949, referred to in subsec. (a), is [act Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], [63 Stat. 954][/us/stat/63/954], as amended, which was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], and reenacted by the first section thereof as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees.
 
-    Section 301 of the Dual Compensation Act, referred to in subsec. (b), which was classified to section 3105 of former Title 5, Executive Departments and Government Officers and Employees, was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], and reenacted by the first section thereof as [section 5533 of Title 5][/us/usc/t5/s5533].
+    Section 301 of the Dual Compensation Act, referred to in subsec. (b), which was classified to section 3105 of former Title 5, Executive Departments and Government Officers and Employees, was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 632][/us/stat/80/632], and reenacted by the first section thereof as [section 5533 of Title 5][/us/usc/t5/s5533].
 
  __Amendments__ 
 
@@ -69,35 +69,35 @@
 
  __Temporary Positions Relating to Decennial Censuses__ 
 
-[Pub. L. 108–447, div. B, title II, § 205][/us/pl/108/447/s205], Dec. 8, 2004, [118 Stat. 2883][/us/stat/118/2883], provided that: 
+[Pub. L. 108–447, div. B, title II][/us/pl/108/447/dB/tII], § 205, Dec. 8, 2004, [118 Stat. 2883][/us/stat/118/2883], provided that: 
 
 > “Hereafter, none of the funds made available by this or any other Act for the Department of Commerce shall be available to reimburse the Unemployment Trust Fund or any other fund or account of the Treasury to pay for any expenses authorized by [section 8501 of title 5][/us/usc/t5/s8501], United States Code, for services performed by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the decennial censuses of population.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title II, § 204\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–78.
+    [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title II, § 204\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–78.
 
-    [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title II, § 204\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–31.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title II, § 204\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–31.
 
-    [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title II, § 204\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–86.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title II, § 204\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–86.
 
-    [Pub. L. 105–119, title II, § 204][/us/pl/105/119/s204], Nov. 26, 1997, [111 Stat. 2479][/us/stat/111/2479].
+    [Pub. L. 105–119, title II][/us/pl/105/119/tII], § 204, Nov. 26, 1997, [111 Stat. 2479][/us/stat/111/2479].
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 204\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–39.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 204\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–39.
 
-    [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title II, § 204\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–30; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title II, § 204\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–30; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
-    [Pub. L. 103–317, title II, § 204][/us/pl/103/317/s204], Aug. 26, 1994, [108 Stat. 1749][/us/stat/108/1749].
+    [Pub. L. 103–317, title II][/us/pl/103/317/tII], § 204, Aug. 26, 1994, [108 Stat. 1749][/us/stat/108/1749].
 
-    [Pub. L. 103–121, title II, § 204][/us/pl/103/121/s204], Oct. 27, 1993, [107 Stat. 1177][/us/stat/107/1177].
+    [Pub. L. 103–121, title II][/us/pl/103/121/tII], § 204, Oct. 27, 1993, [107 Stat. 1177][/us/stat/107/1177].
 
-    [Pub. L. 102–395, title II, § 204][/us/pl/102/395/s204], Oct. 6, 1992, [106 Stat. 1855][/us/stat/106/1855].
+    [Pub. L. 102–395, title II][/us/pl/102/395/tII], § 204, Oct. 6, 1992, [106 Stat. 1855][/us/stat/106/1855].
 
-    [Pub. L. 102–140, title II, § 204][/us/pl/102/140/s204], Oct. 28, 1991, [105 Stat. 806][/us/stat/105/806].
+    [Pub. L. 102–140, title II][/us/pl/102/140/tII], § 204, Oct. 28, 1991, [105 Stat. 806][/us/stat/105/806].
 
-    [Pub. L. 101–515, title I, § 104][/us/pl/101/515/s104], Nov. 5, 1990, [104 Stat. 2108][/us/stat/104/2108].
+    [Pub. L. 101–515, title I][/us/pl/101/515/tI], § 104, Nov. 5, 1990, [104 Stat. 2108][/us/stat/104/2108].
 
-[Pub. L. 101–382, title I, § 141][/us/pl/101/382/s141], Aug. 20, 1990, [104 Stat. 654][/us/stat/104/654], provided that:
+[Pub. L. 101–382, title I][/us/pl/101/382/tI], § 141, Aug. 20, 1990, [104 Stat. 654][/us/stat/104/654], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -107,17 +107,17 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     For purposes of subsection (a), the term ‘temporary 1990 census services’ means services performed by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the 1990 decennial census of population (as determined under regulations determined by the Secretary of Commerce).”
 
-[Pub. L. 101–302, title II][/us/pl/101/302], May 25, 1990, [104 Stat. 215][/us/stat/104/215], provided that: 
+[Pub. L. 101–302, title II][/us/pl/101/302/tII], May 25, 1990, [104 Stat. 215][/us/stat/104/215], provided that: 
 
 > “Services performed after April 20, 1990, by individuals appointed to temporary positions within the Bureau of the Census for purposes relating to the 1990 decennial census of population shall not constitute ‘Federal service’ for purposes of [section 8501 of title 5][/us/usc/t5/s8501], United States Code.”
 
-    [Pub. L. 101–86][/us/pl/101/86], Aug. 16, 1989, [103 Stat. 593][/us/stat/103/593], as amended by [Pub. L. 101–293, § 1][/us/pl/101/293/s1], May 17, 1990, [104 Stat. 192][/us/stat/104/192], provided that Federal annuitants or former members of the uniformed services who return to Government service under temporary appointments to assist in carrying out the 1990 decennial census of population would be exempt from certain provisions of Title 5, Government Organization and Employees, relating to offsets from pay and other benefits.
+    [Pub. L. 101–86][/us/pl/101/86], Aug. 16, 1989, [103 Stat. 593][/us/stat/103/593], as amended by [Pub. L. 101–293][/us/pl/101/293], § 1, May 17, 1990, [104 Stat. 192][/us/stat/104/192], provided that Federal annuitants or former members of the uniformed services who return to Government service under temporary appointments to assist in carrying out the 1990 decennial census of population would be exempt from certain provisions of Title 5, Government Organization and Employees, relating to offsets from pay and other benefits.
 
-    \[[Pub. L. 101–293, § 2][/us/pl/101/293/s2], May 17, 1990, [104 Stat. 192][/us/stat/104/192], provided that amendment of [Pub. L. 101–86][/us/pl/101/86] by [Pub. L. 101–293][/us/pl/101/293] may not be considered to make an exemption under [Pub. L. 101–86][/us/pl/101/86] applicable to any service performed before May 17, 1990, which was in excess of that allowable under [Pub. L. 101–86][/us/pl/101/86] (as then in effect).\]
+    \[[Pub. L. 101–293][/us/pl/101/293], § 2, May 17, 1990, [104 Stat. 192][/us/stat/104/192], provided that amendment of [Pub. L. 101–86][/us/pl/101/86] by [Pub. L. 101–293][/us/pl/101/293] may not be considered to make an exemption under [Pub. L. 101–86][/us/pl/101/86] applicable to any service performed before May 17, 1990, which was in excess of that allowable under [Pub. L. 101–86][/us/pl/101/86] (as then in effect).\]
 
  __Policy and Practices of Bureau of Census Regarding Use of Temporary Staff; Publication__ 
 
-[Pub. L. 97–454, § 3][/us/pl/97/454/s3], Jan. 12, 1983, [96 Stat. 2494][/us/stat/96/2494], provided that: 
+[Pub. L. 97–454][/us/pl/97/454], § 3, Jan. 12, 1983, [96 Stat. 2494][/us/stat/96/2494], provided that: 
 
 > “Not later than 180 days after the effective date of this Act \[Jan. 12, 1983\], the Secretary of Commerce shall publish in the Federal Register a statement of the policy and practices of the Bureau of the Census relating to the administration of [section 23(c) of title 13][/us/usc/t13/s23/c], United States Code. Such statement shall include a description of—
 
@@ -139,11 +139,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t13/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs9
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1014
-[/us/pl/86/769/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F769%2Fs2
+[/us/pl/86/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F769
 [/us/stat/74/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F911
-[/us/pl/88/448/s401/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448%2Fs401%2Fp
+[/us/pl/88/448/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448%2FtIV
 [/us/stat/78/492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F492
-[/us/pl/94/521/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs12%2Fb
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/stat/90/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2465
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442
 [/us/act/1929-06-18/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28
@@ -171,9 +171,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F954
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
 [/us/usc/t5/s5533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5533
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
@@ -186,49 +186,49 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/88/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448
 [/us/pl/88/448/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F448%2Fs403
 [/us/stat/78/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F496
-[/us/pl/108/447/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs205
+[/us/pl/108/447/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtII
 [/us/stat/118/2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2883
 [/us/usc/t5/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8501
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/105/119/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs204
+[/us/pl/105/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtII
 [/us/stat/111/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2479
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/103/317/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2Fs204
+[/us/pl/103/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2FtII
 [/us/stat/108/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1749
-[/us/pl/103/121/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121%2Fs204
+[/us/pl/103/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121%2FtII
 [/us/stat/107/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1177
-[/us/pl/102/395/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2Fs204
+[/us/pl/102/395/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2FtII
 [/us/stat/106/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1855
-[/us/pl/102/140/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2Fs204
+[/us/pl/102/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2FtII
 [/us/stat/105/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F806
-[/us/pl/101/515/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs104
+[/us/pl/101/515/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtI
 [/us/stat/104/2108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2108
-[/us/pl/101/382/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs141
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F654
-[/us/pl/101/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302
+[/us/pl/101/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2FtII
 [/us/stat/104/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F215
 [/us/usc/t5/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8501
 [/us/pl/101/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F86
 [/us/stat/103/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F593
-[/us/pl/101/293/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F293%2Fs1
+[/us/pl/101/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F293
 [/us/stat/104/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F192
-[/us/pl/101/293/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F293%2Fs2
+[/us/pl/101/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F293
 [/us/stat/104/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F192
 [/us/pl/101/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F86
 [/us/pl/101/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F293
 [/us/pl/101/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F86
 [/us/pl/101/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F86
-[/us/pl/97/454/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F454%2Fs3
+[/us/pl/97/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F454
 [/us/stat/96/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2494
 [/us/usc/t13/s23/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs23%2Fc
 

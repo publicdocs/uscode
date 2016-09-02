@@ -43,7 +43,7 @@
 
  __Amendments__ 
 
-    2002—[Pub. L. 107–347, title V, § 526(b)(2)][/us/pl/107/347/s526/b/2], Dec. 17, 2002, [116 Stat. 2970][/us/stat/116/2970], added item 402.
+    2002—[Pub. L. 107–347, title V][/us/pl/107/347/tV], § 526(b)(2), Dec. 17, 2002, [116 Stat. 2970][/us/stat/116/2970], added item 402.
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/107/347/s526/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs526%2Fb%2F2
+[/us/pl/107/347/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtV
 [/us/stat/116/2970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2970
 
 

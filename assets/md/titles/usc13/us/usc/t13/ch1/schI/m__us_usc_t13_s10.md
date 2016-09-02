@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t13/ch1/schI/m__us_usc_t13_s9.md) | [Next](./../../../../..//us/usc/t13/ch1/schI/m__us_usc_t13_s11.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs10)
 
-## \[§ 10. Repealed. [Pub. L. 86–682, § 12(a)][/us/pl/86/682/s12/a], Sept. 2, 1960, [74 Stat. 708][/us/stat/74/708], eff. Sept. 1, 1960\]
+## \[§ 10. Repealed. [Pub. L. 86–682][/us/pl/86/682], § 12(a), Sept. 2, 1960, [74 Stat. 708][/us/stat/74/708], eff. Sept. 1, 1960\]
 
-    Section, [act Aug. 31, 1954, ch. 1158, § 1][/us/act/1954-08-31/ch1158/s1], [68 Stat. 1014][/us/stat/68/1014], related to free transmittal of official mail in census matters.
+    Section, [act Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], § 1, [68 Stat. 1014][/us/stat/68/1014], related to free transmittal of official mail in census matters.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/86/682/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682%2Fs12%2Fa
+[/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F708
-[/us/act/1954-08-31/ch1158/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158%2Fs1
+[/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1014
 
 

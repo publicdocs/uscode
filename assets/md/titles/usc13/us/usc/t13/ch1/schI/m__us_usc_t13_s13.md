@@ -17,7 +17,7 @@
 
     The Secretary shall have authority to contract with educational and other research organizations for the preparation of monographs and other reports and materials of a similar nature.
 
-(Added [Pub. L. 85–207, § 5][/us/pl/85/207/s5], Aug. 28, 1957, [71 Stat. 481][/us/stat/71/481].)
+(Added [Pub. L. 85–207][/us/pl/85/207], § 5, Aug. 28, 1957, [71 Stat. 481][/us/stat/71/481].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/207/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs5
+[/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/stat/71/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F481
 
 

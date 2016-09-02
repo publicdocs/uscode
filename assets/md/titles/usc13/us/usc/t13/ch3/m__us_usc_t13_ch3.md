@@ -177,9 +177,9 @@ Amendments  </td>
 
 </table>
 
-    1986—[Pub. L. 99–467, § 1(b)][/us/pl/99/467/s1/b], Oct. 14, 1986, [100 Stat. 1192][/us/stat/100/1192], redesignated items for subchapters III and IV as subchapters IV and V, respectively, and added items for subchapter III and section 81.
+    1986—[Pub. L. 99–467][/us/pl/99/467], § 1(b), Oct. 14, 1986, [100 Stat. 1192][/us/stat/100/1192], redesignated items for subchapters III and IV as subchapters IV and V, respectively, and added items for subchapter III and section 81.
 
-    1983—[Pub. L. 97–454, § 1(b)][/us/pl/97/454/s1/b], Jan. 12, 1983, [96 Stat. 2494][/us/stat/96/2494], redesignated item for subchapter III as subchapter IV and added items for subchapter III and section 91.
+    1983—[Pub. L. 97–454][/us/pl/97/454], § 1(b), Jan. 12, 1983, [96 Stat. 2494][/us/stat/96/2494], redesignated item for subchapter III as subchapter IV and added items for subchapter III and section 91.
 
 ----------
 
@@ -188,9 +188,9 @@ Amendments  </td>
 ----------
 ----------
 
-[/us/pl/99/467/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F467%2Fs1%2Fb
+[/us/pl/99/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F467
 [/us/stat/100/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1192
-[/us/pl/97/454/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F454%2Fs1%2Fb
+[/us/pl/97/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F454
 [/us/stat/96/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2494
 
 

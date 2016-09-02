@@ -21,13 +21,13 @@
 
     (c) The Secretary may remit or mitigate any penalty incurred for violations of this section and regulations issued pursuant thereto if, in his opinion, they were incurred without willful negligence or fraud, or other circumstances justify a remission or mitigation.
 
-(Added [Pub. L. 87–826, § 2][/us/pl/87/826/s2], Oct. 15, 1962, [76 Stat. 952][/us/stat/76/952]; amended [Pub. L. 107–228, div. B, title XIV, § 1404(e)][/us/pl/107/228/s1404/e], Sept. 30, 2002, [116 Stat. 1454][/us/stat/116/1454].)
+(Added [Pub. L. 87–826][/us/pl/87/826], § 2, Oct. 15, 1962, [76 Stat. 952][/us/stat/76/952]; amended [Pub. L. 107–228, div. B, title XIV][/us/pl/107/228/dB/tXIV], § 1404(e), Sept. 30, 2002, [116 Stat. 1454][/us/stat/116/1454].)
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–228, § 1404(e)(1)][/us/pl/107/228/s1404/e/1], substituted “a penal sum of $10,000” for “the penal sum of $1,000” in first sentence and “a penalty not to exceed $1,000 for each day’s delinquency beyond the prescribed period, but not more than $10,000 per violation” for “a penalty not to exceed $100 for each day’s delinquency beyond the prescribed period, but not more than $1,000,” in third sentence.
+    2002—Subsec. (a). [Pub. L. 107–228][/us/pl/107/228], § 1404(e)(1), substituted “a penal sum of $10,000” for “the penal sum of $1,000” in first sentence and “a penalty not to exceed $1,000 for each day’s delinquency beyond the prescribed period, but not more than $10,000 per violation” for “a penalty not to exceed $100 for each day’s delinquency beyond the prescribed period, but not more than $1,000,” in third sentence.
 
-    Subsecs. (b), (c). [Pub. L. 107–228, § 1404(e)(2)][/us/pl/107/228/s1404/e/2], (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 107–228][/us/pl/107/228], § 1404(e)(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 ----------
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/87/826/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826%2Fs2
+[/us/pl/87/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826
 [/us/stat/76/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F952
-[/us/pl/107/228/s1404/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1404%2Fe
+[/us/pl/107/228/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIV
 [/us/stat/116/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1454
-[/us/pl/107/228/s1404/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1404%2Fe%2F1
-[/us/pl/107/228/s1404/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1404%2Fe%2F2
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
 
 

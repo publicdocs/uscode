@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t13/ch5/schII/m__us_usc_t13_s142.md) | [Next](./../../../../..//us/usc/t13/ch5/schIII/m__us_usc_t13_s161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fch5%2FschIII)
+[Previous](./../../../../..//us/usc/t13/ch5/schII/m__us_usc_t13_s143...146.md) | [Next](./../../../../..//us/usc/t13/ch5/schIII/m__us_usc_t13_s161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fch5%2FschIII)
 
 ### SUBCHAPTER III—GOVERNMENTS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t13/ch5/schII/m__us_usc_t13_s142.md) | [Next](./../../../../..//us/usc/t13/ch5/schIII/m__us_usc_t13_s161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fch5%2FschIII)
+[Previous](./../../../../..//us/usc/t13/ch5/schII/m__us_usc_t13_s143...146.md) | [Next](./../../../../..//us/usc/t13/ch5/schIII/m__us_usc_t13_s161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fch5%2FschIII)
 
 ----------
 ----------

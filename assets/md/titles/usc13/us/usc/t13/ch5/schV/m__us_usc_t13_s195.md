@@ -17,7 +17,7 @@
 
     Except for the determination of population for purposes of apportionment of Representatives in Congress among the several States, the Secretary shall, if he considers it feasible, authorize the use of the statistical method known as “sampling” in carrying out the provisions of this title.
 
-(Added [Pub. L. 85–207, § 14][/us/pl/85/207/s14], Aug. 28, 1957, [71 Stat. 484][/us/stat/71/484]; amended [Pub. L. 94–521, § 10][/us/pl/94/521/s10], Oct. 17, 1976, [90 Stat. 2464][/us/stat/90/2464].)
+(Added [Pub. L. 85–207][/us/pl/85/207], § 14, Aug. 28, 1957, [71 Stat. 484][/us/stat/71/484]; amended [Pub. L. 94–521][/us/pl/94/521], § 10, Oct. 17, 1976, [90 Stat. 2464][/us/stat/90/2464].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/85/207/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs14
+[/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/stat/71/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F484
-[/us/pl/94/521/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs10
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/stat/90/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2464
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521

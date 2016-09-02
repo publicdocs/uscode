@@ -23,7 +23,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., §§ 122, 205, and [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., The Public Health and Welfare ([June 18, 1929, ch. 28, § 5][/us/act/1929-06-18/ch28/s5], [46 Stat. 22][/us/stat/46/22]; [June 19, 1948, ch. 502, § 2][/us/act/1948-06-19/ch502/s2], [62 Stat. 479][/us/stat/62/479]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 607, [63 Stat. 441][/us/stat/63/441]).
+    Based on title 13, U.S.C., 1952 ed., §§ 122, 205, and [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., The Public Health and Welfare ([June 18, 1929, ch. 28][/us/act/1929-06-18/ch28], § 5, [46 Stat. 22][/us/stat/46/22]; [June 19, 1948, ch. 502][/us/act/1948-06-19/ch502], § 2, [62 Stat. 479][/us/stat/62/479]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 607, [63 Stat. 441][/us/stat/63/441]).
 
     Section consolidates [section 205 of title 13][/us/usc/t13/s205], U.S.C., 1952 ed., with that part of section 122 of such title which made such section 205 applicable to the surveys provided for by section 121 of such title (see subchapter IV of chapter 5), and with that part of subsection (b) of [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., which made such section 205 applicable to the censuses of housing.
 
@@ -47,9 +47,9 @@
 [/us/pl/88/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F530
 [/us/stat/78/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F737
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442
-[/us/act/1929-06-18/ch28/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28%2Fs5
+[/us/act/1929-06-18/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28
 [/us/stat/46/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F22
-[/us/act/1948-06-19/ch502/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502%2Fs2
+[/us/act/1948-06-19/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502
 [/us/stat/62/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F479
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F441

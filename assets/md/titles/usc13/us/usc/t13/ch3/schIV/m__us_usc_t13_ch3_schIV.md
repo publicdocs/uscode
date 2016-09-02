@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–467, § 1(a)][/us/pl/99/467/s1/a], Oct. 14, 1986, [100 Stat. 1192][/us/stat/100/1192], substituted “IV” for “III” as subchapter designation.
+    1986—[Pub. L. 99–467][/us/pl/99/467], § 1(a), Oct. 14, 1986, [100 Stat. 1192][/us/stat/100/1192], substituted “IV” for “III” as subchapter designation.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/99/467/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F467%2Fs1%2Fa
+[/us/pl/99/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F467
 [/us/stat/100/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1192
 
 

@@ -17,7 +17,7 @@
 
     The Bureau of the Census may provide business data to the Bureau of Economic Analysis and the Bureau of Labor Statistics (“Designated Statistical Agencies”) if such information is required for an authorized statistical purpose and the provision is the subject of a written agreement with that Designated Statistical Agency, or their successors, as defined in the Confidential Information Protection and Statistical Efficiency Act of 2002.
 
-(Added [Pub. L. 107–347, title V, § 526(b)(1)][/us/pl/107/347/s526/b/1], Dec. 17, 2002, [116 Stat. 2969][/us/stat/116/2969].)
+(Added [Pub. L. 107–347, title V][/us/pl/107/347/tV], § 526(b)(1), Dec. 17, 2002, [116 Stat. 2969][/us/stat/116/2969].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/347/s526/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs526%2Fb%2F1
+[/us/pl/107/347/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtV
 [/us/stat/116/2969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2969
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/stat/116/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2962

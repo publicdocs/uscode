@@ -27,7 +27,7 @@
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., §§ 122, 207, 252, and [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., The Public Health and Welfare ([June 18, 1929, ch. 28, § 7][/us/act/1929-06-18/ch28/s7], [46 Stat. 23][/us/stat/46/23]; [June 19, 1948, ch. 502, § 2][/us/act/1948-06-19/ch502/s2], [62 Stat. 479][/us/stat/62/479]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 607, [63 Stat. 441][/us/stat/63/441]; [Sept. 7, 1950, ch. 910, § 2][/us/act/1950-09-07/ch910/s2], [64 Stat. 784][/us/stat/64/784].)
+    Based on title 13, U.S.C., 1952 ed., §§ 122, 207, 252, and [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., The Public Health and Welfare ([June 18, 1929, ch. 28][/us/act/1929-06-18/ch28], § 7, [46 Stat. 23][/us/stat/46/23]; [June 19, 1948, ch. 502][/us/act/1948-06-19/ch502], § 2, [62 Stat. 479][/us/stat/62/479]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 607, [63 Stat. 441][/us/stat/63/441]; [Sept. 7, 1950, ch. 910][/us/act/1950-09-07/ch910], § 2, [64 Stat. 784][/us/stat/64/784].)
 
     Section consolidates [section 207 of title 13][/us/usc/t13/s207], U.S.C., 1952 ed., which was a part of chapter 4 of such title relating to the censuses of population, agriculture, irrigation, etc. (subchapter II of chapter 5 of this revised title), with those parts of sections 122 and 252 of such title which made such section 207 applicable to the censuses of manufactures, the mineral industries, and other businesses, and governments (subchapters I and III of chapter 5 of this revised title), and with that part of subsection (b) of [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952, ed., which made such section 207 applicable to the censuses of housing (subchapter II of chapter 5 of this revised title). For remainder of sections 122 and 252 of title 13, U.S.C., 1952 ed., and of [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed. (which section has been transferred in its entirety to this revised title), see Distribution Table.
 
@@ -49,13 +49,13 @@
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1022
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442
-[/us/act/1929-06-18/ch28/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28%2Fs7
+[/us/act/1929-06-18/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28
 [/us/stat/46/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F23
-[/us/act/1948-06-19/ch502/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502%2Fs2
+[/us/act/1948-06-19/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502
 [/us/stat/62/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F479
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F441
-[/us/act/1950-09-07/ch910/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch910%2Fs2
+[/us/act/1950-09-07/ch910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch910
 [/us/stat/64/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F784
 [/us/usc/t13/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs207
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442

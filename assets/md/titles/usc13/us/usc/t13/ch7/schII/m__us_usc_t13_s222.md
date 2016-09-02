@@ -17,11 +17,11 @@
 
     Whoever, either directly or indirectly, offers or renders to any officer or employee of the Department of Commerce or bureau or agency thereof engaged in making an enumeration of population under subchapter II, IV, or V of chapter 5 of this title, any suggestion, advice, information or assistance of any kind, with the intent or purpose of causing an inaccurate enumeration of population to be made, shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
-([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1023][/us/stat/68/1023]; [Pub. L. 85–207, § 16][/us/pl/85/207/s16], Aug. 28, 1957, [71 Stat. 484][/us/stat/71/484].)
+([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1023][/us/stat/68/1023]; [Pub. L. 85–207][/us/pl/85/207], § 16, Aug. 28, 1957, [71 Stat. 484][/us/stat/71/484].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., §§ 122, 209 ([June 18, 1929, ch. 28, § 9][/us/act/1929-06-18/ch28/s9], [46 Stat. 23][/us/stat/46/23]; [June 19, 1948, ch. 502, § 2][/us/act/1948-06-19/ch502/s2], [62 Stat. 479][/us/stat/62/479]).
+    Based on title 13, U.S.C., 1952 ed., §§ 122, 209 ([June 18, 1929, ch. 28][/us/act/1929-06-18/ch28], § 9, [46 Stat. 23][/us/stat/46/23]; [June 19, 1948, ch. 502][/us/act/1948-06-19/ch502], § 2, [62 Stat. 479][/us/stat/62/479]).
 
     Section consolidates the second paragraph of [section 209 of title 13][/us/usc/t13/s209], U.S.C., 1952 ed., which was a part of chapter 4 of that title relating to censuses of population, agriculture, etc., with that part of section 122 of such title which made such section 209 applicable to the interim surveys provided for by section 121(b) of such title (see subchapter IV of chapter 5 of this revised title). For remainder of such sections 122 and 209, see Distribution Table.
 
@@ -50,11 +50,11 @@
 
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1023
-[/us/pl/85/207/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs16
+[/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/stat/71/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F484
-[/us/act/1929-06-18/ch28/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28%2Fs9
+[/us/act/1929-06-18/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28
 [/us/stat/46/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F23
-[/us/act/1948-06-19/ch502/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502%2Fs2
+[/us/act/1948-06-19/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502
 [/us/stat/62/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F479
 [/us/usc/t13/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs209
 [/us/usc/t13/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs122

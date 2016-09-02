@@ -29,11 +29,11 @@
 
     (b) The provisions of subsection (a) of this section relating to the confidential treatment of data for particular individuals and establishments, shall not apply to the censuses of governments provided for by subchapter III of chapter 5 of this title, nor to interim current data provided for by subchapter IV of chapter 5 of this title as to the subjects covered by censuses of governments, with respect to any information obtained therefor that is compiled from, or customarily provided in, public rec­ords.
 
-([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1013][/us/stat/68/1013]; [Pub. L. 87–813][/us/pl/87/813], Oct. 15, 1962, [76 Stat. 922][/us/stat/76/922]; [Pub. L. 101–533, § 5(b)(2)][/us/pl/101/533/s5/b/2], Nov. 7, 1990, [104 Stat. 2348][/us/stat/104/2348]; [Pub. L. 103–430, § 2(b)][/us/pl/103/430/s2/b], Oct. 31, 1994, [108 Stat. 4394][/us/stat/108/4394]; [Pub. L. 105–113, § 4(a)(1)][/us/pl/105/113/s4/a/1], Nov. 21, 1997, [111 Stat. 2276][/us/stat/111/2276]; [Pub. L. 105–119, title II, § 210(k)][/us/pl/105/119/s210/k], Nov. 26, 1997, [111 Stat. 2487][/us/stat/111/2487].)
+([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1013][/us/stat/68/1013]; [Pub. L. 87–813][/us/pl/87/813], Oct. 15, 1962, [76 Stat. 922][/us/stat/76/922]; [Pub. L. 101–533][/us/pl/101/533], § 5(b)(2), Nov. 7, 1990, [104 Stat. 2348][/us/stat/104/2348]; [Pub. L. 103–430][/us/pl/103/430], § 2(b), Oct. 31, 1994, [108 Stat. 4394][/us/stat/108/4394]; [Pub. L. 105–113][/us/pl/105/113], § 4(a)(1), Nov. 21, 1997, [111 Stat. 2276][/us/stat/111/2276]; [Pub. L. 105–119, title II][/us/pl/105/119/tII], § 210(k), Nov. 26, 1997, [111 Stat. 2487][/us/stat/111/2487].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., §§ 73, 83, 122, 208, 211, 252, and [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., The Public Health and Welfare ([Aug. 7, 1916, ch. 274, § 3][/us/act/1916-08-07/ch274/s3], [39 Stat. 437][/us/stat/39/437]; [Apr. 2, 1924, ch. 80, § 3][/us/act/1924-04-02/ch80/s3], [43 Stat. 31][/us/stat/43/31]; [June 18, 1929, ch. 28][/us/act/1929-06-18/ch28], §§ 8, 11, 21, [46 Stat. 23][/us/stat/46/23], 25, 26; [July 25, 1947, ch. 331][/us/act/1947-07-25/ch331], [61 Stat. 457][/us/stat/61/457]; [June 19, 1948, ch. 502, § 2][/us/act/1948-06-19/ch502/s2], [62 Stat. 479][/us/stat/62/479]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 607, [63 Stat. 441][/us/stat/63/441]; [Sept. 7, 1950, ch. 910, § 2][/us/act/1950-09-07/ch910/s2], [64 Stat. 784][/us/stat/64/784]).
+    Based on title 13, U.S.C., 1952 ed., §§ 73, 83, 122, 208, 211, 252, and [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., The Public Health and Welfare ([Aug. 7, 1916, ch. 274][/us/act/1916-08-07/ch274], § 3, [39 Stat. 437][/us/stat/39/437]; [Apr. 2, 1924, ch. 80][/us/act/1924-04-02/ch80], § 3, [43 Stat. 31][/us/stat/43/31]; [June 18, 1929, ch. 28][/us/act/1929-06-18/ch28], §§ 8, 11, 21, [46 Stat. 23][/us/stat/46/23], 25, 26; [July 25, 1947, ch. 331][/us/act/1947-07-25/ch331], [61 Stat. 457][/us/stat/61/457]; [June 19, 1948, ch. 502][/us/act/1948-06-19/ch502], § 2, [62 Stat. 479][/us/stat/62/479]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 607, [63 Stat. 441][/us/stat/63/441]; [Sept. 7, 1950, ch. 910][/us/act/1950-09-07/ch910], § 2, [64 Stat. 784][/us/stat/64/784]).
 
     Section consolidates parts of sections 73 and 83 of title 13, U.S.C., 1952 ed., part of section 208 of such title, section 211 of such title, that part of section 122 of such title which made such sections 208 and 211 applicable to the quinquennial censuses of manufacturers, the mineral industries, and other businesses (see subchapter I of chapter 5 of this revised title), that part of section 252 of such title which made such sections 208 and 211 applicable to the quinquennial censuses of governments (see subchapter III of chapter 5 of this revised title), the second proviso in such section 252, and that part of subsection (b) of [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., which made such sections 208 and 211 applicable to the decennial censuses of housing (see subchapter II of chapter 5 of this revised title).
 
@@ -76,28 +76,28 @@
 [/us/stat/68/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1013
 [/us/pl/87/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F813
 [/us/stat/76/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F922
-[/us/pl/101/533/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533%2Fs5%2Fb%2F2
+[/us/pl/101/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F533
 [/us/stat/104/2348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2348
-[/us/pl/103/430/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F430%2Fs2%2Fb
+[/us/pl/103/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F430
 [/us/stat/108/4394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4394
-[/us/pl/105/113/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113%2Fs4%2Fa%2F1
+[/us/pl/105/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F113
 [/us/stat/111/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2276
-[/us/pl/105/119/s210/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs210%2Fk
+[/us/pl/105/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtII
 [/us/stat/111/2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2487
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442
-[/us/act/1916-08-07/ch274/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-07%2Fch274%2Fs3
+[/us/act/1916-08-07/ch274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-07%2Fch274
 [/us/stat/39/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F437
-[/us/act/1924-04-02/ch80/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-04-02%2Fch80%2Fs3
+[/us/act/1924-04-02/ch80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-04-02%2Fch80
 [/us/stat/43/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F31
 [/us/act/1929-06-18/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28
 [/us/stat/46/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F23
 [/us/act/1947-07-25/ch331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch331
 [/us/stat/61/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F457
-[/us/act/1948-06-19/ch502/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502%2Fs2
+[/us/act/1948-06-19/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502
 [/us/stat/62/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F479
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F441
-[/us/act/1950-09-07/ch910/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch910%2Fs2
+[/us/act/1950-09-07/ch910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-07%2Fch910
 [/us/stat/64/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F784
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442
 [/us/usc/t13/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs8

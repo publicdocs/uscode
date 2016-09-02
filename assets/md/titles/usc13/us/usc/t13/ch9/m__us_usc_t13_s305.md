@@ -71,9 +71,9 @@
 
         The Secretary of Commerce may designate officers or employees of the Office of Export Enforcement to conduct investigations pursuant to this chapter. In conducting such investigations, those officers or employees may, to the extent necessary or appropriate to the enforcement of this chapter, exercise such authorities as are conferred upon them by other laws of the United States, subject to policies and procedures approved by the Attorney General.
 
-        (2)  __By the commissioner of customs__  __.—__ 
+        (2)  __By the commissioner of u.s. customs and border protection__  __.—__ 
 
-        The Commissioner of Customs may designate officers or employees of the Customs Service to enforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
+        The Commissioner of U.S. Customs and Border Protection may designate officers or employees of the Customs Service to enforce the provisions of this chapter, or to conduct investigations pursuant to this chapter.
 
     (e)  __Regulations__  __.—__ 
 
@@ -83,11 +83,15 @@
 
     The criminal fines provided for in this section are exempt from the provisions of [section 3571 of title 18][/us/usc/t18/s3571], United States Code.
 
-(Added [Pub. L. 87–826, § 2][/us/pl/87/826/s2], Oct. 15, 1962, [76 Stat. 952][/us/stat/76/952]; amended [Pub. L. 107–228, div. B, title XIV, § 1404(f)(1)][/us/pl/107/228/s1404/f/1], Sept. 30, 2002, [116 Stat. 1455][/us/stat/116/1455].)
+(Added [Pub. L. 87–826][/us/pl/87/826], § 2, Oct. 15, 1962, [76 Stat. 952][/us/stat/76/952]; amended [Pub. L. 107–228, div. B, title XIV][/us/pl/107/228/dB/tXIV], § 1404(f)(1), Sept. 30, 2002, [116 Stat. 1455][/us/stat/116/1455]; [Pub. L. 114–125, title VIII][/us/pl/114/125/tVIII], § 802(d)(2), Feb. 24, 2016, [130 Stat. 210][/us/stat/130/210].)
 
  __Amendments__ 
 
     2002—[Pub. L. 107–228][/us/pl/107/228] substituted “Penalties for unlawful export information activities” for “Violations, penalties” in section catchline and amended text generally. Prior to amendment, text read as follows: “Any person, including the owners or operators of carriers, violating the provisions of this chapter, or any rule, regulation, or order issued thereunder, except as provided in section 304 above, shall be liable to a penalty not to exceed $1,000 in addition to any other penalty imposed by law. The amount of any such penalty shall be payable into the Treasury of the United States and shall be recoverable in a civil suit in the name of the United States.”
+
+ __Change of Name__ 
+
+    “Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in heading and text of subsec. (d)(2) on authority of [section 802(d)(2) of Pub. L. 114–125][/us/pl/114/125/s802/d/2], set out as a note under [section 211 of Title 6][/us/usc/t6/s211], Domestic Security.
 
  __Transfer of Functions__ 
 
@@ -101,11 +105,15 @@
 ----------
 
 [/us/usc/t18/s3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3571
-[/us/pl/87/826/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826%2Fs2
+[/us/pl/87/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826
 [/us/stat/76/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F952
-[/us/pl/107/228/s1404/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1404%2Ff%2F1
+[/us/pl/107/228/dB/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2FdB%2FtXIV
 [/us/stat/116/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1455
+[/us/pl/114/125/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2FtVIII
+[/us/stat/130/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F210
 [/us/pl/107/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228
+[/us/pl/114/125/s802/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F125%2Fs802%2Fd%2F2
+[/us/usc/t6/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs211
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

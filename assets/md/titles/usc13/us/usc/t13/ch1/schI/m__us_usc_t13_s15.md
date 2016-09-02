@@ -17,11 +17,11 @@
 
     The 15 percent limitation contained in section 322  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Act of June 30, 1932 ([47 Stat. 412][/us/stat/47/412]) shall not apply to leases entered into by the Secretary for the purpose of carrying out the 1980 decennial census, but no lease may be entered into for such purpose at a rental in excess of 105 percent of the appraised fair annual rental of the leased premises, or a proportionate part of the appraised fair annual rental in the case of a lease for less than a year.
 
-(Added [Pub. L. 96–52, § 1(a)][/us/pl/96/52/s1/a], Aug. 13, 1979, [93 Stat. 358][/us/stat/93/358]; amended [Pub. L. 108–178, § 4(c)][/us/pl/108/178/s4/c], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641].)
+(Added [Pub. L. 96–52][/us/pl/96/52], § 1(a), Aug. 13, 1979, [93 Stat. 358][/us/stat/93/358]; amended [Pub. L. 108–178][/us/pl/108/178], § 4(c), Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641].)
 
  __References in Text__ 
 
-    [Section 322 of the Act of June 30, 1932][/us/act/1932-06-30/s322] ([47 Stat. 412][/us/stat/47/412]), referred to in text, was repealed by [Pub. L. 100–678, § 7][/us/pl/100/678/s7], Nov. 17, 1988, [102 Stat. 4052][/us/stat/102/4052].
+    [Section 322 of the Act of June 30, 1932][/us/act/1932-06-30/s322] ([47 Stat. 412][/us/stat/47/412]), referred to in text, was repealed by [Pub. L. 100–678][/us/pl/100/678], § 7, Nov. 17, 1988, [102 Stat. 4052][/us/stat/102/4052].
 
  __Amendments__ 
 
@@ -39,13 +39,13 @@
 ----------
 
 [/us/stat/47/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F412
-[/us/pl/96/52/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F52%2Fs1%2Fa
+[/us/pl/96/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F52
 [/us/stat/93/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F358
-[/us/pl/108/178/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs4%2Fc
+[/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/stat/117/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2641
 [/us/act/1932-06-30/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fs322
 [/us/stat/47/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F412
-[/us/pl/100/678/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F678%2Fs7
+[/us/pl/100/678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F678
 [/us/stat/102/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4052
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/usc/t40/s278a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs278a

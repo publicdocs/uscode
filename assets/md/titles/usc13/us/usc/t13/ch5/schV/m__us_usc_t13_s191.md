@@ -21,7 +21,7 @@
 
     (c) If, pursuant to a determination by the Secretary under subsection (a) of this section, any census is not taken in a possession or area over which the United States exercises jurisdiction, control, or sovereignty, the Secretary may include data obtained from other Federal agencies or government sources in the census report. Any data obtained from foreign governments shall be obtained through the Secretary of State.
 
-(Added [Pub. L. 85–207, § 14][/us/pl/85/207/s14], Aug. 28, 1957, [71 Stat. 483][/us/stat/71/483]; amended [Pub. L. 94–521, § 9][/us/pl/94/521/s9], Oct. 17, 1976, [90 Stat. 2463][/us/stat/90/2463].)
+(Added [Pub. L. 85–207][/us/pl/85/207], § 14, Aug. 28, 1957, [71 Stat. 483][/us/stat/71/483]; amended [Pub. L. 94–521][/us/pl/94/521], § 9, Oct. 17, 1976, [90 Stat. 2463][/us/stat/90/2463].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/85/207/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs14
+[/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/stat/71/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F483
-[/us/pl/94/521/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs9
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/stat/90/2463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2463
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521

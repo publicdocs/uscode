@@ -21,11 +21,11 @@
 
     (c) Notwithstanding any other provision of this title, no person shall be compelled to disclose information relative to his religious beliefs or to membership in a religious body.
 
-([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1023][/us/stat/68/1023]; [Pub. L. 85–207, § 15][/us/pl/85/207/s15], Aug. 28, 1957, [71 Stat. 484][/us/stat/71/484]; [Pub. L. 94–521, § 13][/us/pl/94/521/s13], Oct. 17, 1976, [90 Stat. 2465][/us/stat/90/2465].)
+([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1023][/us/stat/68/1023]; [Pub. L. 85–207][/us/pl/85/207], § 15, Aug. 28, 1957, [71 Stat. 484][/us/stat/71/484]; [Pub. L. 94–521][/us/pl/94/521], § 13, Oct. 17, 1976, [90 Stat. 2465][/us/stat/90/2465].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., §§ 122, 209, and [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., The Public Health and Welfare ([June 18, 1929, ch. 28, § 9][/us/act/1929-06-18/ch28/s9], [46 Stat. 23][/us/stat/46/23]; [June 19, 1948, ch. 502, § 2][/us/act/1948-06-19/ch502/s2], [62 Stat. 479][/us/stat/62/479]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 607, [63 Stat. 441][/us/stat/63/441]).
+    Based on title 13, U.S.C., 1952 ed., §§ 122, 209, and [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., The Public Health and Welfare ([June 18, 1929, ch. 28][/us/act/1929-06-18/ch28], § 9, [46 Stat. 23][/us/stat/46/23]; [June 19, 1948, ch. 502][/us/act/1948-06-19/ch502], § 2, [62 Stat. 479][/us/stat/62/479]; [July 15, 1949, ch. 338][/us/act/1949-07-15/ch338], title VI, § 607, [63 Stat. 441][/us/stat/63/441]).
 
     Section consolidates the first paragraph of [section 209 of title 13][/us/usc/t13/s209], U.S.C., 1952 ed., which section related to the decennial censuses of population, agriculture, etc. (see subchapter II of chapter 5 of this revised title), with that part of section 122 of such title which made such section 209 applicable to the quinquennial censuses of manufactures, the mineral industries, and other businesses (see subchapter I of chapter 5 of this revised title) and applicable to the surveys provided for by section 121(b) of such title (see subchapter IV of chapter 5 of this revised title), and that part of subsection (b) of [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed., which made such section 209 applicable to the decennial censuses of housing (see subchapter II of chapter 5 of this revised title). For remainder of sections 122 and 209 of title 13, U.S.C., 1952 ed., and of [section 1442 of title 42][/us/usc/t42/s1442], U.S.C., 1952 ed. (which section has been transferred in its entirety to this revised title), see Distribution Table.
 
@@ -39,11 +39,11 @@
 
  __Amendments__ 
 
-    1976—Subsec. (a). [Pub. L. 94–521, § 13(1)][/us/pl/94/521/s13/1], struck out provision authorizing imprisonment for not more than sixty days for refusing or willfully neglecting to answer questions under this section.
+    1976—Subsec. (a). [Pub. L. 94–521][/us/pl/94/521], § 13(1), struck out provision authorizing imprisonment for not more than sixty days for refusing or willfully neglecting to answer questions under this section.
 
-    Subsec. (b). [Pub. L. 94–521, § 13(2)][/us/pl/94/521/s13/2], struck out provision authorizing imprisonment for not more than one year for willfully giving a false answer to a question under this section.
+    Subsec. (b). [Pub. L. 94–521][/us/pl/94/521], § 13(2), struck out provision authorizing imprisonment for not more than one year for willfully giving a false answer to a question under this section.
 
-    Subsec. (c). [Pub. L. 94–521, § 13(3)][/us/pl/94/521/s13/3], added subsec. (c).
+    Subsec. (c). [Pub. L. 94–521][/us/pl/94/521], § 13(3), added subsec. (c).
 
     1957—Subsec. (a). [Pub. L. 85–207][/us/pl/85/207] substituted “I, II, IV, and V” for “I, II, and IV”.
 
@@ -60,14 +60,14 @@
 
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1023
-[/us/pl/85/207/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs15
+[/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/stat/71/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F484
-[/us/pl/94/521/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs13
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/stat/90/2465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2465
 [/us/usc/t42/s1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1442
-[/us/act/1929-06-18/ch28/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28%2Fs9
+[/us/act/1929-06-18/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28
 [/us/stat/46/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F23
-[/us/act/1948-06-19/ch502/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502%2Fs2
+[/us/act/1948-06-19/ch502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-19%2Fch502
 [/us/stat/62/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F479
 [/us/act/1949-07-15/ch338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-15%2Fch338
 [/us/stat/63/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F441
@@ -78,9 +78,9 @@
 [/us/usc/t18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
 [/us/usc/t13/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs4
-[/us/pl/94/521/s13/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs13%2F1
-[/us/pl/94/521/s13/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs13%2F2
-[/us/pl/94/521/s13/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs13%2F3
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/pl/94/521/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs17

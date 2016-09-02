@@ -55,7 +55,7 @@
 
         (2) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the Virgin Islands, and any other territory or possession of the United States.
 
-(Added [Pub. L. 103–430, § 2(a)][/us/pl/103/430/s2/a], Oct. 31, 1994, [108 Stat. 4393][/us/stat/108/4393].)
+(Added [Pub. L. 103–430][/us/pl/103/430], § 2(a), Oct. 31, 1994, [108 Stat. 4393][/us/stat/108/4393].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Development of Appeals Process by Administrator of Office of Information and Regulatory Affairs__ 
 
-[Pub. L. 103–430, § 3][/us/pl/103/430/s3], Oct. 31, 1994, [108 Stat. 4394][/us/stat/108/4394], provided that: 
+[Pub. L. 103–430][/us/pl/103/430], § 3, Oct. 31, 1994, [108 Stat. 4394][/us/stat/108/4394], provided that: 
 
 > “The Administrator of the Office of Information and Regulatory Affairs, acting through the Chief Statistician and in consultation with the Bureau of the Census, shall develop an appeals process for those States and local units of general purpose government which desire to appeal determinations of the Bureau of the Census pursuant to section 16(a)(2) or (b)(3) of title 13, United States Code. Appeals under such process shall be resolved before the decennial census date. The Chief Statistician shall publish the proposed appeals process for a period of public comment before finalizing such process.”
 
@@ -75,10 +75,10 @@
 ----------
 
 [/us/usc/t13/s184/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs184%2F1
-[/us/pl/103/430/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F430%2Fs2%2Fa
+[/us/pl/103/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F430
 [/us/stat/108/4393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4393
 [/us/pl/103/430/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F430%2Fs3
-[/us/pl/103/430/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F430%2Fs3
+[/us/pl/103/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F430
 [/us/stat/108/4394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4394
 
 

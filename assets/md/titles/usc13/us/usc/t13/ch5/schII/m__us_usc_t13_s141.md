@@ -49,11 +49,11 @@
 
     (g) As used in this section, “census of population” means a census of population, housing, and matters relating to population and housing.
 
-([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1019][/us/stat/68/1019]; [Pub. L. 85–207, § 9][/us/pl/85/207/s9], Aug. 28, 1957, [71 Stat. 483][/us/stat/71/483]; [Pub. L. 94–171][/us/pl/94/171], §§ 1, 2(a), Dec. 23, 1975, [89 Stat. 1023][/us/stat/89/1023], 1024; [Pub. L. 94–521, § 7(a)][/us/pl/94/521/s7/a], Oct. 17, 1976, [90 Stat. 2461][/us/stat/90/2461].)
+([Aug. 31, 1954, ch. 1158][/us/act/1954-08-31/ch1158], [68 Stat. 1019][/us/stat/68/1019]; [Pub. L. 85–207][/us/pl/85/207], § 9, Aug. 28, 1957, [71 Stat. 483][/us/stat/71/483]; [Pub. L. 94–171][/us/pl/94/171], §§ 1, 2(a), Dec. 23, 1975, [89 Stat. 1023][/us/stat/89/1023], 1024; [Pub. L. 94–521][/us/pl/94/521], § 7(a), Oct. 17, 1976, [90 Stat. 2461][/us/stat/90/2461].)
 
  __Historical and Revision Notes__ 
 
-    Based on title 13, U.S.C., 1952 ed., § 201 ([June 18, 1929, ch. 28, § 1][/us/act/1929-06-18/ch28/s1], [46 Stat. 21][/us/stat/46/21]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]).
+    Based on title 13, U.S.C., 1952 ed., § 201 ([June 18, 1929, ch. 28][/us/act/1929-06-18/ch28], § 1, [46 Stat. 21][/us/stat/46/21]; [May 17, 1932, ch. 190][/us/act/1932-05-17/ch190], [47 Stat. 158][/us/stat/47/158]).
 
     References to the Secretary, meaning the Secretary of Commerce, were substituted for references to the Director of the Census, to conform with 1950 Reorganization Plan No. 5, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1263][/us/stat/64/1263]. See Revision Note to [section 4 of this title][/us/usc/t13/s4].
 
@@ -77,9 +77,9 @@
 
     Subsecs. (d) to (g). [Pub. L. 94–521][/us/pl/94/521] added subsecs. (d) to (g).
 
-    1975—[Pub. L. 94–171, § 2(a)][/us/pl/94/171/s2/a], inserted “; tabulation for legislative apportionment” in section catchline.
+    1975—[Pub. L. 94–171][/us/pl/94/171], § 2(a), inserted “; tabulation for legislative apportionment” in section catchline.
 
-    Subsec. (c). [Pub. L. 94–171, § 1][/us/pl/94/171/s1], added subsec. (c).
+    Subsec. (c). [Pub. L. 94–171][/us/pl/94/171], § 1, added subsec. (c).
 
     1957—[Pub. L. 85–207][/us/pl/85/207] substituted “Population, unemployment, and housing” for “Population, agriculture, irrigation, drainage, and unemployment; territory excluded” in section catchline; inserted in text housing census provisions, struck out census coverage of agriculture, irrigation, and drainage and geographical provisions, and designated existing provisions as so amended as subsec. (a); and added subsec. (b). Census of agriculture, irrigation, and drainage and the geographical provisions are covered by sections 142 and 191 of this title.
 
@@ -89,7 +89,7 @@
 
  __Statistical Sampling or Adjustment in Decennial Enumeration of Population__ 
 
-[Pub. L. 105–119, title II, § 209][/us/pl/105/119/s209], Nov. 26, 1997, [111 Stat. 2480][/us/stat/111/2480], provided that:
+[Pub. L. 105–119, title II][/us/pl/105/119/tII], § 209, Nov. 26, 1997, [111 Stat. 2480][/us/stat/111/2480], provided that:
 
 >     “(a)
 
@@ -169,11 +169,11 @@
 
  __Census Monitoring Board__ 
 
-    [Pub. L. 105–119, title II, § 210(a)][/us/pl/105/119/s210/a]–(j), Nov. 26, 1997, [111 Stat. 2483–2487][/us/stat/111/2483-2487], established the Census Monitoring Board to observe and monitor all aspects of the preparation and implementation of the 2000 decennial census, described the membership and duties of the Board, and provided for its termination on Sept. 30, 2001.
+    [Pub. L. 105–119, title II][/us/pl/105/119/tII], § 210(a)–(j), Nov. 26, 1997, [111 Stat. 2483–2487][/us/stat/111/2483-2487], established the Census Monitoring Board to observe and monitor all aspects of the preparation and implementation of the 2000 decennial census, described the membership and duties of the Board, and provided for its termination on Sept. 30, 2001.
 
  __Census Data on Grandparents as Primary Caregivers for Their Grandchildren__ 
 
-[Pub. L. 104–193, title I, § 105][/us/pl/104/193/s105], Aug. 22, 1996, [110 Stat. 2163][/us/stat/110/2163], provided that:
+[Pub. L. 104–193, title I][/us/pl/104/193/tI], § 105, Aug. 22, 1996, [110 Stat. 2163][/us/stat/110/2163], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -193,21 +193,21 @@
 
  __Study of Counting of Homeless for National Census__ 
 
-    [Pub. L. 101–645, title IV, § 402][/us/pl/101/645/s402], Nov. 29, 1990, [104 Stat. 4723][/us/stat/104/4723], provided that not later than 1 year after Nov. 29, 1990, the General Accounting Office was to conduct a study of the methodology and procedures used by the Bureau of the Census in counting the number of homeless persons for the most recent decennial census conducted pursuant to this title, to determine the accuracy of such count, and report to the Congress the results of that study.
+    [Pub. L. 101–645, title IV][/us/pl/101/645/tIV], § 402, Nov. 29, 1990, [104 Stat. 4723][/us/stat/104/4723], provided that not later than 1 year after Nov. 29, 1990, the General Accounting Office was to conduct a study of the methodology and procedures used by the Bureau of the Census in counting the number of homeless persons for the most recent decennial census conducted pursuant to this title, to determine the accuracy of such count, and report to the Congress the results of that study.
 
  __Monitoring Economic Progress of Rural America__ 
 
-    [Pub. L. 101–624, title XXIII, § 2382][/us/pl/101/624/s2382], Nov. 28, 1990, [104 Stat. 4050][/us/stat/104/4050], provided that Director of Bureau of the Census was to expand data collection efforts of Bureau to enable it to collect statistically significant data concerning changing economic condition of rural counties and communities in United States, including data on rural employment, poverty, income, and other information concerning rural labor force, and authorized to be appropriated $1,000,000 for each fiscal year for such efforts, prior to repeal by [Pub. L. 104–127, title VII, § 707][/us/pl/104/127/s707], Apr. 4, 1996, [110 Stat. 1112][/us/stat/110/1112].
+    [Pub. L. 101–624, title XXIII][/us/pl/101/624/tXXIII], § 2382, Nov. 28, 1990, [104 Stat. 4050][/us/stat/104/4050], provided that Director of Bureau of the Census was to expand data collection efforts of Bureau to enable it to collect statistically significant data concerning changing economic condition of rural counties and communities in United States, including data on rural employment, poverty, income, and other information concerning rural labor force, and authorized to be appropriated $1,000,000 for each fiscal year for such efforts, prior to repeal by [Pub. L. 104–127, title VII][/us/pl/104/127/tVII], § 707, Apr. 4, 1996, [110 Stat. 1112][/us/stat/110/1112].
 
  __Americans of Spanish Origin or Descent; Study for Development of Creditable Estimates in Future Censuses__ 
 
-[Pub. L. 94–311, § 4][/us/pl/94/311/s4], June 16, 1976, [90 Stat. 688][/us/stat/90/688], provided that: 
+[Pub. L. 94–311][/us/pl/94/311], § 4, June 16, 1976, [90 Stat. 688][/us/stat/90/688], provided that: 
 
 > “The Department of Commerce, in cooperation with appropriate Federal, State and local agencies and various population study groups and experts, shall immediately undertake a study to determine what steps would be necessary for developing creditable estimates of undercounts of Americans of Spanish origin or descent in future censuses.”
 
  __Needs and Concerns of Spanish-Origin Population; Use of Spanish Language Questionnaires and Bilingual Enumerators__ 
 
-[Pub. L. 94–311, § 5][/us/pl/94/311/s5], June 16, 1976, [90 Stat. 689][/us/stat/90/689], provided that: 
+[Pub. L. 94–311][/us/pl/94/311], § 5, June 16, 1976, [90 Stat. 689][/us/stat/90/689], provided that: 
 
 > “The Secretary of Commerce shall ensure that, in the Bureau of the Census data-collection activities, the needs and concerns of the Spanish-origin population are given full recognition through the use of Spanish language questionnaires, bilingual enumerators, and other such methods as deemed appropriate by the Secretary.”
 
@@ -220,13 +220,13 @@
 
 [/us/act/1954-08-31/ch1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-31%2Fch1158
 [/us/stat/68/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F1019
-[/us/pl/85/207/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207%2Fs9
+[/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/stat/71/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F483
 [/us/pl/94/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F171
 [/us/stat/89/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1023
-[/us/pl/94/521/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs7%2Fa
+[/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/stat/90/2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2461
-[/us/act/1929-06-18/ch28/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28%2Fs1
+[/us/act/1929-06-18/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-06-18%2Fch28
 [/us/stat/46/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F21
 [/us/act/1932-05-17/ch190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-05-17%2Fch190
 [/us/stat/47/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F158
@@ -241,35 +241,35 @@
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
-[/us/pl/94/171/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F171%2Fs2%2Fa
-[/us/pl/94/171/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F171%2Fs1
+[/us/pl/94/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F171
+[/us/pl/94/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F171
 [/us/pl/85/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F207
 [/us/pl/94/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521
 [/us/pl/94/521/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F521%2Fs17
 [/us/usc/t13/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs1
-[/us/pl/105/119/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs209
+[/us/pl/105/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtII
 [/us/stat/111/2480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2480
 [/us/usc/t13/s195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs195
 [/us/pl/105/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18
 [/us/stat/111/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F217
 [/us/usc/t28/s2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2284
 [/us/pl/94/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F171
-[/us/pl/105/119/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs210%2Fa
+[/us/pl/105/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtII
 [/us/stat/111/2483-2487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2483-2487
-[/us/pl/104/193/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs105
+[/us/pl/104/193/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtI
 [/us/stat/110/2163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2163
 [/us/usc/t13/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs141
 [/us/pl/102/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F135
 [/us/stat/105/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F635
-[/us/pl/101/645/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2Fs402
+[/us/pl/101/645/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F645%2FtIV
 [/us/stat/104/4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4723
-[/us/pl/101/624/s2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs2382
+[/us/pl/101/624/tXXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2FtXXIII
 [/us/stat/104/4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4050
-[/us/pl/104/127/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs707
+[/us/pl/104/127/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtVII
 [/us/stat/110/1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1112
-[/us/pl/94/311/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F311%2Fs4
+[/us/pl/94/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F311
 [/us/stat/90/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F688
-[/us/pl/94/311/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F311%2Fs5
+[/us/pl/94/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F311
 [/us/stat/90/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F689
 
 
