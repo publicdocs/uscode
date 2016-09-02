@@ -27,6 +27,10 @@
 
 (Added [Pub. L. 97–463, § 3(1)][/us/pl/97/463/s3/1], Jan. 12, 1983, [96 Stat. 2531][/us/stat/96/2531].)
 
+ __References in Text__ 
+
+    The General Schedule, referred to in subsec. (b)(1), is set out under [section 5332 of Title 5][/us/usc/t5/s5332], Government Organization and Employees.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t28/ptV/ch121/m__us_usc_t28_s1876.md) | [Next](./../../../../..//us/usc/t28/ptV/ch121/m__us_usc_t28_s1878.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1877)
@@ -37,5 +41,6 @@
 [/us/usc/t5/s8114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8114
 [/us/pl/97/463/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F463%2Fs3%2F1
 [/us/stat/96/2531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2531
+[/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 
 

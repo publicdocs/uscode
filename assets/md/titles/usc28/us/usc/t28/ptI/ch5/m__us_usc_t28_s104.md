@@ -35,29 +35,25 @@ Northern District
 
 Southern District
 
-    (b) The southern district comprises five divisions.
+    (b) The southern district comprises four divisions.
 
-    (1) The Jackson division comprises the counties of Amite, Copiah, Franklin, Hinds, Holmes, Leake, Lincoln, Madison, Pike, Rankin, Scott, Simpson, and Smith.
+    (1) The Northern Division comprises the counties of Copiah, Hinds, Holmes, Issaquena, Kemper, Lauderdale, Leake, Madison, Neshoba, Newton, Noxubee, Rankin, Scott, Simpson, Sharkey, Smith, Warren, and Yazoo.
 
-    Court for the Jackson division shall be held at Jackson.
+    Court for the Northern Division shall be held at Jackson.
 
-    (2) The eastern division comprises the counties of Clarke, Jasper, Kemper, Lauderdale, Neshoba, Newton, Noxubee, and Wayne.
+    (2) The Southern Division comprises the counties of George, Greene, Hancock, Harrison, Jackson, Pearl River, and Stone.
 
-    Court for the eastern division shall be held at Meridian.
+    Court for the Southern Division shall be held at Gulfport.
 
-    (3) The western division comprises the counties of Adams, Claiborne, Issaquena, Jefferson, Sharkey, Warren, Wilkinson, and Yazoo.
+    (3) The Eastern Division comprises the counties of Clarke, Covington, Forrest, Jasper, Jefferson Davis, Jones, Lamar, Lawrence, Marion, Perry, Wayne, and Walthall.
 
-    Court for the western division shall be held at Natchez and Vicksburg.
+    Court for the Eastern Division shall be held at Hattiesburg.
 
-    (4) The southern division comprises the counties of George, Hancock, Harrison, Jackson, Pearl River, and Stone.
+    (4) The Western Division comprises the counties of Adams, Amite, Claiborne, Franklin, Jefferson, Lincoln, Pike, and Wilkinson.
 
-    Court for the southern division shall be held at Biloxi and Gulfport.
+    Court for the Western Division shall be held at Natchez.
 
-    (5) The Hattiesburg division comprises the counties of Covington, Forrest, Greene, Jefferson Davis, Jones, Lamar, Lawrence, Marion, Perry, and Walthall.
-
-    Court for the Hattiesburg division shall be held at Hattiesburg.
-
-([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 883][/us/stat/62/883]; [Aug. 7, 1950, ch. 601][/us/act/1950-08-07/ch601], [64 Stat. 415][/us/stat/64/415]; [Pub. L. 90–92][/us/pl/90/92], Sept. 27, 1967, [81 Stat. 229][/us/stat/81/229]; [Pub. L. 91–546][/us/pl/91/546], §§ 2, 3, Dec. 14, 1970, [84 Stat. 1412][/us/stat/84/1412]; [Pub. L. 95–408, § 2(b)][/us/pl/95/408/s2/b], Oct. 2, 1978, [92 Stat. 883][/us/stat/92/883]; [Pub. L. 106–130, § 1][/us/pl/106/130/s1], Dec. 6, 1999, [113 Stat. 1677][/us/stat/113/1677]; [Pub. L. 108–455, § 2][/us/pl/108/455/s2], Dec. 10, 2004, [118 Stat. 3628][/us/stat/118/3628]; [Pub. L. 112–188, § 3][/us/pl/112/188/s3], Oct. 5, 2012, [126 Stat. 1433][/us/stat/126/1433].)
+([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 883][/us/stat/62/883]; [Aug. 7, 1950, ch. 601][/us/act/1950-08-07/ch601], [64 Stat. 415][/us/stat/64/415]; [Pub. L. 90–92][/us/pl/90/92], Sept. 27, 1967, [81 Stat. 229][/us/stat/81/229]; [Pub. L. 91–546][/us/pl/91/546], §§ 2, 3, Dec. 14, 1970, [84 Stat. 1412][/us/stat/84/1412]; [Pub. L. 95–408, § 2(b)][/us/pl/95/408/s2/b], Oct. 2, 1978, [92 Stat. 883][/us/stat/92/883]; [Pub. L. 106–130, § 1][/us/pl/106/130/s1], Dec. 6, 1999, [113 Stat. 1677][/us/stat/113/1677]; [Pub. L. 108–455, § 2][/us/pl/108/455/s2], Dec. 10, 2004, [118 Stat. 3628][/us/stat/118/3628]; [Pub. L. 112–188, § 3][/us/pl/112/188/s3], Oct. 5, 2012, [126 Stat. 1433][/us/stat/126/1433]; [Pub. L. 113–61, § 1][/us/pl/113/61/s1], Dec. 20, 2013, [127 Stat. 665][/us/stat/127/665].)
 
  __Historical and Revision Notes__ 
 
@@ -68,6 +64,8 @@ Southern District
     Changes in arrangement and phraseology were made.
 
  __Amendments__ 
+
+    2013—Subsec. (b). [Pub. L. 113–61][/us/pl/113/61] amended subsec. (b) generally. Prior to amendment, subsec. (b) related to southern judicial district of Mississippi comprising five divisions and provided for holding court in those divisions.
 
     2012—Subsec. (a). [Pub. L. 112–188][/us/pl/112/188] added subsec. (a) and struck out former subsec. (a) which related to northern judicial district of Mississippi comprising four divisions and provided for holding court in those divisions.
 
@@ -84,6 +82,12 @@ Southern District
     1967—Subsec. (a)(1). [Pub. L. 90–92][/us/pl/90/92] provided for holding court at Ackerman.
 
     1950—Act Aug. 7, 1950, created Greenville division in the northern district with terms of courts to be held at Greenville.
+
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 113–61, § 2][/us/pl/113/61/s2], Dec. 20, 2013, [127 Stat. 665][/us/stat/127/665], provided that: 
+
+> “This Act \[amending this section\] and the amendment made by this Act shall take effect on the date of the enactment of this Act \[Dec. 20, 2013\].”
 
  __Effective Date of 2012 Amendment__ 
 
@@ -118,6 +122,8 @@ Southern District
 [/us/stat/118/3628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3628
 [/us/pl/112/188/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188%2Fs3
 [/us/stat/126/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1433
+[/us/pl/113/61/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F61%2Fs1
+[/us/stat/127/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F665
 [/us/act/1911-03-03/ch231/s90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-03-03%2Fch231%2Fs90
 [/us/stat/36/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F1116
 [/us/act/1912-02-05/ch28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-02-05%2Fch28
@@ -130,6 +136,7 @@ Southern District
 [/us/stat/49/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1362
 [/us/act/1939-05-08/ch116/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-05-08%2Fch116%2Fs1
 [/us/stat/53/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F684
+[/us/pl/113/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F61
 [/us/pl/112/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188
 [/us/pl/108/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F455
 [/us/pl/106/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F130
@@ -137,6 +144,8 @@ Southern District
 [/us/pl/91/546/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F546%2Fs3
 [/us/pl/91/546/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F546%2Fs2
 [/us/pl/90/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F92
+[/us/pl/113/61/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F61%2Fs2
+[/us/stat/127/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F665
 [/us/pl/112/188/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F188%2Fs4
 [/us/stat/126/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1434
 [/us/usc/t28/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs105
