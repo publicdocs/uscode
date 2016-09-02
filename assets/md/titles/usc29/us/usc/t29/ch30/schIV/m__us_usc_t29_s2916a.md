@@ -17,7 +17,7 @@
 
     Section, [Pub. L. 105–277, div. C, title IV, § 414(c)][/us/pl/105/277/s414/c], Oct. 21, 1998, [112 Stat. 2681–653][/us/stat/112/2681-653]; [Pub. L. 106–313, title I, § 111][/us/pl/106/313/s111], Oct. 17, 2000, [114 Stat. 1257][/us/stat/114/1257]; [Pub. L. 108–447, div. J, title IV, § 428][/us/pl/108/447/s428], Dec. 8, 2004, [118 Stat. 3358][/us/stat/118/3358]; [Pub. L. 113–128, title V, § 512(a)][/us/pl/113/128/s512/a], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705], which related to job training grants, was transferred to [section 3224a of this title][/us/usc/t29/s3224a].
 
-§§ 2917 to 1918a. __Repealed.__  __[__  __Pub. L. 113–128, title V, § 511(a)__  __][/us/pl/113/128/s511/a]__  __,__  __July 22, 2014__  __,__  __[__  __128 Stat. 1705__  __][/us/stat/128/1705]__ 
+§§ 2917 to 2918a. __Repealed.__  __[__  __Pub. L. 113–128, title V, § 511(a)__  __][/us/pl/113/128/s511/a]__  __,__  __July 22, 2014__  __,__  __[__  __128 Stat. 1705__  __][/us/stat/128/1705]__ 
 
     Section 2917, [Pub. L. 105–220, title I, § 172][/us/pl/105/220/s172], Aug. 7, 1998, [112 Stat. 1034][/us/stat/112/1034], related to continuing evaluation of the programs and activities under this chapter and other federally funded employment-related programs and activities. See [section 3224(a) of this title][/us/usc/t29/s3224/a].
 

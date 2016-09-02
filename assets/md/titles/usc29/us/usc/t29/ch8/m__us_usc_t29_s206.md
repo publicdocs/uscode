@@ -197,6 +197,12 @@
 
     1940—Subsec. (a)(5). Act June 26, 1940, added par. (5).
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–61, § 1(c)][/us/pl/114/61/s1/c], Oct. 7, 2015, [129 Stat. 546][/us/stat/129/546], provided that: 
+
+> “This Act \[amending provisions set out as notes under this section\], and the amendments made by this Act, shall take effect as of September 29, 2015.”
+
  __Effective Date of 2007 Amendment__ 
 
 [Pub. L. 110–28, title VIII, § 8102(b)][/us/pl/110/28/s8102/b], May 25, 2007, [121 Stat. 188][/us/stat/121/188], provided that: 
@@ -247,7 +253,7 @@
 
  __Applicability of Minimum Wage to American Samoa and the Commonwealth of the Northern Mariana Islands__ 
 
-[Pub. L. 110–28, title VIII, § 8103(a)][/us/pl/110/28/s8103/a], (b), May 25, 2007, [121 Stat. 188][/us/stat/121/188], 189, as amended by [Pub. L. 111–117, div. D, title V, § 520][/us/pl/111/117/s520], Dec. 16, 2009, [123 Stat. 3283][/us/stat/123/3283]; [Pub. L. 111–244, § 2(a)][/us/pl/111/244/s2/a], Sept. 30, 2010, [124 Stat. 2618][/us/stat/124/2618]; [Pub. L. 112–149, § 4(a)][/us/pl/112/149/s4/a], July 26, 2012, [126 Stat. 1145][/us/stat/126/1145]; [Pub. L. 113–34, § 2][/us/pl/113/34/s2], Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518], provided that:
+[Pub. L. 110–28, title VIII, § 8103(a)][/us/pl/110/28/s8103/a], (b), May 25, 2007, [121 Stat. 188][/us/stat/121/188], 189, as amended by [Pub. L. 111–117, div. D, title V, § 520][/us/pl/111/117/s520], Dec. 16, 2009, [123 Stat. 3283][/us/stat/123/3283]; [Pub. L. 111–244, § 2(a)][/us/pl/111/244/s2/a], Sept. 30, 2010, [124 Stat. 2618][/us/stat/124/2618]; [Pub. L. 112–149, § 4(a)][/us/pl/112/149/s4/a], July 26, 2012, [126 Stat. 1145][/us/stat/126/1145]; [Pub. L. 113–34, § 2][/us/pl/113/34/s2], Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518]; [Pub. L. 114–61, § 1(a)][/us/pl/114/61/s1/a], Oct. 7, 2015, [129 Stat. 545][/us/stat/129/545], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -269,23 +275,25 @@
 
 >          the minimum wage applicable to American Samoa under section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)][/us/usc/t29/s206/a/1]) shall be—
 
->             “(A) the applicable wage rate in effect for each industry and classification under [section 697 of title 29][/us/usc/t29/s697], Code of Federal Regulations, on the date of enactment of this Act;
+>             “(A) the applicable wage rate in effect for each industry and classification as of September 29, 2015; and
 
->             “(B) increased by $0.50 an hour, beginning on the 60th day after the date of enactment of this Act; and
-
->             “(C) increased by $0.50 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning 1 year after the date of enactment of this Act and on September 30 of every third year thereafter until the minimum wage applicable to American Samoa under this paragraph is equal to the minimum wage set forth in such section, except that there shall be no such increase in 2012, 2013, and 2014 pending the triennial report required under section 8104(a) \[set out below\].”
+>             “(B) increased by $0.40 an hour (or such lesser amount as may be necessary to equal the minimum wage under section 6(a)(1) of such Act), beginning on September 30, 2015, and on September 30 of every third year thereafter, until the minimum wage applicable to American Samoa under this paragraph is equal to the minimum wage set forth in such section.”
 
  __Report on the Impact of Past and Future Minimum Wage Increases__ 
 
-[Pub. L. 110–28, title VIII, § 8104][/us/pl/110/28/s8104], May 25, 2007, [121 Stat. 189][/us/stat/121/189], as amended by [Pub. L. 111–5, div. A, title VIII, § 802(a)][/us/pl/111/5/s802/a], Feb. 17, 2009, [123 Stat. 186][/us/stat/123/186]; [Pub. L. 111–244, § 2(b)][/us/pl/111/244/s2/b], Sept. 30, 2010, [124 Stat. 2618][/us/stat/124/2618]; [Pub. L. 112–149, § 4(b)][/us/pl/112/149/s4/b], July 26, 2012, [126 Stat. 1145][/us/stat/126/1145], provided that:
+[Pub. L. 110–28, title VIII, § 8104][/us/pl/110/28/s8104], May 25, 2007, [121 Stat. 189][/us/stat/121/189], as amended by [Pub. L. 111–5, div. A, title VIII, § 802(a)][/us/pl/111/5/s802/a], Feb. 17, 2009, [123 Stat. 186][/us/stat/123/186]; [Pub. L. 111–244, § 2(b)][/us/pl/111/244/s2/b], Sept. 30, 2010, [124 Stat. 2618][/us/stat/124/2618]; [Pub. L. 112–149, § 4(b)][/us/pl/112/149/s4/b], July 26, 2012, [126 Stat. 1145][/us/stat/126/1145]; [Pub. L. 114–61, § 1(b)][/us/pl/114/61/s1/b], Oct. 7, 2015, [129 Stat. 545][/us/stat/129/545], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
->     The Government Accountability Office shall assess the impact of minimum wage increases that have occurred pursuant to section 8103 \[of [Pub. L. 110–28][/us/pl/110/28], amending this section, repealing sections 205 and 208 of this title, and enacting provisions set out as notes under this section\], and not later than September 1, 2011, shall transmit to Congress a report of its findings. The Government Accountability Office shall submit subsequent reports not later than April 1, 2014, and every 3 years thereafter until the minimum wage in the respective territory meets the federal minimum wage.
+>     The Government Accountability Office shall assess the impact of minimum wage increases that have occurred pursuant to section 8103 \[of [Pub. L. 110–28][/us/pl/110/28], amending this section, repealing sections 205 and 208 of this title, and enacting provisions set out as notes under this section\], and not later than April 1, 2017, shall transmit to Congress a report of its findings. The Government Accountability Office shall submit a subsequent report not later than April 1, 2020.
 
 >     “(b)  __Economic Information__  __.—__ 
 
->     To provide sufficient economic data for the conduct of the study under subsection (a) the Bureau of the Census of the Department of Commerce shall include and separately report on American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands in its County Business Patterns data with the same regularity and to the same extent as each Bureau collects and reports such data for the 50 States. In the event that the inclusion of American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands in such surveys and data compilations requires time to structure and implement, the Bureau of the Census shall in the interim annually report the best available data that can feasibly be secured with respect to such territories. Such interim report shall describe the steps the Bureau will take to improve future data collection in the territories to achieve comparability with the data collected in the United States. The Bureau of the Census, together with the Department of the Interior, shall coordinate their efforts to achieve such improvements.”
+>     To provide sufficient economic data for the conduct of any report under subsection (a) the Bureau of the Census of the Department of Commerce shall include and separately report on American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands in its County Business Patterns data with the same regularity and to the same extent as each Bureau collects and reports such data for the 50 States. In the event that the inclusion of American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the Virgin Islands in such surveys and data compilations requires time to structure and implement, the Bureau of the Census shall in the interim annually report the best available data that can feasibly be secured with respect to such territories. Such interim report shall describe the steps the Bureau will take to improve future data collection in the territories to achieve comparability with the data collected in the United States. The Bureau of the Census, together with the Department of the Interior, shall coordinate their efforts to achieve such improvements.
+
+>     “(c)  __Report on Alternative Methods of Increasing the Minimum Wage in American Samoa__  __.—__ 
+
+>     Not later than 1 year after the date of enactment of ‘An Act to amend the Fair Minimum Wage Act of 2007 to reduce a scheduled increase in the minimum wage applicable to American Samoa’ \[[Pub. L. 114–61][/us/pl/114/61], approved Oct. 7, 2015\], the Government Accountability Office shall transmit to Congress a report on alternative ways of increasing the minimum wage in American Samoa to keep pace with the cost of living in American Samoa and to eventually equal the minimum wage set forth in section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)][/us/usc/t29/s206/a/1]).”
 
 \[[Pub. L. 111–5, div. A, title VIII, § 802(b)][/us/pl/111/5/s802/b], Feb. 17, 2009, [123 Stat. 187][/us/stat/123/187], provided that: 
 
@@ -567,6 +575,8 @@
 [/us/pl/87/30/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs5%2Fa%2F3
 [/us/pl/87/30/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs5%2Fb
 [/us/pl/87/30/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs5%2Fc
+[/us/pl/114/61/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F61%2Fs1%2Fc
+[/us/stat/129/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F546
 [/us/pl/110/28/s8102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8102%2Fb
 [/us/stat/121/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F188
 [/us/pl/110/28/s8103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8103%2Fc%2F2
@@ -602,10 +612,11 @@
 [/us/stat/126/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1145
 [/us/pl/113/34/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34%2Fs2
 [/us/stat/127/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F518
+[/us/pl/114/61/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F61%2Fs1%2Fa
+[/us/stat/129/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F545
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
-[/us/usc/t29/s697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs697
 [/us/pl/110/28/s8104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8104
 [/us/stat/121/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F189
 [/us/pl/111/5/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs802%2Fa
@@ -614,7 +625,11 @@
 [/us/stat/124/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2618
 [/us/pl/112/149/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F149%2Fs4%2Fb
 [/us/stat/126/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1145
+[/us/pl/114/61/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F61%2Fs1%2Fb
+[/us/stat/129/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F545
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/114/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F61
+[/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/pl/111/5/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs802%2Fb
 [/us/stat/123/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F187
 [/us/pl/110/28/s8104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8104
