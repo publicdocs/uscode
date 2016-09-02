@@ -265,7 +265,7 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §§ 1615, 1616(b), (c), 110 Stat
 
 >                 “(ii) information on any crimes committed using firearms transferred under the pilot program.
 
->     “(c)  __Limitation on Transfer of Surplus Caliber .45 M1911/M1911A1 Pistols__  __.—__ 
+>     “(c)  __Limitation on Transfer of Surplus Caliber __  __.45 M1911/M1911A1__  __ Pistols__  __.—__ 
 
 >     The Secretary may not transfer firearms described in subsection (b)(2) under subchapter II of chapter 407 of title 36, United States Code, until the date that is 60 days after the date of the submittal of the final report required under subsection (b)(4)(B).”
 
