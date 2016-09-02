@@ -15,15 +15,17 @@
 
 ## § 1826b. Duration of denial of port privileges and sanctions
 
-    Any denial of port privileges or sanction under [section 1826a of this title][/us/usc/t16/s1826a] with respect to a nation shall remain in effect until such time as the Secretary of Commerce certifies to the President and the Congress that such nation has terminated large-scale driftnet fishing or illegal, unreported, or unregulated fishing by its nationals and vessels beyond the exclusive economic zone of any nation.
+    Any denial of port privileges or sanction under [section 1826a of this title][/us/usc/t16/s1826a] with respect to a nation shall remain in effect until such time as the Secretary of Commerce certifies to the President and the Congress that such nation has terminated large-scale driftnet fishing by its nationals and vessels beyond the exclusive economic zone of any nation or effectively addressed the offending activities for which the nation received a negative certification under 1826j(d)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup>  or 1826k(c) of this title.
 
-([Pub. L. 102–582, title I, § 102][/us/pl/102/582/s102], Nov. 2, 1992, [106 Stat. 4903][/us/stat/106/4903]; [Pub. L. 109–479, title IV, § 403(b)(2)][/us/pl/109/479/s403/b/2], Jan. 12, 2007, [120 Stat. 3632][/us/stat/120/3632].)
+([Pub. L. 102–582, title I, § 102][/us/pl/102/582/s102], Nov. 2, 1992, [106 Stat. 4903][/us/stat/106/4903]; [Pub. L. 109–479, title IV, § 403(b)(2)][/us/pl/109/479/s403/b/2], Jan. 12, 2007, [120 Stat. 3632][/us/stat/120/3632]; [Pub. L. 114–81, title I, § 102(b)][/us/pl/114/81/s102/b], Nov. 5, 2015, [129 Stat. 656][/us/stat/129/656].)
 
  __Codification__ 
 
     Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–81][/us/pl/114/81] struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing” and inserted “or effectively addressed the offending activities for which the nation received a negative certification under 1826j(d) or 1826j(c) of this title” before period at the end.
 
     2007—[Pub. L. 109–479][/us/pl/109/479] inserted “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 
@@ -39,6 +41,9 @@
 [/us/stat/106/4903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4903
 [/us/pl/109/479/s403/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs403%2Fb%2F2
 [/us/stat/120/3632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3632
+[/us/pl/114/81/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fb
+[/us/stat/129/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F656
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 
 

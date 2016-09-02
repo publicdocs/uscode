@@ -23,11 +23,11 @@
 
         (2) __Denial of port privileges__ 
 
-        The Secretary of the Treasury shall, in accordance with recognized principles of international law—
+        The Secretary of the Treasury shall, in accordance with international law—
 
-            (A) withhold or revoke the clearance required by [section 60105 of title 46][/us/usc/t46/s60105] for any large-scale driftnet fishing vessel that is documented under the laws of the United States or of a nation included on a list published under paragraph (1); and
+            (A) withhold or revoke the clearance required by [section 60105 of title 46][/us/usc/t46/s60105] for any large-scale driftnet fishing vessel that is documented under the laws of the United States or of a nation included on a list published under paragraph (1) or, as appropriate, for fishing vessels of a nation that receives a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]; and
 
-            (B) deny entry of that vessel to any place in the United States and to the navigable waters of the United States.
+            (B) deny entry of that vessel to any place in the United States and to the navigable waters of the United States, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action.
 
         (3) __Notification of nation__ 
 
@@ -45,13 +45,13 @@
 
             Not later than January 10, 1993, the Secretary of Commerce shall—
 
-                (i) identify each nation whose nationals or vessels are conducting large-scale driftnet fishing or illegal, unreported, or unregulated fishing beyond the exclusive economic zone of any nation; and
+                (i) identify each nation whose nationals or vessels are conducting large-scale driftnet fishing beyond the exclusive economic zone of any nation; and
 
                 (ii) notify the President and that nation of the identification under clause (i).
 
             (B) __Additional identifications__ 
 
-            At any time after January 10, 1993, whenever the Secretary of Commerce has reason to believe that the nationals or vessels of any nation are conducting large-scale driftnet fishing or illegal, unreported, or unregulated fishing beyond the exclusive economic zone of any nation, the Secretary of Commerce shall—
+            At any time after January 10, 1993, whenever the Secretary of Commerce has reason to believe that the nationals or vessels of any nation are conducting large-scale driftnet fishing beyond the exclusive economic zone of any nation, the Secretary of Commerce shall—
 
                 (i) identify that nation; and
 
@@ -59,7 +59,7 @@
 
         (2) __Consultations__ 
 
-            Not later than 30 days after a nation is identified under paragraph (1)(B), the President shall enter into consultations with the government of that nation for the purpose of obtaining an agreement that will effect the immediate termination of large-scale driftnet fishing or illegal, unreported, or unregulated fishing by the nationals or vessels of that nation beyond the exclusive economic zone of any nation.
+            Not later than 30 days after a nation is identified under paragraph (1)(B), the President shall enter into consultations with the government of that nation for the purpose of obtaining an agreement that will effect the immediate termination of large-scale driftnet fishing by the nationals or vessels of that nation beyond the exclusive economic zone of any nation.
 
         (3) __Prohibition on imports of fish and fish products and sport fishing equipment__ 
 
@@ -67,7 +67,7 @@
 
             The President—
 
-                (i) upon receipt of notification of the identification of a nation under paragraph (1)(A); or
+                (i) upon receipt of notification of the identification of a nation under paragraph (1)(A) or a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]; or
 
                 (ii) if the consultations with the government of a nation under paragraph (2) are not satisfactorily concluded within ninety days, shall direct the Secretary of the Treasury to prohibit the importation into the United States of fish and fish products and sport fishing equipment (as that term is defined in [section 4162 of title 26][/us/usc/t26/s4162]) from that nation.
 
@@ -83,9 +83,9 @@
 
             (A) __Determination of effectiveness of sanctions__ 
 
-            Not later than six months after the date the Secretary of Commerce identifies a nation under paragraph (1), the Secretary shall determine whether—
+            Not later than six months after the date the Secretary of Commerce identifies a nation under paragraph (1) or issues a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c], the Secretary shall determine whether—
 
-                (i) any prohibition established under paragraph (3) is insufficient to cause that nation to terminate large-scale driftnet fishing or illegal, unreported, or unregulated fishing conducted by its nationals and vessels beyond the exclusive economic zone of any nation; or
+                (i) any prohibition established under paragraph (3) is insufficient to cause that nation to terminate large-scale driftnet fishing conducted by its nationals and vessels beyond the exclusive economic zone of any nation, or to address the offending activities for which a nation received a negative certification under section 1826j(d) or 1826k(c) of this title; or
 
                 (ii) that nation has retaliated against the United States as a result of that prohibition.
 
@@ -97,7 +97,7 @@
 
                 Certification by the Secretary of Commerce under subparagraph (B) is deemed to be a certification under [section 1978(a) of title 22][/us/usc/t22/s1978/a].
 
-([Pub. L. 102–582, title I, § 101][/us/pl/102/582/s101], Nov. 2, 1992, [106 Stat. 4901][/us/stat/106/4901]; [Pub. L. 109–479, title IV, § 403(b)(1)][/us/pl/109/479/s403/b/1], Jan. 12, 2007, [120 Stat. 3632][/us/stat/120/3632].)
+([Pub. L. 102–582, title I, § 101][/us/pl/102/582/s101], Nov. 2, 1992, [106 Stat. 4901][/us/stat/106/4901]; [Pub. L. 109–479, title IV, § 403(b)(1)][/us/pl/109/479/s403/b/1], Jan. 12, 2007, [120 Stat. 3632][/us/stat/120/3632]; [Pub. L. 114–81, title I, § 102(a)][/us/pl/114/81/s102/a], Nov. 5, 2015, [129 Stat. 656][/us/stat/129/656].)
 
  __References in Text__ 
 
@@ -110,6 +110,22 @@
     Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–81, § 102(a)(1)][/us/pl/114/81/s102/a/1], struck out “recognized principles of” after “in accordance with” in introductory provisions.
+
+    Subsec. (a)(2)(A). [Pub. L. 114–81, § 102(a)(2)][/us/pl/114/81/s102/a/2], inserted “or, as appropriate, for fishing vessels of a nation that receives a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]” after “paragraph (1)”.
+
+    Subsec. (a)(2)(B). [Pub. L. 114–81, § 102(a)(3)][/us/pl/114/81/s102/a/3], inserted before period at end “, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action”.
+
+    Subsec. (b)(1)(A)(i). [Pub. L. 114–81, § 102(a)(4)][/us/pl/114/81/s102/a/4], struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
+
+     Subsec. (b)(1)(B), (2). [Pub. L. 114–81, § 102(a)(5)][/us/pl/114/81/s102/a/5], struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
+
+     Subsec. (b)(3)(A)(i). [Pub. L. 114–81, § 102(a)(6)][/us/pl/114/81/s102/a/6], inserted “or a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]” after “paragraph (1)(A)”.
+
+     Subsec. (b)(4)(A). [Pub. L. 114–81, § 102(a)(7)][/us/pl/114/81/s102/a/7], inserted “or issues a negative certification under [section 1826j(d) of this title][/us/usc/t16/s1826j/d] or [section 1826k(c) of this title][/us/usc/t16/s1826k/c]” after “paragraph (1)”.
+
+    Subsec. (b)(4)(A)(i). [Pub. L. 114–81, § 102(a)(8)][/us/pl/114/81/s102/a/8], (9), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing” and inserted “, or to address the offending activities for which a nation received a negative certification under section 1826j(d) or 1826k(c) of this title” after “beyond the exclusive economic zone of any nation”.
 
     2007—Subsec. (b)(1)(A)(i), (B), (2), (4)(A)(i). [Pub. L. 109–479][/us/pl/109/479] inserted “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 
@@ -159,12 +175,20 @@
 ----------
 
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
+[/us/usc/t16/s1826j/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826j%2Fd
+[/us/usc/t16/s1826k/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826k%2Fc
+[/us/usc/t16/s1826j/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826j%2Fd
+[/us/usc/t16/s1826k/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826k%2Fc
 [/us/usc/t26/s4162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4162
+[/us/usc/t16/s1826j/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826j%2Fd
+[/us/usc/t16/s1826k/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826k%2Fc
 [/us/usc/t22/s1978/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1978%2Fa
 [/us/pl/102/582/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs101
 [/us/stat/106/4901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4901
 [/us/pl/109/479/s403/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs403%2Fb%2F1
 [/us/stat/120/3632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3632
+[/us/pl/114/81/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa
+[/us/stat/129/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F656
 [/us/pl/102/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582
 [/us/stat/106/4900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4900
 [/us/usc/t22/s1978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1978
@@ -175,6 +199,20 @@
 [/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/usc/t46/s60105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs60105
+[/us/pl/114/81/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F1
+[/us/pl/114/81/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F2
+[/us/usc/t16/s1826j/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826j%2Fd
+[/us/usc/t16/s1826k/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826k%2Fc
+[/us/pl/114/81/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F3
+[/us/pl/114/81/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F4
+[/us/pl/114/81/s102/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F5
+[/us/pl/114/81/s102/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F6
+[/us/usc/t16/s1826j/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826j%2Fd
+[/us/usc/t16/s1826k/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826k%2Fc
+[/us/pl/114/81/s102/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F7
+[/us/usc/t16/s1826j/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826j%2Fd
+[/us/usc/t16/s1826k/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826k%2Fc
+[/us/pl/114/81/s102/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs102%2Fa%2F8
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/pl/102/582/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F582%2Fs2
 [/us/stat/106/4900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4900

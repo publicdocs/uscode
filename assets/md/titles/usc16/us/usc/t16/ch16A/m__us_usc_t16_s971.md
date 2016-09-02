@@ -79,7 +79,7 @@
 
  __Separability__ 
 
-[Pub. L. 94–70, § 13][/us/pl/94/70/s13], formerly § 11, Aug. 5, 1975, [89 Stat. 394][/us/stat/89/394]; renumbered § 13, [Pub. L. 105–384, title II, § 202(b)(1)(D)][/us/pl/105/384/s202/b/1/D], Nov. 13, 1998, [112 Stat. 3452][/us/stat/112/3452], provided that: 
+[Pub. L. 94–70, § 12][/us/pl/94/70/s12], formerly § 11, Aug. 5, 1975, [89 Stat. 394][/us/stat/89/394]; renumbered § 13, [Pub. L. 105–384, title II, § 202(b)(1)(D)][/us/pl/105/384/s202/b/1/D], Nov. 13, 1998, [112 Stat. 3452][/us/stat/112/3452]; renumbered § 12, [Pub. L. 114–81, title I, § 107(5)][/us/pl/114/81/s107/5], Nov. 5, 2015, [129 Stat. 658][/us/stat/129/658], provided that: 
 
 > “If any provision of this Act \[this chapter\] or the application of such provision to any circumstance or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby.”
 
@@ -126,9 +126,11 @@
 [/us/usc/t16/s971c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971c
 [/us/pl/94/70/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70%2Fs1
 [/us/stat/89/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F385
-[/us/pl/94/70/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70%2Fs13
+[/us/pl/94/70/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70%2Fs12
 [/us/stat/89/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F394
 [/us/pl/105/384/s202/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs202%2Fb%2F1%2FD
 [/us/stat/112/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3452
+[/us/pl/114/81/s107/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs107%2F5
+[/us/stat/129/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F658
 
 

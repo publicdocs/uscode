@@ -33,7 +33,11 @@
 
             (C) Regulations promulgated under this paragraph shall, to the extent practicable, be consistent with fishery management plans prepared and implemented under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.).
 
-        (2) To promulgate regulations referred to in paragraph (1) of this subsection, the Secretary shall publish in the Federal Register a general notice of proposed rulemaking and shall afford interested persons an opportunity to participate in the rulemaking through (A) submission of written data, views, or arguments, and (B) oral presentation at a public hearing. Such regulations shall be published in the Federal Register and shall be accompanied by a statement of the considerations involved in the issuance of the regulations, and by a statement, based on inquiries and investigations, assessing the nature and effectiveness of the measures for the implementation of the Commission’s recommendations which are being or will be carried out by countries whose vessels engage in fishing the species subject to such recommendations within the waters to which the Convention applies. After publication in the Federal Register, such regulations shall be applicable to all vessels and persons subject to the jurisdiction of the United States on such date as the Secretary shall prescribe. The Secretary shall suspend at any time the application of any such regulation when, after consultation with the Secretary of State and the United States Commissioners, he determines that fishing operations in the Convention area of a contracting party for whom the regulations are effective are such as to constitute a serious threat to the achievement of the Commission’s recommendations.
+        (2)
+
+            (A) To promulgate regulations referred to in paragraph (1) of this subsection, the Secretary shall publish in the Federal Register a general notice of proposed rulemaking and shall afford interested persons an opportunity to participate in the rulemaking through (i) submission of written data, views, or arguments, and (ii) oral presentation at a public hearing. Such regulations shall be published in the Federal Register and shall be accompanied by a statement of the considerations involved in the issuance of the regulations, and by a statement, based on inquiries and investigations, assessing the nature and effectiveness of the measures for the implementation of the Commission’s recommendations which are being or will be carried out by countries whose vessels engage in fishing the species subject to such recommendations within the waters to which the Convention applies. After publication in the Federal Register, such regulations shall be applicable to all vessels and persons subject to the jurisdiction of the United States on such date as the Secretary shall prescribe. The Secretary shall suspend at any time the application of any such regulation when, after consultation with the Secretary of State and the United States Commissioners, he determines that fishing operations in the Convention area of a contracting party for whom the regulations are effective are such as to constitute a serious threat to the achievement of the Commission’s recommendations.
+
+            (B) Notwithstanding the requirements of subparagraph (A) and subsections (b) and (c) of [section 553 of title 5][/us/usc/t5/s553], the Secretary may issue final regulations to implement Commission recommendations referred to in paragraph (1) concerning trade restrictive measures against nations or fishing entities.
 
         (3)
 
@@ -103,7 +107,7 @@
 
         (2) The Secretary, in consultation with the Secretary of State, shall request the Commission to adopt recommendations necessary for the conservation and management of Atlantic swordfish. In making the request, the Secretary shall seek the establishment of an international minimum harvest size and a reduction in harvest levels to the extent necessary to conserve the stock. Until the Commission adopts all the conservation and management measures requested by the Secretary, the Secretary, within 3 months after each annual meeting of the Commission, shall notify Congress as to the nature and results of his request. These notifications shall identify those nations not acting to conserve and manage Atlantic swordfish, and recommend measures which could be taken to achieve effective international conservation and management of the stock.
 
-([Pub. L. 94–70, § 6][/us/pl/94/70/s6], Aug. 5, 1975, [89 Stat. 387][/us/stat/89/387]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784][/us/stat/92/3784]; [Pub. L. 101–627, title II][/us/pl/101/627], §§ 206, 207, Nov. 28, 1990, [104 Stat. 4461][/us/stat/104/4461]; [Pub. L. 104–43, title III][/us/pl/104/43], §§ 303(3), 305, Nov. 3, 1995, [109 Stat. 384][/us/stat/109/384], 385; [Pub. L. 105–384, title II, § 202(b)(1)(C)][/us/pl/105/384/s202/b/1/C], (F), Nov. 13, 1998, [112 Stat. 3452][/us/stat/112/3452], 3453.)
+([Pub. L. 94–70, § 6][/us/pl/94/70/s6], Aug. 5, 1975, [89 Stat. 387][/us/stat/89/387]; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3784][/us/stat/92/3784]; [Pub. L. 101–627, title II][/us/pl/101/627], §§ 206, 207, Nov. 28, 1990, [104 Stat. 4461][/us/stat/104/4461]; [Pub. L. 104–43, title III][/us/pl/104/43], §§ 303(3), 305, Nov. 3, 1995, [109 Stat. 384][/us/stat/109/384], 385; [Pub. L. 105–384, title II, § 202(b)(1)(C)][/us/pl/105/384/s202/b/1/C], (F), Nov. 13, 1998, [112 Stat. 3452][/us/stat/112/3452], 3453; [Pub. L. 114–81, title I, § 107(1)][/us/pl/114/81/s107/1], Nov. 5, 2015, [129 Stat. 658][/us/stat/129/658].)
 
  __References in Text__ 
 
@@ -112,6 +116,8 @@
     Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1), was subsequently amended, and section 3(16) no longer defines the term “large-scale driftnet fishing”. However, such term is defined elsewhere in that section.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(2). [Pub. L. 114–81][/us/pl/114/81] designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
     1998—Subsec. (c)(1)(C). [Pub. L. 105–384, § 202(b)(1)(F)][/us/pl/105/384/s202/b/1/F], substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
@@ -154,6 +160,7 @@
 
 [/us/usc/t16/s971c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971c%2Fa
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
+[/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t16/s1802/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1802%2F16
 [/us/pl/94/70/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70%2Fs6
 [/us/stat/89/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F387
@@ -164,9 +171,12 @@
 [/us/stat/109/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F384
 [/us/pl/105/384/s202/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs202%2Fb%2F1%2FC
 [/us/stat/112/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3452
+[/us/pl/114/81/s107/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs107%2F1
+[/us/stat/129/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F658
 [/us/pl/94/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F265
 [/us/stat/90/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F331
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/pl/105/384/s202/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs202%2Fb%2F1%2FF
 [/us/pl/105/384/s202/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs202%2Fb%2F1%2FC
 [/us/pl/105/384/s202/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F384%2Fs202%2Fb%2F1%2FF

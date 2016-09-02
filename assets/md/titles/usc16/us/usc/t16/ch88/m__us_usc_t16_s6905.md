@@ -41,9 +41,9 @@
 
         The Secretary shall ensure the consistency, to the extent practicable, of fishery management programs administered under this Act, the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801][/us/usc/t16/s1801] et seq.), the Tuna Conventions Act ([16 U.S.C. 951][/us/usc/t16/s951] et seq.), the South Pacific Tuna Act ([16 U.S.C. 973][/us/usc/t16/s973] et seq.), [section 401 of Public Law 108–219][/us/pl/108/219/s401] ([16 U.S.C. 1821][/us/usc/t16/s1821] note) (relating to Pacific albacore tuna), and the Atlantic Tunas Convention Act ([16 U.S.C. 971][/us/usc/t16/s971] \[et seq.\]).
 
-    (c) __Actions by the Secretary__ 
+    (c) __Additional Prohibitions and enforcement__ 
 
-        The Secretary shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1857][/us/usc/t16/s1857]) were incorporated into and made a part of this chapter. Any person that violates any provision of this chapter is subject to the penalties and entitled to the privileges and immunities provided in the Magnuson-Stevens Fishery Conservation and Management Act \[[16 U.S.C. 1801][/us/usc/t16/s1801] et seq.\] in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of that Act were incorporated into and made a part of this chapter.
+        For additional prohibitions relating to this chapter and enforcement of this chapter, see [section 1826g of this title][/us/usc/t16/s1826g].
 
     (d) __Confidentiality__ 
 
@@ -65,19 +65,23 @@
 
             The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement or regulation under this Act, except that the Secretary may release or make public any such information in any aggregate or summary form that does not directly or indirectly disclose the identity or business of any person. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary of any information submitted in compliance with any requirement or regulation under this Act.
 
-([Pub. L. 109–479, title V, § 506][/us/pl/109/479/s506], Jan. 12, 2007, [120 Stat. 3640][/us/stat/120/3640].)
+([Pub. L. 109–479, title V, § 506][/us/pl/109/479/s506], Jan. 12, 2007, [120 Stat. 3640][/us/stat/120/3640]; [Pub. L. 114–81, title I, § 105(1)][/us/pl/114/81/s105/1], Nov. 5, 2015, [129 Stat. 657][/us/stat/129/657].)
 
  __References in Text__ 
 
     This Act, referred to in subsecs. (a)(1), (b), and (d), is [Pub. L. 109–479][/us/pl/109/479], Jan. 12, 2007, [120 Stat. 3575][/us/stat/120/3575], known as the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under [section 1801 of this title][/us/usc/t16/s1801] and Tables.
 
-    The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsecs. (b) and (c), is [Pub. L. 94–265][/us/pl/94/265], Apr. 13, 1976, [90 Stat. 331][/us/stat/90/331], which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title][/us/usc/t16/s1801] and Tables.
+    The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b), is [Pub. L. 94–265][/us/pl/94/265], Apr. 13, 1976, [90 Stat. 331][/us/stat/90/331], which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title][/us/usc/t16/s1801] and Tables.
 
     The Tuna Conventions Act, referred to in subsec. (b), probably means the Tuna Conventions Act of 1950, [act Sept. 7, 1950, ch. 907][/us/act/1950-09-07/ch907], [64 Stat. 777][/us/stat/64/777], which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title][/us/usc/t16/s951] and Tables.
 
     The South Pacific Tuna Act, referred to in subsec. (b), probably means the South Pacific Tuna Act of 1988, [Pub. L. 100–330][/us/pl/100/330], June 7, 1988, [102 Stat. 591][/us/stat/102/591], which is classified generally to chapter 16C (§ 973 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 973 of this title][/us/usc/t16/s973] and Tables.
 
     The Atlantic Tunas Convention Act, referred to in subsec. (b), probably means the Atlantic Tunas Convention Act of 1975, [Pub. L. 94–70][/us/pl/94/70], Aug. 5, 1975, [89 Stat. 385][/us/stat/89/385], which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title][/us/usc/t16/s971] and Tables.
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–81][/us/pl/114/81] amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1857][/us/usc/t16/s1857]) were incorporated into and made a part of this chapter. Any person that violates any provision of this chapter is subject to the penalties and entitled to the privileges and immunities provided in the Magnuson-Stevens Fishery Conservation and Management Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of that Act were incorporated into and made a part of this chapter.”
 
 ----------
 
@@ -93,10 +97,11 @@
 [/us/pl/108/219/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F219%2Fs401
 [/us/usc/t16/s1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1821
 [/us/usc/t16/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971
-[/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
-[/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
+[/us/usc/t16/s1826g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826g
 [/us/pl/109/479/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs506
 [/us/stat/120/3640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3640
+[/us/pl/114/81/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs105%2F1
+[/us/stat/129/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F657
 [/us/pl/109/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479
 [/us/stat/120/3575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3575
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
@@ -112,5 +117,7 @@
 [/us/pl/94/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70
 [/us/stat/89/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F385
 [/us/usc/t16/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
+[/us/usc/t16/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1857
 
 

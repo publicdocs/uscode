@@ -67,7 +67,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5606" data-uslm-ref="/us/usc/t16/s5606">5606.</a>  </td>
 
-    <td> Prohibited acts and penalties.  </td>
+    <td> Prohibited acts and enforcement.  </td>
 
   </tr>
 

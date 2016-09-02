@@ -35,7 +35,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs952" data-uslm-ref="/us/usc/t16/s952">952.</a>  </td>
 
-    <td> Commissioners; number, appointment, and qualification.  </td>
+    <td> Commissioners.  </td>
 
   </tr>
 
@@ -59,7 +59,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs955" data-uslm-ref="/us/usc/t16/s955">955.</a>  </td>
 
-    <td> Secretary of State to act for United States.  </td>
+    <td> Rulemaking.  </td>
 
   </tr>
 
@@ -91,7 +91,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs959" data-uslm-ref="/us/usc/t16/s959">959.</a>  </td>
 
-    <td> Enforcement of chapter.  </td>
+    <td> Enforcement.  </td>
 
   </tr>
 

@@ -157,6 +157,12 @@
 
     Amendment by [Pub. L. 102–251][/us/pl/102/251] effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see [section 308 of Pub. L. 102–251][/us/pl/102/251/s308], set out as a note under [section 773 of this title][/us/usc/t16/s773].
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–81, § 1][/us/pl/114/81/s1], Nov. 5, 2015, [129 Stat. 649][/us/stat/129/649], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015’.”
+
  __Short Title of 2012 Amendment__ 
 
 [Pub. L. 112–183, § 1][/us/pl/112/183/s1], Oct. 5, 2012, [126 Stat. 1422][/us/stat/126/1422], provided that: 
@@ -341,6 +347,8 @@
 [/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
 [/us/pl/102/251/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs308
 [/us/usc/t16/s773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs773
+[/us/pl/114/81/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs1
+[/us/stat/129/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F649
 [/us/pl/112/183/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F183%2Fs1
 [/us/stat/126/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1422
 [/us/usc/t16/s1827a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1827a

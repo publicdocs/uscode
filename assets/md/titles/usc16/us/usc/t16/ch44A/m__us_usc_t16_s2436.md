@@ -15,9 +15,31 @@
 
 ## § 2436. Regulations
 
-    The Secretary of Commerce, after consultation with the Secretary of State, the Secretary of the department in which the Coast Guard is operating, and the heads of other appropriate departments or agencies of the United States, shall promulgate such regulations as are necessary and appropriate to implement the provisions of this chapter.
+    (a) __In general__ 
 
-([Pub. L. 98–623, title III, § 307][/us/pl/98/623/s307], Nov. 8, 1984, [98 Stat. 3401][/us/stat/98/3401].)
+        The Secretary of Commerce, after consultation with the Secretary of State, the Secretary of the department in which the Coast Guard is operating, and the heads of other appropriate departments or agencies of the United States, shall promulgate such regulations as are necessary and appropriate to implement the provisions of this chapter.
+
+    (b) __Regulations to implement conservation measures__ 
+
+        (1) __In general__ 
+
+        Notwithstanding subsections (b), (c), and (d) of [section 553 of title 5][/us/usc/t5/s553], the Secretary of Commerce may publish in the Federal Register a final regulation to implement any conservation measure for which the Secretary of State notifies the Commission under [section 2434(a)(1) of this title][/us/usc/t16/s2434/a/1]—
+
+            (A) that has been in effect for 12 months or less;
+
+            (B) that is adopted by the Commission; and
+
+            (C) with respect to which the Secretary of State, does not notify Commission in accordance with [section 2434(a)(1) of this title][/us/usc/t16/s2434/a/1] within the time period allotted for objections under Article IX of the Convention.
+
+        (2) __Entering into force__ 
+
+            Upon publication of such regulation in the Federal Register, such conservation measure shall enter into force with respect to the United States.
+
+([Pub. L. 98–623, title III, § 307][/us/pl/98/623/s307], Nov. 8, 1984, [98 Stat. 3401][/us/stat/98/3401]; [Pub. L. 114–81, title I, § 106(2)][/us/pl/114/81/s106/2], Nov. 5, 2015, [129 Stat. 658][/us/stat/129/658].)
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–81][/us/pl/114/81] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
  __Transfer of Functions__ 
 
@@ -30,8 +52,14 @@
 ----------
 ----------
 
+[/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
+[/us/usc/t16/s2434/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2434%2Fa%2F1
+[/us/usc/t16/s2434/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2434%2Fa%2F1
 [/us/pl/98/623/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs307
 [/us/stat/98/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3401
+[/us/pl/114/81/s106/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs106%2F2
+[/us/stat/129/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F658
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 
 

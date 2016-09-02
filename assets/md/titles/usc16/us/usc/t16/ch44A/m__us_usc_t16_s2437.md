@@ -15,11 +15,9 @@
 
 ## § 2437. Civil penalties
 
-    (a) __Assessment of penalties__ 
+    (a) __In general__ 
 
-        (1) Any person who is found by the Secretary of Commerce, after notice and opportunity for a hearing in accordance with subsection (b), to have committed any act prohibited by [section 2435 of this title][/us/usc/t16/s2435] shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $5,000 for each violation unless the prohibited act was knowingly committed, in which case the amount of the civil penalty shall not exceed $10,000 for each violation. Each day of a continuing violation shall constitute a separate violation for purposes of this subsection. The amount of any civil penalty shall be assessed by the Secretary of Commerce by written notice. In determining the amount of such penalty, the Secretary of Commerce shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed, and, with respect to the person committing the violation, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require, to the extent that such information is reasonably available to the Secretary.
-
-        (2) The Secretary of Commerce may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section, until such time as the matter is referred to the Attorney General under subsection (c) of this section.
+        Any person who commits an act that is unlawful under [section 2435 of this title][/us/usc/t16/s2435] shall be liable to the United States for a civil penalty, and may be subject to a permit sanction, under [section 1858 of this title][/us/usc/t16/s1858].
 
     (b) __Hearings__ 
 
@@ -37,7 +35,11 @@
 
         The assessment of a civil penalty under subsection (a) for any act shall not be deemed to preclude the assessment of a civil penalty for such act under any other law.
 
-([Pub. L. 98–623, title III, § 308][/us/pl/98/623/s308], Nov. 8, 1984, [98 Stat. 3401][/us/stat/98/3401].)
+([Pub. L. 98–623, title III, § 308][/us/pl/98/623/s308], Nov. 8, 1984, [98 Stat. 3401][/us/stat/98/3401]; [Pub. L. 114–81, title I, § 101(a)(2)][/us/pl/114/81/s101/a/2], Nov. 5, 2015, [129 Stat. 653][/us/stat/129/653].)
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–81][/us/pl/114/81] amended subsec. (a) generally. Prior to amendment, text related to assessment of penalties.
 
 ----------
 
@@ -47,10 +49,14 @@
 ----------
 
 [/us/usc/t16/s2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2435
+[/us/usc/t16/s1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1858
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t5/s706/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2%2FE
 [/us/pl/98/623/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs308
 [/us/stat/98/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3401
+[/us/pl/114/81/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fa%2F2
+[/us/stat/129/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F653
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 
 

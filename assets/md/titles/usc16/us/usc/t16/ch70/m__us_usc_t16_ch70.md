@@ -99,7 +99,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs5010" data-uslm-ref="/us/usc/t16/s5010">5010.</a>  </td>
 
-    <td> Penalties.  </td>
+    <td> Additional prohibitions and enforcement.  </td>
 
   </tr>
 

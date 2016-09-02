@@ -109,9 +109,9 @@
 
             (E) It is a violation of [section 45 of title 15][/us/usc/t15/s45] willingly and knowingly to use a label referred to in subparagraph (C) in a campaign or effort to mislead or deceive consumers about the level of protection afforded dolphins under the International Dolphin Conservation Program.
 
-    (e) __Enforcement__ 
+    (e) __Additional prohibitions and enforcement__ 
 
-        Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary.
+        For additional prohibitions relating to this section and enforcement of this section, see [section 1826g of this title][/us/usc/t16/s1826g].
 
     (f) __Regulations__ 
 
@@ -153,13 +153,15 @@
 
             (C) after the effective date of the finding under subsection (g)(2), where such finding is that the intentional deployment on or encirclement of dolphins is having a significant adverse impact on any such depleted stock.
 
-([Pub. L. 101–627, title IX, § 901][/us/pl/101/627/s901], Nov. 28, 1990, [104 Stat. 4465][/us/stat/104/4465]; [Pub. L. 105–42, § 5][/us/pl/105/42/s5], Aug. 15, 1997, [111 Stat. 1125][/us/stat/111/1125].)
+([Pub. L. 101–627, title IX, § 901][/us/pl/101/627/s901], Nov. 28, 1990, [104 Stat. 4465][/us/stat/104/4465]; [Pub. L. 105–42, § 5][/us/pl/105/42/s5], Aug. 15, 1997, [111 Stat. 1125][/us/stat/111/1125]; [Pub. L. 114–81, title I, § 109][/us/pl/114/81/s109], Nov. 5, 2015, [129 Stat. 659][/us/stat/129/659].)
 
  __Codification__ 
 
     Section was not enacted as part of the Marine Mammal Protection Act of 1972 which comprises this chapter.
 
  __Amendments__ 
+
+    2015—Subsec. (e). [Pub. L. 114–81][/us/pl/114/81] amended subsec. (e) generally. Prior to amendment, text read as follows:“Any person who knowingly and willfully makes a statement or endorsement described in subsection (d)(2)(B) that is false is liable for a civil penalty of not to exceed $100,000 assessed in an action brought in any appropriate district court of the United States on behalf of the Secretary.”
 
     1997—Subsec. (d). [Pub. L. 105–42, § 5(a)][/us/pl/105/42/s5/a], amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
@@ -214,12 +216,16 @@
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
+[/us/usc/t16/s1826g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826g
 [/us/usc/t16/s1414a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1414a%2Fa
 [/us/usc/t16/s1414a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1414a%2Fa
 [/us/pl/101/627/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs901
 [/us/stat/104/4465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4465
 [/us/pl/105/42/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs5
 [/us/stat/111/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1125
+[/us/pl/114/81/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs109
+[/us/stat/129/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F659
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/pl/105/42/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs5%2Fa
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/pl/105/42/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs5%2Fb

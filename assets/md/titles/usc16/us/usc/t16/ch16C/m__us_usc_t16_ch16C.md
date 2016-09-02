@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch16B/m__us_usc_t16_s972h.md) | [Next](./../../../..//us/usc/t16/ch16C/m__us_usc_t16_s973.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch16C)
+[Previous](./../../../..//us/usc/t16/ch16B/m__us_usc_t16_ch16B.md) | [Next](./../../../..//us/usc/t16/ch16C/m__us_usc_t16_s973.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch16C)
 
 ## CHAPTER 16C—SOUTH PACIFIC TUNA FISHING
 
@@ -179,7 +179,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch16B/m__us_usc_t16_s972h.md) | [Next](./../../../..//us/usc/t16/ch16C/m__us_usc_t16_s973.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch16C)
+[Previous](./../../../..//us/usc/t16/ch16B/m__us_usc_t16_ch16B.md) | [Next](./../../../..//us/usc/t16/ch16C/m__us_usc_t16_s973.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch16C)
 
 ----------
 ----------

@@ -51,7 +51,7 @@
 
                     (I) to allow determination of compliance with the International Dolphin Conservation Program; and
 
-                    (II) for the purposes of tracking and verifying compliance with the minimum requirements established by the Secretary in regulations promulgated under [section 1385(f) of this title][/us/usc/t16/s1385/f]; or
+                    (II) for the purposes of tracking and verifying compliance with the minimum requirements established by the Secretary in regulations promulgated under section 1385(f)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title; or
 
                 (ii) after taking into consideration such information, findings of the Inter-American Tropical Tuna Commission, and any other relevant information, including information that a nation is consistently failing to take enforcement actions on violations which diminish the effectiveness of the International Dolphin Conservation Program, the Secretary, in consultation with the Secretary of State, finds that the harvesting nation is not in compliance with the International Dolphin Conservation Program.
 
@@ -279,6 +279,8 @@
 
     For effective date of section 4 of the International Dolphin Conservation Program Act \[[Pub. L. 105–42][/us/pl/105/42]\], referred to in subsec. (a)(2)(B)(i), see [section 8 of Pub. L. 105–42][/us/pl/105/42/s8] set out as an Effective Date of 1997 Amendment note under [section 1362 of this title][/us/usc/t16/s1362].
 
+    [Section 1385(f) of this title][/us/usc/t16/s1385/f], referred to in subsec. (a)(2)(C)(i)(II), was amended generally and now refers to [section 1826g of this title][/us/usc/t16/s1826g] for additional prohibitions and enforcement of [section 1385 of this title][/us/usc/t16/s1385].
+
     The Endangered Species Act of 1973, referred to in subsec. (a)(4)(B), (5)(E)(i), is [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [87 Stat. 884][/us/stat/87/884], as amended, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title][/us/usc/t16/s1531] and Tables.
 
     The Whaling Convention Act of 1949, referred to in subsec. (a)(5)(A)(i)(I), is [act Aug. 9, 1950, ch. 653][/us/act/1950-08-09/ch653], [64 Stat. 421][/us/stat/64/421], as amended, which is classified generally to subchapter II (§ 916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 916 of this title][/us/usc/t16/s916] and Tables.
@@ -407,7 +409,6 @@
 [/us/usc/t16/s1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1387
 [/us/usc/t16/s1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1373
 [/us/usc/t16/s1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1373
-[/us/usc/t16/s1385/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1385%2Ff
 [/us/usc/t22/s1978/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1978%2Fa
 [/us/usc/t16/s1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1822
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
@@ -477,6 +478,9 @@
 [/us/pl/105/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42
 [/us/pl/105/42/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F42%2Fs8
 [/us/usc/t16/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1362
+[/us/usc/t16/s1385/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1385%2Ff
+[/us/usc/t16/s1826g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826g
+[/us/usc/t16/s1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1385
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531

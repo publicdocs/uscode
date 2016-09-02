@@ -73,17 +73,23 @@
 
         (2) The fees authorized by paragraph (1) shall be collected and credited to the Operations, Research and Facilities account of the National Oceanic and Atmospheric Administration. Fees collected under this subsection shall be available for the necessary expenses of the National Oceanic and Atmospheric Administration in implementing this chapter, and shall remain available until expended.
 
-    (f) __Duration__ 
+    (f) __Validity__ 
 
-        A permit issued under this section is valid for 5 years. A permit issued under this section is void in the event the vessel is no longer eligible for United States documentation, such documentation is revoked or denied, or the vessel is deleted from such documentation.
+    A permit issued under this section for a vessel is void if—
 
-([Pub. L. 104–43, title I, § 104][/us/pl/104/43/s104], Nov. 3, 1995, [109 Stat. 369][/us/stat/109/369]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41.)
+        (1) any other permit or authorization required for the vessel to fish is expired, revoked, or suspended; or
+
+        (2) the vessel is no longer documented under the laws of the United States or eligible for such documentation.
+
+([Pub. L. 104–43, title I, § 104][/us/pl/104/43/s104], Nov. 3, 1995, [109 Stat. 369][/us/stat/109/369]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 114–81, title I, § 108][/us/pl/114/81/s108], Nov. 5, 2015, [129 Stat. 658][/us/stat/129/658].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (e)(2), was in the original “this Act”, and was translated as reading “this title”, meaning title I of [Pub. L. 104–43][/us/pl/104/43], to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2015—Subsec. (f). [Pub. L. 114–81][/us/pl/114/81] amended subsec. (f) generally. Prior to amendment, text read as follows:“A permit issued under this section is valid for 5 years. A permit issued under this section is void in the event the vessel is no longer eligible for United States documentation, such documentation is revoked or denied, or the vessel is deleted from such documentation.”
 
     1996—Subsec. (d)(1). [Pub. L. 104–208][/us/pl/104/208] made technical amendment to reference in original act which appears in text as reference to [section 1855 of this title][/us/usc/t16/s1855].
 
@@ -103,7 +109,10 @@
 [/us/stat/109/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F369
 [/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
+[/us/pl/114/81/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs108
+[/us/stat/129/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F658
 [/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t16/s1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1855
 [/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa

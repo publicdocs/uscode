@@ -11,98 +11,68 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch16A/m__us_usc_t16_s971k.md) | [Next](./../../../..//us/usc/t16/ch16B/m__us_usc_t16_s972.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch16B)
+[Previous](./../../../..//us/usc/t16/ch16A/m__us_usc_t16_s971k.md) | [Next](./../../../..//us/usc/t16/ch16C/m__us_usc_t16_ch16C.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch16B)
 
 ## CHAPTER 16B—EASTERN PACIFIC TUNA FISHING
 
-<table>
+§§ 972 to 972h. __Repealed.__  __[__  __Pub. L. 114–81, title II, § 210__  __][/us/pl/114/81/s210]__  __,__  __Nov. 5, 2015__  __,__  __[__  __129 Stat. 664__  __][/us/stat/129/664]__ 
 
-  <tr>
+    Section 972, [Pub. L. 98–445, § 2][/us/pl/98/445/s2], Oct. 4, 1984, [98 Stat. 1715][/us/stat/98/1715], provided definitions for this chapter.
 
-    <td> Sec.  </td>
+    Section 972a, [Pub. L. 98–445, § 3][/us/pl/98/445/s3], Oct. 4, 1984, [98 Stat. 1716][/us/stat/98/1716], related to United States representation on the Council.
 
-  </tr>
+    Section 972b, [Pub. L. 98–445, § 4][/us/pl/98/445/s4], Oct. 4, 1984, [98 Stat. 1716][/us/stat/98/1716], authorized the Secretary of State to act for United States.
 
-  <tr>
+    Section 972c, [Pub. L. 98–445, § 5][/us/pl/98/445/s5], Oct. 4, 1984, [98 Stat. 1716][/us/stat/98/1716]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41, related to application to other laws.
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972" data-uslm-ref="/us/usc/t16/s972">972.</a>  </td>
+    Section 972d, [Pub. L. 98–445, § 6][/us/pl/98/445/s6], Oct. 4, 1984, [98 Stat. 1716][/us/stat/98/1716], related to disposition of fees.
 
-    <td> Definitions.  </td>
+    Section 972e, [Pub. L. 98–445, § 7][/us/pl/98/445/s7], Oct. 4, 1984, [98 Stat. 1716][/us/stat/98/1716], related to regulations.
 
-  </tr>
+    Section 972f, [Pub. L. 98–445, § 8][/us/pl/98/445/s8], Oct. 4, 1984, [98 Stat. 1717][/us/stat/98/1717], related to prohibited acts.
 
-  <tr>
+    Section 972g, [Pub. L. 98–445, § 9][/us/pl/98/445/s9], Oct. 4, 1984, [98 Stat. 1717][/us/stat/98/1717]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117], related to enforcement.
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972a" data-uslm-ref="/us/usc/t16/s972a">972a.</a>  </td>
+    Section 972h, [Pub. L. 98–445, § 10][/us/pl/98/445/s10], Oct. 4, 1984, [98 Stat. 1719][/us/stat/98/1719], authorized appropriations.
 
-    <td> United States representation on the Council.  </td>
+ __Short Title__ 
 
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972b" data-uslm-ref="/us/usc/t16/s972b">972b.</a>  </td>
-
-    <td> Secretary of State to act for United States.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972c" data-uslm-ref="/us/usc/t16/s972c">972c.</a>  </td>
-
-    <td> Application to other laws.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972d" data-uslm-ref="/us/usc/t16/s972d">972d.</a>  </td>
-
-    <td> Disposition of fees.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972e" data-uslm-ref="/us/usc/t16/s972e">972e.</a>  </td>
-
-    <td> Regulations.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972f" data-uslm-ref="/us/usc/t16/s972f">972f.</a>  </td>
-
-    <td> Prohibited acts.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972g" data-uslm-ref="/us/usc/t16/s972g">972g.</a>  </td>
-
-    <td> Enforcement.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs972h" data-uslm-ref="/us/usc/t16/s972h">972h.</a>  </td>
-
-    <td> Authorization of appropriations.  </td>
-
-  </tr>
-
-</table>
+    [Pub. L. 98–445, § 1][/us/pl/98/445/s1], Oct. 4, 1984, [98 Stat. 1715][/us/stat/98/1715], which provided that this Act \[enacting this chapter\] could be cited as the “Eastern Pacific Tuna Licensing Act of 1984”, was repealed by [Pub. L. 114–81, title II, § 210][/us/pl/114/81/s210], Nov. 5, 2015, [129 Stat. 664][/us/stat/129/664].
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch16A/m__us_usc_t16_s971k.md) | [Next](./../../../..//us/usc/t16/ch16B/m__us_usc_t16_s972.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch16B)
+[Previous](./../../../..//us/usc/t16/ch16A/m__us_usc_t16_s971k.md) | [Next](./../../../..//us/usc/t16/ch16C/m__us_usc_t16_ch16C.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fch16B)
 
 ----------
 ----------
 
+[/us/pl/114/81/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs210
+[/us/stat/129/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F664
+[/us/pl/98/445/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F445%2Fs2
+[/us/stat/98/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1715
+[/us/pl/98/445/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F445%2Fs3
+[/us/stat/98/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1716
+[/us/pl/98/445/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F445%2Fs4
+[/us/stat/98/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1716
+[/us/pl/98/445/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F445%2Fs5
+[/us/stat/98/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1716
+[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
+[/us/pl/98/445/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F445%2Fs6
+[/us/stat/98/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1716
+[/us/pl/98/445/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F445%2Fs7
+[/us/stat/98/1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1716
+[/us/pl/98/445/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F445%2Fs8
+[/us/stat/98/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1717
+[/us/pl/98/445/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F445%2Fs9
+[/us/stat/98/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1717
+[/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
+[/us/stat/104/5117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5117
+[/us/pl/98/445/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F445%2Fs10
+[/us/stat/98/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1719
+[/us/pl/98/445/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F445%2Fs1
+[/us/stat/98/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1715
+[/us/pl/114/81/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs210
+[/us/stat/129/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F664
 
 

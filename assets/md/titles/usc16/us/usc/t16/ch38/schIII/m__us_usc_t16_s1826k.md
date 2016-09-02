@@ -25,7 +25,7 @@
 
             (A)
 
-             fishing vessels of that nation are engaged, or have been engaged during the preceding calendar year in fishing activities or practices;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The semicolon probably should be a dash. </sup></sup> 
+             fishing vessels of that nation are engaged, or have been engaged during the preceding 3 years in fishing activities or practices—
 
                 (i) in waters beyond any national jurisdiction that result in bycatch of a protected living marine resource; or
 
@@ -47,7 +47,7 @@
 
     The Secretary, acting through the Secretary of State, shall—
 
-        (1) notify, as soon as possible, other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of sections 1826d to 1826k of this title;
+        (1) notify, as soon as possible, the President and nations that have been identified under subsection (a), and also notify other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of this section and this Act;
 
         (2) initiate discussions as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, fishing activities or practices described in subsection (a), for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species;
 
@@ -75,15 +75,15 @@
 
         (4) __Alternative procedure__ 
 
-        The Secretary shall establish a procedure for certification, on a shipment-by-shipment, shipper-by-shipper, or other basis of fish or fish products from a vessel of a harvesting nation not certified under paragraph (3) if the Secretary determines that such imports were harvested by practices that do not result in bycatch of a protected marine species, or were harvested by practices that—
+        The Secretary may establish a procedure to authorize, on a shipment-by-shipment, shipper-by-shipper, or other basis the importation of fish or fish products from a vessel of a nation issued a negative certification under paragraph (1) if the Secretary determines that such imports were harvested by practices that do not result in bycatch of a protected marine species, or were harvested by practices that—
 
-            (A) are comparable to those of the United States, taking into account different conditions, and which, in the case of pelagic longline fishing, includes mandatory use of circle hooks, careful handling and release equipment, and training and observer programs; and
+            (A) are comparable to those of the United States, taking into account different conditions; and
 
             (B) include the gathering of species specific data that can be used to support international and regional stock assessments and conservation efforts for protected living marine resources.
 
         (5) __Effect of certification__ 
 
-            The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title (except to the extent that such provisions apply to sport fishing equipment or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing) shall apply to any nation identified under subsection (a) that has not been certified by the Secretary under this subsection, or for which the Secretary has issued a negative certification under this subsection, but shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
+            The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title (except to the extent that such provisions apply to sport fishing equipment or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing) shall apply to any nation identified under subsection (a) for which the Secretary has issued a negative certification under this subsection, but shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
 
     (d) __International cooperation and assistance__ 
 
@@ -109,11 +109,11 @@
 
         There are authorized to be appropriated to the Secretary for fiscal years 2007 through 2013 such sums as are necessary to carry out this section.
 
-([Pub. L. 104–43, title VI, § 610][/us/pl/104/43/s610], as added [Pub. L. 109–479, title IV, § 403(a)][/us/pl/109/479/s403/a], Jan. 12, 2007, [120 Stat. 3630][/us/stat/120/3630]; amended [Pub. L. 111–348, title I, § 102(c)(1)][/us/pl/111/348/s102/c/1], Jan. 4, 2011, [124 Stat. 3669][/us/stat/124/3669].)
+([Pub. L. 104–43, title VI, § 610][/us/pl/104/43/s610], as added [Pub. L. 109–479, title IV, § 403(a)][/us/pl/109/479/s403/a], Jan. 12, 2007, [120 Stat. 3630][/us/stat/120/3630]; amended [Pub. L. 111–348, title I, § 102(c)(1)][/us/pl/111/348/s102/c/1], Jan. 4, 2011, [124 Stat. 3669][/us/stat/124/3669]; [Pub. L. 114–81, title I, § 101(d)][/us/pl/114/81/s101/d], (f), (g)(3), (i)(5), Nov. 5, 2015, [129 Stat. 654][/us/stat/129/654], 655.)
 
  __References in Text__ 
 
-    Sections 1826d to 1826k of this title, referred to in subsec. (b)(1), was in the original “this section and this Act” and was translated as reading “this section and this title” meaning title VI of [Pub. L. 104–43][/us/pl/104/43], Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391], known as the High Seas Driftnet Fishing Moratorium Protection Act. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title][/us/usc/t16/s1801] and Tables.
+    This Act, referred to in subsec. (b)(1), probably means title VI of [Pub. L. 104–43][/us/pl/104/43], Nov. 3, 1995, [109 Stat. 391][/us/stat/109/391], known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title][/us/usc/t16/s1801] and Tables.
 
     Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (c)(5), was in the original “section 101(a) and section 101(b)(3) and (4) of this Act ([16 U.S.C. 1826a(a)][/us/usc/t16/s1826a/a], (b)(3), and (b)(4))” and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
 
@@ -132,6 +132,14 @@
     Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1)(A). [Pub. L. 114–81, § 101(g)(3)][/us/pl/114/81/s101/g/3], (i)(5)(A), substituted “3 years” for “calendar year” and “practices—” for “practices;” in introductory provisions.
+
+    Subsec. (b)(1). [Pub. L. 114–81, § 101(d)][/us/pl/114/81/s101/d], amended par. (1) generally. Prior to amendment, text read as follows: “notify, as soon as possible, other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of sections 1826d to 1826k of this title;”.
+
+    Subsec. (c)(4). [Pub. L. 114–81, § 101(i)(5)(B)][/us/pl/114/81/s101/i/5/B], added introductory provisions and subpar. (A) and struck out former introductory provisions and subpar. (A) which related to alternative procedure for certification of fish or fish products from a vessel of a harvesting nation not certified under paragraph (3).
+
+    Subsec. (c)(5). [Pub. L. 114–81, § 101(f)][/us/pl/114/81/s101/f], struck out “that has not been certified by the Secretary under this subsection, or” after “subsection (a)”.
 
     2011—Subsec. (a). [Pub. L. 111–348, § 102(c)(1)(A)][/us/pl/111/348/s102/c/1/A], struck out “, a nation if” after “[section 1826h of this title][/us/usc/t16/s1826h]” in introductory provisions.
 
@@ -161,6 +169,8 @@
 [/us/stat/120/3630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3630
 [/us/pl/111/348/s102/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs102%2Fc%2F1
 [/us/stat/124/3669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3669
+[/us/pl/114/81/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fd
+[/us/stat/129/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F654
 [/us/pl/104/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F43
 [/us/stat/109/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F391
 [/us/usc/t16/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1801
@@ -180,6 +190,10 @@
 [/us/pl/94/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F70
 [/us/stat/89/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F385
 [/us/usc/t16/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs971
+[/us/pl/114/81/s101/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fg%2F3
+[/us/pl/114/81/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fd
+[/us/pl/114/81/s101/i/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Fi%2F5%2FB
+[/us/pl/114/81/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs101%2Ff
 [/us/pl/111/348/s102/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs102%2Fc%2F1%2FA
 [/us/usc/t16/s1826h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1826h
 [/us/pl/111/348/s102/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F348%2Fs102%2Fc%2F1%2FB

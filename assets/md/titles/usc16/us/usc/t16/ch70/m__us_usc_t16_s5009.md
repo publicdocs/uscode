@@ -25,9 +25,9 @@
 
     (4) to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any anadromous fish taken or retained in violation of the Convention, this chapter, or any regulation issued under this chapter;
 
-    (5) to refuse to permit any enforcement officer to board a fishing vessel subject to such person’s control for purposes of conducting any search or inspection in connection with the enforcement of the Convention, this chapter, or any regulation issued under this chapter;
+    (5) to refuse to permit any enforcement officer to board a fishing vessel subject to such person’s control for purposes of conducting any search, investigation, or inspection in connection with the enforcement of the Convention, this chapter, or any regulation issued under this chapter;
 
-    (6) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any enforcement officer in the conduct of any search or inspection described in paragraph (5);
+    (6) to forcibly assault, resist, oppose, impede, intimidate, or interfere with any enforcement officer in the conduct of any search, investigation, or inspection described in paragraph (5);
 
     (7) to resist a lawful arrest or detection for any act prohibited by this section;
 
@@ -35,11 +35,15 @@
 
     (9) to violate any provision of the Convention, this chapter, or any regulation issued under this chapter.
 
-([Pub. L. 102–567, title VIII, § 810][/us/pl/102/567/s810], Oct. 29, 1992, [106 Stat. 4313][/us/stat/106/4313]; [Pub. L. 102–587, title VIII, § 8010][/us/pl/102/587/s8010], Nov. 4, 1992, [106 Stat. 5103][/us/stat/106/5103]; [Pub. L. 106–562, title III, § 304(a)][/us/pl/106/562/s304/a], Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806].)
+([Pub. L. 102–567, title VIII, § 810][/us/pl/102/567/s810], Oct. 29, 1992, [106 Stat. 4313][/us/stat/106/4313]; [Pub. L. 102–587, title VIII, § 8010][/us/pl/102/587/s8010], Nov. 4, 1992, [106 Stat. 5103][/us/stat/106/5103]; [Pub. L. 106–562, title III, § 304(a)][/us/pl/106/562/s304/a], Dec. 23, 2000, [114 Stat. 2806][/us/stat/114/2806]; [Pub. L. 114–81, title I, § 103(a)][/us/pl/114/81/s103/a], Nov. 5, 2015, [129 Stat. 657][/us/stat/129/657].)
 
  __Codification__ 
 
     Title VIII of [Pub. L. 102–567][/us/pl/102/567] and [Pub. L. 102–587][/us/pl/102/587] enacted substantially identical sections. Title VIII of [Pub. L. 102–587][/us/pl/102/587] was repealed by [Pub. L. 106–562][/us/pl/106/562].
+
+ __Amendments__ 
+
+    2015—Pars. (5), (6). [Pub. L. 114–81][/us/pl/114/81] inserted “, investigation,” after “search”.
 
 ----------
 
@@ -54,9 +58,12 @@
 [/us/stat/106/5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5103
 [/us/pl/106/562/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562%2Fs304%2Fa
 [/us/stat/114/2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2806
+[/us/pl/114/81/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs103%2Fa
+[/us/stat/129/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F657
 [/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/pl/102/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F587
 [/us/pl/106/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F562
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 
 

@@ -115,7 +115,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft16%2Fs971j" data-uslm-ref="/us/usc/t16/s971j">971j.</a>  </td>
 
-    <td> Annual report.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

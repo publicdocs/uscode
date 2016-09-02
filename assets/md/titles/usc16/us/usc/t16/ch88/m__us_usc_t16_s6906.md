@@ -21,7 +21,7 @@
 
         (1) to violate any provision of this chapter or any regulation or permit issued pursuant to this chapter;
 
-        (2) to use any fishing vessel to engage in fishing after the revocation, or during the period of suspension, on an applicable permit issued pursuant to this chapter;
+        (2) to use any fishing vessel to engage in fishing after the revocation, or during the period of suspension, of an applicable permit issued pursuant to this chapter;
 
         (3) to refuse to permit any officer authorized to enforce the provisions of this chapter to board a fishing vessel subject to such person’s control for the purposes of conducting any search, investigation, or inspection in connection with the enforcement of this chapter or any regulation, permit, or the Convention;
 
@@ -51,7 +51,11 @@
 
         In the case of any fish described in subsection (a) offered for entry into the United States, the Secretary of Commerce shall require proof satisfactory to the Secretary that such fish is not ineligible for such entry under the terms of [section 6905(a) of this title][/us/usc/t16/s6905/a].
 
-([Pub. L. 109–479, title V, § 507][/us/pl/109/479/s507], Jan. 12, 2007, [120 Stat. 3641][/us/stat/120/3641].)
+([Pub. L. 109–479, title V, § 507][/us/pl/109/479/s507], Jan. 12, 2007, [120 Stat. 3641][/us/stat/120/3641]; [Pub. L. 114–81, title I, § 105(2)][/us/pl/114/81/s105/2], Nov. 5, 2015, [129 Stat. 657][/us/stat/129/657].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–81][/us/pl/114/81] substituted “suspension, of” for “suspension, on”.
 
 ----------
 
@@ -66,5 +70,8 @@
 [/us/usc/t16/s6905/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6905%2Fa
 [/us/pl/109/479/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F479%2Fs507
 [/us/stat/120/3641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3641
+[/us/pl/114/81/s105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81%2Fs105%2F2
+[/us/stat/129/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F657
+[/us/pl/114/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F81
 
 
