@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s621.md) | [Next](./../../../..//us/usc/t47/ch6/schI/m__us_usc_t47_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fch6)
+[Previous](./../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s622.md) | [Next](./../../../..//us/usc/t47/ch6/schI/m__us_usc_t47_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fch6)
 
 ## CHAPTER 6—COMMUNICATIONS SATELLITE SYSTEM
 
@@ -331,7 +331,7 @@ Part E—Definitions  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s621.md) | [Next](./../../../..//us/usc/t47/ch6/schI/m__us_usc_t47_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fch6)
+[Previous](./../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s622.md) | [Next](./../../../..//us/usc/t47/ch6/schI/m__us_usc_t47_ch6_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fch6)
 
 ----------
 ----------

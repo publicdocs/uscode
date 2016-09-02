@@ -233,11 +233,19 @@
 
     (k) __Reports on average prices__ 
 
-    The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment, of—
+        (1) __In general__ 
 
-        (1) cable systems that the Commission has found are subject to effective competition under subsection (a)(2) of this section, compared with
+            The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment of cable systems that the Commission has found are subject to effective competition under subsection (a)(2) compared with cable systems that the Commission has found are not subject to such effective competition.
 
-        (2) cable systems that the Commission has found are not subject to such effective competition.
+        (2) __Inclusion in annual report__ 
+
+            (A) __In general__ 
+
+                The Commission shall include in its report under paragraph (1) the aggregate average total amount paid by cable systems in compensation under [section 325 of this title][/us/usc/t47/s325].
+
+            (B) __Form__ 
+
+                The Commission shall publish information under this paragraph in a manner substantially similar to the way other comparable information is published in such report.
 
     (l) __Definitions__ 
 
@@ -283,9 +291,31 @@
 
         Notwithstanding any other provision of this section or of [section 532 of this title][/us/usc/t47/s532], losses associated with a cable system (including losses associated with the grant or award of a franchise) that were incurred prior to September 4, 1992, with respect to a cable system that is owned and operated by the original franchisee of such system shall not be disallowed, in whole or in part, in the determination of whether the rates for any tier of service or any type of equipment that is subject to regulation under this section are lawful.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 623, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2788][/us/stat/98/2788]; amended [Pub. L. 102–385, § 3(a)][/us/pl/102/385/s3/a], Oct. 5, 1992, [106 Stat. 1464][/us/stat/106/1464]; [Pub. L. 104–104, title III, § 301(b)][/us/pl/104/104/s301/b], (c), (j), (k)(1), Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114], 116, 118.)
+    (o) __Streamlined petition process for small cable operators__ 
+
+        (1) __In general__ 
+
+            Not later than 180 days after December 4, 2014, the Commission shall complete a rulemaking to establish a streamlined process for filing of an effective competition petition pursuant to this section for small cable operators, particularly those who serve primarily rural areas.
+
+        (2) __Construction__ 
+
+            Nothing in this subsection shall be construed to have any effect on the duty of a small cable operator to prove the existence of effective competition under this section.
+
+        (3) __Definition of small cable operator__ 
+
+            In this subsection, the term “small cable operator” has the meaning given the term in subsection (m)(2).
+
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 623, as added [Pub. L. 98–549, § 2][/us/pl/98/549/s2], Oct. 30, 1984, [98 Stat. 2788][/us/stat/98/2788]; amended [Pub. L. 102–385, § 3(a)][/us/pl/102/385/s3/a], Oct. 5, 1992, [106 Stat. 1464][/us/stat/106/1464]; [Pub. L. 104–104, title III, § 301(b)][/us/pl/104/104/s301/b], (c), (j), (k)(1), Feb. 8, 1996, [110 Stat. 114][/us/stat/110/114], 116, 118; [Pub. L. 113–200, title I][/us/pl/113/200], §§ 110, 111, Dec. 4, 2014, [128 Stat. 2065][/us/stat/128/2065], 2066.)
 
  __Amendments__ 
+
+    2014—Subsec. (k). [Pub. L. 113–200, § 110][/us/pl/113/200/s110], amended subsec. (k) generally. Prior to amendment, text read as follows: “The Commission shall annually publish statistical reports on the average rates for basic cable service and other cable programming, and for converter boxes, remote control units, and other equipment, of—
+
+    “(1) cable systems that the Commission has found are subject to effective competition under subsection (a)(2) of this section, compared with
+
+    “(2) cable systems that the Commission has found are not subject to such effective competition.”
+
+    Subsec. (o). [Pub. L. 113–200, § 111][/us/pl/113/200/s111], added subsec. (o).
 
     1996—Subsec. (a)(7). [Pub. L. 104–104, § 301(j)][/us/pl/104/104/s301/j], added par. (7).
 
@@ -335,6 +365,7 @@
 ----------
 
 [/us/usc/t47/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs532
+[/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325
 [/us/usc/t47/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs532
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/pl/98/549/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F549%2Fs2
@@ -343,6 +374,10 @@
 [/us/stat/106/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1464
 [/us/pl/104/104/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fb
 [/us/stat/110/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F114
+[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
+[/us/stat/128/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2065
+[/us/pl/113/200/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs110
+[/us/pl/113/200/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs111
 [/us/pl/104/104/s301/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fj
 [/us/pl/104/104/s301/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fb%2F1%2FA
 [/us/pl/104/104/s301/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fb%2F1%2FB

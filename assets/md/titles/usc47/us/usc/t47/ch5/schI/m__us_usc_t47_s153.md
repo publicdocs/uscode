@@ -435,6 +435,18 @@ Section 19 of act July 16, 1952, provided that:
 
  __Definitions__ 
 
+[Pub. L. 113–200, title I, § 112][/us/pl/113/200/s112], Dec. 4, 2014, [128 Stat. 2066][/us/stat/128/2066], provided that: 
+
+> “In this title \[amending sections 325, 338, 534, and 543 of this title and enacting provisions set out as notes under sections 325, 338, and 534 of this title\]:
+
+>     “(1)  __Appropriate congressional committees__  __.—__ 
+
+>     The term ‘appropriate congressional committees’ means the Committee on Energy and Commerce and the Committee on the Judiciary of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on the Judiciary of the Senate.
+
+>     “(2)  __Commission__  __.—__ 
+
+>     The term ‘Commission’ means the Federal Communications Commission.”
+
 [Pub. L. 111–260, title II, § 206][/us/pl/111/260/s206], Oct. 8, 2010, [124 Stat. 2776][/us/stat/124/2776], provided that: 
 
 > “In this title \[amending sections 303, 330, and 613 of this title and enacting provisions set out as notes under sections 303 and 613 of this title\]:
@@ -570,6 +582,8 @@ Section 19 of act July 16, 1952, provided that:
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
 [/us/stat/50/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F1121
 [/us/usc/t33/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1602
+[/us/pl/113/200/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs112
+[/us/stat/128/2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2066
 [/us/pl/111/260/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F260%2Fs206
 [/us/stat/124/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2776
 [/us/usc/t47/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs613

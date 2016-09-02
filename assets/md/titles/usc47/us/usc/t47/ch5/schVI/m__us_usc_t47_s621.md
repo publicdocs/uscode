@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s620.md) | [Next](./../../../../..//us/usc/t47/ch6/m__us_usc_t47_ch6.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs621)
+[Previous](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s620.md) | [Next](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s622.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs621)
 
 ## § 621. Rulemaking on loud commercials required
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s620.md) | [Next](./../../../../..//us/usc/t47/ch6/m__us_usc_t47_ch6.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs621)
+[Previous](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s620.md) | [Next](./../../../../..//us/usc/t47/ch5/schVI/m__us_usc_t47_s622.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs621)
 
 ----------
 ----------

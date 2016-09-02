@@ -23,6 +23,16 @@
 
     This chapter, referred to in text, was in the original “this Act”, meaning [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], [48 Stat. 1064][/us/stat/48/1064], known as the Communications Act of 1934, which enacted this chapter, amended [section 35 of this title][/us/usc/t47/s35], [section 21 of Title 15][/us/usc/t15/s21], Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–200, § 1(a)][/us/pl/113/200/s1/a], Dec. 4, 2014, [128 Stat. 2059][/us/stat/128/2059], provided that: 
+
+> “This Act \[amending sections 325, 338, 534, and 543 of this title and sections 111, 119, and 122 of Title 17, Copyrights, enacting provisions set out as notes under sections 153, 325, 338, and 534 of this title and [section 111 of Title 17][/us/usc/t17/s111], and repealing provisions set out as a note under [section 119 of Title 17][/us/usc/t17/s119]\] may be cited as the ‘STELA Reauthorization Act of 2014’.”
+
+[Pub. L. 113–197, § 1][/us/pl/113/197/s1], Nov. 26, 2014, [128 Stat. 2055][/us/stat/128/2055], provided that: 
+
+> “This Act \[enacting [section 622 of this title][/us/usc/t47/s622] and provisions set out as notes under [section 622 of this title][/us/usc/t47/s622]\] may be cited as the ‘Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014’ or the ‘E–LABEL Act’.”
+
  __Short Title of 2010 Amendment__ 
 
 [Pub. L. 111–331, § 1][/us/pl/111/331/s1], Dec. 22, 2010, [124 Stat. 3572][/us/stat/124/3572], provided that: 
@@ -282,6 +292,14 @@
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs35
 [/us/usc/t15/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs21
+[/us/pl/113/200/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs1%2Fa
+[/us/stat/128/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2059
+[/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
+[/us/usc/t17/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119
+[/us/pl/113/197/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F197%2Fs1
+[/us/stat/128/2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2055
+[/us/usc/t47/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs622
+[/us/usc/t47/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs622
 [/us/pl/111/331/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F331%2Fs1
 [/us/stat/124/3572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3572
 [/us/usc/t47/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs227

@@ -69,7 +69,7 @@
 
         (9) __Notification__ 
 
-            A cable operator shall provide written notice to a local commercial television station at least 30 days prior to either deleting from carriage or repositioning that station. No deletion or repositioning of a local commercial television station shall occur during a period in which major television ratings services measure the size of audiences of local television stations. The notification provisions of this paragraph shall not be used to undermine or evade the channel positioning or carriage requirements imposed upon cable operators under this section.
+            A cable operator shall provide written notice to a local commercial television station at least 30 days prior to either deleting from carriage or repositioning that station. The notification provisions of this paragraph shall not be used to undermine or evade the channel positioning or carriage requirements imposed upon cable operators under this section.
 
         (10) __Compensation for carriage__ 
 
@@ -157,13 +157,15 @@
 
                  In considering requests filed pursuant to clause (i), the Commission shall afford particular attention to the value of localism by taking into account such factors as—
 
-                    (I) whether the station, or other stations located in the same area, have been historically carried on the cable system or systems within such community;
+                    (I) whether the station, or other stations located in the same area, have been historically carried on the cable system or systems within such community or on the satellite carrier or carriers serving such community;
 
                     (II) whether the television station provides coverage or other local service to such community;
 
-                    (III) whether any other television station that is eligible to be carried by a cable system in such community in fulfillment of the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
+                    (III) whether modifying the market of the television station would promote consumers’ access to television broadcast station signals that originate in their State of residence;
 
-                    (IV) evidence of viewing patterns in cable and noncable households within the areas served by the cable system or systems in such community.
+                    (IV) whether any other television station that is eligible to be carried by a cable system in such community in fulfillment of the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
+
+                    (V) evidence of viewing patterns in households that subscribe and do not subscribe to the services offered by multichannel video programming distributors within the areas served by such multichannel video programming distributors in such community.
 
                 (iii) A cable operator shall not delete from carriage the signal of a commercial television station during the pendency of any proceeding pursuant to this subparagraph.
 
@@ -187,13 +189,27 @@
 
             Nothing in this paragraph shall be construed to change the secondary status of any low power station as provided in part 74 of title 47, Code of Federal Regulations, as in effect on October 5, 1992.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 614, as added [Pub. L. 102–385, § 4][/us/pl/102/385/s4], Oct. 5, 1992, [106 Stat. 1471][/us/stat/106/1471]; amended [Pub. L. 104–104, title III, § 301(d)(1)][/us/pl/104/104/s301/d/1], Feb. 8, 1996, [110 Stat. 116][/us/stat/110/116].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title VI, § 614, as added [Pub. L. 102–385, § 4][/us/pl/102/385/s4], Oct. 5, 1992, [106 Stat. 1471][/us/stat/106/1471]; amended [Pub. L. 104–104, title III, § 301(d)(1)][/us/pl/104/104/s301/d/1], Feb. 8, 1996, [110 Stat. 116][/us/stat/110/116]; [Pub. L. 113–200, title I][/us/pl/113/200], §§ 102(b), 105(a), Dec. 4, 2014, [128 Stat. 2061][/us/stat/128/2061], 2063.)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (g)(1), was in the original “this Act”, meaning [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], [48 Stat. 1064][/us/stat/48/1064], known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title][/us/usc/t47/s609] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(9). [Pub. L. 113–200, § 105(a)][/us/pl/113/200/s105/a], struck out “No deletion or repositioning of a local commercial television station shall occur during a period in which major television ratings services measure the size of audiences of local television stations.” after “that station.”
+
+    Subsec. (h)(1)(C)(ii)(I). [Pub. L. 113–200, § 102(b)(1)(A)][/us/pl/113/200/s102/b/1/A], substituted “community or on the satellite carrier or carriers serving such community” for “community”.
+
+    Subsec. (h)(1)(C)(ii)(III). [Pub. L. 113–200, § 102(b)(1)(C)][/us/pl/113/200/s102/b/1/C], added subcl. (III). Former subcl. (III) redesignated (IV).
+
+    Subsec. (h)(1)(C)(ii)(IV). [Pub. L. 113–200, § 102(b)(1)(B)][/us/pl/113/200/s102/b/1/B], redesignated subcl. (III) as (IV). Former subcl. (IV) redesignated (V).
+
+    Subsec. (h)(1)(C)(ii)(V). [Pub. L. 113–200, § 102(b)(1)(D)][/us/pl/113/200/s102/b/1/D], amended subcl. (V) generally. Prior to amendment, subcl. (V) read as follows: “evidence of viewing patterns in cable and noncable households within the areas served by the cable system or systems in such community.”
+
+    [Pub. L. 113–200, § 102(b)(1)(B)][/us/pl/113/200/s102/b/1/B], redesignated subcl. (IV) as (V).
+
+    Subsec. (h)(1)(C)(iv). [Pub. L. 113–200, § 102(b)(2)][/us/pl/113/200/s102/b/2], realigned margins.
 
     1996—Subsec. (h)(1)(C)(i). [Pub. L. 104–104, § 301(d)(1)(A)][/us/pl/104/104/s301/d/1/A], substituted “by the Commission by regulation or order using, where available, commercial publications which delineate television markets based on viewing patterns,” for “in the manner provided in section 73.3555(d)(3)(i) of title 47, Code of Federal Regulations, as in effect on May 1, 1991,”.
 
@@ -202,6 +218,12 @@
  __Effective Date__ 
 
     Section effective 60 days after Oct. 5, 1992, see [section 28 of Pub. L. 102–385][/us/pl/102/385/s28], set out as an Effective Date of 1992 Amendment note under [section 325 of this title][/us/usc/t47/s325].
+
+ __Revision of Rules__ 
+
+[Pub. L. 113–200, title I, § 105(b)][/us/pl/113/200/s105/b], Dec. 4, 2014, [128 Stat. 2063][/us/stat/128/2063], provided that: 
+
+> “Not later than 90 days after the date of the enactment of this Act \[Dec. 4, 2014\], the \[Federal Communications\] Commission shall revise section 76.1601 of its rules (47 CFR 76.1601) and any note to such section by removing the prohibition against deletion or repositioning of a local commercial television station during a period in which major television ratings services measure the size of audiences of local television stations.”
 
  __Application to Pending Requests__ 
 
@@ -230,13 +252,24 @@
 [/us/stat/106/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1471
 [/us/pl/104/104/s301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fd%2F1
 [/us/stat/110/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F116
+[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
+[/us/stat/128/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2061
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
+[/us/pl/113/200/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs105%2Fa
+[/us/pl/113/200/s102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs102%2Fb%2F1%2FA
+[/us/pl/113/200/s102/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs102%2Fb%2F1%2FC
+[/us/pl/113/200/s102/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs102%2Fb%2F1%2FB
+[/us/pl/113/200/s102/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs102%2Fb%2F1%2FD
+[/us/pl/113/200/s102/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs102%2Fb%2F1%2FB
+[/us/pl/113/200/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs102%2Fb%2F2
 [/us/pl/104/104/s301/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fd%2F1%2FA
 [/us/pl/104/104/s301/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fd%2F1%2FB
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/usc/t47/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325
+[/us/pl/113/200/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs105%2Fb
+[/us/stat/128/2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2063
 [/us/pl/104/104/s301/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs301%2Fd%2F2
 [/us/stat/110/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F116
 [/us/usc/t47/s534/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs534%2Fh%2F1%2FC

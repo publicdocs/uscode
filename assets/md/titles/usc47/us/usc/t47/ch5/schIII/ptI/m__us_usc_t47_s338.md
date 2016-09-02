@@ -309,7 +309,57 @@
 
             The term “television broadcast station” has the meaning given such term in [section 325(b)(7) of this title][/us/usc/t47/s325/b/7].
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 338, as added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1008(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–531; amended [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title II, §§ 203, 205, 206(a), 210\], Dec. 8, 2004, [118 Stat. 3414][/us/stat/118/3414], 3424, 3425, 3429; [Pub. L. 111–175, title II][/us/pl/111/175], §§ 204(a), 207, May 27, 2010, [124 Stat. 1246][/us/stat/124/1246], 1253.)
+    (l) __Market determinations__ 
+
+        (1) __In general__ 
+
+            Following a written request, the Commission may, with respect to a particular commercial television broadcast station, include additional communities within its local market or exclude communities from such station’s local market to better effectuate the purposes of this section.
+
+        (2) __Considerations__ 
+
+        In considering requests filed under paragraph (1), the Commission—
+
+            (A) may determine that particular communities are part of more than one local market; and
+
+            (B)
+
+             shall afford particular attention to the value of localism by taking into account such factors as—
+
+                (i)
+
+                 whether the station, or other stations located in the same area—
+
+                    (I) have been historically carried on the cable system or systems within such community; or
+
+                    (II) have been historically carried on the satellite carrier or carriers serving such community;
+
+                (ii) whether the television station provides coverage or other local service to such community;
+
+                (iii) whether modifying the local market of the television station would promote consumers’ access to television broadcast station signals that originate in their State of residence;
+
+                (iv) whether any other television station that is eligible to be carried by a satellite carrier in such community in fulfillment of the requirements of this section provides news coverage of issues of concern to such community or provides carriage or coverage of sporting and other events of interest to the community; and
+
+                (v) evidence of viewing patterns in households that subscribe and do not subscribe to the services offered by multichannel video programming distributors within the areas served by such multichannel video programming distributors in such community.
+
+        (3) __Carriage of signals__ 
+
+            (A) __Carriage obligation__ 
+
+                A market determination under this subsection shall not create additional carriage obligations for a satellite carrier if it is not technically and economically feasible for such carrier to accomplish such carriage by means of its satellites in operation at the time of the determination.
+
+            (B) __Deletion of signals__ 
+
+                A satellite carrier shall not delete from carriage the signal of a commercial television broadcast station during the pendency of any proceeding under this subsection.
+
+        (4) __Determinations__ 
+
+            Not later than 120 days after the date that a written request is filed under paragraph (1), the Commission shall grant or deny the request.
+
+        (5) __No effect on eligibility to receive distant signals__ 
+
+            No modification of a commercial television broadcast station’s local market pursuant to this subsection shall have any effect on the eligibility of households in the community affected by such modification to receive distant signals pursuant to [section 339 of this title][/us/usc/t47/s339], notwithstanding subsection (h)(1) of this section.
+
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 338, as added [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1008(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–531; amended [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title II, §§ 203, 205, 206(a), 210\], Dec. 8, 2004, [118 Stat. 3414][/us/stat/118/3414], 3424, 3425, 3429; [Pub. L. 111–175, title II][/us/pl/111/175], §§ 204(a), 207, May 27, 2010, [124 Stat. 1246][/us/stat/124/1246], 1253; [Pub. L. 113–200, title I, § 102(a)][/us/pl/113/200/s102/a], Dec. 4, 2014, [128 Stat. 2060][/us/stat/128/2060].)
 
  __References in Text__ 
 
@@ -322,6 +372,8 @@
     For the effective date of this subsection, referred to in subsec. (i)(1), as 60 days after Dec. 8, 2004, see [section 206(b) of Pub. L. 108–447][/us/pl/108/447/s206/b], set out as an Effective Date of 2004 Amendment note below.
 
  __Amendments__ 
+
+    2014—Subsec. (l). [Pub. L. 113–200][/us/pl/113/200] added subsec. (l).
 
     2010—Subsec. (a)(3). [Pub. L. 111–175, § 204(a)(1)][/us/pl/111/175/s204/a/1], struck out par. (3) relating to effective date. Text read as follows: “No satellite carrier shall be required to carry local television broadcast stations under paragraph (1) until January 1, 2002.”
 
@@ -366,6 +418,68 @@
 [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title II, § 206(b)\], Dec. 8, 2004, [118 Stat. 3428][/us/stat/118/3428], provided that: 
 
 > “Section 338(i) of the Communications Act of 1934 ([47 U.S.C. 338(i)][/us/usc/t47/s338/i]) as amended by subsection (a) of this section shall be effective 60 days after the date of enactment of this Act \[Dec. 8, 2004\].”
+
+ __Market Modification Process__ 
+
+[Pub. L. 113–200, title I, § 102(c)][/us/pl/113/200/s102/c], Dec. 4, 2014, [128 Stat. 2061][/us/stat/128/2061], provided that: 
+
+> “The \[Federal Communications\] Commission shall make information available to consumers on its website that explains the market modification process, including—
+
+>     “(1)
+
+>      who may petition to include additional communities within, or exclude communities from, a—
+
+>         “(A) local market (as defined in [section 122(j) of title 17][/us/usc/t17/s122/j], United States Code); or
+
+>         “(B) television market (as determined under section 614(h)(1)(C) of the Communications Act of 1934 ([47 U.S.C. 534(h)(1)(C)][/us/usc/t47/s534/h/1/C])); and
+
+>     “(2) the factors that the Commission takes into account when responding to a petition described in paragraph (1).”
+
+ __Implementation__ 
+
+[Pub. L. 113–200, title I, § 102(d)][/us/pl/113/200/s102/d], Dec. 4, 2014, [128 Stat. 2061][/us/stat/128/2061], provided that:
+
+>     “(1)  __Deadline for regulations__  __.—__ 
+
+>     Not later than 9 months after the date of the enactment of this Act \[Dec. 4, 2014\], the \[Federal Communications\] Commission shall promulgate regulations to implement this section \[amending this section and [section 534 of this title][/us/usc/t47/s534] and enacting provisions set out as notes under this section\] and the amendments made by this section.
+
+>     “(2)  __Matters for consideration__  __.—__ 
+
+>     As part of the rulemaking required by paragraph (1), the Commission shall ensure that procedures for the filing and consideration of a written request under sections 338(l) and 614(h)(1)(C) of the Communications Act of 1934 ([47 U.S.C. 338][/us/usc/t47/s338](l); 534(h)(1)(C)) fully effectuate the purposes of the amendments made by this section, and update what it considers to be a community for purposes of a modification of a market under section 338(l) or 614(h)(1)(C) of the Communications Act of 1934.”
+
+ __Local Network Channel Broadcast Reports__ 
+
+[Pub. L. 113–200, title I, § 108][/us/pl/113/200/s108], Dec. 4, 2014, [128 Stat. 2064][/us/stat/128/2064], provided that:
+
+>     “(a) __Requirement.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         On the 270th day after the date of the enactment of this Act \[Dec. 4, 2014\], and on each succeeding anniversary of such 270th day, each satellite carrier shall submit an annual report to the \[Federal Communications\] Commission setting forth—
+
+>             “(A)
+
+>              each local market in which it—
+
+>                 “(i) retransmits signals of 1 or more television broadcast stations with a community of license in that market;
+
+>                 “(ii) has commenced providing such signals in the preceding 1-year period; and
+
+>                 “(iii) has ceased to provide such signals in the preceding 1-year period; and
+
+>             “(B) detailed information regarding the use and potential use of satellite capacity for the retransmission of local signals in each local market.
+
+>         “(2)  __Termination__  __.—__ 
+
+>         The requirement under paragraph (1) shall cease after each satellite carrier has submitted 5 reports under such paragraph.
+
+>     “(b)  __Definitions__  __.—__ 
+
+>     In this section—
+
+>         “(1) the terms ‘local market’ and ‘satellite carrier’ have the meaning given such terms in section 339(d) of the Communications Act of 1934 ([47 U.S.C. 339(d)][/us/usc/t47/s339/d]); and
+
+>         “(2) the term ‘television broadcast station’ has the meaning given such term in section 325(b)(7) of the Communications Act of 1934 ([47 U.S.C. 325(b)(7)][/us/usc/t47/s325/b/7]).”
 
  __Application Pending Completion of Rulemakings__ 
 
@@ -507,6 +621,7 @@
 [/us/usc/t17/s119/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs119%2Fd
 [/us/usc/t17/s122/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs122%2Fj
 [/us/usc/t47/s325/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325%2Fb%2F7
+[/us/usc/t47/s339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs339
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
@@ -514,6 +629,8 @@
 [/us/stat/118/3414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3414
 [/us/pl/111/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175
 [/us/stat/124/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1246
+[/us/pl/113/200/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs102%2Fa
+[/us/stat/128/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2060
 [/us/act/1934-06-19/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-19%2Fch652
 [/us/stat/48/1064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1064
 [/us/usc/t47/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs609
@@ -527,6 +644,7 @@
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
 [/us/pl/108/447/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs206%2Fb
+[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
 [/us/pl/111/175/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fa%2F1
 [/us/pl/111/175/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs207%2Fa
 [/us/pl/111/175/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs204%2Fa%2F2
@@ -550,6 +668,18 @@
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3428
 [/us/usc/t47/s338/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs338%2Fi
+[/us/pl/113/200/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs102%2Fc
+[/us/stat/128/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2061
+[/us/usc/t17/s122/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs122%2Fj
+[/us/usc/t47/s534/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs534%2Fh%2F1%2FC
+[/us/pl/113/200/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs102%2Fd
+[/us/stat/128/2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2061
+[/us/usc/t47/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs534
+[/us/usc/t47/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs338
+[/us/pl/113/200/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs108
+[/us/stat/128/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2064
+[/us/usc/t47/s339/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs339%2Fd
+[/us/usc/t47/s325/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325%2Fb%2F7
 [/us/pl/111/175/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs205
 [/us/stat/124/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1250
 [/us/pl/111/175/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs307%2Fa

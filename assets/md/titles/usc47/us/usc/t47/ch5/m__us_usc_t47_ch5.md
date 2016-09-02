@@ -2023,6 +2023,14 @@ SUBCHAPTER VI—MISCELLANEOUS PROVISIONS  </td>
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs622" data-uslm-ref="/us/usc/t47/s622">622.</a>  </td>
+
+    <td> Optional electronic labeling of communications equipment.  </td>
+
+  </tr>
+
 </table>
 
 ----------

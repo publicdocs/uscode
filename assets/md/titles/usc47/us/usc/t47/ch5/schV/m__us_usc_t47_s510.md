@@ -43,6 +43,10 @@
 
 ([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title V, § 510, as added [Pub. L. 97–259, title I, § 125][/us/pl/97/259/s125], Sept. 13, 1982, [96 Stat. 1098][/us/stat/96/1098].)
 
+ __References in Text__ 
+
+    The supplemental rules for certain admiralty and maritime claims, referred to in subsec. (b), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
  __Prior Provisions__ 
 
     A prior section 510, [act June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title V, § 510, as added May 11, 1962, [Pub. L. 87–448, § 1][/us/pl/87/448/s1], [76 Stat. 68][/us/stat/76/68], related to forfeitures for violations of rules and regulations by radio stations operating in common carrier, safety and special radio fields, prior to repeal effective the thirtieth day after Feb. 21, 1978, by [Pub. L. 95–234][/us/pl/95/234], §§ 4, 7, Feb. 21, 1978, [92 Stat. 35][/us/stat/92/35].

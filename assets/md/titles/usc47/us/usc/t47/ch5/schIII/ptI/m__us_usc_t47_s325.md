@@ -49,7 +49,7 @@
 
             (C)
 
-             until December 31, 2014, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
+             until December 31, 2019, to retransmission of the signals of network stations directly to a home satellite antenna, if the subscriber receiving the signal—
 
                 (i) is located in an area outside the local market of such stations; and
 
@@ -79,9 +79,13 @@
 
                 (i) establish election time periods that correspond with those regulations adopted under subparagraph (B) of this paragraph;
 
-                (ii) until January 1, 2015, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations; and
+                (ii) until January 1, 2020, prohibit a television broadcast station that provides retransmission consent from engaging in exclusive contracts for carriage or failing to negotiate in good faith, and it shall not be a failure to negotiate in good faith if the television broadcast station enters into retransmission consent agreements containing different terms and conditions, including price terms, with different multichannel video programming distributors if such different terms and conditions are based on competitive marketplace considerations;
 
-                (iii) until January 1, 2015, prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations.
+                (iii) until January 1, 2020, prohibit a multichannel video programming distributor from failing to negotiate in good faith for retransmission consent under this section, and it shall not be a failure to negotiate in good faith if the distributor enters into retransmission consent agreements containing different terms and conditions, including price terms, with different broadcast stations if such different terms and conditions are based on competitive marketplace considerations;
+
+                (iv) prohibit a television broadcast station from coordinating negotiations or negotiating on a joint basis with another television broadcast station in the same local market (as defined in [section 122(j) of title 17][/us/usc/t17/s122/j]) to grant retransmission consent under this section to a multichannel video programming distributor, unless such stations are directly or indirectly under common de jure control permitted under the regulations of the Commission; and
+
+                (v) prohibit a television broadcast station from limiting the ability of a multichannel video programming distributor to carry into the local market (as defined in [section 122(j) of title 17][/us/usc/t17/s122/j]) of such station a television signal that has been deemed significantly viewed, within the meaning of section 76.54 of title 47, Code of Federal Regulations, or any successor regulation, or any other television broadcast signal such distributor is authorized to carry under section 338, 339, 340, or 534 of this title, unless such stations are directly or indirectly under common de jure control permitted by the Commission.
 
         (4) If an originating television station elects under paragraph (3)(B) to exercise its right to grant retransmission consent under this subsection with respect to a cable system, the provisions of [section 534 of this title][/us/usc/t47/s534] shall not apply to the carriage of the signal of such station by such cable system. If an originating television station elects under paragraph (3)(C) to exercise its right to grant retransmission consent under this subsection with respect to a satellite carrier, [section 338 of this title][/us/usc/t47/s338] shall not apply to the carriage of the signal of such station by such satellite carrier.
 
@@ -221,9 +225,21 @@
 
             No complaint or civil action may be filed under this subsection after December 31, 2001. This subsection shall continue to apply to any complaint or civil action filed on or before such date.
 
-([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 325, [48 Stat. 1091][/us/stat/48/1091]; [Pub. L. 102–385, § 6][/us/pl/102/385/s6], Oct. 5, 1992, [106 Stat. 1482][/us/stat/106/1482]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1009\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–537; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title II, §§ 201, 207(a)\], Dec. 8, 2004, [118 Stat. 3409][/us/stat/118/3409], 3428; [Pub. L. 111–118, div. B, § 1003(b)][/us/pl/111/118/s1003/b], Dec. 19, 2009, [123 Stat. 3469][/us/stat/123/3469]; [Pub. L. 111–144, § 10(b)][/us/pl/111/144/s10/b], Mar. 2, 2010, [124 Stat. 47][/us/stat/124/47]; [Pub. L. 111–151, § 2(b)][/us/pl/111/151/s2/b], Mar. 26, 2010, [124 Stat. 1027][/us/stat/124/1027]; [Pub. L. 111–157, § 9(b)][/us/pl/111/157/s9/b], Apr. 15, 2010, [124 Stat. 1119][/us/stat/124/1119]; [Pub. L. 111–175, title II, § 202][/us/pl/111/175/s202], May 27, 2010, [124 Stat. 1245][/us/stat/124/1245].)
+([June 19, 1934, ch. 652][/us/act/1934-06-19/ch652], title III, § 325, [48 Stat. 1091][/us/stat/48/1091]; [Pub. L. 102–385, § 6][/us/pl/102/385/s6], Oct. 5, 1992, [106 Stat. 1482][/us/stat/106/1482]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1009\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–537; [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title II, §§ 201, 207(a)\], Dec. 8, 2004, [118 Stat. 3409][/us/stat/118/3409], 3428; [Pub. L. 111–118, div. B, § 1003(b)][/us/pl/111/118/s1003/b], Dec. 19, 2009, [123 Stat. 3469][/us/stat/123/3469]; [Pub. L. 111–144, § 10(b)][/us/pl/111/144/s10/b], Mar. 2, 2010, [124 Stat. 47][/us/stat/124/47]; [Pub. L. 111–151, § 2(b)][/us/pl/111/151/s2/b], Mar. 26, 2010, [124 Stat. 1027][/us/stat/124/1027]; [Pub. L. 111–157, § 9(b)][/us/pl/111/157/s9/b], Apr. 15, 2010, [124 Stat. 1119][/us/stat/124/1119]; [Pub. L. 111–175, title II, § 202][/us/pl/111/175/s202], May 27, 2010, [124 Stat. 1245][/us/stat/124/1245]; [Pub. L. 113–200, title I][/us/pl/113/200], §§ 101, 103(a), (b), (d), Dec. 4, 2014, [128 Stat. 2060][/us/stat/128/2060], 2062.)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(2)(C). [Pub. L. 113–200, § 101(1)][/us/pl/113/200/s101/1], substituted “December 31, 2019” for “December 31, 2014” in introductory provisions.
+
+    Subsec. (b)(3)(C)(ii). [Pub. L. 113–200, § 101(2)][/us/pl/113/200/s101/2], substituted “January 1, 2020” for “January 1, 2015”.
+
+    Subsec. (b)(3)(C)(iii). [Pub. L. 113–200][/us/pl/113/200], §§ 101(2), 103(d)(1), substituted “January 1, 2020” for “January 1, 2015” and realigned margins.
+
+    Subsec. (b)(3)(C)(iv). [Pub. L. 113–200, § 103(a)][/us/pl/113/200/s103/a], added cl. (iv).
+
+    Subsec. (b)(3)(C)(v). [Pub. L. 113–200, § 103(b)][/us/pl/113/200/s103/b], added cl. (v).
+
+    Subsec. (b)(7). [Pub. L. 113–200, § 103(d)(2)][/us/pl/113/200/s103/d/2], realigned margins.
 
     2010—Subsec. (b)(2)(C). [Pub. L. 111–175, § 202(1)][/us/pl/111/175/s202/1], substituted “December 31, 2014” for “May 31, 2010” in introductory provisions.
 
@@ -297,6 +313,10 @@
 
  __Regulations__ 
 
+[Pub. L. 113–200, title I, § 103(e)][/us/pl/113/200/s103/e], Dec. 4, 2014, [128 Stat. 2062][/us/stat/128/2062], provided that: 
+
+> “Not later than 9 months after the date of the enactment of this Act \[Dec. 4, 2014\], the \[Federal Communications\] Commission shall promulgate regulations to implement the amendments made by this section \[amending this section\].”
+
 [Pub. L. 108–447, div. J, title IX][/us/pl/108/447] \[title II, § 207(b)\], Dec. 8, 2004, [118 Stat. 3428][/us/stat/118/3428], provided that: 
 
 > “The Federal Communications Commission shall prescribe regulations to implement the amendment made by subsection (a)(5) \[amending this section\] within 180 days after the date of enactment of this Act \[Dec. 8, 2004\].”
@@ -316,6 +336,12 @@
 [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title I, § 1010\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–543, provided that: 
 
 > “If any provision of section 325(b) of the Communications Act of 1934 ([47 U.S.C. 325(b)][/us/usc/t47/s325/b]), or the application of that provision to any person or circumstance, is held by a court of competent jurisdiction to violate any provision of the Constitution of the United States, then the other provisions of that section, and the application of that provision to other persons and circumstances, shall not be affected.”
+
+ __Good Faith__ 
+
+[Pub. L. 113–200, title I, § 103(c)][/us/pl/113/200/s103/c], Dec. 4, 2014, [128 Stat. 2062][/us/stat/128/2062], provided that: 
+
+> “Not later than 9 months after the date of the enactment of this Act \[Dec. 4, 2014\], the \[Federal Communications\] Commission shall commence a rulemaking to review its totality of the circumstances test for good faith negotiations under clauses (ii) and (iii) of section 325(b)(3)(C) of the Communications Act of 1934 ([47 U.S.C. 325(b)(3)(C)][/us/usc/t47/s325/b/3/C]).”
 
  __Digital Transition Savings Provision__ 
 
@@ -344,6 +370,8 @@
 [/us/usc/t47/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs534
 [/us/usc/t47/s543/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs543%2Fb%2F1
 [/us/usc/t47/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs534
+[/us/usc/t17/s122/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs122%2Fj
+[/us/usc/t17/s122/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs122%2Fj
 [/us/usc/t47/s534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs534
 [/us/usc/t47/s338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs338
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
@@ -370,6 +398,14 @@
 [/us/stat/124/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1119
 [/us/pl/111/175/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs202
 [/us/stat/124/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1245
+[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
+[/us/stat/128/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2060
+[/us/pl/113/200/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs101%2F1
+[/us/pl/113/200/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs101%2F2
+[/us/pl/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200
+[/us/pl/113/200/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs103%2Fa
+[/us/pl/113/200/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs103%2Fb
+[/us/pl/113/200/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs103%2Fd%2F2
 [/us/pl/111/175/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs202%2F1
 [/us/pl/111/157/s9/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F157%2Fs9%2Fb%2F1
 [/us/pl/111/151/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F151%2Fs2%2Fb%2F1
@@ -399,6 +435,8 @@
 [/us/usc/t17/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs111
 [/us/pl/102/385/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F385%2Fs28
 [/us/stat/106/1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1503
+[/us/pl/113/200/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs103%2Fe
+[/us/stat/128/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2062
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3428
 [/us/pl/111/175/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F175%2Fs208
@@ -408,6 +446,9 @@
 [/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/usc/t47/s325/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325%2Fb
+[/us/pl/113/200/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F200%2Fs103%2Fc
+[/us/stat/128/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2062
+[/us/usc/t47/s325/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs325%2Fb%2F3%2FC
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/3431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3431
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
