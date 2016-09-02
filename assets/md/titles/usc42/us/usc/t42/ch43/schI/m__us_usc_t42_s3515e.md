@@ -1,7 +1,7 @@
 ---
 ---
 
-# 42 U.S.C., USLM ref /us/usc/t42/s3515
+# 42 U.S.C., USLM ref /us/usc/t42/s3515e
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch43/schI/m__us_usc_t42_s3515d.md) | [Next](./../../../../..//us/usc/t42/ch43/schII/m__us_usc_t42_ch43_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3515)
+[Previous](./../../../../..//us/usc/t42/ch43/schI/m__us_usc_t42_s3515d.md) | [Next](./../../../../..//us/usc/t42/ch43/schII/m__us_usc_t42_ch43_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3515e)
 
-## § 3515. Transfer of functions regarding independent living to Department of Health and Human Services, and savings provisions
+## § 3515e. Transfer of functions regarding independent living to Department of Health and Human Services, and savings provisions
 
     (a) __Definitions__ 
 
@@ -165,7 +165,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch43/schI/m__us_usc_t42_s3515d.md) | [Next](./../../../../..//us/usc/t42/ch43/schII/m__us_usc_t42_ch43_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3515)
+[Previous](./../../../../..//us/usc/t42/ch43/schI/m__us_usc_t42_s3515d.md) | [Next](./../../../../..//us/usc/t42/ch43/schII/m__us_usc_t42_ch43_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3515e)
 
 ----------
 ----------

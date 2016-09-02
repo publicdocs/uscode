@@ -139,6 +139,10 @@
 
     Amendment by [Pub. L. 109–482][/us/pl/109/482] applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see [section 109 of Pub. L. 109–482][/us/pl/109/482/s109], set out as a note under [section 281 of this title][/us/usc/t42/s281].
 
+ __Transfer of Functions__ 
+
+    Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of [section 3515e of Title 42][/us/usc/t42/s3515e], The Public Health and Welfare.
+
  __Preventing Duplicative Programs of Medical Rehabilitation Research__ 
 
 [Pub. L. 101–613, § 3(b)][/us/pl/101/613/s3/b], Nov. 16, 1990, [104 Stat. 3230][/us/stat/104/3230], provided that:
@@ -191,6 +195,7 @@
 [/us/pl/109/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482
 [/us/pl/109/482/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F482%2Fs109
 [/us/usc/t42/s281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs281
+[/us/usc/t42/s3515e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3515e
 [/us/pl/101/613/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F613%2Fs3%2Fb
 [/us/stat/104/3230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3230
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
