@@ -21,7 +21,7 @@
 
     (b) __Congressional legislative power under necessary and proper clause__ 
 
-        Under article I, section 8, of the Constitution, it is specifically provided that the Congress shall have the power to make all laws necessary and proper for carrying into execution, not only its own powers but also all other powers vested by the Constitution in the Government of the United States, or in any department or officer hereof.
+        Under article I, section 8, of the Constitution, it is specifically provided that the Congress shall have the power to make all laws necessary and proper for carrying into execution, not only its own powers but also all other powers vested by the Constitution in the Government of the United States, or in any department or officer thereof.
 
     (c) __Presidential executive power as Commander-in-Chief; limitation__ 
 

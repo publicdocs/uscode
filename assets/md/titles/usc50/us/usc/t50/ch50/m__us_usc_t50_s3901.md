@@ -33,6 +33,12 @@
 
 > “The amendment made by section 1 \[enacting this chapter\] shall apply to any case that is not final before the date of the enactment of this Act \[Dec. 19, 2003\].”
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–142][/us/pl/114/142], § 1, Mar. 31, 2016, [130 Stat. 326][/us/stat/130/326], provided that: 
+
+> “This Act \[amending [section 3953 of this title][/us/usc/t50/s3953] and provisions set out as notes under [section 3953 of this title][/us/usc/t50/s3953]\] may be cited as the ‘Foreclosure Relief and Extension for Servicemembers Act of 2015’.”
+
  __Short Title of 2014 Amendment__ 
 
 [Pub. L. 113–286][/us/pl/113/286], § 1, Dec. 18, 2014, [128 Stat. 3093][/us/stat/128/3093], provided that: 
@@ -78,6 +84,10 @@
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
 [/us/stat/117/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2866
+[/us/pl/114/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F142
+[/us/stat/130/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F326
+[/us/usc/t50/s3953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3953
+[/us/usc/t50/s3953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3953
 [/us/pl/113/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F286
 [/us/stat/128/3093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3093
 [/us/usc/t50/s3953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3953

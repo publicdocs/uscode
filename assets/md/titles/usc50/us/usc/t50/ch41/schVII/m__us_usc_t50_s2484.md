@@ -15,7 +15,7 @@
 
 ## § 2484. Applicability of preexisting laws and regulations
 
-    With respect to any facility, mission, or function of the Department of Energy that the Secretary of Energy transfers to the Administrator under section 3291, unless otherwise provided in this chapter, all provisions of law and regulations in effect immediately before the date of the transfer that are applicable to such facility, mission, or function shall continue to apply to the corresponding functions of the Administration.
+    With respect to any facility, mission, or function of the Department of Energy that the Secretary of Energy transfers to the Administrator under [section 2481 of this title][/us/usc/t50/s2481], unless otherwise provided in this chapter, all provisions of law and regulations in effect immediately before the date of the transfer that are applicable to such facility, mission, or function shall continue to apply to the corresponding functions of the Administration.
 
 ([Pub. L. 106–65, div. C, title XXXII][/us/pl/106/65/dC/tXXXII], § 3296, Oct. 5, 1999, [113 Stat. 971][/us/stat/113/971]; [Pub. L. 112–239, div. C, title XXXI][/us/pl/112/239/dC/tXXXI], § 3132(b)(2), Jan. 2, 2013, [126 Stat. 2186][/us/stat/126/2186].)
 
@@ -34,6 +34,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2481
 [/us/pl/106/65/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdC%2FtXXXII
 [/us/stat/113/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F971
 [/us/pl/112/239/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdC%2FtXXXI

@@ -21,7 +21,7 @@
 
     (b) __Determination of claim; rate of payment__ 
 
-        The Commission is authorized to receive and determine, according to law, the amount and validity, and provide for the payment of any claim for detention benefits filed by or on behalf of any merchant seaman who, being then a merchant seaman, was captured or interned or held by the Government of Germany or the Imperial Japanese Government, its agent or instrumentalities in World War II for any period of time subsequent to December 7, 1941, during which he was held by either such government as a prisoner, internee, hostage, or in any other capacity. Detention benefits shall be paid under this section at the rates prescribed and in the manner provided in subsections (c) and (d) of [section 4104 of this title][/us/usc/t50/s4104].
+        The Commission is authorized to receive and determine, according to law, the amount and validity, and provide for the payment of any claim for detention benefits filed by or on behalf of any merchant seaman who, being then a merchant seaman, was captured or interned or held by the Government of Germany or the Imperial Japanese Government, its agents or instrumentalities in World War II for any period of time subsequent to December 7, 1941, during which he was held by either such government as a prisoner, internee, hostage, or in any other capacity. Detention benefits shall be paid under this section at the rates prescribed and in the manner provided in subsections (c) and (d) of [section 4104 of this title][/us/usc/t50/s4104].
 
     (c) __Collaborationists excluded__ 
 
