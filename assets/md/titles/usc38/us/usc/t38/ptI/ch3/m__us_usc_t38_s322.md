@@ -71,7 +71,7 @@
 
  __References in Text__ 
 
-    The date of the enactment of this section, referred to in subsec. (e), is the date of enactment of [Pub. L. 110–389][/us/pl/110/389], which was approved Oct. 10, 2008.
+    The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of [Pub. L. 110–389][/us/pl/110/389], which was approved Oct. 10, 2008.
 
  __Amendments__ 
 

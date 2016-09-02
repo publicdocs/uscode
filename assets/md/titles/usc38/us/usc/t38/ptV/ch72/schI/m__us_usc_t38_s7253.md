@@ -159,7 +159,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-    Amendment by [Pub. L. 112–260][/us/pl/112/260] effective on the date that is 180 days after Jan. 10, 2013, see [section 302(c)(1) of Pub. L. 112–260][/us/pl/112/260/s302/c/1], set out as an Effective Date of 2013 Amendment note under [section 7255 of this title][/us/usc/t38/s7255].
+    Amendment by [Pub. L. 112–260][/us/pl/112/260] effective on the date that is 180 days after Jan. 10, 2013, see [section 302(c)(1) of Pub. L. 112–260][/us/pl/112/260/s302/c/1], set out as a note under [section 7255 of this title][/us/usc/t38/s7255].
 
 [Pub. L. 112–260, title III, § 302(c)(2)][/us/pl/112/260/s302/c/2], Jan. 10, 2013, [126 Stat. 2426][/us/stat/126/2426], provided that: 
 

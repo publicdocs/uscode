@@ -23,7 +23,7 @@
 
         (2)
 
-         who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, whose body is held by a State (or a political subdivision of a State), and with respect to whom the Secretary determines—
+         with respect to whom the Secretary determines—
 
             (A) that there is no next of kin or other person claiming the body of the deceased veteran, and
 
@@ -34,10 +34,6 @@
     (b) Except as hereafter provided in this subsection, no deduction shall be made from the burial allowance because of the veteran’s net assets at the time of the death of such veteran, or because of any contribution from any source toward the burial and funeral expenses (including transportation) unless the amount of expenses incurred is covered by the amount actually paid therefor by the United States, a State, any agency or political subdivision of the United States or of a State, or the employer of the deceased veteran. No claim shall be allowed (1) for more than the difference between the entire amount of the expenses incurred and the amount paid by any or all of the foregoing, or (2) when the burial allowance would revert to the funds of a public or private organization or would discharge such an organization’s obligation without payment. The burial allowance or any part thereof shall not be paid in any case where specific provision is otherwise made for payment of expenses of funeral, transportation, and interment under any other Act.
 
 ([Pub. L. 85–857][/us/pl/85/857], Sept. 2, 1958, [72 Stat. 1169][/us/stat/72/1169], § 902; [Pub. L. 88–359][/us/pl/88/359], July 7, 1964, [78 Stat. 296][/us/stat/78/296]; [Pub. L. 89–360][/us/pl/89/360], Mar. 7, 1966, [80 Stat. 29][/us/stat/80/29]; [Pub. L. 95–476, title II, § 203(b)][/us/pl/95/476/s203/b], Oct. 18, 1978, [92 Stat. 1506][/us/stat/92/1506]; [Pub. L. 95–479, title III, § 303(a)][/us/pl/95/479/s303/a], Oct. 18, 1978, [92 Stat. 1565][/us/stat/92/1565]; [Pub. L. 97–35, title XX, § 2001(a)(1)][/us/pl/97/35/s2001/a/1], Aug. 13, 1981, [95 Stat. 781][/us/stat/95/781]; [Pub. L. 97–306, title IV, § 403][/us/pl/97/306/s403]\[(a)\], Oct. 14, 1982, [96 Stat. 1443][/us/stat/96/1443]; [Pub. L. 101–237, title III, § 313(b)(1)][/us/pl/101/237/s313/b/1], Dec. 18, 1989, [103 Stat. 2077][/us/stat/103/2077]; renumbered § 2302, [Pub. L. 102–83, § 5(a)][/us/pl/102/83/s5/a], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 112–260, title I, § 104(b)(1)][/us/pl/112/260/s104/b/1], Jan. 10, 2013, [126 Stat. 2420][/us/stat/126/2420].)
-
- __Amendment of Subsection (a)(2)__ 
-
-    [Pub. L. 112–260, title I, § 104(b)(1)][/us/pl/112/260/s104/b/1], (3), Jan. 10, 2013, [126 Stat. 2420][/us/stat/126/2420], provided that, effective on the date that is one year after Jan. 10, 2013, and applicable with respect to burials and funerals occurring on or after that date, subsection (a)(2) of this section is amended by striking “who was a veteran of any war or was discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty, whose body is held by a State (or a political subdivision of a State), and”. See 2013 Amendment note below.
 
  __Amendments__ 
 
@@ -111,8 +107,6 @@
 [/us/stat/103/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2077
 [/us/pl/102/83/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fa
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/112/260/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs104%2Fb%2F1
-[/us/stat/126/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2420
 [/us/pl/112/260/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260%2Fs104%2Fb%2F1
 [/us/stat/126/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2420
 [/us/pl/112/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F260
