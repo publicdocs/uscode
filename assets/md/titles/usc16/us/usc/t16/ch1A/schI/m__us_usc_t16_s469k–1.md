@@ -77,9 +77,13 @@
 
         (6) __Authorization of appropriations__ 
 
-            There is authorized to be appropriated to the Secretary to provide grants under this subsection $10,000,000 for each of fiscal years 2009 through 2013.
+            There is authorized to be appropriated to the Secretary to provide grants under this subsection $10,000,000 for each of fiscal years 2009 through 2014.
 
-([Pub. L. 111–11, title VII, § 7301][/us/pl/111/11/s7301], Mar. 30, 2009, [123 Stat. 1213][/us/stat/123/1213].)
+([Pub. L. 111–11, title VII, § 7301][/us/pl/111/11/s7301], Mar. 30, 2009, [123 Stat. 1213][/us/stat/123/1213]; [Pub. L. 113–76, div. G, title IV, § 429][/us/pl/113/76/s429], Jan. 17, 2014, [128 Stat. 345][/us/stat/128/345].)
+
+ __Amendments__ 
+
+    2014—Subsec. (c)(6). [Pub. L. 113–76][/us/pl/113/76] substituted “2014” for “2013”.
 
 ----------
 
@@ -90,5 +94,8 @@
 
 [/us/pl/111/11/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs7301
 [/us/stat/123/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1213
+[/us/pl/113/76/s429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs429
+[/us/stat/128/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F345
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 
 

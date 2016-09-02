@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    For each of fiscal years 2002 through 2012 (and fiscal year 2014 in the case of the programs specified in paragraphs (3)(B), (4), (6), and (7)), the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under subchapter IV (including the provision of technical assistance):
+    For each of fiscal years 2002 through 2012 (and fiscal year 2014 in the case of the programs specified in paragraphs (3)(B), (4), and (7) and each of fiscal years 2014 and 2015 in the case of the program specified in paragraph (6)), the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under subchapter IV (including the provision of technical assistance):
 
         (1)
 
@@ -65,9 +65,11 @@
 
             (C) $1,450,000,000 in fiscal year 2010;
 
-            (D) $1,588,000,000 in fiscal year 2011; and
+            (D) $1,588,000,000 in fiscal year 2011;
 
-            (E) $1,750,000,000 in each of fiscal years 2012 through 2014.
+            (E) $1,750,000,000 in each of fiscal years 2012 through 2014; and
+
+            (F) $1,622,000,000 in fiscal year 2015.
 
         (7)
 
@@ -157,7 +159,7 @@
 
         (6) Waivers granted by the Secretary under [section 1308–3a(b)(2) of title 7][/us/usc/t7/s1308–3a/b/2] in order to protect environmentally sensitive land of special significance.
 
-([Pub. L. 99–198, title XII, § 1241][/us/pl/99/198/s1241], as added [Pub. L. 107–171, title II, § 2701][/us/pl/107/171/s2701], May 13, 2002, [116 Stat. 278][/us/stat/116/278]; amended [Pub. L. 108–7, div. N, title II][/us/pl/108/7], §§ 213, 216(c), Feb. 20, 2003, [117 Stat. 545][/us/stat/117/545], 546; [Pub. L. 108–11, title II, § 2106(a)][/us/pl/108/11/s2106/a], Apr. 16, 2003, [117 Stat. 590][/us/stat/117/590]; [Pub. L. 108–199, div. H, § 101][/us/pl/108/199/s101], Jan. 23, 2004, [118 Stat. 434][/us/stat/118/434]; [Pub. L. 108–324, div. B, § 101(e)][/us/pl/108/324/s101/e], Oct. 13, 2004, [118 Stat. 1235][/us/stat/118/1235]; [Pub. L. 108–498, § 1(a)][/us/pl/108/498/s1/a], Dec. 23, 2004, [118 Stat. 4020][/us/stat/118/4020]; [Pub. L. 109–171, title I][/us/pl/109/171], §§ 1202(b), 1203(c), Feb. 8, 2006, [120 Stat. 5][/us/stat/120/5], 6; [Pub. L. 110–234, title II][/us/pl/110/234], §§ 2701–2705, May 22, 2008, [122 Stat. 1071–1074][/us/stat/122/1071-1074]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, §§ 2701–2705, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1799–1802; [Pub. L. 112–55, div. A, title VII, § 716(d)][/us/pl/112/55/s716/d]–(f), Nov. 18, 2011, [125 Stat. 582][/us/stat/125/582].)
+([Pub. L. 99–198, title XII, § 1241][/us/pl/99/198/s1241], as added [Pub. L. 107–171, title II, § 2701][/us/pl/107/171/s2701], May 13, 2002, [116 Stat. 278][/us/stat/116/278]; amended [Pub. L. 108–7, div. N, title II][/us/pl/108/7], §§ 213, 216(c), Feb. 20, 2003, [117 Stat. 545][/us/stat/117/545], 546; [Pub. L. 108–11, title II, § 2106(a)][/us/pl/108/11/s2106/a], Apr. 16, 2003, [117 Stat. 590][/us/stat/117/590]; [Pub. L. 108–199, div. H, § 101][/us/pl/108/199/s101], Jan. 23, 2004, [118 Stat. 434][/us/stat/118/434]; [Pub. L. 108–324, div. B, § 101(e)][/us/pl/108/324/s101/e], Oct. 13, 2004, [118 Stat. 1235][/us/stat/118/1235]; [Pub. L. 108–498, § 1(a)][/us/pl/108/498/s1/a], Dec. 23, 2004, [118 Stat. 4020][/us/stat/118/4020]; [Pub. L. 109–171, title I][/us/pl/109/171], §§ 1202(b), 1203(c), Feb. 8, 2006, [120 Stat. 5][/us/stat/120/5], 6; [Pub. L. 110–234, title II][/us/pl/110/234], §§ 2701–2705, May 22, 2008, [122 Stat. 1071–1074][/us/stat/122/1071-1074]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, §§ 2701–2705, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1799–1802; [Pub. L. 112–55, div. A, title VII, § 716(d)][/us/pl/112/55/s716/d]–(f), Nov. 18, 2011, [125 Stat. 582][/us/stat/125/582]; [Pub. L. 113–76, div. A, title VII, § 750(b)][/us/pl/113/76/s750/b], Jan. 17, 2014, [128 Stat. 42][/us/stat/128/42].)
 
  __References in Text__ 
 
@@ -176,6 +178,10 @@
     Another prior section 3841, [Pub. L. 99–198, title XII, § 1241][/us/pl/99/198/s1241], Dec. 23, 1985, [99 Stat. 1514][/us/stat/99/1514], related to use of Commodity Credit Corporation, prior to the general amendment of this subchapter by [Pub. L. 104–127][/us/pl/104/127].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–76, § 750(b)(1)][/us/pl/113/76/s750/b/1], substituted “and (7) and each of fiscal years 2014 and 2015 in the case of the program specified in paragraph (6)),” for “(6), and (7)),” in introductory provisions.
+
+    Subsec. (a)(6)(F). [Pub. L. 113–76, § 750(b)(2)][/us/pl/113/76/s750/b/2], added subpar. (F).
 
     2011—Subsec. (a). [Pub. L. 112–55, § 716(e)(1)][/us/pl/112/55/s716/e/1], substituted “2012 (and fiscal year 2014 in the case of the programs specified in paragraphs (3)(B), (4), (6), and (7)),” for “2012,” in introductory provisions.
 
@@ -308,6 +314,8 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/112/55/s716/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs716%2Fd
 [/us/stat/125/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F582
+[/us/pl/113/76/s750/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs750%2Fb
+[/us/stat/128/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F42
 [/us/pl/99/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198
 [/us/usc/t16/s2005a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2005a
 [/us/usc/t7/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1981
@@ -324,6 +332,8 @@
 [/us/pl/99/198/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1241
 [/us/stat/99/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1514
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
+[/us/pl/113/76/s750/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs750%2Fb%2F1
+[/us/pl/113/76/s750/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs750%2Fb%2F2
 [/us/pl/112/55/s716/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs716%2Fe%2F1
 [/us/pl/112/55/s716/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs716%2Fe%2F2
 [/us/pl/112/55/s716/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs716%2Fd

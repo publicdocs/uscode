@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s497c.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s498.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497d)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s497c.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s497e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497d)
 
 ## § 497d. Recreation residence fees
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s497c.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s498.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497d)
+[Previous](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s497c.md) | [Next](./../../../../..//us/usc/t16/ch2/schI/m__us_usc_t16_s497e.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs497d)
 
 ----------
 ----------

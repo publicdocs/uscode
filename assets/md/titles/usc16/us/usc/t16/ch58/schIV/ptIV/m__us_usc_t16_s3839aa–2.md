@@ -17,7 +17,7 @@
 
     (a) __Establishment__ 
 
-        During each of the 2002 through 2014 fiscal years, the Secretary shall provide payments to producers that enter into contracts with the Secretary under the program.
+        During each of the 2002 through 2015 fiscal years, the Secretary shall provide payments to producers that enter into contracts with the Secretary under the program.
 
     (b) __Practices and term__ 
 
@@ -169,7 +169,7 @@
 
             (B) is not in compliance with the Organic Foods Production Act of 1990 ([7 U.S.C. 6501][/us/usc/t7/s6501] et seq).
 
-([Pub. L. 99–198, title XII, § 1240B][/us/pl/99/198/s1240B], as added [Pub. L. 107–171, title II, § 2301][/us/pl/107/171/s2301], May 13, 2002, [116 Stat. 254][/us/stat/116/254]; amended [Pub. L. 108–447, div. A, title VII, § 794(a)][/us/pl/108/447/s794/a], Dec. 8, 2004, [118 Stat. 2852][/us/stat/118/2852]; [Pub. L. 109–171, title I, § 1203(a)][/us/pl/109/171/s1203/a], Feb. 8, 2006, [120 Stat. 6][/us/stat/120/6]; [Pub. L. 110–234, title II, § 2503][/us/pl/110/234/s2503], May 22, 2008, [122 Stat. 1059][/us/stat/122/1059]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2503, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1787; [Pub. L. 112–55, div. A, title VII, § 716(c)][/us/pl/112/55/s716/c], Nov. 18, 2011, [125 Stat. 582][/us/stat/125/582].)
+([Pub. L. 99–198, title XII, § 1240B][/us/pl/99/198/s1240B], as added [Pub. L. 107–171, title II, § 2301][/us/pl/107/171/s2301], May 13, 2002, [116 Stat. 254][/us/stat/116/254]; amended [Pub. L. 108–447, div. A, title VII, § 794(a)][/us/pl/108/447/s794/a], Dec. 8, 2004, [118 Stat. 2852][/us/stat/118/2852]; [Pub. L. 109–171, title I, § 1203(a)][/us/pl/109/171/s1203/a], Feb. 8, 2006, [120 Stat. 6][/us/stat/120/6]; [Pub. L. 110–234, title II, § 2503][/us/pl/110/234/s2503], May 22, 2008, [122 Stat. 1059][/us/stat/122/1059]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title II, § 2503, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1787; [Pub. L. 112–55, div. A, title VII, § 716(c)][/us/pl/112/55/s716/c], Nov. 18, 2011, [125 Stat. 582][/us/stat/125/582]; [Pub. L. 113–76, div. A, title VII, § 750(a)][/us/pl/113/76/s750/a], Jan. 17, 2014, [128 Stat. 42][/us/stat/128/42].)
 
  __References in Text__ 
 
@@ -184,6 +184,8 @@
     A prior section 3839aa–2, [Pub. L. 99–198, title XII, § 1240B][/us/pl/99/198/s1240B], as added [Pub. L. 104–127, title III, § 334][/us/pl/104/127/s334], Apr. 4, 1996, [110 Stat. 998][/us/stat/110/998], related to establishment and administration of environmental quality incentives program, prior to the general amendment of this part by [Pub. L. 107–171][/us/pl/107/171].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–76][/us/pl/113/76] substituted “2015” for “2014”.
 
     2011—Subsec. (a). [Pub. L. 112–55][/us/pl/112/55] substituted “2014” for “2012”.
 
@@ -219,6 +221,8 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/112/55/s716/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs716%2Fc
 [/us/stat/125/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F582
+[/us/pl/113/76/s750/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs750%2Fa
+[/us/stat/128/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F42
 [/us/pl/101/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624
 [/us/stat/104/3935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3935
 [/us/usc/t7/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6501
@@ -230,6 +234,7 @@
 [/us/pl/104/127/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs334
 [/us/stat/110/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F998
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/112/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55
 [/us/pl/110/246/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs2503
 [/us/pl/109/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171

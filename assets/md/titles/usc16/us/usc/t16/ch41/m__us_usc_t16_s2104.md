@@ -119,11 +119,11 @@
 
     Similar provisions were contained in [Pub. L. 106–291, title III, § 338][/us/pl/106/291/s338], Oct. 11, 2000, [114 Stat. 998][/us/stat/114/998], as amended by [Pub. L. 107–20, title II, § 2604][/us/pl/107/20/s2604], July 24, 2001, [115 Stat. 178][/us/stat/115/178].
 
-[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 347\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–298, as amended by [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 341\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–201; [Pub. L. 107–63, title III, § 332][/us/pl/107/63/s332], Nov. 5, 2001, [115 Stat. 471][/us/stat/115/471]; [Pub. L. 108–7, div. F, title III, § 323][/us/pl/108/7/s323], Feb. 20, 2003, [117 Stat. 275][/us/stat/117/275], provided that:
+[Pub. L. 105–277, div. A, § 101(e)][/us/pl/105/277/s101/e] \[title III, § 347\], Oct. 21, 1998, [112 Stat. 2681–231][/us/stat/112/2681-231], 2681–298, as amended by [Pub. L. 106–113, div. B, § 1000(a)(3)][/us/pl/106/113/s1000/a/3] \[title III, § 341\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–201; [Pub. L. 107–63, title III, § 332][/us/pl/107/63/s332], Nov. 5, 2001, [115 Stat. 471][/us/stat/115/471]; [Pub. L. 108–7, div. F, title III, § 323][/us/pl/108/7/s323], Feb. 20, 2003, [117 Stat. 275][/us/stat/117/275]; [Pub. L. 113–76, div. G, title IV, § 434][/us/pl/113/76/s434], Jan. 17, 2014, [128 Stat. 346][/us/stat/128/346], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
->     Until September 30, 2013, the Forest Service and the Bureau of Land Management, via agreement or contract as appropriate, may enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve land management goals for the national forests and the public lands that meet local and rural community needs.
+>     Until September 30, 2014, the Forest Service and the Bureau of Land Management, via agreement or contract as appropriate, may enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve land management goals for the national forests and the public lands that meet local and rural community needs.
 
 >     “(b)  __Land Management Goals__  __.—__ 
 
@@ -447,6 +447,8 @@
 [/us/stat/115/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F471
 [/us/pl/108/7/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs323
 [/us/stat/117/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F275
+[/us/pl/113/76/s434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs434
+[/us/stat/128/346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F346
 [/us/usc/t41/s254c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs254c
 [/us/usc/t41/s3903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3903
 [/us/usc/t16/s472a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs472a
