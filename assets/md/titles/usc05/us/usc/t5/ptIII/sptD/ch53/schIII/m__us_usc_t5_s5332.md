@@ -339,9 +339,9 @@ July 18, 1966, Pub. L. 89–504, § 102(a), 80 Stat. 288.  </td>
 
     [Pub. L. 90–206, title II][/us/pl/90/206/tII], § 218, Dec. 16, 1967, [81 Stat. 638][/us/stat/81/638], provided for retroactive pay under title II of [Pub. L. 90–206][/us/pl/90/206] only in the case of an individual in the service of the United States, including service in the Armed Forces, or the municipal government of the District of Columbia on Dec. 16, 1967, subject to certain restrictions.
 
- __Ex. Ord. No. 13686. Adjustments of Certain Rates of Pay__ 
+ __Ex. Ord. No. 13715. Adjustments of Certain Rates of Pay__ 
 
-    Ex. Ord. No. 13686, Dec. 19, 2014, 79 F.R. 77361, provided:
+    Ex. Ord. No. 13715, Dec. 18, 2015, 80 F.R. 80195, provided:
 
     By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -371,9 +371,9 @@ July 18, 1966, Pub. L. 89–504, § 102(a), 80 Stat. 288.  </td>
 
     Sec. 6. Administrative Law Judges. Pursuant to [section 5372 of title 5][/us/usc/t5/s5372], United States Code, the rates of basic pay for administrative law judges are set forth on Schedule 10 attached hereto and made a part hereof.
 
-    Sec. 7. Effective Dates. Schedule 8 is effective January 1, 2015. The other schedules contained herein are effective on the first day of the first applicable pay period beginning on or after January 1, 2015.
+    Sec. 7. Effective Dates. Schedule 8 is effective January 1, 2016. The other schedules contained herein are effective on the first day of the first applicable pay period beginning on or after January 1, 2016.
 
-    Sec. 8. Prior Order Superseded. Executive Order 13655 of December 23, 2013, is superseded as of the effective dates specified in section 7 of this order.
+    Sec. 8. Prior Order Superseded. Executive Order 13686 of December 19, 2014, is superseded as of the effective dates specified in section 7 of this order.
 
                               Barack Obama.
 
@@ -399,7 +399,7 @@ General Schedule  </td>
 
     <td colspan="11"> 
 
-(Effective on the first day of the first applicable pay period beginning on or after January 1, 2015)  </td>
+(Effective on the first day of the first applicable pay period beginning on or after January 1, 2016)  </td>
 
   </tr>
 
@@ -459,43 +459,43 @@ GS–1  </td>
 
     <td> 
 
-$18,161  </td>
+$18,343  </td>
 
     <td> 
 
-$18,768  </td>
+$18,956  </td>
 
     <td> 
 
-$19,372  </td>
+$19,566  </td>
 
     <td> 
 
-$19,973  </td>
+$20,173  </td>
 
     <td> 
 
-$20,577  </td>
+$20,783  </td>
 
     <td> 
 
-$20,931  </td>
+$21,140  </td>
 
     <td> 
 
-$21,528  </td>
+$21,743  </td>
 
     <td> 
 
-$22,130  </td>
+$22,351  </td>
 
     <td> 
 
-$22,153  </td>
+$22,375  </td>
 
     <td> 
 
-$22,712  </td>
+$22,941  </td>
 
   </tr>
 
@@ -507,43 +507,43 @@ GS–2  </td>
 
     <td> 
 
-20,419  </td>
+20,623  </td>
 
     <td> 
 
-20,905  </td>
+21,114  </td>
 
     <td> 
 
-21,581  </td>
+21,797  </td>
 
     <td> 
 
-22,153  </td>
+22,375  </td>
 
     <td> 
 
-22,403  </td>
+22,629  </td>
 
     <td> 
 
-23,062  </td>
+23,295  </td>
 
     <td> 
 
-23,721  </td>
+23,961  </td>
 
     <td> 
 
-24,380  </td>
+24,627  </td>
 
     <td> 
 
-25,039  </td>
+25,293  </td>
 
     <td> 
 
-25,698  </td>
+25,959  </td>
 
   </tr>
 
@@ -555,43 +555,43 @@ GS–3  </td>
 
     <td> 
 
-22,279  </td>
+22,502  </td>
 
     <td> 
 
-23,022  </td>
+23,252  </td>
 
     <td> 
 
-23,765  </td>
+24,002  </td>
 
     <td> 
 
-24,508  </td>
+24,752  </td>
 
     <td> 
 
-25,251  </td>
+25,502  </td>
 
     <td> 
 
-25,994  </td>
+26,252  </td>
 
     <td> 
 
-26,737  </td>
+27,002  </td>
 
     <td> 
 
-27,480  </td>
+27,752  </td>
 
     <td> 
 
-28,223  </td>
+28,502  </td>
 
     <td> 
 
-28,966  </td>
+29,252  </td>
 
   </tr>
 
@@ -603,43 +603,43 @@ GS–4  </td>
 
     <td> 
 
-25,011  </td>
+25,261  </td>
 
     <td> 
 
-25,845  </td>
+26,103  </td>
 
     <td> 
 
-26,679  </td>
+26,945  </td>
 
     <td> 
 
-27,513  </td>
+27,787  </td>
 
     <td> 
 
-28,347  </td>
+28,629  </td>
 
     <td> 
 
-29,181  </td>
+29,471  </td>
 
     <td> 
 
-30,015  </td>
+30,313  </td>
 
     <td> 
 
-30,849  </td>
+31,155  </td>
 
     <td> 
 
-31,683  </td>
+31,997  </td>
 
     <td> 
 
-32,517  </td>
+32,839  </td>
 
   </tr>
 
@@ -651,43 +651,43 @@ GS–5  </td>
 
     <td> 
 
-27,982  </td>
+28,262  </td>
 
     <td> 
 
-28,915  </td>
+29,204  </td>
 
     <td> 
 
-29,848  </td>
+30,146  </td>
 
     <td> 
 
-30,781  </td>
+31,088  </td>
 
     <td> 
 
-31,714  </td>
+32,030  </td>
 
     <td> 
 
-32,647  </td>
+32,972  </td>
 
     <td> 
 
-33,580  </td>
+33,914  </td>
 
     <td> 
 
-34,513  </td>
+34,856  </td>
 
     <td> 
 
-35,446  </td>
+35,798  </td>
 
     <td> 
 
-36,379  </td>
+36,740  </td>
 
   </tr>
 
@@ -699,43 +699,43 @@ GS–6  </td>
 
     <td> 
 
-31,192  </td>
+31,504  </td>
 
     <td> 
 
-32,232  </td>
+32,554  </td>
 
     <td> 
 
-33,272  </td>
+33,604  </td>
 
     <td> 
 
-34,312  </td>
+34,654  </td>
 
     <td> 
 
-35,352  </td>
+35,704  </td>
 
     <td> 
 
-36,392  </td>
+36,754  </td>
 
     <td> 
 
-37,432  </td>
+37,804  </td>
 
     <td> 
 
-38,472  </td>
+38,854  </td>
 
     <td> 
 
-39,512  </td>
+39,904  </td>
 
     <td> 
 
-40,552  </td>
+40,954  </td>
 
   </tr>
 
@@ -747,43 +747,43 @@ GS–7  </td>
 
     <td> 
 
-34,662  </td>
+35,009  </td>
 
     <td> 
 
-35,817  </td>
+36,176  </td>
 
     <td> 
 
-36,972  </td>
+37,343  </td>
 
     <td> 
 
-38,127  </td>
+38,510  </td>
 
     <td> 
 
-39,282  </td>
+39,677  </td>
 
     <td> 
 
-40,437  </td>
+40,844  </td>
 
     <td> 
 
-41,592  </td>
+42,011  </td>
 
     <td> 
 
-42,747  </td>
+43,178  </td>
 
     <td> 
 
-43,902  </td>
+44,345  </td>
 
     <td> 
 
-45,057  </td>
+45,512  </td>
 
   </tr>
 
@@ -795,43 +795,43 @@ GS–8  </td>
 
     <td> 
 
-38,387  </td>
+38,771  </td>
 
     <td> 
 
-39,667  </td>
+40,063  </td>
 
     <td> 
 
-40,947  </td>
+41,355  </td>
 
     <td> 
 
-42,227  </td>
+42,647  </td>
 
     <td> 
 
-43,507  </td>
+43,939  </td>
 
     <td> 
 
-44,787  </td>
+45,231  </td>
 
     <td> 
 
-46,067  </td>
+46,523  </td>
 
     <td> 
 
-47,347  </td>
+47,815  </td>
 
     <td> 
 
-48,627  </td>
+49,107  </td>
 
     <td> 
 
-49,907  </td>
+50,399  </td>
 
   </tr>
 
@@ -843,43 +843,43 @@ GS–9  </td>
 
     <td> 
 
-42,399  </td>
+42,823  </td>
 
     <td> 
 
-43,812  </td>
+44,250  </td>
 
     <td> 
 
-45,225  </td>
+45,677  </td>
 
     <td> 
 
-46,638  </td>
+47,104  </td>
 
     <td> 
 
-48,051  </td>
+48,531  </td>
 
     <td> 
 
-49,464  </td>
+49,958  </td>
 
     <td> 
 
-50,877  </td>
+51,385  </td>
 
     <td> 
 
-52,290  </td>
+52,812  </td>
 
     <td> 
 
-53,703  </td>
+54,239  </td>
 
     <td> 
 
-55,116  </td>
+55,666  </td>
 
   </tr>
 
@@ -891,43 +891,43 @@ GS–10  </td>
 
     <td> 
 
-46,691  </td>
+47,158  </td>
 
     <td> 
 
-48,247  </td>
+48,730  </td>
 
     <td> 
 
-49,803  </td>
+50,302  </td>
 
     <td> 
 
-51,359  </td>
+51,874  </td>
 
     <td> 
 
-52,915  </td>
+53,446  </td>
 
     <td> 
 
-54,471  </td>
+55,018  </td>
 
     <td> 
 
-56,027  </td>
+56,590  </td>
 
     <td> 
 
-57,583  </td>
+58,162  </td>
 
     <td> 
 
-59,139  </td>
+59,734  </td>
 
     <td> 
 
-60,695  </td>
+61,306  </td>
 
   </tr>
 
@@ -939,43 +939,43 @@ GS–11  </td>
 
     <td> 
 
-51,298  </td>
+51,811  </td>
 
     <td> 
 
-53,008  </td>
+53,538  </td>
 
     <td> 
 
-54,718  </td>
+55,265  </td>
 
     <td> 
 
-56,428  </td>
+56,992  </td>
 
     <td> 
 
-58,138  </td>
+58,719  </td>
 
     <td> 
 
-59,848  </td>
+60,446  </td>
 
     <td> 
 
-61,558  </td>
+62,173  </td>
 
     <td> 
 
-63,268  </td>
+63,900  </td>
 
     <td> 
 
-64,978  </td>
+65,627  </td>
 
     <td> 
 
-66,688  </td>
+67,354  </td>
 
   </tr>
 
@@ -987,43 +987,43 @@ GS–12  </td>
 
     <td> 
 
-61,486  </td>
+62,101  </td>
 
     <td> 
 
-63,536  </td>
+64,171  </td>
 
     <td> 
 
-65,586  </td>
+66,241  </td>
 
     <td> 
 
-67,636  </td>
+68,311  </td>
 
     <td> 
 
-69,686  </td>
+70,381  </td>
 
     <td> 
 
-71,736  </td>
+72,451  </td>
 
     <td> 
 
-73,786  </td>
+74,521  </td>
 
     <td> 
 
-75,836  </td>
+76,591  </td>
 
     <td> 
 
-77,886  </td>
+78,661  </td>
 
     <td> 
 
-79,936  </td>
+80,731  </td>
 
   </tr>
 
@@ -1035,43 +1035,43 @@ GS–13  </td>
 
     <td> 
 
-73,115  </td>
+73,846  </td>
 
     <td> 
 
-75,552  </td>
+76,308  </td>
 
     <td> 
 
-77,989  </td>
+78,770  </td>
 
     <td> 
 
-80,426  </td>
+81,232  </td>
 
     <td> 
 
-82,863  </td>
+83,694  </td>
 
     <td> 
 
-85,300  </td>
+86,156  </td>
 
     <td> 
 
-87,737  </td>
+88,618  </td>
 
     <td> 
 
-90,174  </td>
+91,080  </td>
 
     <td> 
 
-92,611  </td>
+93,542  </td>
 
     <td> 
 
-95,048  </td>
+96,004  </td>
 
   </tr>
 
@@ -1083,43 +1083,43 @@ GS–14  </td>
 
     <td> 
 
-86,399  </td>
+87,263  </td>
 
     <td> 
 
-89,279  </td>
+90,172  </td>
 
     <td> 
 
-92,159  </td>
+93,081  </td>
 
     <td> 
 
-95,039  </td>
+95,990  </td>
 
     <td> 
 
-97,919  </td>
+98,899  </td>
 
     <td> 
 
-100,799  </td>
+101,808  </td>
 
     <td> 
 
-103,679  </td>
+104,717  </td>
 
     <td> 
 
-106,559  </td>
+107,626  </td>
 
     <td> 
 
-109,439  </td>
+110,535  </td>
 
     <td> 
 
-112,319  </td>
+113,444  </td>
 
   </tr>
 
@@ -1131,43 +1131,43 @@ GS–15  </td>
 
     <td> 
 
-101,630  </td>
+102,646  </td>
 
     <td> 
 
-105,018  </td>
+106,068  </td>
 
     <td> 
 
-108,406  </td>
+109,490  </td>
 
     <td> 
 
-111,794  </td>
+112,912  </td>
 
     <td> 
 
-115,182  </td>
+116,334  </td>
 
     <td> 
 
-118,570  </td>
+119,756  </td>
 
     <td> 
 
-121,958  </td>
+123,178  </td>
 
     <td> 
 
-125,346  </td>
+126,600  </td>
 
     <td> 
 
-128,734  </td>
+130,022  </td>
 
     <td> 
 
-132,122  </td>
+133,444  </td>
 
   </tr>
 
@@ -1195,7 +1195,7 @@ Foreign Service Schedule  </td>
 
     <td colspan="10"> 
 
-(Effective on the first day of the first applicable pay period beginning on or after January 1, 2015)  </td>
+(Effective on the first day of the first applicable pay period beginning on or after January 1, 2016)  </td>
 
   </tr>
 
@@ -1251,39 +1251,39 @@ Class 9  </td>
 
     <td> 
 
-$101,630  </td>
+$102,646  </td>
 
     <td> 
 
-$82,350  </td>
+$83,173  </td>
 
     <td> 
 
-$66,728  </td>
+$67,395  </td>
 
     <td> 
 
-$54,069  </td>
+$54,610  </td>
 
     <td> 
 
-$43,812  </td>
+$44,250  </td>
 
     <td> 
 
-$39,166  </td>
+$39,558  </td>
 
     <td> 
 
-$35,014  </td>
+$35,364  </td>
 
     <td> 
 
-$31,301  </td>
+$31,614  </td>
 
     <td> 
 
-$27,982  </td>
+$28,262  </td>
 
   </tr>
 
@@ -1295,39 +1295,39 @@ $27,982  </td>
 
     <td> 
 
-104,679  </td>
+105,725  </td>
 
     <td> 
 
-84,821  </td>
+85,668  </td>
 
     <td> 
 
-68,730  </td>
+69,417  </td>
 
     <td> 
 
-55,691  </td>
+56,248  </td>
 
     <td> 
 
-45,126  </td>
+45,578  </td>
 
     <td> 
 
-40,341  </td>
+40,745  </td>
 
     <td> 
 
-36,064  </td>
+36,425  </td>
 
     <td> 
 
-32,240  </td>
+32,562  </td>
 
     <td> 
 
-28,821  </td>
+29,110  </td>
 
   </tr>
 
@@ -1339,39 +1339,39 @@ $27,982  </td>
 
     <td> 
 
-107,819  </td>
+108,897  </td>
 
     <td> 
 
-87,365  </td>
+88,238  </td>
 
     <td> 
 
-70,792  </td>
+71,499  </td>
 
     <td> 
 
-57,362  </td>
+57,936  </td>
 
     <td> 
 
-46,480  </td>
+46,945  </td>
 
     <td> 
 
-41,551  </td>
+41,967  </td>
 
     <td> 
 
-37,146  </td>
+37,518  </td>
 
     <td> 
 
-33,207  </td>
+33,539  </td>
 
     <td> 
 
-29,686  </td>
+29,983  </td>
 
   </tr>
 
@@ -1383,39 +1383,39 @@ $27,982  </td>
 
     <td> 
 
-111,054  </td>
+112,164  </td>
 
     <td> 
 
-89,986  </td>
+90,885  </td>
 
     <td> 
 
-72,915  </td>
+73,644  </td>
 
     <td> 
 
-59,083  </td>
+59,674  </td>
 
     <td> 
 
-47,875  </td>
+48,353  </td>
 
     <td> 
 
-42,798  </td>
+43,226  </td>
 
     <td> 
 
-38,261  </td>
+38,643  </td>
 
     <td> 
 
-34,203  </td>
+34,545  </td>
 
     <td> 
 
-30,577  </td>
+30,883  </td>
 
   </tr>
 
@@ -1427,39 +1427,39 @@ $27,982  </td>
 
     <td> 
 
-114,385  </td>
+115,529  </td>
 
     <td> 
 
-92,686  </td>
+93,612  </td>
 
     <td> 
 
-75,103  </td>
+75,854  </td>
 
     <td> 
 
-60,855  </td>
+61,464  </td>
 
     <td> 
 
-49,311  </td>
+49,804  </td>
 
     <td> 
 
-44,082  </td>
+44,523  </td>
 
     <td> 
 
-39,409  </td>
+39,802  </td>
 
     <td> 
 
-35,230  </td>
+35,582  </td>
 
     <td> 
 
-31,494  </td>
+31,809  </td>
 
   </tr>
 
@@ -1471,39 +1471,39 @@ $27,982  </td>
 
     <td> 
 
-117,817  </td>
+118,995  </td>
 
     <td> 
 
-95,466  </td>
+96,420  </td>
 
     <td> 
 
-77,356  </td>
+78,129  </td>
 
     <td> 
 
-62,681  </td>
+63,308  </td>
 
     <td> 
 
-50,790  </td>
+51,298  </td>
 
     <td> 
 
-45,404  </td>
+45,859  </td>
 
     <td> 
 
-40,591  </td>
+40,997  </td>
 
     <td> 
 
-36,286  </td>
+36,649  </td>
 
     <td> 
 
-32,439  </td>
+32,763  </td>
 
   </tr>
 
@@ -1515,39 +1515,39 @@ $27,982  </td>
 
     <td> 
 
-121,352  </td>
+122,565  </td>
 
     <td> 
 
-98,330  </td>
+99,313  </td>
 
     <td> 
 
-79,677  </td>
+80,473  </td>
 
     <td> 
 
-64,561  </td>
+65,207  </td>
 
     <td> 
 
-52,314  </td>
+52,837  </td>
 
     <td> 
 
-46,766  </td>
+47,234  </td>
 
     <td> 
 
-41,809  </td>
+42,226  </td>
 
     <td> 
 
-37,375  </td>
+37,749  </td>
 
     <td> 
 
-33,412  </td>
+33,746  </td>
 
   </tr>
 
@@ -1559,39 +1559,39 @@ $27,982  </td>
 
     <td> 
 
-124,992  </td>
+126,242  </td>
 
     <td> 
 
-101,280  </td>
+102,292  </td>
 
     <td> 
 
-82,067  </td>
+82,887  </td>
 
     <td> 
 
-66,498  </td>
+67,163  </td>
 
     <td> 
 
-53,883  </td>
+54,422  </td>
 
     <td> 
 
-48,169  </td>
+48,651  </td>
 
     <td> 
 
-43,063  </td>
+43,493  </td>
 
     <td> 
 
-38,496  </td>
+38,881  </td>
 
     <td> 
 
-34,414  </td>
+34,759  </td>
 
   </tr>
 
@@ -1603,39 +1603,39 @@ $27,982  </td>
 
     <td> 
 
-128,742  </td>
+130,029  </td>
 
     <td> 
 
-104,319  </td>
+105,361  </td>
 
     <td> 
 
-84,529  </td>
+85,374  </td>
 
     <td> 
 
-68,493  </td>
+69,178  </td>
 
     <td> 
 
-55,500  </td>
+56,055  </td>
 
     <td> 
 
-49,614  </td>
+50,111  </td>
 
     <td> 
 
-44,355  </td>
+44,798  </td>
 
     <td> 
 
-39,651  </td>
+40,048  </td>
 
     <td> 
 
-35,447  </td>
+35,801  </td>
 
   </tr>
 
@@ -1647,39 +1647,39 @@ $27,982  </td>
 
     <td> 
 
-132,122  </td>
+133,444  </td>
 
     <td> 
 
-107,448  </td>
+108,522  </td>
 
     <td> 
 
-87,065  </td>
+87,935  </td>
 
     <td> 
 
-70,548  </td>
+71,254  </td>
 
     <td> 
 
-57,165  </td>
+57,736  </td>
 
     <td> 
 
-51,103  </td>
+51,614  </td>
 
     <td> 
 
-45,685  </td>
+46,142  </td>
 
     <td> 
 
-40,841  </td>
+41,249  </td>
 
     <td> 
 
-36,510  </td>
+36,875  </td>
 
   </tr>
 
@@ -1691,39 +1691,39 @@ $27,982  </td>
 
     <td> 
 
-132,122  </td>
+133,444  </td>
 
     <td> 
 
-110,672  </td>
+111,778  </td>
 
     <td> 
 
-89,677  </td>
+90,573  </td>
 
     <td> 
 
-72,664  </td>
+73,391  </td>
 
     <td> 
 
-58,880  </td>
+59,468  </td>
 
     <td> 
 
-52,636  </td>
+53,163  </td>
 
     <td> 
 
-47,056  </td>
+47,526  </td>
 
     <td> 
 
-42,066  </td>
+42,487  </td>
 
     <td> 
 
-37,605  </td>
+37,982  </td>
 
   </tr>
 
@@ -1735,39 +1735,39 @@ $27,982  </td>
 
     <td> 
 
-132,122  </td>
+133,444  </td>
 
     <td> 
 
-113,992  </td>
+115,131  </td>
 
     <td> 
 
-92,367  </td>
+93,290  </td>
 
     <td> 
 
-74,844  </td>
+75,593  </td>
 
     <td> 
 
-60,646  </td>
+61,252  </td>
 
     <td> 
 
-54,215  </td>
+54,758  </td>
 
     <td> 
 
-48,468  </td>
+48,952  </td>
 
     <td> 
 
-43,328  </td>
+43,761  </td>
 
     <td> 
 
-38,734  </td>
+39,121  </td>
 
   </tr>
 
@@ -1779,39 +1779,39 @@ $27,982  </td>
 
     <td> 
 
-132,122  </td>
+133,444  </td>
 
     <td> 
 
-117,411  </td>
+118,585  </td>
 
     <td> 
 
-95,138  </td>
+96,089  </td>
 
     <td> 
 
-77,089  </td>
+77,861  </td>
 
     <td> 
 
-62,465  </td>
+63,090  </td>
 
     <td> 
 
-55,841  </td>
+56,400  </td>
 
     <td> 
 
-49,922  </td>
+50,421  </td>
 
     <td> 
 
-44,628  </td>
+45,074  </td>
 
     <td> 
 
-39,896  </td>
+40,295  </td>
 
   </tr>
 
@@ -1823,39 +1823,39 @@ $27,982  </td>
 
     <td> 
 
-132,122  </td>
+133,444  </td>
 
     <td> 
 
-120,934  </td>
+122,142  </td>
 
     <td> 
 
-97,992  </td>
+98,972  </td>
 
     <td> 
 
-79,402  </td>
+80,197  </td>
 
     <td> 
 
-64,339  </td>
+64,983  </td>
 
     <td> 
 
-57,517  </td>
+58,092  </td>
 
     <td> 
 
-51,419  </td>
+51,933  </td>
 
     <td> 
 
-45,967  </td>
+46,426  </td>
 
     <td> 
 
-41,093  </td>
+41,504  </td>
 
   </tr>
 
@@ -1883,7 +1883,7 @@ Veterans Health Administration Schedules, Department of Veterans Affairs  </td>
 
     <td colspan="3"> 
 
-(Effective on the first day of the first applicable pay period beginning on or after January 1, 2015)  </td>
+(Effective on the first day of the first applicable pay period beginning on or after January 1, 2016)  </td>
 
   </tr>
 
@@ -1907,7 +1907,7 @@ Veterans Health Administration Schedules, Department of Veterans Affairs  </td>
 
     <td colspan="3"> 
 
-2 Pursuant to 38 U.S.C. 7404(d), the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $148,700.
+2 Pursuant to 38 U.S.C. 7404(d), the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $150,200.
 
   </td>
 
@@ -1957,7 +1957,7 @@ Assistant Under Secretaries for Health  </td>
 
     <td> 
 
-2 $160,441  </td>
+2 $162,045  </td>
 
   </tr>
 
@@ -1985,11 +1985,11 @@ Service Directors  </td>
 
     <td> 
 
-$119,192  </td>
+$120,384  </td>
 
     <td> 
 
-$148,030  </td>
+$149,510  </td>
 
   </tr>
 
@@ -2001,11 +2001,11 @@ Director, National Center for Preventive Health  </td>
 
     <td> 
 
-101,630  </td>
+102,646  </td>
 
     <td> 
 
-148,030  </td>
+149,510  </td>
 
   </tr>
 
@@ -2029,11 +2029,11 @@ Physician Grade  </td>
 
     <td> 
 
-$99,957  </td>
+$100,957  </td>
 
     <td> 
 
-$146,605  </td>
+$148,071  </td>
 
   </tr>
 
@@ -2045,11 +2045,11 @@ Dentist Grade  </td>
 
     <td> 
 
-99,957  </td>
+100,957  </td>
 
     <td> 
 
-146,605  </td>
+148,071  </td>
 
   </tr>
 
@@ -2073,11 +2073,11 @@ Chief Grade  </td>
 
     <td> 
 
-$101,630  </td>
+$102,646  </td>
 
     <td> 
 
-$132,122  </td>
+$133,444  </td>
 
   </tr>
 
@@ -2089,11 +2089,11 @@ Senior Grade  </td>
 
     <td> 
 
-86,399  </td>
+87,263  </td>
 
     <td> 
 
-112,319  </td>
+113,444  </td>
 
   </tr>
 
@@ -2105,11 +2105,11 @@ Intermediate Grade  </td>
 
     <td> 
 
-73,115  </td>
+73,846  </td>
 
     <td> 
 
-95,048  </td>
+96,004  </td>
 
   </tr>
 
@@ -2121,11 +2121,11 @@ Full Grade  </td>
 
     <td> 
 
-61,486  </td>
+62,101  </td>
 
     <td> 
 
-79,936  </td>
+80,731  </td>
 
   </tr>
 
@@ -2137,11 +2137,11 @@ Associate Grade  </td>
 
     <td> 
 
-51,298  </td>
+51,811  </td>
 
     <td> 
 
-66,688  </td>
+67,354  </td>
 
   </tr>
 
@@ -2165,11 +2165,11 @@ Director Grade  </td>
 
     <td> 
 
-$101,630  </td>
+$102,646  </td>
 
     <td> 
 
-$132,122  </td>
+$133,444  </td>
 
   </tr>
 
@@ -2181,11 +2181,11 @@ Assistant Director Grade  </td>
 
     <td> 
 
-86,399  </td>
+87,263  </td>
 
     <td> 
 
-112,319  </td>
+113,444  </td>
 
   </tr>
 
@@ -2197,11 +2197,11 @@ Chief Grade  </td>
 
     <td> 
 
-73,115  </td>
+73,846  </td>
 
     <td> 
 
-95,048  </td>
+96,004  </td>
 
   </tr>
 
@@ -2213,11 +2213,11 @@ Senior Grade  </td>
 
     <td> 
 
-61,486  </td>
+62,101  </td>
 
     <td> 
 
-79,936  </td>
+80,731  </td>
 
   </tr>
 
@@ -2229,11 +2229,11 @@ Intermediate Grade  </td>
 
     <td> 
 
-51,298  </td>
+51,811  </td>
 
     <td> 
 
-66,688  </td>
+67,354  </td>
 
   </tr>
 
@@ -2245,11 +2245,11 @@ Full Grade  </td>
 
     <td> 
 
-42,399  </td>
+42,823  </td>
 
     <td> 
 
-55,116  </td>
+55,666  </td>
 
   </tr>
 
@@ -2261,11 +2261,11 @@ Associate Grade  </td>
 
     <td> 
 
-36,485  </td>
+36,850  </td>
 
     <td> 
 
-47,429  </td>
+47,902  </td>
 
   </tr>
 
@@ -2277,11 +2277,11 @@ Junior Grade  </td>
 
     <td> 
 
-31,192  </td>
+31,504  </td>
 
     <td> 
 
-40,552  </td>
+40,954  </td>
 
   </tr>
 
@@ -2309,7 +2309,7 @@ Senior Executive Service  </td>
 
     <td colspan="3"> 
 
-(Effective on the first day of the first applicable pay period beginning on or after January 1, 2015)  </td>
+(Effective on the first day of the first applicable pay period beginning on or after January 1, 2016)  </td>
 
   </tr>
 
@@ -2343,11 +2343,11 @@ Agencies with a Certified SES Performance Appraisal System  </td>
 
     <td> 
 
-$121,956  </td>
+$123,175  </td>
 
     <td> 
 
-$183,300  </td>
+$185,100  </td>
 
   </tr>
 
@@ -2359,11 +2359,11 @@ Agencies without a Certified SES Performance Appraisal System  </td>
 
     <td> 
 
-$121,956  </td>
+$123,175  </td>
 
     <td> 
 
-$168,700  </td>
+$170,400  </td>
 
   </tr>
 
@@ -2391,7 +2391,7 @@ Executive Schedule  </td>
 
     <td colspan="2"> 
 
-(Effective on the first day of the first applicable pay period beginning on or after January 1, 2015)  </td>
+(Effective on the first day of the first applicable pay period beginning on or after January 1, 2016)  </td>
 
   </tr>
 
@@ -2409,7 +2409,7 @@ Level I  </td>
 
     <td> 
 
-$203,700  </td>
+$205,700  </td>
 
   </tr>
 
@@ -2421,7 +2421,7 @@ Level II  </td>
 
     <td> 
 
-183,300  </td>
+185,100  </td>
 
   </tr>
 
@@ -2433,7 +2433,7 @@ Level III  </td>
 
     <td> 
 
-168,700  </td>
+170,400  </td>
 
   </tr>
 
@@ -2445,7 +2445,7 @@ Level IV  </td>
 
     <td> 
 
-158,700  </td>
+160,300  </td>
 
   </tr>
 
@@ -2457,7 +2457,7 @@ Level V  </td>
 
     <td> 
 
-148,700  </td>
+150,200  </td>
 
   </tr>
 
@@ -2485,7 +2485,7 @@ Vice President and Members of Congress  </td>
 
     <td colspan="2"> 
 
-(Effective on the first day of the first applicable pay period beginning on or after January 1, 2015)  </td>
+(Effective on the first day of the first applicable pay period beginning on or after January 1, 2016)  </td>
 
   </tr>
 
@@ -2503,7 +2503,7 @@ Vice President  </td>
 
     <td> 
 
-$235,300  </td>
+$237,700  </td>
 
   </tr>
 
@@ -2627,7 +2627,7 @@ Schedule 7  </td>
 
     <td colspan="2"> 
 
-(Effective on the first day of the first applicable pay period beginning on or after January 1, 2015)  </td>
+(Effective on the first day of the first applicable pay period beginning on or after January 1, 2016)  </td>
 
   </tr>
 
@@ -2645,7 +2645,7 @@ Chief Justice of the United States  </td>
 
     <td> 
 
-$258,100  </td>
+$260,700  </td>
 
   </tr>
 
@@ -2657,7 +2657,7 @@ Associate Justices of the Supreme Court  </td>
 
     <td> 
 
-246,800  </td>
+249,300  </td>
 
   </tr>
 
@@ -2669,7 +2669,7 @@ Circuit Judges  </td>
 
     <td> 
 
-213,300  </td>
+215,400  </td>
 
   </tr>
 
@@ -2681,7 +2681,7 @@ District Judges  </td>
 
     <td> 
 
-201,100  </td>
+203,100  </td>
 
   </tr>
 
@@ -2693,7 +2693,7 @@ Judges of the Court of International Trade  </td>
 
     <td> 
 
-201,100  </td>
+203,100  </td>
 
   </tr>
 
@@ -2721,7 +2721,7 @@ Pay of the Uniformed Services  </td>
 
     <td colspan="6"> 
 
-(Effective January 1, 2015)  </td>
+(Effective January 1, 2016)  </td>
 
   </tr>
 
@@ -2781,7 +2781,7 @@ Over 6  </td>
 
     <td colspan="6"> 
 
-1 Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2014, which is $15,125.10 per month for officers at pay grades O–7 through O–10, and limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2015, which is $12,391.80 per month, for officers at O–6 and below.
+1 Basic pay is limited to the rate of basic pay for level II of the Executive Schedule in effect during calendar year 2014, which is $15,125.10 per month for officers at pay grades O–7 through O–10, and limited to the rate of basic pay for level V of the Executive Schedule in effect during calendar year 2016, which is $12,516.60 per month, for officers at O–6 and below.
 
   </td>
 
@@ -2927,23 +2927,23 @@ O–6  </td>
 
     <td> 
 
-6,186.60  </td>
+6,267.00  </td>
 
     <td> 
 
-6,796.80  </td>
+6,885.30  </td>
 
     <td> 
 
-7,242.90  </td>
+7,337.10  </td>
 
     <td> 
 
-7,242.90  </td>
+7,337.10  </td>
 
     <td> 
 
-7,270.50  </td>
+7,365.00  </td>
 
   </tr>
 
@@ -2955,23 +2955,23 @@ O–5  </td>
 
     <td> 
 
-5,157.60  </td>
+5,224.50  </td>
 
     <td> 
 
-5,810.10  </td>
+5,885.70  </td>
 
     <td> 
 
-6,212.10  </td>
+6,292.80  </td>
 
     <td> 
 
-6,288.00  </td>
+6,369.60  </td>
 
     <td> 
 
-6,539.10  </td>
+6,624.00  </td>
 
   </tr>
 
@@ -2983,23 +2983,23 @@ O–4  </td>
 
     <td> 
 
-4,449.90  </td>
+4,507.80  </td>
 
     <td> 
 
-5,151.30  </td>
+5,218.20  </td>
 
     <td> 
 
-5,495.10  </td>
+5,566.50  </td>
 
     <td> 
 
-5,571.60  </td>
+5,643.90  </td>
 
     <td> 
 
-5,890.50  </td>
+5,967.00  </td>
 
   </tr>
 
@@ -3011,23 +3011,23 @@ O–3 3  </td>
 
     <td> 
 
-3,912.60  </td>
+3,963.60  </td>
 
     <td> 
 
-4,435.20  </td>
+4,492.80  </td>
 
     <td> 
 
-4,787.10  </td>
+4,849.20  </td>
 
     <td> 
 
-5,219.40  </td>
+5,287.20  </td>
 
     <td> 
 
-5,469.60  </td>
+5,540.70  </td>
 
   </tr>
 
@@ -3039,23 +3039,23 @@ O–2 3  </td>
 
     <td> 
 
-3,380.70  </td>
+3,424.50  </td>
 
     <td> 
 
-3,850.20  </td>
+3,900.30  </td>
 
     <td> 
 
-4,434.30  </td>
+4,491.90  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
   </tr>
 
@@ -3067,23 +3067,23 @@ O–1 3  </td>
 
     <td> 
 
-2,934.30  </td>
+2,972.40  </td>
 
     <td> 
 
-3,054.30  </td>
+3,093.90  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
   </tr>
 
@@ -3235,23 +3235,23 @@ O–6  </td>
 
     <td> 
 
-7,582.20  </td>
+7,680.90  </td>
 
     <td> 
 
-7,623.30  </td>
+7,722.30  </td>
 
     <td> 
 
-7,623.30  </td>
+7,722.30  </td>
 
     <td> 
 
-8,056.50  </td>
+8,161.20  </td>
 
     <td> 
 
-8,822.40  </td>
+8,937.00  </td>
 
   </tr>
 
@@ -3263,23 +3263,23 @@ O–5  </td>
 
     <td> 
 
-6,689.10  </td>
+6,776.10  </td>
 
     <td> 
 
-7,019.10  </td>
+7,110.30  </td>
 
     <td> 
 
-7,261.50  </td>
+7,356.00  </td>
 
     <td> 
 
-7,574.70  </td>
+7,673.10  </td>
 
     <td> 
 
-8,053.80  </td>
+8,158.50  </td>
 
   </tr>
 
@@ -3291,23 +3291,23 @@ O–4  </td>
 
     <td> 
 
-6,232.80  </td>
+6,313.80  </td>
 
     <td> 
 
-6,659.10  </td>
+6,745.80  </td>
 
     <td> 
 
-6,990.60  </td>
+7,081.50  </td>
 
     <td> 
 
-7,221.00  </td>
+7,314.90  </td>
 
     <td> 
 
-7,353.60  </td>
+7,449.30  </td>
 
   </tr>
 
@@ -3319,23 +3319,23 @@ O–3 3  </td>
 
     <td> 
 
-5,744.10  </td>
+5,818.80  </td>
 
     <td> 
 
-5,921.10  </td>
+5,998.20  </td>
 
     <td> 
 
-6,213.00  </td>
+6,293.70  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
   </tr>
 
@@ -3347,23 +3347,23 @@ O–2 3  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
   </tr>
 
@@ -3375,23 +3375,23 @@ O–1 3  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
   </tr>
 
@@ -3543,23 +3543,23 @@ O–6  </td>
 
     <td> 
 
-9,272.10  </td>
+9,392.70  </td>
 
     <td> 
 
-9,721.50  </td>
+9,847.80  </td>
 
     <td> 
 
-9,977.10  </td>
+10,106.70  </td>
 
     <td> 
 
-10,236.00  </td>
+10,369.20  </td>
 
     <td> 
 
-10,738.20  </td>
+10,877.70  </td>
 
   </tr>
 
@@ -3571,23 +3571,23 @@ O–5  </td>
 
     <td> 
 
-8,281.20  </td>
+8,388.90  </td>
 
     <td> 
 
-8,506.50  </td>
+8,617.20  </td>
 
     <td> 
 
-8,762.40  </td>
+8,876.40  </td>
 
     <td> 
 
-8,762.40  </td>
+8,876.40  </td>
 
     <td> 
 
-8,762.40  </td>
+8,876.40  </td>
 
   </tr>
 
@@ -3599,23 +3599,23 @@ O–4  </td>
 
     <td> 
 
-7,430.10  </td>
+7,526.70  </td>
 
     <td> 
 
-7,430.10  </td>
+7,526.70  </td>
 
     <td> 
 
-7,430.10  </td>
+7,526.70  </td>
 
     <td> 
 
-7,430.10  </td>
+7,526.70  </td>
 
     <td> 
 
-7,430.10  </td>
+7,526.70  </td>
 
   </tr>
 
@@ -3627,23 +3627,23 @@ O–3 3  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
   </tr>
 
@@ -3655,23 +3655,23 @@ O–2 3  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
   </tr>
 
@@ -3683,23 +3683,23 @@ O–1 3  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
   </tr>
 
@@ -3851,23 +3851,23 @@ O–6  </td>
 
     <td> 
 
-10,738.20  </td>
+10,877.70  </td>
 
     <td> 
 
-10,952.40  </td>
+11,094.90  </td>
 
     <td> 
 
-10,952.40  </td>
+11,094.90  </td>
 
     <td> 
 
-10,952.40  </td>
+11,094.90  </td>
 
     <td> 
 
-10,952.40  </td>
+11,094.90  </td>
 
   </tr>
 
@@ -3879,23 +3879,23 @@ O–5  </td>
 
     <td> 
 
-8,762.40  </td>
+8,876.40  </td>
 
     <td> 
 
-8,762.40  </td>
+8,876.40  </td>
 
     <td> 
 
-8,762.40  </td>
+8,876.40  </td>
 
     <td> 
 
-8,762.40  </td>
+8,876.40  </td>
 
     <td> 
 
-8,762.40  </td>
+8,876.40  </td>
 
   </tr>
 
@@ -3907,23 +3907,23 @@ O–4  </td>
 
     <td> 
 
-7,430.10  </td>
+7,526.70  </td>
 
     <td> 
 
-7,430.10  </td>
+7,526.70  </td>
 
     <td> 
 
-7,430.10  </td>
+7,526.70  </td>
 
     <td> 
 
-7,430.10  </td>
+7,526.70  </td>
 
     <td> 
 
-7,430.10  </td>
+7,526.70  </td>
 
   </tr>
 
@@ -3935,23 +3935,23 @@ O–3 3  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
   </tr>
 
@@ -3963,23 +3963,23 @@ O–2 3  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
   </tr>
 
@@ -3991,23 +3991,23 @@ O–1 3  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
   </tr>
 
@@ -4129,11 +4129,11 @@ O–6  </td>
 
     <td> 
 
-10,952.40  </td>
+11,094.90  </td>
 
     <td> 
 
-10,952.40  </td>
+11,094.90  </td>
 
     <td>   </td>
 
@@ -4151,11 +4151,11 @@ O–5  </td>
 
     <td> 
 
-8,762.40  </td>
+8,876.40  </td>
 
     <td> 
 
-8,762.40  </td>
+8,876.40  </td>
 
     <td>   </td>
 
@@ -4173,11 +4173,11 @@ O–4  </td>
 
     <td> 
 
-7,430.10  </td>
+7,526.70  </td>
 
     <td> 
 
-7,430.10  </td>
+7,526.70  </td>
 
     <td>   </td>
 
@@ -4195,11 +4195,11 @@ O–3 3  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
     <td> 
 
-6,365.40  </td>
+6,448.20  </td>
 
     <td>   </td>
 
@@ -4217,11 +4217,11 @@ O–2 3  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td>   </td>
 
@@ -4239,11 +4239,11 @@ O–1 3  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td>   </td>
 
@@ -4307,19 +4307,19 @@ O–3E  </td>
 
     <td> 
 
-$5,219.40  </td>
+$5,287.20  </td>
 
     <td> 
 
-$5,469.60  </td>
+$5,540.70  </td>
 
     <td> 
 
-$5,744.10  </td>
+$5,818.80  </td>
 
     <td> 
 
-$5,921.10  </td>
+$5,998.20  </td>
 
   </tr>
 
@@ -4331,19 +4331,19 @@ O–2E  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
     <td> 
 
-4,678.50  </td>
+4,739.40  </td>
 
     <td> 
 
-4,827.60  </td>
+4,890.30  </td>
 
     <td> 
 
-5,079.00  </td>
+5,145.00  </td>
 
   </tr>
 
@@ -4355,19 +4355,19 @@ O–1E  </td>
 
     <td> 
 
-3,692.10  </td>
+3,740.10  </td>
 
     <td> 
 
-3,942.30  </td>
+3,993.60  </td>
 
     <td> 
 
-4,088.40  </td>
+4,141.50  </td>
 
     <td> 
 
-4,237.20  </td>
+4,292.40  </td>
 
   </tr>
 
@@ -4403,19 +4403,19 @@ O–3E  </td>
 
     <td> 
 
-$6,213.00  </td>
+$6,293.70  </td>
 
     <td> 
 
-$6,459.30  </td>
+$6,543.30  </td>
 
     <td> 
 
-$6,600.90  </td>
+$6,686.70  </td>
 
     <td> 
 
-$6,793.20  </td>
+$6,881.40  </td>
 
   </tr>
 
@@ -4427,19 +4427,19 @@ O–2E  </td>
 
     <td> 
 
-5,273.10  </td>
+5,341.80  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
   </tr>
 
@@ -4451,19 +4451,19 @@ O–1E  </td>
 
     <td> 
 
-4,383.60  </td>
+4,440.60  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
   </tr>
 
@@ -4499,19 +4499,19 @@ O–3E  </td>
 
     <td> 
 
-$6,793.20  </td>
+$6,881.40  </td>
 
     <td> 
 
-$6,793.20  </td>
+$6,881.40  </td>
 
     <td> 
 
-$6,793.20  </td>
+$6,881.40  </td>
 
     <td> 
 
-$6,793.20  </td>
+$6,881.40  </td>
 
   </tr>
 
@@ -4523,19 +4523,19 @@ O–2E  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
   </tr>
 
@@ -4547,19 +4547,19 @@ O–1E  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
   </tr>
 
@@ -4595,19 +4595,19 @@ O–3E  </td>
 
     <td> 
 
-$6,793.20  </td>
+$6,881.40  </td>
 
     <td> 
 
-$6,793.20  </td>
+$6,881.40  </td>
 
     <td> 
 
-$6,793.20  </td>
+$6,881.40  </td>
 
     <td> 
 
-$6,793.20  </td>
+$6,881.40  </td>
 
   </tr>
 
@@ -4619,19 +4619,19 @@ O–2E  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
   </tr>
 
@@ -4643,19 +4643,19 @@ O–1E  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
   </tr>
 
@@ -4689,15 +4689,15 @@ O–3E  </td>
 
     <td> 
 
-$6,793.20  </td>
+$6,881.40  </td>
 
     <td> 
 
-$6,793.20  </td>
+$6,881.40  </td>
 
     <td> 
 
-$6,793.20  </td>
+$6,881.40  </td>
 
     <td>   </td>
 
@@ -4711,15 +4711,15 @@ O–2E  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
     <td> 
 
-5,418.00  </td>
+5,488.50  </td>
 
     <td>   </td>
 
@@ -4733,15 +4733,15 @@ O–1E  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
     <td> 
 
-4,584.00  </td>
+4,643.70  </td>
 
     <td>   </td>
 
@@ -4823,23 +4823,23 @@ W–4  </td>
 
     <td> 
 
-$4,043.40  </td>
+$4,095.90  </td>
 
     <td> 
 
-$4,349.70  </td>
+$4,406.10  </td>
 
     <td> 
 
-$4,474.20  </td>
+$4,532.40  </td>
 
     <td> 
 
-$4,597.20  </td>
+$4,656.90  </td>
 
     <td> 
 
-$4,808.70  </td>
+$4,871.10  </td>
 
   </tr>
 
@@ -4851,23 +4851,23 @@ W–3  </td>
 
     <td> 
 
-3,692.40  </td>
+3,740.40  </td>
 
     <td> 
 
-3,846.30  </td>
+3,896.40  </td>
 
     <td> 
 
-4,004.10  </td>
+4,056.30  </td>
 
     <td> 
 
-4,056.00  </td>
+4,108.80  </td>
 
     <td> 
 
-4,221.30  </td>
+4,276.20  </td>
 
   </tr>
 
@@ -4879,23 +4879,23 @@ W–2  </td>
 
     <td> 
 
-3,267.30  </td>
+3,309.90  </td>
 
     <td> 
 
-3,576.30  </td>
+3,622.80  </td>
 
     <td> 
 
-3,671.70  </td>
+3,719.40  </td>
 
     <td> 
 
-3,736.80  </td>
+3,785.40  </td>
 
     <td> 
 
-3,948.90  </td>
+4,000.20  </td>
 
   </tr>
 
@@ -4907,23 +4907,23 @@ W–1  </td>
 
     <td> 
 
-2,868.30  </td>
+2,905.50  </td>
 
     <td> 
 
-3,176.70  </td>
+3,218.10  </td>
 
     <td> 
 
-3,259.80  </td>
+3,302.10  </td>
 
     <td> 
 
-3,435.00  </td>
+3,479.70  </td>
 
     <td> 
 
-3,642.60  </td>
+3,690.00  </td>
 
   </tr>
 
@@ -4991,23 +4991,23 @@ W–4  </td>
 
     <td> 
 
-$5,018.10  </td>
+$5,083.20  </td>
 
     <td> 
 
-$5,229.90  </td>
+$5,298.00  </td>
 
     <td> 
 
-$5,548.80  </td>
+$5,620.80  </td>
 
     <td> 
 
-$5,828.10  </td>
+$5,904.00  </td>
 
     <td> 
 
-$6,094.20  </td>
+$6,173.40  </td>
 
   </tr>
 
@@ -5019,23 +5019,23 @@ W–3  </td>
 
     <td> 
 
-4,546.80  </td>
+4,605.90  </td>
 
     <td> 
 
-4,885.50  </td>
+4,949.10  </td>
 
     <td> 
 
-5,045.10  </td>
+5,110.80  </td>
 
     <td> 
 
-5,229.60  </td>
+5,297.70  </td>
 
     <td> 
 
-5,419.80  </td>
+5,490.30  </td>
 
   </tr>
 
@@ -5047,23 +5047,23 @@ W–2  </td>
 
     <td> 
 
-4,278.30  </td>
+4,333.80  </td>
 
     <td> 
 
-4,441.50  </td>
+4,499.10  </td>
 
     <td> 
 
-4,602.00  </td>
+4,661.70  </td>
 
     <td> 
 
-4,798.50  </td>
+4,860.90  </td>
 
     <td> 
 
-4,951.80  </td>
+5,016.30  </td>
 
   </tr>
 
@@ -5075,23 +5075,23 @@ W–1  </td>
 
     <td> 
 
-3,948.30  </td>
+3,999.60  </td>
 
     <td> 
 
-4,091.10  </td>
+4,144.20  </td>
 
     <td> 
 
-4,290.30  </td>
+4,346.10  </td>
 
     <td> 
 
-4,486.80  </td>
+4,545.00  </td>
 
     <td> 
 
-4,641.30  </td>
+4,701.60  </td>
 
   </tr>
 
@@ -5135,19 +5135,19 @@ W–5  </td>
 
     <td> 
 
-$7,189.50  </td>
+$7,283.10  </td>
 
     <td> 
 
-$7,554.30  </td>
+$7,652.40  </td>
 
     <td> 
 
-$7,825.80  </td>
+$7,927.50  </td>
 
     <td> 
 
-$8,126.70  </td>
+$8,232.30  </td>
 
   </tr>
 
@@ -5159,23 +5159,23 @@ W–4  </td>
 
     <td> 
 
-$6,311.70  </td>
+$6,393.90  </td>
 
     <td> 
 
-6,523.80  </td>
+6,608.70  </td>
 
     <td> 
 
-6,835.80  </td>
+6,924.60  </td>
 
     <td> 
 
-7,092.00  </td>
+7,184.10  </td>
 
     <td> 
 
-7,384.20  </td>
+7,480.20  </td>
 
   </tr>
 
@@ -5187,23 +5187,23 @@ W–3  </td>
 
     <td> 
 
-5,761.50  </td>
+5,836.50  </td>
 
     <td> 
 
-5,992.50  </td>
+6,070.50  </td>
 
     <td> 
 
-6,130.50  </td>
+6,210.30  </td>
 
     <td> 
 
-6,277.50  </td>
+6,359.10  </td>
 
     <td> 
 
-6,477.30  </td>
+6,561.60  </td>
 
   </tr>
 
@@ -5215,23 +5215,23 @@ W–2  </td>
 
     <td> 
 
-5,091.00  </td>
+5,157.30  </td>
 
     <td> 
 
-5,257.50  </td>
+5,325.90  </td>
 
     <td> 
 
-5,366.70  </td>
+5,436.60  </td>
 
     <td> 
 
-5,453.70  </td>
+5,524.50  </td>
 
     <td> 
 
-5,453.70  </td>
+5,524.50  </td>
 
   </tr>
 
@@ -5243,23 +5243,23 @@ W–1  </td>
 
     <td> 
 
-4,783.20  </td>
+4,845.30  </td>
 
     <td> 
 
-4,956.00  </td>
+5,020.50  </td>
 
     <td> 
 
-4,956.00  </td>
+5,020.50  </td>
 
     <td> 
 
-4,956.00  </td>
+5,020.50  </td>
 
     <td> 
 
-4,956.00  </td>
+5,020.50  </td>
 
   </tr>
 
@@ -5299,23 +5299,23 @@ W–5  </td>
 
     <td> 
 
-$8,126.70  </td>
+$8,232.30  </td>
 
     <td> 
 
-$8,533.50  </td>
+$8,644.50  </td>
 
     <td> 
 
-$8,533.50  </td>
+$8,644.50  </td>
 
     <td> 
 
-$8,959.80  </td>
+$9,076.20  </td>
 
     <td> 
 
-$8,959.80  </td>
+$9,076.20  </td>
 
   </tr>
 
@@ -5327,23 +5327,23 @@ W–4  </td>
 
     <td> 
 
-7,384.20  </td>
+7,480.20  </td>
 
     <td> 
 
-7,531.80  </td>
+7,629.60  </td>
 
     <td> 
 
-7,531.80  </td>
+7,629.60  </td>
 
     <td> 
 
-7,531.80  </td>
+7,629.60  </td>
 
     <td> 
 
-7,531.80  </td>
+7,629.60  </td>
 
   </tr>
 
@@ -5355,23 +5355,23 @@ W–3  </td>
 
     <td> 
 
-6,477.30  </td>
+6,561.60  </td>
 
     <td> 
 
-6,477.30  </td>
+6,561.60  </td>
 
     <td> 
 
-6,477.30  </td>
+6,561.60  </td>
 
     <td> 
 
-6,477.30  </td>
+6,561.60  </td>
 
     <td> 
 
-6,477.30  </td>
+6,561.60  </td>
 
   </tr>
 
@@ -5383,23 +5383,23 @@ W–2  </td>
 
     <td> 
 
-5,453.70  </td>
+5,524.50  </td>
 
     <td> 
 
-5,453.70  </td>
+5,524.50  </td>
 
     <td> 
 
-5,453.70  </td>
+5,524.50  </td>
 
     <td> 
 
-5,453.70  </td>
+5,524.50  </td>
 
     <td> 
 
-5,453.70  </td>
+5,524.50  </td>
 
   </tr>
 
@@ -5411,23 +5411,23 @@ W–1  </td>
 
     <td> 
 
-4,956.00  </td>
+5,020.50  </td>
 
     <td> 
 
-4,956.00  </td>
+5,020.50  </td>
 
     <td> 
 
-4,956.00  </td>
+5,020.50  </td>
 
     <td> 
 
-4,956.00  </td>
+5,020.50  </td>
 
     <td> 
 
-4,956.00  </td>
+5,020.50  </td>
 
   </tr>
 
@@ -5461,11 +5461,11 @@ W–5  </td>
 
     <td> 
 
-$9,408.30  </td>
+$9,530.70  </td>
 
     <td> 
 
-$9,408.30  </td>
+$9,530.70  </td>
 
     <td>   </td>
 
@@ -5483,11 +5483,11 @@ W–4  </td>
 
     <td> 
 
-7,531.80  </td>
+7,629.60  </td>
 
     <td> 
 
-7,531.80  </td>
+7,629.60  </td>
 
     <td>   </td>
 
@@ -5505,11 +5505,11 @@ W–3  </td>
 
     <td> 
 
-6,477.30  </td>
+6,561.60  </td>
 
     <td> 
 
-6,477.30  </td>
+6,561.60  </td>
 
     <td>   </td>
 
@@ -5527,11 +5527,11 @@ W–2  </td>
 
     <td> 
 
-5,453.70  </td>
+5,524.50  </td>
 
     <td> 
 
-5,453.70  </td>
+5,524.50  </td>
 
     <td>   </td>
 
@@ -5549,11 +5549,11 @@ W–1  </td>
 
     <td> 
 
-4,956.00  </td>
+5,020.50  </td>
 
     <td> 
 
-4,956.00  </td>
+5,020.50  </td>
 
     <td>   </td>
 
@@ -5607,7 +5607,7 @@ Over 6  </td>
 
     <td colspan="6"> 
 
-1 For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $7,894.50 per month, regardless of cumulative years of service under 37 U.S.C. 205.
+1 For noncommissioned officers serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy or Coast Guard, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or Senior Enlisted Advisor to the Chief of the National Guard Bureau, basic pay for this grade is $7,997.10 per month, regardless of cumulative years of service under 37 U.S.C. 205.
 
   </td>
 
@@ -5697,23 +5697,23 @@ E–7  </td>
 
     <td> 
 
-$2,780.10  </td>
+$2,816.10  </td>
 
     <td> 
 
-$3,034.20  </td>
+$3,073.50  </td>
 
     <td> 
 
-$3,150.30  </td>
+$3,191.40  </td>
 
     <td> 
 
-$3,304.20  </td>
+$3,347.10  </td>
 
     <td> 
 
-$3,424.50  </td>
+$3,468.90  </td>
 
   </tr>
 
@@ -5725,23 +5725,23 @@ E–6  </td>
 
     <td> 
 
-2,404.50  </td>
+2,435.70  </td>
 
     <td> 
 
-2,645.70  </td>
+2,680.20  </td>
 
     <td> 
 
-2,762.40  </td>
+2,798.40  </td>
 
     <td> 
 
-2,876.10  </td>
+2,913.60  </td>
 
     <td> 
 
-2,994.60  </td>
+3,033.60  </td>
 
   </tr>
 
@@ -5753,23 +5753,23 @@ E–5  </td>
 
     <td> 
 
-2,202.90  </td>
+2,231.40  </td>
 
     <td> 
 
-2,350.80  </td>
+2,381.40  </td>
 
     <td> 
 
-2,464.50  </td>
+2,496.60  </td>
 
     <td> 
 
-2,580.60  </td>
+2,614.20  </td>
 
     <td> 
 
-2,761.80  </td>
+2,797.80  </td>
 
   </tr>
 
@@ -5781,23 +5781,23 @@ E–4  </td>
 
     <td> 
 
-2,019.60  </td>
+2,046.00  </td>
 
     <td> 
 
-2,122.80  </td>
+2,150.40  </td>
 
     <td> 
 
-2,238.00  </td>
+2,267.10  </td>
 
     <td> 
 
-2,351.40  </td>
+2,382.00  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
   </tr>
 
@@ -5809,23 +5809,23 @@ E–3  </td>
 
     <td> 
 
-1,823.40  </td>
+1,847.10  </td>
 
     <td> 
 
-1,938.00  </td>
+1,963.20  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
   </tr>
 
@@ -5837,23 +5837,23 @@ E–2  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
   </tr>
 
@@ -5865,23 +5865,23 @@ E–1 2  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
   </tr>
 
@@ -5893,7 +5893,7 @@ E–1 3  </td>
 
     <td> 
 
-1,430.40  </td>
+1,449.00  </td>
 
     <td> 
 
@@ -5953,19 +5953,19 @@ E–9 1  </td>
 
     <td> 
 
-$4,885.20  </td>
+$4,948.80  </td>
 
     <td> 
 
-$4,995.90  </td>
+$5,060.70  </td>
 
     <td> 
 
-$5,135.40  </td>
+$5,202.30  </td>
 
     <td> 
 
-$5,299.20  </td>
+$5,368.20  </td>
 
   </tr>
 
@@ -5977,23 +5977,23 @@ E–8  </td>
 
     <td> 
 
-$3,999.00  </td>
+$4,050.90  </td>
 
     <td> 
 
-4,175.70  </td>
+4,230.00  </td>
 
     <td> 
 
-4,285.20  </td>
+4,341.00  </td>
 
     <td> 
 
-4,416.60  </td>
+4,473.90  </td>
 
     <td> 
 
-4,558.80  </td>
+4,618.20  </td>
 
   </tr>
 
@@ -6005,23 +6005,23 @@ E–7  </td>
 
     <td> 
 
-3,630.90  </td>
+3,678.00  </td>
 
     <td> 
 
-3,747.00  </td>
+3,795.60  </td>
 
     <td> 
 
-3,953.40  </td>
+4,004.70  </td>
 
     <td> 
 
-4,125.00  </td>
+4,178.70  </td>
 
     <td> 
 
-4,242.30  </td>
+4,297.50  </td>
 
   </tr>
 
@@ -6033,23 +6033,23 @@ E–6  </td>
 
     <td> 
 
-3,261.00  </td>
+3,303.30  </td>
 
     <td> 
 
-3,364.80  </td>
+3,408.60  </td>
 
     <td> 
 
-3,565.80  </td>
+3,612.30  </td>
 
     <td> 
 
-3,627.30  </td>
+3,674.40  </td>
 
     <td> 
 
-3,672.00  </td>
+3,719.70  </td>
 
   </tr>
 
@@ -6061,23 +6061,23 @@ E–5  </td>
 
     <td> 
 
-2,951.40  </td>
+2,989.80  </td>
 
     <td> 
 
-3,107.10  </td>
+3,147.60  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
   </tr>
 
@@ -6089,23 +6089,23 @@ E–4  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
   </tr>
 
@@ -6117,23 +6117,23 @@ E–3  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
   </tr>
 
@@ -6145,23 +6145,23 @@ E–2  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
   </tr>
 
@@ -6173,23 +6173,23 @@ E–1 2  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
   </tr>
 
@@ -6257,23 +6257,23 @@ E–9 1  </td>
 
     <td> 
 
-$5,465.10  </td>
+$5,536.20  </td>
 
     <td> 
 
-$5,730.30  </td>
+$5,804.70  </td>
 
     <td> 
 
-$5,954.70  </td>
+$6,032.10  </td>
 
     <td> 
 
-$6,190.50  </td>
+$6,270.90  </td>
 
     <td> 
 
-$6,551.70  </td>
+$6,636.90  </td>
 
   </tr>
 
@@ -6285,23 +6285,23 @@ E–8  </td>
 
     <td> 
 
-4,815.30  </td>
+4,878.00  </td>
 
     <td> 
 
-4,945.20  </td>
+5,009.40  </td>
 
     <td> 
 
-5,166.60  </td>
+5,233.80  </td>
 
     <td> 
 
-5,289.30  </td>
+5,358.00  </td>
 
     <td> 
 
-5,591.40  </td>
+5,664.00  </td>
 
   </tr>
 
@@ -6313,23 +6313,23 @@ E–7  </td>
 
     <td> 
 
-4,367.10  </td>
+4,423.80  </td>
 
     <td> 
 
-4,415.40  </td>
+4,472.70  </td>
 
     <td> 
 
-4,577.70  </td>
+4,637.10  </td>
 
     <td> 
 
-4,664.70  </td>
+4,725.30  </td>
 
     <td> 
 
-4,996.20  </td>
+5,061.30  </td>
 
   </tr>
 
@@ -6341,23 +6341,23 @@ E–6  </td>
 
     <td> 
 
-3,724.20  </td>
+3,772.50  </td>
 
     <td> 
 
-3,724.20  </td>
+3,772.50  </td>
 
     <td> 
 
-3,724.20  </td>
+3,772.50  </td>
 
     <td> 
 
-3,724.20  </td>
+3,772.50  </td>
 
     <td> 
 
-3,724.20  </td>
+3,772.50  </td>
 
   </tr>
 
@@ -6369,23 +6369,23 @@ E–5  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
   </tr>
 
@@ -6397,23 +6397,23 @@ E–4  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
   </tr>
 
@@ -6425,23 +6425,23 @@ E–3  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
   </tr>
 
@@ -6453,23 +6453,23 @@ E–2  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
   </tr>
 
@@ -6481,23 +6481,23 @@ E–1 2  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
   </tr>
 
@@ -6565,23 +6565,23 @@ E–9 1  </td>
 
     <td> 
 
-$6,551.70  </td>
+$6,636.90  </td>
 
     <td> 
 
-$6,879.00  </td>
+$6,968.40  </td>
 
     <td> 
 
-$6,879.00  </td>
+$6,968.40  </td>
 
     <td> 
 
-$7,223.10  </td>
+$7,317.00  </td>
 
     <td> 
 
-$7,223.10  </td>
+$7,317.00  </td>
 
   </tr>
 
@@ -6593,23 +6593,23 @@ E–8  </td>
 
     <td> 
 
-5,591.40  </td>
+5,664.00  </td>
 
     <td> 
 
-5,703.60  </td>
+5,777.70  </td>
 
     <td> 
 
-5,703.60  </td>
+5,777.70  </td>
 
     <td> 
 
-5,703.60  </td>
+5,777.70  </td>
 
     <td> 
 
-5,703.60  </td>
+5,777.70  </td>
 
   </tr>
 
@@ -6621,23 +6621,23 @@ E–7  </td>
 
     <td> 
 
-4,996.20  </td>
+5,061.30  </td>
 
     <td> 
 
-4,996.20  </td>
+5,061.30  </td>
 
     <td> 
 
-4,996.20  </td>
+5,061.30  </td>
 
     <td> 
 
-4,996.20  </td>
+5,061.30  </td>
 
     <td> 
 
-4,996.20  </td>
+5,061.30  </td>
 
   </tr>
 
@@ -6649,23 +6649,23 @@ E–6  </td>
 
     <td> 
 
-3,724.20  </td>
+3,772.50  </td>
 
     <td> 
 
-3,724.20  </td>
+3,772.50  </td>
 
     <td> 
 
-3,724.20  </td>
+3,772.50  </td>
 
     <td> 
 
-3,724.20  </td>
+3,772.50  </td>
 
     <td> 
 
-3,724.20  </td>
+3,772.50  </td>
 
   </tr>
 
@@ -6677,23 +6677,23 @@ E–5  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
   </tr>
 
@@ -6705,23 +6705,23 @@ E–4  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
   </tr>
 
@@ -6733,23 +6733,23 @@ E–3  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
   </tr>
 
@@ -6761,23 +6761,23 @@ E–2  </td>
 
     <td> 
 
-1,734.00  </td>
+............  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
   </tr>
 
@@ -6789,23 +6789,23 @@ E–1 2  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
   </tr>
 
@@ -6867,11 +6867,11 @@ E–9 1  </td>
 
     <td> 
 
-$7,584.60  </td>
+$7,683.30  </td>
 
     <td> 
 
-$7,584.60  </td>
+$7,683.30  </td>
 
     <td>   </td>
 
@@ -6889,11 +6889,11 @@ E–8  </td>
 
     <td> 
 
-5,703.60  </td>
+5,777.70  </td>
 
     <td> 
 
-5,703.60  </td>
+5,777.70  </td>
 
     <td>   </td>
 
@@ -6911,11 +6911,11 @@ E–7  </td>
 
     <td> 
 
-4,996.20  </td>
+5,061.30  </td>
 
     <td> 
 
-4,996.20  </td>
+5,061.30  </td>
 
     <td>   </td>
 
@@ -6933,11 +6933,11 @@ E–6  </td>
 
     <td> 
 
-3,724.20  </td>
+3,772.50  </td>
 
     <td> 
 
-3,724.20  </td>
+3,772.50  </td>
 
     <td>   </td>
 
@@ -6955,11 +6955,11 @@ E–5  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
     <td> 
 
-3,125.70  </td>
+3,166.20  </td>
 
     <td>   </td>
 
@@ -6977,11 +6977,11 @@ E–4  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td> 
 
-2,451.60  </td>
+2,483.40  </td>
 
     <td>   </td>
 
@@ -6999,11 +6999,11 @@ E–3  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td> 
 
-2,055.30  </td>
+2,082.00  </td>
 
     <td>   </td>
 
@@ -7021,11 +7021,11 @@ E–2  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td> 
 
-1,734.00  </td>
+1,756.50  </td>
 
     <td>   </td>
 
@@ -7043,11 +7043,11 @@ E–1 2  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td> 
 
-1,546.80  </td>
+1,566.90  </td>
 
     <td>   </td>
 
@@ -7083,7 +7083,7 @@ E–1 3  </td>
 
 part ii—rate of monthly cadet or midshipman pay
 
-    The rate of monthly cadet or midshipman pay authorized by [37 U.S.C. 203(c)][/us/usc/t37/s203/c] is $1,027.20.
+    The rate of monthly cadet or midshipman pay authorized by [37 U.S.C. 203(c)][/us/usc/t37/s203/c] is $1,040.70.
 
     Note: As a result of the enactment of sections 602–604 of [Public Law 105–85][/us/pl/105/85], the National Defense Authorization Act for Fiscal Year 1998 \[see Tables for classification\], the Secretary of Defense now has the authority to adjust the rates of basic allowances for subsistence and housing. Therefore, these allowances are no longer adjusted by the President in conjunction with the adjustment of basic pay for members of the uniformed services. Accordingly, the tables of allowances included in previous orders are not included here.
 
@@ -7109,7 +7109,7 @@ Locality-Based Comparability Payments  </td>
 
     <td colspan="2"> 
 
-(Effective on the first day of the first applicable pay period beginning on or after January 1, 2015)  </td>
+(Effective on the first day of the first applicable pay period beginning on or after January 1, 2016)  </td>
 
   </tr>
 
@@ -7143,7 +7143,7 @@ Alaska  </td>
 
     <td> 
 
-24.69%  </td>
+25.16%  </td>
 
   </tr>
 
@@ -7151,11 +7151,11 @@ Alaska  </td>
 
     <td> 
 
-Atlanta-Sandy Springs-Gainesville, GA–AL  </td>
+Albany-Schenectady, NY  </td>
 
     <td> 
 
-19.29%  </td>
+14.49%  </td>
 
   </tr>
 
@@ -7163,11 +7163,11 @@ Atlanta-Sandy Springs-Gainesville, GA–AL  </td>
 
     <td> 
 
-Boston-Worcester-Manchester, MA–NH–RI–ME  </td>
+Albuquerque-Santa Fe-Las Vegas, NM  </td>
 
     <td> 
 
-24.80%  </td>
+14.37%  </td>
 
   </tr>
 
@@ -7175,11 +7175,11 @@ Boston-Worcester-Manchester, MA–NH–RI–ME  </td>
 
     <td> 
 
-Buffalo-Niagara-Cattaraugus, NY  </td>
+Atlanta-Athens-Clarke County-Sandy Springs, GA–AL  </td>
 
     <td> 
 
-16.98%  </td>
+19.58%  </td>
 
   </tr>
 
@@ -7187,11 +7187,11 @@ Buffalo-Niagara-Cattaraugus, NY  </td>
 
     <td> 
 
-Chicago-Naperville-Michigan City, IL–IN–WI  </td>
+Austin-Round Rock, TX  </td>
 
     <td> 
 
-25.10%  </td>
+14.51%  </td>
 
   </tr>
 
@@ -7199,11 +7199,11 @@ Chicago-Naperville-Michigan City, IL–IN–WI  </td>
 
     <td> 
 
-Cincinnati-Middletown-Wilmington, OH–KY–IN  </td>
+Boston-Worcester-Providence, MA–RI–NH–CT–ME  </td>
 
     <td> 
 
-18.55%  </td>
+25.19%  </td>
 
   </tr>
 
@@ -7211,11 +7211,11 @@ Cincinnati-Middletown-Wilmington, OH–KY–IN  </td>
 
     <td> 
 
-Cleveland-Akron-Elyria, OH  </td>
+Buffalo-Cheektowaga, NY  </td>
 
     <td> 
 
-18.68%  </td>
+17.31%  </td>
 
   </tr>
 
@@ -7223,11 +7223,11 @@ Cleveland-Akron-Elyria, OH  </td>
 
     <td> 
 
-Columbus-Marion-Chillicothe, OH  </td>
+Charlotte-Concord, NC–SC  </td>
 
     <td> 
 
-17.16%  </td>
+14.44%  </td>
 
   </tr>
 
@@ -7235,11 +7235,11 @@ Columbus-Marion-Chillicothe, OH  </td>
 
     <td> 
 
-Dallas-Fort Worth, TX  </td>
+Chicago-Naperville, IL–IN–WI  </td>
 
     <td> 
 
-20.67%  </td>
+25.44%  </td>
 
   </tr>
 
@@ -7247,11 +7247,11 @@ Dallas-Fort Worth, TX  </td>
 
     <td> 
 
-Dayton-Springfield-Greenville, OH  </td>
+Cincinnati-Wilmington-Maysville, OH–KY–IN  </td>
 
     <td> 
 
-16.24%  </td>
+18.76%  </td>
 
   </tr>
 
@@ -7259,11 +7259,11 @@ Dayton-Springfield-Greenville, OH  </td>
 
     <td> 
 
-Denver-Aurora-Boulder, CO  </td>
+Cleveland-Akron-Canton, OH  </td>
 
     <td> 
 
-22.52%  </td>
+18.87%  </td>
 
   </tr>
 
@@ -7271,11 +7271,11 @@ Denver-Aurora-Boulder, CO  </td>
 
     <td> 
 
-Detroit-Warren-Flint, MI  </td>
+Colorado Springs, CO  </td>
 
     <td> 
 
-24.09%  </td>
+14.52%  </td>
 
   </tr>
 
@@ -7283,11 +7283,95 @@ Detroit-Warren-Flint, MI  </td>
 
     <td> 
 
-Hartford-West Hartford-Willimantic, CT–MA  </td>
+Columbus-Marion-Zanesville, OH  </td>
 
     <td> 
 
-25.82%  </td>
+17.41%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Dallas-Fort Worth, TX–OK  </td>
+
+    <td> 
+
+21.04%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Davenport-Moline, IA–IL  </td>
+
+    <td> 
+
+14.43%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Dayton-Springfield-Sidney, OH  </td>
+
+    <td> 
+
+16.50%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Denver-Aurora, CO  </td>
+
+    <td> 
+
+22.93%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Detroit-Warren-Ann Arbor, MI  </td>
+
+    <td> 
+
+24.40%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Harrisburg-Lebanon, PA  </td>
+
+    <td> 
+
+14.47%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Hartford-West Hartford, CT–MA  </td>
+
+    <td> 
+
+26.20%  </td>
 
   </tr>
 
@@ -7299,7 +7383,7 @@ Hawaii  </td>
 
     <td> 
 
-16.51%  </td>
+16.81%  </td>
 
   </tr>
 
@@ -7307,11 +7391,11 @@ Hawaii  </td>
 
     <td> 
 
-Houston-Baytown-Huntsville, TX  </td>
+Houston-The Woodlands, TX  </td>
 
     <td> 
 
-28.71%  </td>
+29.11%  </td>
 
   </tr>
 
@@ -7319,115 +7403,7 @@ Houston-Baytown-Huntsville, TX  </td>
 
     <td> 
 
-Huntsville-Decatur, AL  </td>
-
-    <td> 
-
-16.02%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Indianapolis-Anderson-Columbus, IN  </td>
-
-    <td> 
-
-14.68%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Los Angeles-Long Beach-Riverside, CA  </td>
-
-    <td> 
-
-27.16%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Miami-Fort Lauderdale-Pompano Beach, FL  </td>
-
-    <td> 
-
-20.79%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Milwaukee-Racine-Waukesha, WI  </td>
-
-    <td> 
-
-18.10%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Minneapolis-St. Paul-St. Cloud, MN–WI  </td>
-
-    <td> 
-
-20.96%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-New York-Newark-Bridgeport, NY–NJ–CT–PA  </td>
-
-    <td> 
-
-28.72%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Philadelphia-Camden-Vineland, PA–NJ–DE–MD  </td>
-
-    <td> 
-
-21.79%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Phoenix-Mesa-Scottsdale, AZ  </td>
-
-    <td> 
-
-16.76%  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-Pittsburgh-New Castle, PA  </td>
+Huntsville-Decatur-Albertville, AL  </td>
 
     <td> 
 
@@ -7439,11 +7415,11 @@ Pittsburgh-New Castle, PA  </td>
 
     <td> 
 
-Portland-Vancouver-Hillsboro, OR–WA  </td>
+Indianapolis-Carmel-Muncie, IN  </td>
 
     <td> 
 
-20.35%  </td>
+14.92%  </td>
 
   </tr>
 
@@ -7451,11 +7427,167 @@ Portland-Vancouver-Hillsboro, OR–WA  </td>
 
     <td> 
 
-Raleigh-Durham-Cary, NC  </td>
+Kansas City-Overland Park-Kansas City, MO–KS  </td>
 
     <td> 
 
-17.64%  </td>
+14.49%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Laredo, TX  </td>
+
+    <td> 
+
+14.59%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Las Vegas-Henderson, NV–AZ  </td>
+
+    <td> 
+
+14.55%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Los Angeles-Long Beach, CA  </td>
+
+    <td> 
+
+27.65%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Miami-Fort Lauderdale-Port St. Lucie, FL  </td>
+
+    <td> 
+
+21.05%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Milwaukee-Racine-Waukesha, WI  </td>
+
+    <td> 
+
+18.39%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Minneapolis-St. Paul, MN–WI  </td>
+
+    <td> 
+
+21.30%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+New York-Newark, NY–NJ–CT–PA  </td>
+
+    <td> 
+
+29.20%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Palm Bay-Melbourne-Titusville, FL  </td>
+
+    <td> 
+
+14.42%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Philadelphia-Reading-Camden, PA–NJ–DE–MD  </td>
+
+    <td> 
+
+22.22%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Phoenix-Mesa-Scottsdale, AZ  </td>
+
+    <td> 
+
+17.12%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Pittsburgh-New Castle-Weirton, PA–OH–WV  </td>
+
+    <td> 
+
+16.68%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Portland-Vancouver-Salem, OR–WA  </td>
+
+    <td> 
+
+20.69%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Raleigh-Durham-Chapel Hill, NC  </td>
+
+    <td> 
+
+17.94%  </td>
 
   </tr>
 
@@ -7467,7 +7599,7 @@ Richmond, VA  </td>
 
     <td> 
 
-16.47%  </td>
+16.76%  </td>
 
   </tr>
 
@@ -7475,11 +7607,11 @@ Richmond, VA  </td>
 
     <td> 
 
-Sacramento–Arden-Arcade–Yuba City, CA–NV  </td>
+Sacramento-Roseville, CA–NV  </td>
 
     <td> 
 
-22.20%  </td>
+22.61%  </td>
 
   </tr>
 
@@ -7487,11 +7619,11 @@ Sacramento–Arden-Arcade–Yuba City, CA–NV  </td>
 
     <td> 
 
-San Diego-Carlsbad-San Marcos, CA  </td>
+San Diego-Carlsbad, CA  </td>
 
     <td> 
 
-24.19%  </td>
+24.73%  </td>
 
   </tr>
 
@@ -7503,7 +7635,7 @@ San Jose-San Francisco-Oakland, CA  </td>
 
     <td> 
 
-35.15%  </td>
+35.75%  </td>
 
   </tr>
 
@@ -7511,11 +7643,11 @@ San Jose-San Francisco-Oakland, CA  </td>
 
     <td> 
 
-Seattle-Tacoma-Olympia, WA  </td>
+Seattle-Tacoma, WA  </td>
 
     <td> 
 
-21.81%  </td>
+22.26%  </td>
 
   </tr>
 
@@ -7523,11 +7655,35 @@ Seattle-Tacoma-Olympia, WA  </td>
 
     <td> 
 
-Washington-Baltimore-Northern Virginia, DC–MD–VA– WV–PA  </td>
+St. Louis-St. Charles-Farmington, MO–IL  </td>
 
     <td> 
 
-24.22%  </td>
+14.49%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Tucson-Nogales, AZ  </td>
+
+    <td> 
+
+14.51%  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Washington-Baltimore-Arlington, DC–MD–VA–WV–PA  </td>
+
+    <td> 
+
+24.78%  </td>
 
   </tr>
 
@@ -7539,7 +7695,7 @@ Rest of U.S.  </td>
 
     <td> 
 
-14.16%  </td>
+14.35%  </td>
 
   </tr>
 
@@ -7567,7 +7723,7 @@ Administrative Law Judges  </td>
 
     <td colspan="2"> 
 
-(Effective on the first day of the first applicable pay period beginning on or after January 1, 2015)  </td>
+(Effective on the first day of the first applicable pay period beginning on or after January 1, 2016)  </td>
 
   </tr>
 
@@ -7585,7 +7741,7 @@ AL–3/A  </td>
 
     <td> 
 
-$105,900  </td>
+$107,000  </td>
 
   </tr>
 
@@ -7597,7 +7753,7 @@ AL–3/B  </td>
 
     <td> 
 
-114,000  </td>
+115,100  </td>
 
   </tr>
 
@@ -7609,7 +7765,7 @@ AL–3/C  </td>
 
     <td> 
 
-122,300  </td>
+123,500  </td>
 
   </tr>
 
@@ -7621,7 +7777,7 @@ AL–3/D  </td>
 
     <td> 
 
-130,400  </td>
+131,700  </td>
 
   </tr>
 
@@ -7633,7 +7789,7 @@ AL–3/E  </td>
 
     <td> 
 
-138,700  </td>
+140,100  </td>
 
   </tr>
 
@@ -7645,7 +7801,7 @@ AL–3/F  </td>
 
     <td> 
 
-146,600  </td>
+148,100  </td>
 
   </tr>
 
@@ -7657,7 +7813,7 @@ AL–2  </td>
 
     <td> 
 
-154,800  </td>
+156,300  </td>
 
   </tr>
 
@@ -7669,13 +7825,15 @@ AL–1  </td>
 
     <td> 
 
-158,700  </td>
+160,300  </td>
 
   </tr>
 
 </table>
 
  __Prior adjustments of certain rates of pay were contained in the following:__ 
+
+    Ex. Ord. No. 13686, Dec. 19, 2014, 79 F.R. 77361, effective Jan. 1, 2015, superseded by Ex. Ord. No. 13715.
 
     Ex. Ord. No. 13655, Dec. 23, 2013, 78 F.R. 80451, effective Jan. 1, 2014, superseded by Ex. Ord. No. 13686.
 

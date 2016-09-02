@@ -201,7 +201,7 @@
 
 >         (1)
 
->          Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2016, by this \[Act\] \[titles I–III and V–VII of div. E of [Pub. L. 114–113][/us/pl/114/113], see Tables for classification\] or any other Act, may be used to pay any prevailing rate employee described in [section 5342(a)(2)(A) of title 5][/us/usc/t5/s5342/a/2/A], United States Code—
+>          Notwithstanding any other provision of law, and except as otherwise provided in this section, no part of any of the funds appropriated for fiscal year 2016, by this or any other Act, may be used to pay any prevailing rate employee described in [section 5342(a)(2)(A) of title 5][/us/usc/t5/s5342/a/2/A], United States Code—
 
 >             “(A) during the period from the date of expiration of the limitation imposed by the comparable section for the previous fiscal years until the normal effective date of the applicable wage survey adjustment that is to take effect in fiscal year 2016, in an amount that exceeds the rate payable for the applicable grade and step of the applicable wage schedule in accordance with such section; and
 
@@ -463,7 +463,6 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 [/us/pl/114/113/dE/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdE%2FtVII
 [/us/stat/129/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2481
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t5/s5342/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5342%2Fa%2F2%2FA
 [/us/usc/t5/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5303
 [/us/usc/t5/s5342/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5342%2Fa%2F2

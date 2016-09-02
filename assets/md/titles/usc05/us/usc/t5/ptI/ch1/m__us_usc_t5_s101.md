@@ -213,6 +213,16 @@ R.S. § 159.  </td>
 
     Amendment by [Pub. L. 89–670][/us/pl/89/670] effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly § 15(a), of [Pub. L. 89–670][/us/pl/89/670] and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–137][/us/pl/114/137], § 1, Mar. 18, 2016, [130 Stat. 310][/us/stat/130/310], provided that: 
+
+> “This Act \[amending sections 3318, 3319, and 9510 of this title and enacting provisions set out as a note under [section 3318 of this title][/us/usc/t5/s3318]\] may be cited as the ‘Competitive Service Act of 2015’.”
+
+[Pub. L. 114–136][/us/pl/114/136], § 1, Mar. 18, 2016, [130 Stat. 301][/us/stat/130/301], provided that: 
+
+> “This Act \[amending sections 8331, 8701, and 8901 of this title and [section 2203 of Title 44][/us/usc/t44/s2203], Public Printing and Documents, enacting provisions set out as a note under [section 3101 of this title][/us/usc/t5/s3101], amending provisions set out as a note under [section 102 of Title 3][/us/usc/t3/s102], The President, and repealing provisions set out as a note under [section 102 of Title 3][/us/usc/t3/s102]\] may be cited as the ‘Edward “Ted” Kaufman and Michael Leavitt Presidential Transitions Improvements Act of 2015’.”
+
  __Short Title of 2015 Amendment__ 
 
 [Pub. L. 114–75][/us/pl/114/75], § 1, Nov. 5, 2015, [129 Stat. 640][/us/stat/129/640], provided that: 
@@ -409,6 +419,15 @@ R.S. § 159.  </td>
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
+[/us/pl/114/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F137
+[/us/stat/130/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F310
+[/us/usc/t5/s3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3318
+[/us/pl/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F136
+[/us/stat/130/301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F301
+[/us/usc/t44/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs2203
+[/us/usc/t5/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3101
+[/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
+[/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/pl/114/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F75
 [/us/stat/129/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F640
 [/us/usc/t5/s6329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6329

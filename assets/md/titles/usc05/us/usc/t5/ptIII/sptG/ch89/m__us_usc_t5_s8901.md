@@ -37,7 +37,7 @@
 
         (H) an individual appointed to a position on the office staff of a former President under [section 1(b) of the Act of August 25, 1958][/us/act/1958-08-25/s1/b] ([72 Stat. 838][/us/stat/72/838]);
 
-        (I) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended ([78 Stat. 153][/us/stat/78/153]), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph; and
+        (I) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 5 of the Presidential Transition Act of 1963, as amended ([78 Stat. 153][/us/stat/78/153]), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph; and
 
         (J) an individual who is employed by the Roosevelt Campobello International Park Commission and is a citizen of the United States,
 
@@ -139,7 +139,7 @@
 
             (ii) meets equivalent requirements (as prescribed by the Office).
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 600][/us/stat/80/600]; [Pub. L. 90–83][/us/pl/90/83], § 1(95), Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219]; [Pub. L. 91–418][/us/pl/91/418], §§ 2, 3(b), Sept. 25, 1970, [84 Stat. 869][/us/stat/84/869]; [Pub. L. 93–160][/us/pl/93/160], § 1(b), Nov. 27, 1973, [87 Stat. 635][/us/stat/87/635]; [Pub. L. 95–368][/us/pl/95/368], § 2, Sept. 17, 1978, [92 Stat. 606][/us/stat/92/606]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 95–583][/us/pl/95/583], § 2, Nov. 2, 1978, [92 Stat. 2482][/us/stat/92/2482]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(52), Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384]; [Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1209(c), Sept. 27, 1979, [93 Stat. 463][/us/stat/93/463]; [Pub. L. 96–179][/us/pl/96/179], § 2, Jan. 2, 1980, [93 Stat. 1299][/us/stat/93/1299]; [Pub. L. 98–615][/us/pl/98/615], § 3(1), Nov. 8, 1984, [98 Stat. 3202][/us/stat/98/3202]; [Pub. L. 99–53][/us/pl/99/53], § 1(a), June 17, 1985, [99 Stat. 93][/us/stat/99/93]; [Pub. L. 99–251, title I][/us/pl/99/251/tI], § 105(a), Feb. 27, 1986, [100 Stat. 15][/us/stat/100/15]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(l), June 6, 1986, [100 Stat. 598][/us/stat/100/598]; [Pub. L. 99–556, title V][/us/pl/99/556/tV], § 503, Oct. 27, 1986, [100 Stat. 3141][/us/stat/100/3141]; [Pub. L. 100–679][/us/pl/100/679], § 13(c), Nov. 17, 1988, [102 Stat. 4071][/us/stat/102/4071]; [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7202(l), Nov. 5, 1990, [104 Stat. 1388–339][/us/stat/104/1388-339]; [Pub. L. 102–378][/us/pl/102/378], § 2(75), Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 105–266][/us/pl/105/266], § 3(a), Oct. 19, 1998, [112 Stat. 2366][/us/stat/112/2366]; [Pub. L. 110–74][/us/pl/110/74], § 1, Aug. 9, 2007, [121 Stat. 723][/us/stat/121/723].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 600][/us/stat/80/600]; [Pub. L. 90–83][/us/pl/90/83], § 1(95), Sept. 11, 1967, [81 Stat. 219][/us/stat/81/219]; [Pub. L. 91–418][/us/pl/91/418], §§ 2, 3(b), Sept. 25, 1970, [84 Stat. 869][/us/stat/84/869]; [Pub. L. 93–160][/us/pl/93/160], § 1(b), Nov. 27, 1973, [87 Stat. 635][/us/stat/87/635]; [Pub. L. 95–368][/us/pl/95/368], § 2, Sept. 17, 1978, [92 Stat. 606][/us/stat/92/606]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 95–583][/us/pl/95/583], § 2, Nov. 2, 1978, [92 Stat. 2482][/us/stat/92/2482]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(52), Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384]; [Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1209(c), Sept. 27, 1979, [93 Stat. 463][/us/stat/93/463]; [Pub. L. 96–179][/us/pl/96/179], § 2, Jan. 2, 1980, [93 Stat. 1299][/us/stat/93/1299]; [Pub. L. 98–615][/us/pl/98/615], § 3(1), Nov. 8, 1984, [98 Stat. 3202][/us/stat/98/3202]; [Pub. L. 99–53][/us/pl/99/53], § 1(a), June 17, 1985, [99 Stat. 93][/us/stat/99/93]; [Pub. L. 99–251, title I][/us/pl/99/251/tI], § 105(a), Feb. 27, 1986, [100 Stat. 15][/us/stat/100/15]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(l), June 6, 1986, [100 Stat. 598][/us/stat/100/598]; [Pub. L. 99–556, title V][/us/pl/99/556/tV], § 503, Oct. 27, 1986, [100 Stat. 3141][/us/stat/100/3141]; [Pub. L. 100–679][/us/pl/100/679], § 13(c), Nov. 17, 1988, [102 Stat. 4071][/us/stat/102/4071]; [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7202(l), Nov. 5, 1990, [104 Stat. 1388–339][/us/stat/104/1388-339]; [Pub. L. 102–378][/us/pl/102/378], § 2(75), Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 105–266][/us/pl/105/266], § 3(a), Oct. 19, 1998, [112 Stat. 2366][/us/stat/112/2366]; [Pub. L. 110–74][/us/pl/110/74], § 1, Aug. 9, 2007, [121 Stat. 723][/us/stat/121/723]; [Pub. L. 114–136][/us/pl/114/136], § 2(c)(5), Mar. 18, 2016, [130 Stat. 305][/us/stat/130/305].)
 
 <table>
 
@@ -305,11 +305,13 @@ July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303.  </td>
 
     [Section 1(b) of the Act of August 25, 1958][/us/act/1958-08-25/s1/b] ([72 Stat. 838][/us/stat/72/838]), referred to in par. (1)(H), is [section 1(b) of Pub. L. 85–745][/us/pl/85/745/s1/b] which is set out as a note under [section 102 of Title 3][/us/usc/t3/s102], The President.
 
-    Section 4 of the Presidential Transition Act of 1963, referred to in par. (1)(I), is [section 4 of Pub. L. 88–277][/us/pl/88/277/s4], which is set out as a note under [section 102 of Title 3][/us/usc/t3/s102].
+    Section 5 of the Presidential Transition Act of 1963, referred to in par. (1)(I), is [section 5 of Pub. L. 88–277][/us/pl/88/277/s5], which is set out as a note under [section 102 of Title 3][/us/usc/t3/s102], The President.
 
     The date of enactment of [section 8903a of this title][/us/usc/t5/s8903a], referred to in par. (8)(B), means the date of enactment of [Pub. L. 99–53][/us/pl/99/53], which enacted section 8903a and which was approved June 17, 1985.
 
  __Amendments__ 
+
+    2016—Par. (1)(I). [Pub. L. 114–136][/us/pl/114/136] substituted “section 5” for “section 4”.
 
     2007—Par. (1)(J). [Pub. L. 110–74][/us/pl/110/74] added subpar. (J).
 
@@ -712,16 +714,19 @@ July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303.  </td>
 [/us/stat/112/2366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2366
 [/us/pl/110/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F74
 [/us/stat/121/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F723
+[/us/pl/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F136
+[/us/stat/130/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F305
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/usc/t5/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2107
 [/us/act/1958-08-25/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1958-08-25%2Fs1%2Fb
 [/us/stat/72/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F838
 [/us/pl/85/745/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F745%2Fs1%2Fb
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
-[/us/pl/88/277/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277%2Fs4
+[/us/pl/88/277/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277%2Fs5
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/usc/t5/s8903a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8903a
 [/us/pl/99/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F53
+[/us/pl/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F136
 [/us/pl/110/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F74
 [/us/pl/105/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F266
 [/us/pl/102/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F378

@@ -757,6 +757,124 @@
 
     Functions of Director of Office of Management and Budget under this section delegated to Administrator for Office of Information and Regulatory Affairs by [section 3 of Pub. L. 96–511][/us/pl/96/511/s3], Dec. 11, 1980, [94 Stat. 2825][/us/stat/94/2825], set out as a note under [section 3503 of Title 44][/us/usc/t44/s3503], Public Printing and Documents.
 
+ __Extension of Privacy Act Remedies to Citizens of Designated Countries__ 
+
+[Pub. L. 114–126][/us/pl/114/126], Feb. 24, 2016, [130 Stat. 282][/us/stat/130/282], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Judicial Redress Act of 2015’.
+
+> “SEC. 2. __EXTENSION OF PRIVACY ACT REMEDIES TO CITIZENS OF DESIGNATED COUNTRIES.__ 
+
+>     “(a)  __Civil Action; Civil Remedies__  __.—__ 
+
+>     With respect to covered records, a covered person may bring a civil action against an agency and obtain civil remedies, in the same manner, to the same extent, and subject to the same limitations, including exemptions and exceptions, as an individual may bring and obtain with respect to records under—
+
+>         “(1) [section 552a(g)(1)(D) of title 5][/us/usc/t5/s552a/g/1/D], United States Code, but only with respect to disclosures intentionally or willfully made in violation of section 552a(b) of such title; and
+
+>         “(2) subparagraphs (A) and (B) of [section 552a(g)(1) of title 5][/us/usc/t5/s552a/g/1], United States Code, but such an action may only be brought against a designated Federal agency or component.
+
+>     “(b)  __Exclusive Remedies__  __.—__ 
+
+>     The remedies set forth in subsection (a) are the exclusive remedies available to a covered person under this section.
+
+>     “(c)  __Application of the Privacy Act With Respect to a Covered Person__  __.—__ 
+
+>     For purposes of a civil action described in subsection (a), a covered person shall have the same rights, and be subject to the same limitations, including exemptions and exceptions, as an individual has and is subject to under [section 552a of title 5][/us/usc/t5/s552a], United States Code, when pursuing the civil remedies described in paragraphs (1) and (2) of subsection (a).
+
+>     “(d) __Designation of Covered Country.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Attorney General may, with the concurrence of the Secretary of State, the Secretary of the Treasury, and the Secretary of Homeland Security, designate a foreign country or regional economic integration organization, or member country of such organization, as a ‘covered country’ for purposes of this section if—
+
+>             “(A)
+
+>                 (i) the country or regional economic integration organization, or member country of such organization, has entered into an agreement with the United States that provides for appropriate privacy protections for information shared for the purpose of preventing, investigating, detecting, or prosecuting criminal offenses; or
+
+>                 “(ii) the Attorney General has determined that the country or regional economic integration organization, or member country of such organization, has effectively shared information with the United States for the purpose of preventing, investigating, detecting, or prosecuting criminal offenses and has appropriate privacy protections for such shared information;
+
+>             “(B) the country or regional economic integration organization, or member country of such organization, permits the transfer of personal data for commercial purposes between the territory of that country or regional economic organization and the territory of the United States, through an agreement with the United States or otherwise; and
+
+>             “(C) the Attorney General has certified that the policies regarding the transfer of personal data for commercial purposes and related actions of the country or regional economic integration organization, or member country of such organization, do not materially impede the national security interests of the United States.
+
+>         “(2)  __Removal of designation__  __.—__ 
+
+>         The Attorney General may, with the concurrence of the Secretary of State, the Secretary of the Treasury, and the Secretary of Homeland Security, revoke the designation of a foreign country or regional economic integration organization, or member country of such organization, as a ‘covered country’ if the Attorney General determines that such designated ‘covered country’—
+
+>             “(A) is not complying with the agreement described under paragraph (1)(A)(i);
+
+>             “(B) no longer meets the requirements for designation under paragraph (1)(A)(ii);
+
+>             “(C) fails to meet the requirements under paragraph (1)(B);
+
+>             “(D) no longer meets the requirements for certification under paragraph (1)(C); or
+
+>             “(E) impedes the transfer of information (for purposes of reporting or preventing unlawful activity) to the United States by a private entity or person.
+
+>     “(e) __Designation of Designated Federal Agency or Component.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Attorney General shall determine whether an agency or component thereof is a ‘designated Federal agency or component’ for purposes of this section. The Attorney General shall not designate any agency or component thereof other than the Department of Justice or a component of the Department of Justice without the concurrence of the head of the relevant agency, or of the agency to which the component belongs.
+
+>         “(2)  __Requirements for designation__  __.—__ 
+
+>         The Attorney General may determine that an agency or component of an agency is a ‘designated Federal agency or component’ for purposes of this section, if—
+
+>             “(A) the Attorney General determines that information exchanged by such agency with a covered country is within the scope of an agreement referred to in subsection (d)(1)(A); or
+
+>             “(B) with respect to a country or regional economic integration organization, or member country of such organization, that has been designated as a ‘covered country’ under subsection (d)(1)(B), the Attorney General determines that designating such agency or component thereof is in the law enforcement interests of the United States.
+
+>     “(f)  __Federal Register Requirement; Nonreviewable Determination__  __.—__ 
+
+>     The Attorney General shall publish each determination made under subsections (d) and (e). Such determination shall not be subject to judicial or administrative review.
+
+>     “(g)  __Jurisdiction__  __.—__ 
+
+>     The United States District Court for the District of Columbia shall have exclusive jurisdiction over any claim arising under this section.
+
+>     “(h)  __Definitions__  __.—__ 
+
+>     In this Act:
+
+>         “(1)  __Agency__  __.—__ 
+
+>         The term ‘agency’ has the meaning given that term in [section 552(f) of title 5][/us/usc/t5/s552/f], United States Code.
+
+>         “(2)  __Covered country__  __.—__ 
+
+>         The term ‘covered country’ means a country or regional economic integration organization, or member country of such organization, designated in accordance with subsection (d).
+
+>         “(3)  __Covered person__  __.—__ 
+
+>         The term ‘covered person’ means a natural person (other than an individual) who is a citizen of a covered country.
+
+>         “(4)  __Covered record__  __.—__ 
+
+>         The term ‘covered record’ has the same meaning for a covered person as a record has for an individual under [section 552a of title 5][/us/usc/t5/s552a], United States Code, once the covered record is transferred—
+
+>             “(A) by a public authority of, or private entity within, a country or regional economic organization, or member country of such organization, which at the time the record is transferred is a covered country; and
+
+>             “(B) to a designated Federal agency or component for purposes of preventing, investigating, detecting, or prosecuting criminal offenses.
+
+>         “(5)  __Designated federal agency or component__  __.—__ 
+
+>         The term ‘designated Federal agency or component’ means a Federal agency or component of an agency designated in accordance with subsection (e).
+
+>         “(6)  __Individual__  __.—__ 
+
+>         The term ‘individual’ has the meaning given that term in [section 552a(a)(2) of title 5][/us/usc/t5/s552a/a/2], United States Code.
+
+>     “(i)  __Preservation of Privileges__  __.—__ 
+
+>     Nothing in this section shall be construed to waive any applicable privilege or require the disclosure of classified information. Upon an agency’s request, the district court shall review in camera and ex parte any submission by the agency in connection with this subsection.
+
+>     “(j)  __Effective Date__  __.—__ 
+
+>     This Act shall take effect 90 days after the date of the enactment of this Act \[Feb. 24, 2016\].”
+
  __Publication of Guidance Under Subsection (p)(1)(A)(ii)__ 
 
 [Pub. L. 101–508, title VII][/us/pl/101/508/tVII], § 7201(b)(2), Nov. 5, 1990, [104 Stat. 1388–334][/us/stat/104/1388-334], provided that: 
@@ -1060,6 +1178,14 @@
 [/us/pl/96/511/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511%2Fs3
 [/us/stat/94/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2825
 [/us/usc/t44/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3503
+[/us/pl/114/126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F126
+[/us/stat/130/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F282
+[/us/usc/t5/s552a/g/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a%2Fg%2F1%2FD
+[/us/usc/t5/s552a/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a%2Fg%2F1
+[/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
+[/us/usc/t5/s552/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Ff
+[/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
+[/us/usc/t5/s552a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a%2Fa%2F2
 [/us/pl/101/508/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtVII
 [/us/stat/104/1388-334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-334
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

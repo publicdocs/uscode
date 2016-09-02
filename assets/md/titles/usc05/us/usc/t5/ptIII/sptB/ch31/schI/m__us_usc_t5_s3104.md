@@ -219,7 +219,7 @@ July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262.  </td>
 
 [Pub. L. 114–113, div. B, title II][/us/pl/114/113/dB/tII], § 206, Dec. 18, 2015, [129 Stat. 2312][/us/stat/129/2312], provided that: 
 
-> “Funds appropriated by this \[Act\] \[div. B of [Pub. L. 114–113][/us/pl/114/113], see Tables for classification\] or any other Act, with respect to any fiscal year, under the heading ‘Bureau of Alcohol, Tobacco, Firearms and Explosives, Salaries and Expenses’ shall be available for retention pay for any employee who would otherwise be subject to a reduction in pay upon termination of the Bureau’s Personnel Management Demonstration Project (as transferred to the Attorney General by section 1115 of the Homeland Security Act of 2002, [Public Law 107–296][/us/pl/107/296] ([28 U.S.C. 599B][/us/usc/t28/s599B])): Provided, That such retention pay shall comply with [section 5363 of title 5][/us/usc/t5/s5363], United States Code, and related Office of Personnel Management regulations, except as provided in this section: Provided further, That such retention pay shall be paid at the employee’s rate of pay immediately prior to the termination of the demonstration project and shall not be subject to the limitation set forth in [section 5304(g)(1) of title 5][/us/usc/t5/s5304/g/1], United States Code, and related regulations.”
+> “Funds appropriated by this or any other Act, with respect to any fiscal year, under the heading ‘Bureau of Alcohol, Tobacco, Firearms and Explosives, Salaries and Expenses’ shall be available for retention pay for any employee who would otherwise be subject to a reduction in pay upon termination of the Bureau’s Personnel Management Demonstration Project (as transferred to the Attorney General by section 1115 of the Homeland Security Act of 2002, [Public Law 107–296][/us/pl/107/296] ([28 U.S.C. 599B][/us/usc/t28/s599B])): Provided, That such retention pay shall comply with [section 5363 of title 5][/us/usc/t5/s5363], United States Code, and related Office of Personnel Management regulations, except as provided in this section: Provided further, That such retention pay shall be paid at the employee’s rate of pay immediately prior to the termination of the demonstration project and shall not be subject to the limitation set forth in [section 5304(g)(1) of title 5][/us/usc/t5/s5304/g/1], United States Code, and related regulations.”
 
  __Experimental Personnel Program for Scientific and Technical Personnel__ 
 
@@ -436,7 +436,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/114/113/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdB%2FtII
 [/us/stat/129/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2312
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/usc/t28/s599B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs599B
 [/us/usc/t5/s5363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5363

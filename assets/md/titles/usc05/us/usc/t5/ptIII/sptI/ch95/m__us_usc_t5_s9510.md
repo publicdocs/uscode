@@ -41,7 +41,7 @@
 
         (4) An appointing authority may select any applicant from the highest quality category or, if fewer than three candidates have been assigned to the highest quality category, from a merged category consisting of the highest and second highest quality categories.
 
-        (5) Notwithstanding paragraph (4), the appointing authority may not pass over a preference eligible in the same or higher category from which selection is made unless the requirements of section 3317(b) or 3318(b), as applicable, are satisfied.
+        (5) Notwithstanding paragraph (4), the appointing authority may not pass over a preference eligible in the same or higher category from which selection is made unless the requirements of section 3317(b) or 3318(c), as applicable, are satisfied.
 
     (c) The Secretary of the Treasury may detail employees among the offices of the Internal Revenue Service without regard to the 120-day limitation in section 3341(b).
 
@@ -55,11 +55,15 @@
 
         (2) any obligation under a court order or decree relating to the employment practices of the Internal Revenue Service or the Department of the Treasury.
 
-(Added [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1201(a), July 22, 1998, [112 Stat. 717][/us/stat/112/717].)
+(Added [Pub. L. 105–206, title I][/us/pl/105/206/tI], § 1201(a), July 22, 1998, [112 Stat. 717][/us/stat/112/717]; amended [Pub. L. 114–137][/us/pl/114/137], § 2(c), Mar. 18, 2016, [130 Stat. 312][/us/stat/130/312].)
 
  __References in Text__ 
 
     GS–9, referred to in subsec. (b)(3), is contained in the General Schedule which is set out under [section 5332 of this title][/us/usc/t5/s5332].
+
+ __Amendments__ 
+
+    2016—Subsec. (b)(5). [Pub. L. 114–137][/us/pl/114/137] substituted “3318(c)” for “3318(b)”.
 
 ----------
 
@@ -70,6 +74,9 @@
 
 [/us/pl/105/206/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2FtI
 [/us/stat/112/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F717
+[/us/pl/114/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F137
+[/us/stat/130/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F312
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
+[/us/pl/114/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F137
 
 

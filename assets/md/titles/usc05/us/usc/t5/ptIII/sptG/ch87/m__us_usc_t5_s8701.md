@@ -37,7 +37,7 @@
 
         (9) an individual appointed to a position on the office staff of a former President under [section 1(b) of the Act of August 25, 1958][/us/act/1958-08-25/s1/b] ([72 Stat. 838][/us/stat/72/838]); and
 
-        (10) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended ([78 Stat. 153][/us/stat/78/153]), who immediately before the date of such appointment was an employee as defined under any other paragraph of this subsection;
+        (10) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 5 of the Presidential Transition Act of 1963, as amended ([78 Stat. 153][/us/stat/78/153]), who immediately before the date of such appointment was an employee as defined under any other paragraph of this subsection;
 
         but does not include—
 
@@ -77,7 +77,7 @@
 
         (2) For the purpose of this subsection, “dependent”, in the case of any child, means that the individual involved was, at the time of the child’s death, either living with or contributing to the support of the child, as determined in accordance with the regulations the Office shall prescribe.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 592][/us/stat/80/592]; [Pub. L. 91–418][/us/pl/91/418], § 3(a), Sept. 25, 1970, [84 Stat. 869][/us/stat/84/869]; [Pub. L. 93–160][/us/pl/93/160], § 1(a), Nov. 27, 1973, [87 Stat. 635][/us/stat/87/635]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(51), Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384]; [Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1209(b), Sept. 27, 1979, [93 Stat. 463][/us/stat/93/463]; [Pub. L. 96–427][/us/pl/96/427], §§ 2(a), 8(b), Oct. 10, 1980, [94 Stat. 1831][/us/stat/94/1831], 1837; [Pub. L. 98–353, title II][/us/pl/98/353/tII], § 205, July 10, 1984, [98 Stat. 350][/us/stat/98/350]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(k)(1), June 6, 1986, [100 Stat. 597][/us/stat/100/597]; [Pub. L. 100–679][/us/pl/100/679], § 13(b), Nov. 17, 1988, [102 Stat. 4071][/us/stat/102/4071]; [Pub. L. 105–311][/us/pl/105/311], §§ 3(1), 4, Oct. 30, 1998, [112 Stat. 2950][/us/stat/112/2950].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 592][/us/stat/80/592]; [Pub. L. 91–418][/us/pl/91/418], § 3(a), Sept. 25, 1970, [84 Stat. 869][/us/stat/84/869]; [Pub. L. 93–160][/us/pl/93/160], § 1(a), Nov. 27, 1973, [87 Stat. 635][/us/stat/87/635]; [Pub. L. 95–454, title IX][/us/pl/95/454/tIX], § 906(a)(2), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–54][/us/pl/96/54], § 2(a)(51), Aug. 14, 1979, [93 Stat. 384][/us/stat/93/384]; [Pub. L. 96–70, title I][/us/pl/96/70/tI], § 1209(b), Sept. 27, 1979, [93 Stat. 463][/us/stat/93/463]; [Pub. L. 96–427][/us/pl/96/427], §§ 2(a), 8(b), Oct. 10, 1980, [94 Stat. 1831][/us/stat/94/1831], 1837; [Pub. L. 98–353, title II][/us/pl/98/353/tII], § 205, July 10, 1984, [98 Stat. 350][/us/stat/98/350]; [Pub. L. 99–335, title II][/us/pl/99/335/tII], § 207(k)(1), June 6, 1986, [100 Stat. 597][/us/stat/100/597]; [Pub. L. 100–679][/us/pl/100/679], § 13(b), Nov. 17, 1988, [102 Stat. 4071][/us/stat/102/4071]; [Pub. L. 105–311][/us/pl/105/311], §§ 3(1), 4, Oct. 30, 1998, [112 Stat. 2950][/us/stat/112/2950]; [Pub. L. 114–136][/us/pl/114/136], § 2(c)(4), Mar. 18, 2016, [130 Stat. 305][/us/stat/130/305].)
 
 <table>
 
@@ -211,9 +211,11 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 
     Act of August 25, 1958 ([72 Stat. 838][/us/stat/72/838]), referred to in subsec. (a)(9), is [Pub. L. 85–745][/us/pl/85/745] and is set out as a note under [section 102 of Title 3][/us/usc/t3/s102], The President.
 
-    Section 4 of the Presidential Transition Act of 1963, referred to in subsec. (a)(10), is [section 4 of Pub. L. 88–277][/us/pl/88/277/s4], which is set out as a note under [section 102 of Title 3][/us/usc/t3/s102].
+    Section 5 of the Presidential Transition Act of 1963, referred to in subsec. (a)(10), is [section 5 of Pub. L. 88–277][/us/pl/88/277/s5], which is set out as a note under [section 102 of Title 3][/us/usc/t3/s102], The President.
 
  __Amendments__ 
+
+    Subsec. (a)(10). [Pub. L. 114–136][/us/pl/114/136] substituted “section 5” for “section 4”.
 
     1998—Subsec. (c). [Pub. L. 105–311][/us/pl/105/311], § 3(1), substituted a period for comma after “$10,000” in par. (2) and struck out “except that the amount of insurance may not exceed the annual rate of basic pay payable for positions at level II of the Executive Schedule under [section 5313 of this title][/us/usc/t5/s5313], rounded to the next higher multiple of $1,000, plus $2,000.” before last sentence.
 
@@ -429,6 +431,8 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 [/us/stat/102/4071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4071
 [/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/stat/112/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2950
+[/us/pl/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F136
+[/us/stat/130/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F305
 [/us/usc/t5/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2107
 [/us/usc/t2/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs126
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
@@ -436,8 +440,9 @@ July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Serv
 [/us/stat/72/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F838
 [/us/pl/85/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F745
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
-[/us/pl/88/277/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277%2Fs4
+[/us/pl/88/277/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F277%2Fs5
 [/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
+[/us/pl/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F136
 [/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313
 [/us/pl/105/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F311

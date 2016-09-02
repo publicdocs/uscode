@@ -89,6 +89,106 @@ Sept. 21, 1944, ch. 412, § 709, 58 Stat. 743.  </td>
 
     Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+ __Reports on Political Appointees Appointed to Nonpolitical Permanent Positions__ 
+
+[Pub. L. 114–136][/us/pl/114/136], § 4, Mar. 18, 2016, [130 Stat. 305][/us/stat/130/305], provided that:
+
+>     “(a)  __Definitions__  __.—__ 
+
+>     In this section—
+
+>         “(1) the term ‘agency’ has the meaning given the term ‘Executive agency’ in [section 105 of title 5][/us/usc/t5/s105], United States Code;
+
+>         “(2)
+
+>          the term ‘covered civil service position’ means a position in the civil service (as defined in [section 2101 of title 5][/us/usc/t5/s2101], United States Code) that is not—
+
+>             “(A) a temporary position; or
+
+>             “(B) a political position;
+
+>         “(3)
+
+>          the term ‘former political appointee’ means an individual who—
+
+>             “(A) is not serving in an appointment to a political position; and
+
+>             “(B) served as a political appointee during the 5-year period ending on the date of the request for an appointment to a covered civil service position in any agency;
+
+>         “(4) the term ‘political appointee’ means an individual serving in an appointment to a political position; and
+
+>         “(5)
+
+>          the term ‘political position’ means—
+
+>             “(A) a position described under sections 5312 through 5316 of title 5, United States Code (relating to the Executive Schedule);
+
+>             “(B) a noncareer appointment in the Senior Executive Service, as defined under paragraph (7) of [section 3132(a) of title 5][/us/usc/t5/s3132/a], United States Code; or
+
+>             “(C) a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations.
+
+>     “(b) __Reporting on Current or Recent Political Appointees Appointed to Covered Civil Service Positions.—__ 
+
+>         “(1)  __Annual report__  __.—__ 
+
+>         Except as provided in paragraph (2), the Director of the Office of Personnel Management shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives an annual report regarding requests by agencies to appoint political appointees or former political appointees to covered civil service positions. Each report shall cover one calendar year and shall—
+
+>             “(A)
+
+>              for each request by an agency that a political appointee be appointed to a covered civil service position during the period covered by the report, provide—
+
+>                 “(i) the date on which the request was received by the Office of Personnel Management;
+
+>                 “(ii) subject to subsection (c), the name of the individual and the political position held by the individual, including title, office, and agency;
+
+>                 “(iii) the date on which the individual was first appointed to a political position in the agency in which the individual is serving as a political appointee;
+
+>                 “(iv) the grade and rate of basic pay for the individual as a political appointee;
+
+>                 “(v) the proposed covered civil service position, including title, office, and agency, and the proposed grade and rate of basic pay for the individual;
+
+>                 “(vi) whether the Office of Personnel Management approved or denied the request; and
+
+>                 “(vii) the date on which the individual was appointed to a covered civil service position, if applicable; and
+
+>             “(B)
+
+>              for each request by an agency that a former political appointee be appointed to a covered civil service position during the period covered by the report, provide—
+
+>                 “(i) the date on which the request was received by the Office of Personnel Management;
+
+>                 “(ii) subject to subsection (c), the name of the individual and the political position held by the individual, including title, office, and agency;
+
+>                 “(iii) the date on which the individual was first appointed to any political position;
+
+>                 “(iv) the grade and rate of basic pay for the individual as a political appointee;
+
+>                 “(v) the date on which the individual ceased to serve in a political position;
+
+>                 “(vi) the proposed covered civil service position, including title, office, and agency, and the proposed grade and rate of basic pay for the individual;
+
+>                 “(vii) whether the Office of Personnel Management approved or denied the request; and
+
+>                 “(viii) the date on which the individual was first appointed to a covered civil service position, if applicable.
+
+>         “(2)  __Quarterly report in certain years__  __.—__ 
+
+>         In the last year of the term of a President, or, if applicable, the last year of the second consecutive term of a President, the report required under paragraph (1) shall be submitted quarterly and shall cover each quarter of the year, except that the last quarterly report shall also cover January 1 through 20 of the following year.
+
+>     “(c)  __Names and Titles of Certain Appointees__  __.—__ 
+
+>     If determined appropriate by the Director of the Office of Personnel Management, a report submitted under subsection (b) may exclude the name or title of a political appointee or former political appointee—
+
+>         “(1)
+
+>          who—
+
+>             “(A) was requested to be appointed to a covered civil service position; and
+
+>             “(B) was not appointed to a covered civil service position; or
+
+>         “(2) relating to whom a request to be appointed to a covered civil service position is pending at the end of the period covered by that report.”
+
  __Reduction of Federal Full-Time Equivalent Positions__ 
 
 [Pub. L. 103–226][/us/pl/103/226], § 5, Mar. 30, 1994, [108 Stat. 115][/us/stat/108/115], as amended by [Pub. L. 103–329, title VI][/us/pl/103/329/tVI], § 631, Sept. 30, 1994, [108 Stat. 2424][/us/stat/108/2424]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
@@ -187,7 +287,7 @@ Sept. 21, 1944, ch. 412, § 709, 58 Stat. 743.  </td>
 
 [Pub. L. 114–113, div. E, title VII][/us/pl/114/113/dE/tVII], § 704, Dec. 18, 2015, [129 Stat. 2473][/us/stat/129/2473], provided that: 
 
-> “Unless otherwise specified in law during the current fiscal year, no part of any appropriation contained in this \[Act\] \[titles I–III and V–VII of div. E of [Pub. L. 114–113][/us/pl/114/113], see Tables for classification\] or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person: (1) is a citizen of the United States; (2) is a person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in [8 U.S.C. 1324b(a)(3)(B)][/us/usc/t8/s1324b/a/3/B]; (3) is a person who is admitted as a refugee under [8 U.S.C. 1157][/us/usc/t8/s1157] or is granted asylum under [8 U.S.C. 1158][/us/usc/t8/s1158] and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible; or (4) is a person who owes allegiance to the United States: Provided, That for purposes of this section, affidavits signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status are being complied with: Provided further, That for purposes of subsections (2) and (3) such affidavits shall be submitted prior to employment and updated thereafter as necessary: Provided further, That any person making a false affidavit shall be guilty of a felony, and upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: Provided further, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: Provided further, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government: Provided further, That this section shall not apply to any person who is an officer or employee of the Government of the United States on the date of enactment of this Act \[Dec. 18, 2015\], or to international broadcasters employed by the Broadcasting Board of Governors, or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies: Provided further, That this section does not apply to the employment as Wildland firefighters for not more than 120 days of nonresident aliens employed by the Department of the Interior or the USDA Forest Service pursuant to an agreement with another country.”
+> “Unless otherwise specified in law during the current fiscal year, no part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person: (1) is a citizen of the United States; (2) is a person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in [8 U.S.C. 1324b(a)(3)(B)][/us/usc/t8/s1324b/a/3/B]; (3) is a person who is admitted as a refugee under [8 U.S.C. 1157][/us/usc/t8/s1157] or is granted asylum under [8 U.S.C. 1158][/us/usc/t8/s1158] and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible; or (4) is a person who owes allegiance to the United States: Provided, That for purposes of this section, affidavits signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status are being complied with: Provided further, That for purposes of subsections (2) and (3) such affidavits shall be submitted prior to employment and updated thereafter as necessary: Provided further, That any person making a false affidavit shall be guilty of a felony, and upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: Provided further, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: Provided further, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government: Provided further, That this section shall not apply to any person who is an officer or employee of the Government of the United States on the date of enactment of this Act \[Dec. 18, 2015\], or to international broadcasters employed by the Broadcasting Board of Governors, or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies: Provided further, That this section does not apply to the employment as Wildland firefighters for not more than 120 days of nonresident aliens employed by the Department of the Interior or the USDA Forest Service pursuant to an agreement with another country.”
 
 Similar provisions to those in the Citizenship Requirement for Employees Compensated From Appropriated Funds note above were contained in the following prior appropriation acts:
 
@@ -386,6 +486,11 @@ Similar provisions to those in the Citizenship Requirement for Employees Compens
 [/us/act/1949-08-10/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412
 [/us/stat/63/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F579
 [/us/usc/t5/s171–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171%E2%80%931
+[/us/pl/114/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F136
+[/us/stat/130/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F305
+[/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
+[/us/usc/t5/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2101
+[/us/usc/t5/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa
 [/us/pl/103/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F226
 [/us/stat/108/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F115
 [/us/pl/103/329/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F329%2FtVI
@@ -402,7 +507,6 @@ Similar provisions to those in the Citizenship Requirement for Employees Compens
 [/us/stat/82/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F270
 [/us/pl/114/113/dE/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdE%2FtVII
 [/us/stat/129/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2473
-[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t8/s1324b/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324b%2Fa%2F3%2FB
 [/us/usc/t8/s1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1157
 [/us/usc/t8/s1158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1158
