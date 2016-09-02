@@ -211,7 +211,7 @@ Gray’s Reef National Marine Sanctuary.—46 F.R. 7942, Jan. 26, 1981; 15 C.F.R
 
     <td> 
 
-Gulf of the Farallones National Marine Sanctuary (former Point Reyes-Farallon Islands National Marine Sanctuary).—46 F.R. 7936, Jan. 26, 1981; 15 C.F.R. part 922, subpart H; 62 F.R. 3788, Jan. 27, 1997.  </td>
+Greater Farallones National Marine Sanctuary (former Gulf of the Farallones National Marine Sanctuary; former Point Reyes-Farallon Islands National Marine Sanctuary).—46 F.R. 7936, Jan. 26, 1981; 15 C.F.R. part 922, subpart H; 62 F.R. 3788, Jan. 27, 1997; 80 F.R. 34047, June 15, 2015.  </td>
 
   </tr>
 

@@ -101,7 +101,7 @@
 
     Subsec. (a)(1)(A). [Pub. L. 101–593, § 112(1)][/us/pl/101/593/s112/1], as amended by [Pub. L. 107–308, § 8(b)(1)][/us/pl/107/308/s8/b/1], inserted “, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.)” after “Service”.
 
-    Subsec. (f). [Pub. L. 101–593, § 112(3)][/us/pl/101/593/s112/3], inserted before period at end of first sentence “, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings”.
+    Subsec. (f). [Pub. L. 101–593, § 112(3)][/us/pl/101/593/s112/3], inserted “, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings” after “open to the public”.
 
  __Effective Date of 2002 Amendment__ 
 

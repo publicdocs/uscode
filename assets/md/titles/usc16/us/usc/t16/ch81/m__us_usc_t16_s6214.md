@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch81/m__us_usc_t16_s6213.md) | [Next](./../../../..//us/usc/t16/ch81A/m__us_usc_t16_ch81A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6214)
+[Previous](./../../../..//us/usc/t16/ch81/m__us_usc_t16_ch81.md) | [Next](./../../../..//us/usc/t16/ch81A/m__us_usc_t16_ch81A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6214)
 
 ## § 6214. Cabin user and transfer fees
 
@@ -313,7 +313,7 @@
 
  __References in Text__ 
 
-    The Cabin User Fee Fairness Act of 2000, referred to in subsecs. (b)(1), (c), (d), and (k), is title VI of [Pub. L. 106–291][/us/pl/106/291], Oct. 11, 2000, [114 Stat. 1014][/us/stat/114/1014], which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t16/s6201] and Tables.
+    The Cabin User Fee Fairness Act of 2000, referred to in subsecs. (b)(1), (c), (d), and (k), is title VI of [Pub. L. 106–291][/us/pl/106/291], Oct. 11, 2000, [114 Stat. 1014][/us/stat/114/1014], which was classified generally to this chapter, prior to repeal by subsec. (k) of this section.
 
  __Codification__ 
 
@@ -321,7 +321,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch81/m__us_usc_t16_s6213.md) | [Next](./../../../..//us/usc/t16/ch81A/m__us_usc_t16_ch81A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6214)
+[Previous](./../../../..//us/usc/t16/ch81/m__us_usc_t16_ch81.md) | [Next](./../../../..//us/usc/t16/ch81A/m__us_usc_t16_ch81A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6214)
 
 ----------
 ----------
@@ -335,6 +335,5 @@
 [/us/stat/128/3764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3764
 [/us/pl/106/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F291
 [/us/stat/114/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1014
-[/us/usc/t16/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6201
 
 

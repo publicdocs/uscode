@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch93/m__us_usc_t16_s7408.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7409)
+[Previous](./../../../..//us/usc/t16/ch93/m__us_usc_t16_s7408.md) | [Next](./../../../..//us/usc/t16/ch94/m__us_usc_t16_ch94.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7409)
 
 ## § 7409. Relationship to other laws
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t16/ch93/m__us_usc_t16_s7408.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7409)
+[Previous](./../../../..//us/usc/t16/ch93/m__us_usc_t16_s7408.md) | [Next](./../../../..//us/usc/t16/ch94/m__us_usc_t16_ch94.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs7409)
 
 ----------
 ----------
