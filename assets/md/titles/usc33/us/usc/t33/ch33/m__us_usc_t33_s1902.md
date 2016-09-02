@@ -293,7 +293,7 @@
 
 [Pub. L. 104–201, div. A, title III, § 324(b)][/us/pl/104/201/s324/b], (c), Sept. 23, 1996, [110 Stat. 2480][/us/stat/110/2480], as amended by [Pub. L. 105–85, div. A, title X, § 1073(c)(1)][/us/pl/105/85/s1073/c/1], Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904]; [Pub. L. 108–136, div. A, title X, § 1031(f)(1)][/us/pl/108/136/s1031/f/1], Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604], provided that:
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >         (1) It is the sense of Congress that it should be an objective of the Navy to achieve full compliance with Annex V to the Convention as part of the Navy’s development of ships that are environmentally sound.
 

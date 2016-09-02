@@ -59,17 +59,17 @@
 
 > “SEC. 3. __COMMISSION ON OCEAN POLICY.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is hereby established the Commission on Ocean Policy. The Federal Advisory Committee Act (5 U.S.C. App.), except for sections 3, 7, and 12, does not apply to the Commission.
 
 >     “(b) __Membership.—__ 
 
->         “(1) __Appointment.—__ 
+>         “(1)  __Appointment__  __.—__ 
 
 >         The Commission shall be composed of 16 members appointed by the President from among individuals described in paragraph (2) who are knowledgeable in ocean and coastal activities, including individuals representing State and local governments, ocean-related industries, academic and technical institutions, and public interest organizations involved with scientific, regulatory, economic, and environmental ocean and coastal activities. The membership of the Commission shall be balanced by area of expertise and balanced geographically to the extent consistent with maintaining the highest level of expertise on the Commission.
 
->         “(2) __Nominations.—__ 
+>         “(2)  __Nominations__  __.—__ 
 
 >         The President shall appoint the members of the Commission, within 90 days after the effective date of this Act, including individuals nominated as follows:
 
@@ -81,7 +81,7 @@
 
 >             “(D) 2 members shall be appointed from a list of 4 individuals who shall be nominated by the Minority Leader of the House in consultation with the Ranking Members of the House Committees on Resources \[now Natural Resources\], Transportation and Infrastructure, and Science \[now Science, Space, and Technology\].
 
->         “(3) __Chairman.—__ 
+>         “(3)  __Chairman__  __.—__ 
 
 >         The Commission shall select a Chairman from among its members. The Chairman of the Commission shall be responsible for—
 
@@ -89,11 +89,11 @@
 
 >             “(B) the use and expenditure of funds available to the Commission.
 
->         “(4) __Vacancies.—__ 
+>         “(4)  __Vacancies__  __.—__ 
 
 >         Any vacancy on the Commission shall be filled in the same manner as the original incumbent was appointed.
 
->     “(c) __Resources.—__ 
+>     “(c)  __Resources__  __.—__ 
 
 >     In carrying out its functions under this section, the Commission—
 
@@ -103,27 +103,27 @@
 
 >         “(3) in consultation with the Ocean Studies Board of the National Research Council of the National Academy of Sciences, shall establish a multidisciplinary science advisory panel of experts in the sciences of living and non-living marine resources to assist the Commission in preparing its report, including ensuring that the scientific information considered by the Commission is based on the best scientific information available.
 
->     “(d) __Staffing.—__ 
+>     “(d)  __Staffing__  __.—__ 
 
 >     The Chairman of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an Executive Director and such other additional personnel as may be necessary for the Commission to perform its duties. The Executive Director shall be compensated at a rate not to exceed the rate payable for Level V of the Executive Schedule under [section 5136 of title 5][/us/usc/t5/s5136], United States Code. The employment and termination of an Executive Director shall be subject to confirmation by a majority of the members of the Commission.
 
 >     “(e) __Meetings.—__ 
 
->         “(1) __Administration.—__ 
+>         “(1)  __Administration__  __.—__ 
 
 >         All meetings of the Commission shall be open to the public, except that a meeting or any portion of it may be closed to the public if it concerns matters or information described in [section 552b(c) of title 5][/us/usc/t5/s552b/c], United States Code. Interested persons shall be permitted to appear at open meetings and present oral or written statements on the subject matter of the meeting. The Commission may administer oaths or affirmations to any person appearing before it.
 
->         “(2) __Notice; Minutes; Public Availability of Documents.—__ 
+>         “(2)  __Notice; Minutes; Public Availability of Documents__  __.—__ 
 
 >             “(A) All open meetings of the Commission shall be preceded by timely public notice in the Federal Register of the time, place, and subject of the meeting.
 
 >             “(B) Minutes of each meeting shall be kept and shall contain a record of the people present, a description of the discussion that occurred, and copies of all statements filed. Subject to [section 552 of title 5][/us/usc/t5/s552], United States Code, the minutes and records of all meetings and other documents that were made available to or prepared for the Commission shall be available for public inspection and copying at a single location in the offices of the Commission.
 
->         “(3) __Initial meeting.—__ 
+>         “(3)  __Initial meeting__  __.—__ 
 
 >         The Commission shall hold its first meeting within 30 days after all 16 members have been appointed.
 
->         “(4) __Required public meetings.—__ 
+>         “(4)  __Required public meetings__  __.—__ 
 
 >         The Commission shall hold at least one public meeting in Alaska and each of the following regions of the United States:
 
@@ -139,11 +139,11 @@
 
 >     “(f) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         By June 20, 2003, the Commission shall submit to Congress and the President a final report of its findings and recommendations regarding United States ocean policy.
 
->         “(2) __Required matter.—__ 
+>         “(2)  __Required matter__  __.—__ 
 
 >         The final report of the Commission shall include the following assessment, reviews, and recommendations:
 
@@ -165,17 +165,17 @@
 
 >             “(I) A review of the effectiveness and adequacy of existing Federal interagency ocean policy coordination mechanisms, and recommendations for changing or improving the effectiveness of such mechanisms necessary to respond to or implement the recommendations of the Commission.
 
->         “(3) __Consideration of factors.—__ 
+>         “(3)  __Consideration of factors__  __.—__ 
 
 >         In making its assessment and reviews and developing its recommendations, the Commission shall give equal consideration to environmental, technical feasibility, economic, and scientific factors.
 
->         “(4) __Limitations.—__ 
+>         “(4)  __Limitations__  __.—__ 
 
 >         The recommendations of the Commission shall not be specific to the lands and waters within a single State.
 
 >     “(g) __Public and Coastal State Review.—__ 
 
->         “(1) __Notice.—__ 
+>         “(1)  __Notice__  __.—__ 
 
 >         Before submitting the final report to the Congress, the Commission shall—
 
@@ -183,29 +183,29 @@
 
 >             “(B) provide a copy of the draft report to the Governor of each coastal State, the Committees on Resources \[now Natural Resources\], Transportation and Infrastructure, and Science \[now Science, Space, and Technology\] of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
 
->         “(2) __Inclusion of governors’ comments.—__ 
+>         “(2)  __Inclusion of governors’ comments__  __.—__ 
 
 >         The Commission shall include in the final report comments received from the Governor of a coastal State regarding recommendations in the draft report.
 
->     “(h) __Administrative Procedure for Report and Review.—__ 
+>     “(h)  __Administrative Procedure for Report and Review__  __.—__ 
 
 >     Chapter 5 and chapter 7 of title 5, United States Code, do not apply to the preparation, review, or submission of the report required by subsection (e) or the review of that report under subsection (f).
 
->     “(i) __Termination.—__ 
+>     “(i)  __Termination__  __.—__ 
 
 >     The Commission shall cease to exist 90 days after the date on which it submits its final report.
 
->     “(j) __Authorization of Appropriations.—__ 
+>     “(j)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section a total of $8,500,000 for the 3 fiscal-year period beginning with fiscal year 2001, such sums to remain available until expended.
 
 > “SEC. 4. __NATIONAL OCEAN POLICY.__ 
 
->     “(a) __National Ocean Policy.—__ 
+>     “(a)  __National Ocean Policy__  __.—__ 
 
 >     Within 90 days after receiving and considering the report and recommendations of the Commission under section 3, the President shall submit to Congress a statement of proposals to implement or respond to the Commission’s recommendations for a coordinated, comprehensive, and long-range national policy for the responsible use and stewardship of ocean and coastal resources for the benefit of the United States. Nothing in this Act authorizes the President to take any administrative or regulatory action regarding ocean or coastal policy, or to implement a reorganization plan, not otherwise authorized by law in effect at the time of such action.
 
->     “(b) __Cooperation and Consultation.—__ 
+>     “(b)  __Cooperation and Consultation__  __.—__ 
 
 >     In the process of developing proposals for submission under subsection (a), the President shall consult with State and local governments and non-Federal organizations and individuals involved in ocean and coastal activities.
 
@@ -217,7 +217,7 @@
 
 > “In this Act:
 
->     “(1) __Marine environment.—__ 
+>     “(1)  __Marine environment__  __.—__ 
 
 >     The term ‘marine environment’ includes—
 
@@ -227,11 +227,11 @@
 
 >         “(C) the Great Lakes.
 
->     “(2) __Ocean and coastal resource.—__ 
+>     “(2)  __Ocean and coastal resource__  __.—__ 
 
 >     The term ‘ocean and coastal resource’ means any living or non-living natural, historic, or cultural resource found in the marine environment.
 
->     “(3) __Commission.—__ 
+>     “(3)  __Commission__  __.—__ 
 
 >     The term ‘Commission’ means the Commission on Ocean Policy established by section 3.
 

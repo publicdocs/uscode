@@ -127,7 +127,7 @@
 
 [Pub. L. 106–53, title II, § 213][/us/pl/106/53/s213], Aug. 17, 1999, [113 Stat. 291][/us/stat/113/291], provided that:
 
->     “(a) __Review.—__ 
+>     “(a)  __Review__  __.—__ 
 
 >     The Secretary shall review the implementation of the Corps of Engineers shore management program, with particular attention to—
 
@@ -135,7 +135,7 @@
 
 >         “(2) complaints by or potential inequities regarding property owners in the Savannah District, including an accounting of the number and disposition of complaints in the Savannah District during the 5-year period preceding the date of enactment of this Act \[Aug. 17, 1999\].
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     As expeditiously as practicable, but not later than 1 year after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the results of the review under subsection (a).”
 
@@ -143,11 +143,11 @@
 
 [Pub. L. 106–53, title II, § 215(c)][/us/pl/106/53/s215/c], Aug. 17, 1999, [113 Stat. 293][/us/stat/113/293], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 3 years after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall report to Congress on the state of the shores of the United States.
 
->     “(2) __Contents.—__ 
+>     “(2)  __Contents__  __.—__ 
 
 >     The report shall include—
 
@@ -171,7 +171,7 @@
 
 >             “(ii) use of a systems approach to sand management.
 
->     “(3) __Use of specific location data.—__ 
+>     “(3)  __Use of specific location data__  __.—__ 
 
 >     In developing the report, the Secretary shall use data from specific locations on the coasts of the Atlantic Ocean, Pacific Ocean, Great Lakes, and Gulf of Mexico.”
 

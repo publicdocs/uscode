@@ -79,17 +79,17 @@
 
 [Pub. L. 106–541, title II, § 214][/us/pl/106/541/s214], Dec. 11, 2000, [114 Stat. 2594][/us/stat/114/2594], as amended by [Pub. L. 108–137, title I, § 114][/us/pl/108/137/s114], Dec. 1, 2003, [117 Stat. 1836][/us/stat/117/1836]; [Pub. L. 109–99, § 1][/us/pl/109/99/s1], Nov. 11, 2005, [119 Stat. 2169][/us/stat/119/2169]; [Pub. L. 109–209, § 1][/us/pl/109/209/s1], Mar. 24, 2006, [120 Stat. 318][/us/stat/120/318]; [Pub. L. 109–434, § 1][/us/pl/109/434/s1], Dec. 20, 2006, [120 Stat. 3197][/us/stat/120/3197]; [Pub. L. 110–114, title II, § 2002][/us/pl/110/114/s2002], Nov. 8, 2007, [121 Stat. 1067][/us/stat/121/1067]; [Pub. L. 111–120, § 1][/us/pl/111/120/s1], Dec. 22, 2009, [123 Stat. 3478][/us/stat/123/3478]; [Pub. L. 111–315, § 1][/us/pl/111/315/s1], Dec. 18, 2010, [124 Stat. 3450][/us/stat/124/3450], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary, after public notice, may accept and expend funds contributed by a non-Federal public entity to expedite the evaluation of a permit of that entity related to a project or activity for a public purpose under the jurisdiction of the Department of the Army.
 
 >     “(b) __Effect on Permitting.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally.
 
->         “(2) __Impartial decisionmaking.—__ 
+>         “(2)  __Impartial decisionmaking__  __.—__ 
 
 >         In carrying out this section, the Secretary shall ensure that the evaluation of permits carried out using funds accepted under this section shall—
 
@@ -103,15 +103,15 @@
 
 >             “(B) utilize the same procedures for decisions that would otherwise be required for the evaluation of permits for similar projects or activities not carried out using funds authorized under this section.
 
->     “(c) __Limitation on Use of Funds.—__ 
+>     “(c)  __Limitation on Use of Funds__  __.—__ 
 
 >     None of the funds accepted under this section shall be used to carry out a review of the evaluation of permits required under subsection (b)(2)(A).
 
->     “(d) __Public Availability.—__ 
+>     “(d)  __Public Availability__  __.—__ 
 
 >     The Secretary shall ensure that all final permit decisions carried out using funds authorized under this section are made available to the public, including on the Internet.
 
->     “(e) __Duration of Authority.—__ 
+>     “(e)  __Duration of Authority__  __.—__ 
 
 >     The authority provided under this section shall be in effect from October 1, 2000, through December 31, 2016.”
 
@@ -119,19 +119,19 @@
 
 [Pub. L. 106–541, title II, § 223][/us/pl/106/541/s223], Dec. 11, 2000, [114 Stat. 2597][/us/stat/114/2597], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall conduct a monitoring program of the economic and environmental results of up to 5 eligible projects selected by the Secretary.
 
->     “(b) __Duration.—__ 
+>     “(b)  __Duration__  __.—__ 
 
 >     The monitoring of a project selected by the Secretary under this section shall be for a period of not less than 12 years beginning on the date of its selection.
 
->     “(c) __Reports.—__ 
+>     “(c)  __Reports__  __.—__ 
 
 >     The Secretary shall transmit to Congress every 3 years a report on the performance of each project selected under this section.
 
->     “(d) __Eligible Project Defined.—__ 
+>     “(d)  __Eligible Project Defined__  __.—__ 
 
 >     In this section, the term ‘eligible project’ means a water resources project, or separable element thereof—
 
@@ -145,7 +145,7 @@
 
 >             “(B) that has significant environmental benefits or significant environmental mitigation components.
 
->     “(e) __Costs.—__ 
+>     “(e)  __Costs__  __.—__ 
 
 >     The cost of conducting monitoring under this section shall be a Federal expense.”
 
@@ -153,11 +153,11 @@
 
 [Pub. L. 106–53, title V, § 511][/us/pl/106/53/s511], Aug. 17, 1999, [113 Stat. 341][/us/stat/113/341], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In evaluating potential improvements for water control management activities and consolidation of water control management centers, the Secretary may consider a regionalized water control management plan but may not implement such a plan until the date on which a report is submitted under subsection (b).
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Environment and Public Works and the Committee on Appropriations of the Senate a report containing—
 
@@ -175,21 +175,21 @@
 
 [Pub. L. 106–53, title II, § 222][/us/pl/106/53/s222], Aug. 17, 1999, [113 Stat. 295][/us/stat/113/295], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     It is the sense of Congress that, to the extent practicable, all equipment and products purchased with funds made available under this Act \[see Tables for classification\] should be American made.
 
->     “(b) __Notice to Recipients of Assistance.—__ 
+>     “(b)  __Notice to Recipients of Assistance__  __.—__ 
 
 >     In providing financial assistance under this Act, the Secretary, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
 
 [Pub. L. 104–303, title II, § 235][/us/pl/104/303/s235], Oct. 12, 1996, [110 Stat. 3704][/us/stat/110/3704], provided that:
 
->     “(a) __Purchase of American-Made Equipment and Products.—__ 
+>     “(a)  __Purchase of American-Made Equipment and Products__  __.—__ 
 
 >     It is the sense of Congress that, to the greatest extent practicable, all equipment and products purchased with funds made available under this Act \[see Tables for classification\] should be American-made.
 
->     “(b) __Notice to Recipients of Assistance.—__ 
+>     “(b)  __Notice to Recipients of Assistance__  __.—__ 
 
 >     In providing financial assistance under this Act, the Secretary, to the greatest extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
 

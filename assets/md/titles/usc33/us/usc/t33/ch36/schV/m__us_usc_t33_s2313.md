@@ -73,23 +73,23 @@
 
 [Pub. L. 101–640, title IV, § 417][/us/pl/101/640/s417], Nov. 28, 1990, [104 Stat. 4652][/us/stat/104/4652], provided that:
 
->     “(a) __Research and Development.—__ 
+>     “(a)  __Research and Development__  __.—__ 
 
 >     The Secretary is authorized, in cooperation with the Secretary of Transportation, to conduct research and development activities on magnetic levitation technology or to provide for such research and development.
 
->     “(b) __Collaboration.—__ 
+>     “(b)  __Collaboration__  __.—__ 
 
 >     The Secretary is authorized to collaborate with non-Federal entities (including State and local governments, colleges and universities, and corporations, partnerships, sole proprietorships, and trade associations which are incorporated or established under laws of a State or the District of Columbia) in carrying out research and development on magnetic levitation technology.
 
->     “(c) __Cooperative Research Contracts.—__ 
+>     “(c)  __Cooperative Research Contracts__  __.—__ 
 
 >     In carrying out this section, the Secretary may enter into contracts or cooperative research and development agreements under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a][/us/usc/t15/s3710a]), except that the Secretary may fund up to 50 percent of the cost of each collaborative research and development project undertaken.
 
->     “(d) __Licensing of Research and Development.—__ 
+>     “(d)  __Licensing of Research and Development__  __.—__ 
 
 >     The research, development, and use of any technology developed under an agreement entered into pursuant to this section, including the terms under which such technology may be licensed and the resulting royalties may be distributed, shall be subject to the provisions of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3701–371][/us/usc/t15/s3701–371]4). In addition, the Secretary may require the non-Federal entity to certify that such research and development will be performed substantially in the United States and that products embodying inventions made under an agreement entered into pursuant to this section or produced through the use of such inventions will be manufactured substantially in the United States.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     For purposes of carrying out this section, there is authorized to be appropriated $1,000,000 for fiscal year 1990 and $4,000,000 for fiscal year 1991. Such funds shall remain available until expended. No funds are authorized to be appropriated under this section for any fiscal year beginning after September 30, 1991.”
 

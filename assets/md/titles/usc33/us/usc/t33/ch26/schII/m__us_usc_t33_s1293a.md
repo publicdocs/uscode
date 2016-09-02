@@ -101,11 +101,11 @@
 
 [Pub. L. 104–303, title V, § 513][/us/pl/104/303/s513], Oct. 12, 1996, [110 Stat. 3762][/us/stat/110/3762], provided that:
 
->     “(a) __Assessment.—__ 
+>     “(a)  __Assessment__  __.—__ 
 
 >     Pursuant to the responsibilities of the Secretary under section 123 of the River and Harbor Act of 1970 ([33 U.S.C. 1293a][/us/usc/t33/s1293a]), the Secretary shall conduct an assessment of the general conditions of confined disposal facilities in the Great Lakes.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 3 years after the date of the enactment of this Act \[Oct. 12, 1996\], the Secretary shall transmit to Congress a report on the results of the assessment conducted under subsection (a), including the following:
 

@@ -145,11 +145,11 @@
 
 [Pub. L. 109–347, title I, § 109][/us/pl/109/347/s109], Oct. 13, 2006, [120 Stat. 1893][/us/stat/120/1893], provided that:
 
->     “(a) __Notice of Arrival.—__ 
+>     “(a)  __Notice of Arrival__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 13, 2006\], the Secretary of the department in which the Coast Guard is operating shall update and finalize the rulemaking on notice of arrival for foreign vessels on the Outer Continental Shelf.
 
->     “(b) __Content of Regulations.—__ 
+>     “(b)  __Content of Regulations__  __.—__ 
 
 >     The regulations promulgated pursuant to subsection (a) shall be consistent with information required under the Notice of Arrival under section 160.206 of title 33, Code of Federal Regulations, as in effect on the date of the enactment of this Act \[Oct. 13, 2006\].”
 
@@ -157,7 +157,7 @@
 
 [Pub. L. 101–380, title IV, § 4107(b)][/us/pl/101/380/s4107/b], Aug. 18, 1990, [104 Stat. 514][/us/stat/104/514], provided that:
 
->     “(1) __Study.—__ 
+>     “(1)  __Study__  __.—__ 
 
 >     The Secretary shall conduct a study—
 
@@ -175,7 +175,7 @@
 
 >             “(iv) all other relevant costs and data.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act \[Aug. 18, 1990\], the Secretary shall submit to the Congress a report on the results of the study conducted under paragraph (1) and recommendations for implementing the results of that study.”
 

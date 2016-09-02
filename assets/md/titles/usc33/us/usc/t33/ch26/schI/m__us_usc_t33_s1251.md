@@ -187,7 +187,7 @@ Section 519, formerly section 518, of [Act June 30, 1948, ch. 758][/us/act/1948-
 
 [Pub. L. 102–567, title III, § 308][/us/pl/102/567/s308], Oct. 29, 1992, [106 Stat. 4286][/us/stat/106/4286]; as amended by [Pub. L. 105–362, title II, § 201(b)][/us/pl/105/362/s201/b], Nov. 10, 1998, [112 Stat. 3282][/us/stat/112/3282], provided that:
 
->     “(a) __Establishment of a Research Program.—__ 
+>     “(a)  __Establishment of a Research Program__  __.—__ 
 
 >     The Secretary of Commerce, in cooperation with the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency, shall establish and administer a 5-year national shellfish research program (hereafter in this section referred to as the ‘Program’) for the purpose of improving existing classification systems for shellfish growing waters using the latest technological advancements in microbiology and epidemiological methods. Within 12 months after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce, in cooperation with the advisory committee established under subsection (b) and the Consortium, shall develop a comprehensive 5-year plan for the Program which shall at a minimum provide for—
 
@@ -203,7 +203,7 @@ Section 519, formerly section 518, of [Act June 30, 1948, ch. 758][/us/act/1948-
 
 >         “(6) recommendations for revising Federal shellfish standards and improving the capabilities of Federal and State agencies to effectively manage shellfish and ensure the safety of shellfish intended for human consumption.
 
->     “(b) __Advisory Committee.—__ 
+>     “(b)  __Advisory Committee__  __.—__ 
 
 >         (1) For the purpose of providing oversight of the Program on a continuing basis, an advisory committee (hereafter in this section referred to as the ‘Committee’) shall be established under a memorandum of understanding between the Interstate Shellfish Sanitation Conference and the National Marine Fisheries Service.
 
@@ -239,7 +239,7 @@ Section 519, formerly section 518, of [Act June 30, 1948, ch. 758][/us/act/1948-
 
 >         “(6) Members of the Committee and its scientific subcommittee established under this subsection shall not be paid for serving on the Committee or subcommittee, but shall receive travel expenses as authorized by [section 5703 of title 5][/us/usc/t5/s5703], United States Code.
 
->     “(c) __Contract With Consortium.—__ 
+>     “(c)  __Contract With Consortium__  __.—__ 
 
 >     Within 30 days after the date of enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce shall seek to enter into a cooperative agreement or contract with the Consortium under which the Consortium will—
 
@@ -255,13 +255,13 @@ Section 519, formerly section 518, of [Act June 30, 1948, ch. 758][/us/act/1948-
 
 >         “(6) make available to the Committee such staff, information, and assistance as the Committee may reasonably require to carry out its activities.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >         (1) Of the sums authorized under section 4(a) of the National Oceanic and Atmospheric Administration Marine Fisheries Program Authorization Act ([Public Law 98–210][/us/pl/98/210]; [97 Stat. 1409][/us/stat/97/1409]), there are authorized to be appropriated to the Secretary of Commerce $5,200,000 for each of the fiscal years 1993 through 1997 for carrying out the Program. Of the amounts appropriated pursuant to this authorization, not more than 5 percent of such appropriation may be used for administrative purposes by the National Oceanic and Atmospheric Administration. The remaining 95 percent of such appropriation shall be used to meet the administrative and scientific objectives of the Program.
 
 >         “(2) The Interstate Shellfish Sanitation Conference shall not administer appropriations authorized under this section, but may be reimbursed from such appropriations for its expenses in arranging for travel, meetings, workshops, or conferences necessary to carry out the Program.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     As used in this section, the term—
 

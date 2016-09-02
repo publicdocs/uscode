@@ -531,7 +531,7 @@
 
 > “SEC. 5602. __FINDINGS; PURPOSE.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -543,13 +543,13 @@
 
 >         “(4) Sewage discharged by recreational vessels because of an inadequate number of pumpout stations is a substantial contributor to localized degradation of water quality in the United States.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this subtitle is to provide funds to States for the construction, renovation, operation, and maintenance of pumpout stations and waste reception facilities.
 
 > “SEC. 5603. __DETERMINATION AND PLAN REGARDING STATE MARINE SANITATION DEVICE PUMPOUT STATION NEEDS.__ 
 
->     “(a) __Survey.—__ 
+>     “(a)  __Survey__  __.—__ 
 
 >     Within 3 months after the notification under section 5605(b), each coastal State shall conduct a survey to determine—
 
@@ -557,7 +557,7 @@
 
 >         “(2) the number of recreational vessels in the coastal waters of the State with type III marine sanitation devices or portable toilets, and the areas of those coastal waters where those vessels congregate.
 
->     “(b) __Plan.—__ 
+>     “(b)  __Plan__  __.—__ 
 
 >     Within 6 months after the notification under section 5605(b), and based on the survey conducted under subsection (a), each coastal State shall—
 
@@ -567,7 +567,7 @@
 
 >     “(c) __Plan Approval.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 60 days after a plan is submitted by a State under subsection (b), the Secretary of the Interior shall approve or disapprove the plan, based on—
 
@@ -575,43 +575,43 @@
 
 >             “(B) the ability of the plan, based on the guidance issued under section 5605(a), to meet the construction and renovation needs of the recreational vessels identified in the survey.
 
->         “(2) __Notification of state; modification.—__ 
+>         “(2)  __Notification of state; modification__  __.—__ 
 
 >         The Secretary of the Interior shall promptly notify the affected Governor of the approval or disapproval of a plan. If a plan is disapproved, the Secretary of the Interior shall recommend necessary modifications and return the plan to the affected Governor.
 
->         “(3) __Resubmittal.—__ 
+>         “(3)  __Resubmittal__  __.—__ 
 
 >         Not later than 60 days after receiving a plan returned by the Secretary of the Interior, the Governor shall make the appropriate changes and resubmit the plan.
 
 >     “(d) __Indication of Stations and Facilities on NOAA Charts.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Under Secretary of Commerce for Oceans and Atmosphere shall indicate, on charts published by the National Oceanic and Atmospheric Administration for the use of operators of recreational vessels, the locations of pumpout stations and waste reception facilities.
 
 >         “(2) __Notification of NOAA.—__ 
 
->             “(A) __Lists of stations and facilities.—__ 
+>             “(A)  __Lists of stations and facilities__  __.—__ 
 
 >             The Secretary of the Interior shall transmit to the Under Secretary of Commerce for Oceans and Atmosphere each list of operational stations and facilities submitted by a State under subsection (b)(2), by not later than 30 days after the date of receipt of that list.
 
->             “(B) __Completion of project.—__ 
+>             “(B)  __Completion of project__  __.—__ 
 
 >             The Director of the United States Fish and Wildlife Service shall notify the Under Secretary of the location of each station or facility at which a construction or renovation project is completed by a State with amounts made available under the Act of August 9, 1950 ([16 U.S.C. 777a][/us/usc/t16/s777a] et seq. \[[16 U.S.C. 777][/us/usc/t16/s777] et seq.\]), as amended by this subtitle, by not later than 30 days after the date of notification by a State of the completion of the project.
 
 > “SEC. 5604. __FUNDING.__ 
 
->     “(a) __Transfer.—__ 
+>     “(a)  __Transfer__  __.—__ 
 
 >     \[Amended [section 777c of Title 16][/us/usc/t16/s777c], Conservation.\]
 
->     “(b) __Access Increase.—__ 
+>     “(b)  __Access Increase__  __.—__ 
 
 >     \[Amended [section 777g of Title 16][/us/usc/t16/s777g], Conservation.\]
 
 >     “(c) __Grant Program.—__ 
 
->         “(1) __Matching grants.—__ 
+>         “(1)  __Matching grants__  __.—__ 
 
 >         The Secretary of the Interior may obligate an amount not to exceed the amount made available under [section 4(b)(2) of the Act of August 9, 1950][/us/act/1950-08-09/s4/b/2] ([16 U.S.C. 777c(b)(2)][/us/usc/t16/s777c/b/2], as amended by this Act), to make grants to—
 
@@ -635,7 +635,7 @@
 
 >                 “(ii) conducting a program to educate recreational boaters about the problem of human body waste discharges from vessels and inform them of the location of pumpout stations and waste reception facilities.
 
->         “(2) __Priority.—__ 
+>         “(2)  __Priority__  __.—__ 
 
 >         In awarding grants under this subsection, the Secretary of the Interior shall give priority consideration to grant applications that—
 
@@ -643,13 +643,13 @@
 
 >             “(B) propose innovative ways to increase the availability and use of pumpout stations and waste reception facilities.
 
->     “(d) __Disclaimer.—__ 
+>     “(d)  __Disclaimer__  __.—__ 
 
 >     Nothing in this subtitle shall be interpreted to preclude a State from carrying out the provisions of this subtitle with funds other than those described in this section.
 
 > “SEC. 5605. __GUIDANCE AND NOTIFICATION.__ 
 
->     “(a) __Issuance of Guidance.—__ 
+>     “(a)  __Issuance of Guidance__  __.—__ 
 
 >     Not later than 3 months after the date of the enactment of this subtitle \[Nov. 4, 1992\], the Secretary of the Interior shall, after consulting with the Administrator of the Environmental Protection Agency, the Under Secretary of Commerce for Oceans and Atmosphere, and the Commandant of the Coast Guard, issue for public comment pumpout station and waste reception facility guidance. The Secretary of the Interior shall finalize the guidance not later than 6 months after the date of enactment of this subtitle. The guidance shall include—
 
@@ -665,7 +665,7 @@
 
 >         “(6) other information that is considered necessary to promote the establishment of pumpout facilities to reduce sewage discharges from vessels and to protect United States waters.
 
->     “(b) __Notification.—__ 
+>     “(b)  __Notification__  __.—__ 
 
 >     Not later than one month after the guidance issued under subsection (a) is finalized, the Secretary of the Interior shall provide notification in writing to the fish and wildlife, water pollution control, and coastal zone management authorities of each State, of—
 

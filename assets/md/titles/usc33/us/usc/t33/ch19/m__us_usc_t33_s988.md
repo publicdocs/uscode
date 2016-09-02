@@ -59,15 +59,15 @@
 
 [Pub. L. 100–676, § 47(d)][/us/pl/100/676/s47/d], Nov. 17, 1988, [102 Stat. 4042][/us/stat/102/4042], provided that:
 
->     “(1) __Study of financing navigational improvements.—__ 
+>     “(1)  __Study of financing navigational improvements__  __.—__ 
 
 >     The Secretary, in cooperation with other Federal agencies and private persons, is authorized and directed to contract with an independent party to conduct a study of cost recovery options and alternative methods of financing navigational improvements on the Great Lakes connecting channels and Saint Lawrence Seaway, including modernization of the Eisenhower and Snell Locks of the Saint Lawrence Seaway.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Nov. 17, 1988\], the Secretary shall transmit to Congress a report on the results of the study carried out under this subsection together with recommendations.
 
->     “(3) __Cost sharing.—__ 
+>     “(3)  __Cost sharing__  __.—__ 
 
 >     The non-Federal share of the cost of the study under this subsection shall be 50 percent; except that not more than 1/2 of such non-Federal share may be made by the provision of services, materials, supplies, or other in-kind services necessary to carry out the study.”
 

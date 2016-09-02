@@ -153,7 +153,7 @@
 
         (3) The Administrator shall establish, either within the Environmental Protection Agency, or through contract with an appropriate public or private non-profit organization, a national clearinghouse which shall (A) receive reports and information resulting from research, demonstrations, and other projects funded under this chapter related to paragraph (1) of this subsection and to subsection (e)(2) of [section 1255 of this title][/us/usc/t33/s1255]; (B) coordinate and disseminate such reports and information for use by Federal and State agencies, municipalities, institutions, and persons in developing new and improved methods pursuant to this subsection; and (C) provide for the collection and dissemination of reports and information relevant to this subsection from other Federal and State agencies, institutions, universities, and persons.
 
-        (4) __Small flows clearinghouse.—__ 
+        (4)  __Small flows clearinghouse__  __.—__ 
 
         Notwithstanding [section 1285(d) of this title][/us/usc/t33/s1285/d], from amounts that are set aside for a fiscal year under [section 1285(i) of this title][/us/usc/t33/s1285/i] and are not obligated by the end of the 24-month period of availability for such amounts under [section 1285(d) of this title][/us/usc/t33/s1285/d], the Administrator shall make available $1,000,000 or such unobligated amount, whichever is less, to support a national clearinghouse within the Environmental Protection Agency to collect and disseminate information on small flows of sewage and innovative or alternative wastewater treatment processes and techniques, consistent with paragraph (3). This paragraph shall apply with respect to amounts set aside under [section 1285(i) of this title][/us/usc/t33/s1285/i] for which the 24-month period of availability referred to in the preceding sentence ends on or after September 30, 1986.
 
@@ -239,11 +239,11 @@
 
 [Pub. L. 107–303, title III, § 302(b)][/us/pl/107/303/s302/b], Nov. 27, 2002, [116 Stat. 2361][/us/stat/116/2361], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Effective November 10, 1998, section 501 of the Federal Reports Elimination Act of 1998 ([Public Law 105–362][/us/pl/105/362]; [112 Stat. 3283][/us/stat/112/3283]) is amended by striking subsections (a) \[amending this section and [section 1330 of this title][/us/usc/t33/s1330]\], (b) \[amending [section 1324 of this title][/us/usc/t33/s1324]\], (c) \[amending [section 1329 of this title][/us/usc/t33/s1329]\], and (d) \[amending this section and sections 1266, 1285, 1290, and 1375 of this title\].
 
->     “(2) __Applicability.—__ 
+>     “(2)  __Applicability__  __.—__ 
 
 >     The Federal Water Pollution Control Act ([33 U.S.C. 1254(n)(3)][/us/usc/t33/s1254/n/3]) \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\] shall be applied and administered on and after the date of enactment of this Act \[Nov. 27, 2002\] as if the amendments made by subsections (a), (b), (c), and (d) of section 501 of the Federal Reports Elimination Act of 1998 ([Public Law 105–362][/us/pl/105/362]; [112 Stat. 3283][/us/stat/112/3283]) had not been enacted.”
 

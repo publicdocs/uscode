@@ -81,11 +81,11 @@
 
         (4) __Limitations on revision of certain effluent limitations.—__ 
 
-            (A) __Standard not attained.—__ 
+            (A)  __Standard not attained__  __.—__ 
 
             For waters identified under paragraph (1)(A) where the applicable water quality standard has not yet been attained, any effluent limitation based on a total maximum daily load or other waste load allocation established under this section may be revised only if (i) the cumulative effect of all such revised effluent limitations based on such total maximum daily load or waste load allocation will assure the attainment of such water quality standard, or (ii) the designated use which is not being attained is removed in accordance with regulations established under this section.
 
-            (B) __Standard attained.—__ 
+            (B)  __Standard attained__  __.—__ 
 
             For waters identified under paragraph (1)(A) where the quality of such waters equals or exceeds levels necessary to protect the designated use for such waters or otherwise required by applicable water quality standards, any effluent limitation based on a total maximum daily load or other waste load allocation established under this section, or any water quality standard established under this section, or any other permitting standard may be revised only if such revision is subject to and consistent with the antidegradation policy established under this section.
 

@@ -745,7 +745,7 @@
 
          <sup><sup> 1 So in original. Probably should be “1986”. </sup></sup> 
 
-        (3) __Fiscal years 1987–1990.—__ 
+        (3)  __Fiscal years 1987–1990__  __.—__ 
 
         Sums authorized to be appropriated pursuant to [section 1287 of this title][/us/usc/t33/s1287] for the fiscal years 1987, 1988, 1989, and 1990 shall be allotted for each such year by the Administrator not later than the 10th day which begins after February 4, 1987. Sums authorized for such fiscal years shall be allotted in accordance with the following table:
 
@@ -1493,7 +1493,7 @@
 
         (4) All activities undertaken under this subsection shall be in coordination with other related provisions of this chapter.
 
-        (5) __Nonpoint source reservation.—__ 
+        (5)  __Nonpoint source reservation__  __.—__ 
 
         In addition to the sums reserved under paragraph (1), the Administrator shall reserve each fiscal year for each State 1 percent of the sums allotted and available for obligation to such State under this section for each fiscal year beginning on or after October 1, 1986, or $100,000, whichever is greater, for the purpose of carrying out [section 1329 of this title][/us/usc/t33/s1329]. Sums so reserved in a State in any fiscal year for which such State does not request the use of such sums, to the extent such sums exceed $100,000, may be used by such State for other purposes under this subchapter.
 

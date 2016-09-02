@@ -105,7 +105,7 @@
 
             (D) The Program Office shall compile formal comments on individual Remedial Action Plans made by the International Joint Commission pursuant to section 4(d) of Annex 2 of the Great Lakes Water Quality Agreement and, upon request by a member of the public, shall make such comments available for inspection and copying. The Program Office shall also make available, upon request, formal comments made by the Environmental Protection Agency on individual Remedial Action Plans.
 
-            (E) __Report.—__ 
+            (E)  __Report__  __.—__ 
 
             Not later than 1 year after November 27, 2002, the Administrator shall submit to Congress a report on such actions, time periods, and resources as are necessary to fulfill the duties of the Agency relating to oversight of Remedial Action Plans under—
 
@@ -479,35 +479,35 @@
 
 >     “(a) __Great Lakes Remedial Action Plans.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary may provide technical, planning, and engineering assistance to State and local governments and nongovernmental entities designated by a State or local government in the development and implementation of remedial action plans for Areas of Concern in the Great Lakes identified under the Great Lakes Water Quality Agreement of 1978.
 
 >         “(2) __Non-federal share.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Non-Federal interests shall contribute, in cash or by providing in-kind contributions, 35 percent of costs of activities for which assistance is provided under paragraph (1).
 
->             “(B) __Contributions by entities.—__ 
+>             “(B)  __Contributions by entities__  __.—__ 
 
 >             Nonprofit public or private entities may contribute all or a portion of the non-Federal share.
 
 >     “(b) __Sediment Remediation Projects.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary, in consultation with the Administrator of the Environmental Protection Agency (acting through the Great Lakes National Program Office), may conduct pilot- and full-scale projects of promising technologies to remediate contaminated sediments in freshwater coastal regions in the Great Lakes basin. The Secretary shall conduct not fewer than 3 full-scale projects under this subsection.
 
->         “(2) __Site selection for projects.—__ 
+>         “(2)  __Site selection for projects__  __.—__ 
 
 >         In selecting the sites for the technology projects, the Secretary shall give priority consideration to Saginaw Bay, Michigan, Sheboygan Harbor, Wisconsin, Grand Calumet River, Indiana, Ashtabula River, Ohio, Buffalo River, New York, and Duluth-Superior Harbor, Minnesota and Wisconsin.
 
->         “(3) __Non-federal share.—__ 
+>         “(3)  __Non-federal share__  __.—__ 
 
 >         Non-Federal interests shall contribute 35 percent of costs of projects under this subsection. Such costs may be paid in cash or by providing in-kind contributions.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for each of fiscal years 2001 through 2012.”
 

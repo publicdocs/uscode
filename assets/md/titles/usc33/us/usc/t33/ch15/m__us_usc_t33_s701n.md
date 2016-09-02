@@ -137,15 +137,15 @@
 
 [Pub. L. 104–303, title II, § 202(g)][/us/pl/104/303/s202/g], Oct. 12, 1996, [110 Stat. 3676][/us/stat/110/3676], provided that:
 
->     “(1) __Review.—__ 
+>     “(1)  __Review__  __.—__ 
 
 >     The Secretary shall undertake a comprehensive review of the current policy guidelines on vegetation management for levees. The review shall examine current policies in view of the varied interests in providing flood control, preserving, protecting, and enhancing natural resources, protecting the rights of Native Americans pursuant to treaty and statute, and such other factors as the Secretary considers appropriate.
 
->     “(2) __Cooperation and consultation.—__ 
+>     “(2)  __Cooperation and consultation__  __.—__ 
 
 >     The review under this section \[subsection\] shall be undertaken in cooperation with interested Federal agencies and in consultation with interested representatives of State and local governments and the public.
 
->     “(3) __Revision of guidelines.—__ 
+>     “(3)  __Revision of guidelines__  __.—__ 
 
 >     Based upon the results of the review, the Secretary shall revise, not later than 270 days after the date of the enactment of this Act \[Oct. 12, 1996\], the policy guidelines so as to provide a coherent and coordinated policy for vegetation management for levees. Such revised guidelines shall address regional variations in levee management and resource needs and shall be incorporated in the manual proposed under section 5(c) of such Act of August 18, 1941 ([33 U.S.C. 701n][/us/usc/t33/s701n]\[(c)\]).”
 

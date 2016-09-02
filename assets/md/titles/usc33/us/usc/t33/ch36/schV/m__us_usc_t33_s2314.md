@@ -69,15 +69,15 @@
 
 [Pub. L. 106–541, title II, § 221][/us/pl/106/541/s221], Dec. 11, 2000, [114 Stat. 2596][/us/stat/114/2596], provided that:
 
->     “(a) __Pilot Program.—__ 
+>     “(a)  __Pilot Program__  __.—__ 
 
 >     The Secretary \[of the Army\] may conduct a pilot program consisting of not more than 5 authorized projects to test the design-build method of project delivery on various authorized civil works projects of the Corps of Engineers, including levees, pumping plants, revetments, dikes, dredging, weirs, dams, retaining walls, generation facilities, mattress laying, recreation facilities, and other water resources facilities.
 
->     “(b) __Design-Build Defined.—__ 
+>     “(b)  __Design-Build Defined__  __.—__ 
 
 >     In this section, the term ‘design-build’ means an agreement between the Federal Government and a contractor that provides for both the design and construction of a project by a single contract.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 4 years after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary shall transmit to Congress a report on the results of the pilot program.”
 
@@ -85,21 +85,21 @@
 
 [Pub. L. 106–53, title V, § 503(a)][/us/pl/106/53/s503/a], Aug. 17, 1999, [113 Stat. 337][/us/stat/113/337], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than June 1, 2001, the Secretary shall complete a review of innovative dredging technologies designed to minimize or eliminate contamination of a water column upon removal of contaminated sediments.
 
 >     “(2) __Testing.—__ 
 
->         “(A) __Selection of technology.—__ 
+>         “(A)  __Selection of technology__  __.—__ 
 
 >         After completion of the review under paragraph (1), the Secretary shall select, from among the technologies reviewed, the technology that the Secretary determines will best increase the effectiveness of removing contaminated sediments and significantly reduce contamination of the water column.
 
->         “(B) __Agreement.—__ 
+>         “(B)  __Agreement__  __.—__ 
 
 >         Not later than December 31, 2001, the Secretary shall enter into an agreement with a public or private entity to test the selected technology in the vicinity of Peoria Lakes, Illinois.
 
->     “(3) __Authorization of appropriations.—__ 
+>     “(3)  __Authorization of appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this subsection $2,000,000.”
 
@@ -107,15 +107,15 @@
 
 [Pub. L. 106–53, title V, § 561][/us/pl/106/53/s561], Aug. 17, 1999, [113 Stat. 355][/us/stat/113/355], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall, when appropriate, encourage the beneficial use of waste tire rubber (including crumb rubber and baled tire products) recycled from tires.
 
->     “(b) __Included Beneficial Uses.—__ 
+>     “(b)  __Included Beneficial Uses__  __.—__ 
 
 >     Beneficial uses under subsection (a) may include marine pilings, underwater framing, floating docks with built-in flotation, utility poles, and other uses associated with transportation and infrastructure projects receiving Federal funds.
 
->     “(c) __Use of Waste Tire Rubber.—__ 
+>     “(c)  __Use of Waste Tire Rubber__  __.—__ 
 
 >     The Secretary shall encourage the use, when appropriate, of waste tire rubber (including crumb rubber) in projects described in subsection (b).”
 

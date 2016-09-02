@@ -33,21 +33,21 @@
 
         (6) The Administrator shall, within three months after December 27, 1977, and annually thereafter, for purposes of [section 1311(h) of this title][/us/usc/t33/s1311/h] publish and revise as appropriate information identifying each water quality standard in effect under this chapter or State law, the specific pollutants associated with such water quality standard, and the particular waters to which such water quality standard applies.
 
-        (7) __Guidance to states.—__ 
+        (7)  __Guidance to states__  __.—__ 
 
         The Administrator, after consultation with appropriate State agencies and on the basis of criteria and information published under paragraphs (1) and (2) of this subsection, shall develop and publish, within 9 months after February 4, 1987, guidance to the States on performing the identification required by subsection (l)(1) of this section.
 
-        (8) __Information on water quality criteria.—__ 
+        (8)  __Information on water quality criteria__  __.—__ 
 
         The Administrator, after consultation with appropriate State agencies and within 2 years after February 4, 1987, shall develop and publish information on methods for establishing and measuring water quality criteria for toxic pollutants on other bases than pollutant-by-pollutant criteria, including biological monitoring and assessment methods.
 
         (9) __Revised criteria for coastal recreation waters.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Not later than 5 years after October 10, 2000, after consultation and in cooperation with appropriate Federal, State, tribal, and local officials (including local health officials), the Administrator shall publish new or revised water quality criteria for pathogens and pathogen indicators (including a revised list of testing methods, as appropriate), based on the results of the studies conducted under [section 1254(v) of this title][/us/usc/t33/s1254/v], for the purpose of protecting human health in coastal recreation waters.
 
-            (B) __Reviews.—__ 
+            (B)  __Reviews__  __.—__ 
 
             Not later than the date that is 5 years after the date of publication of water quality criteria under this paragraph, and at least once every 5 years thereafter, the Administrator shall review and, as necessary, revise the water quality criteria.
 

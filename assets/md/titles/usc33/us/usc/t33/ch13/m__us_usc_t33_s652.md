@@ -53,7 +53,7 @@
 
         (1) __Authority.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, may undertake, as identified in the master plan—
 
@@ -61,11 +61,11 @@
 
                 (ii) implementation of a long-term resource monitoring, computerized data inventory and analysis, and applied research program, including research on water quality issues affecting the Mississippi River (including elevated nutrient levels) and the development of remediation strategies.
 
-            (B) __Advisory committee.—__ 
+            (B)  __Advisory committee__  __.—__ 
 
             In carrying out subparagraph (A)(i), the Secretary shall establish an independent technical advisory committee to review projects, monitoring plans, and habitat and natural resource needs assessments.
 
-        (2) __Reports.—__ 
+        (2)  __Reports__  __.—__ 
 
         Not later than December 31, 2004, and not later than December 31 of every sixth year thereafter, the Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall submit to Congress a report that—
 
@@ -81,11 +81,11 @@
 
         (4) For purposes of carrying out paragraph (1)(A)(ii) of this subsection, there is authorized to be appropriated to the Secretary $10,420,000 for fiscal year 1999 and each fiscal year thereafter.
 
-        (5) __Authorization of appropriations.—__ 
+        (5)  __Authorization of appropriations__  __.—__ 
 
         There is authorized to be appropriated to carry out paragraph (1)(B) $350,000 for each of fiscal years 1999 through 2009.
 
-        (6) __Transfer of amounts.—__ 
+        (6)  __Transfer of amounts__  __.—__ 
 
         For fiscal year 1999 and each fiscal year thereafter, the Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, may transfer not to exceed 20 percent of the amounts appropriated to carry out clause (i) or (ii) of paragraph (1)(A) to the amounts appropriated to carry out the other of those clauses.
 
@@ -113,11 +113,11 @@
 
         (2) __Determination.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall determine the need for river rehabilitation and environmental enhancement and protection based on the condition of the environment, project developments, and projected environmental impacts from implementing any proposals resulting from recommendations made under subsection (g) of this section and paragraph (1) of this subsection.
 
-            (B) __Requirements.—__ 
+            (B)  __Requirements__  __.—__ 
 
             The Secretary shall—
 
@@ -209,11 +209,11 @@
 
 > “In this title, the following definitions apply:
 
->     “(1) __Plan.—__ 
+>     “(1)  __Plan__  __.—__ 
 
 >     The term ‘Plan’ means the project for navigation and ecosystem improvements for the Upper Mississippi River and Illinois Waterway System: Report of the Chief of Engineers, dated December 15, 2004.
 
->     “(2) __Upper mississippi river and illinois waterway system.—__ 
+>     “(2)  __Upper mississippi river and illinois waterway system__  __.—__ 
 
 >     The term ‘Upper Mississippi River and Illinois Waterway System’ means the projects for navigation and ecosystem restoration authorized by Congress for—
 
@@ -229,7 +229,7 @@
 
 >     “(a) __Small Scale and Nonstructural Measures.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of the Army\] shall—
 
@@ -239,37 +239,37 @@
 
 >             “(C) conduct development and testing of an appointment scheduling system.
 
->         “(2) __Authorization of appropriations.—__ 
+>         “(2)  __Authorization of appropriations__  __.—__ 
 
 >         The total cost of projects authorized under this subsection shall be $256,000,000. Such costs are to be paid half from amounts appropriated from the general fund of the Treasury and half from amounts appropriated from the Inland Waterways Trust Fund. Such sums shall remain available until expended.
 
 >     “(b) __New Locks.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of the Army\] shall construct new 1,200-foot locks at Locks 20, 21, 22, 24, and 25 on the Upper Mississippi River and at LaGrange Lock and Peoria Lock on the Illinois Waterway.
 
->         “(2) __Authorization of appropriations.—__ 
+>         “(2)  __Authorization of appropriations__  __.—__ 
 
 >         The total cost of projects authorized under this subsection shall be $1,948,000,000. Such costs are to be paid half from amounts appropriated from the general fund of the Treasury and half from amounts appropriated from the Inland Waterways Trust Fund. Such sums shall remain available until expended.
 
->     “(c) __Concurrence.—__ 
+>     “(c)  __Concurrence__  __.—__ 
 
 >     The mitigation required for the projects authorized under subsections (a) and (b), including any acquisition of lands or interests in lands, shall be undertaken or acquired concurrently with lands and interests in lands for the projects authorized under subsections (a) and (b), and physical construction required for the purposes of mitigation shall be undertaken concurrently with the physical construction of such projects.
 
 > “SEC. 8004. __ECOSYSTEM RESTORATION AUTHORIZATION.__ 
 
->     “(a) __Operation.—__ 
+>     “(a)  __Operation__  __.—__ 
 
 >     To ensure the environmental sustainability of the existing Upper Mississippi River and Illinois Waterway System, the Secretary \[of the Army\] shall modify, consistent with requirements to avoid adverse effects on navigation, the operation of the Upper Mississippi River and Illinois Waterway System to address the cumulative environmental impacts of operation of the system and improve the ecological integrity of the Upper Mississippi River and Illinois River.
 
 >     “(b) __Ecosystem Restoration Projects.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of the Army\] shall carry out, consistent with requirements to avoid adverse effects on navigation, ecosystem restoration projects to attain and maintain the sustainability of the ecosystem of the Upper Mississippi River and Illinois River in accordance with the general framework outlined in the Plan.
 
->         “(2) __Projects included.—__ 
+>         “(2)  __Projects included__  __.—__ 
 
 >         Ecosystem restoration projects may include—
 
@@ -303,11 +303,11 @@
 
 >         “(3) __Cost sharing.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraphs (B) and (C), the Federal share of the cost of carrying out an ecosystem restoration project under this subsection shall be 65 percent.
 
->             “(B) __Exception for certain restoration projects.—__ 
+>             “(B)  __Exception for certain restoration projects__  __.—__ 
 
 >             In the case of a project under this section for ecosystem restoration, the Federal share of the cost of carrying out the project shall be 100 percent if the project—
 
@@ -317,15 +317,15 @@
 
 >                 “(iii) is located on federally owned land.
 
->             “(C) __Savings clause.—__ 
+>             “(C)  __Savings clause__  __.—__ 
 
 >             Nothing in this subsection affects the applicability of section 906(e) of the Water Resources Development Act of 1986 ([33 U.S.C. 2283(e)][/us/usc/t33/s2283/e]).
 
->             “(D) __Nongovernmental organizations.—__ 
+>             “(D)  __Nongovernmental organizations__  __.—__ 
 
 >             In accordance with section 221 of the Flood Control Act of 1970 ([42 U.S.C. 1962d–5b][/us/usc/t42/s1962d–5b]), for any project carried out under this title, a non-Federal sponsor may include a nonprofit entity, with the consent of the affected local government.
 
->         “(4) __Land acquisition.—__ 
+>         “(4)  __Land acquisition__  __.—__ 
 
 >         The Secretary \[of the Army\] may acquire land or an interest in land for an ecosystem restoration project from a willing seller through conveyance of—
 
@@ -333,13 +333,13 @@
 
 >             “(B) a flood plain conservation easement.
 
->     “(c) __Monitoring.—__ 
+>     “(c)  __Monitoring__  __.—__ 
 
 >     The Secretary \[of the Army\] shall carry out a long term resource monitoring, computerized data inventory and analysis, and applied research program for the Upper Mississippi River and Illinois River to determine trends in ecosystem health, to understand systemic changes, and to help identify restoration needs. The program shall consider and adopt the monitoring program established under section 1103(e)(1)(A)(ii) of the Water Resources Development Act of 1986 ([33 U.S.C. 652(e)(1)(A)(ii)][/us/usc/t33/s652/e/1/A/ii]).
 
 >     “(d) __Ecosystem Restoration Preconstruction Engineering and Design.—__ 
 
->         “(1) __Restoration design.—__ 
+>         “(1)  __Restoration design__  __.—__ 
 
 >         Before initiating the construction of any individual ecosystem restoration project, the Secretary \[of the Army\] shall—
 
@@ -349,11 +349,11 @@
 
 >             “(C) for each separable element of the ecosystem restoration, identify specific target goals for each performance indicator.
 
->         “(2) __Outcomes.—__ 
+>         “(2)  __Outcomes__  __.—__ 
 
 >         Performance measures identified under paragraph (1)(A) shall include specific measurable environmental outcomes, such as changes in water quality, hydrology, or the well-being of indicator species the population and distribution of which are representative of the abundance and diversity of ecosystem-dependent aquatic and terrestrial species.
 
->         “(3) __Restoration design.—__ 
+>         “(3)  __Restoration design__  __.—__ 
 
 >         Restoration design carried out as part of ecosystem restoration shall include a monitoring plan for the performance measures identified under paragraph (1)(A), including—
 
@@ -363,35 +363,35 @@
 
 >     “(e) __Consultation and Funding Agreements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In carrying out the environmental sustainability, ecosystem restoration, and monitoring activities authorized in this section, the Secretary \[of the Army\] shall consult with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin.
 
->         “(2) __Funding agreements.—__ 
+>         “(2)  __Funding agreements__  __.—__ 
 
 >         The Secretary is authorized to enter into agreements with the Secretary of the Interior, the Upper Mississippi River Basin Association, and natural resource and conservation agencies of the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin to provide for the direct participation of and transfer of funds to such entities for the planning, implementation, and evaluation of projects and programs established by this section.
 
 >     “(f) __Specific Projects Authorization.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is authorized to be appropriated to carry out this subsection $1,717,000,000, of which not more than $245,000,000 shall be available for projects described in subsection (b)(2)(B) and not more than $48,000,000 shall be available for projects described in subsection (b)(2)(J). Such sums shall remain available until expended.
 
->         “(2) __Limitation on available funds.—__ 
+>         “(2)  __Limitation on available funds__  __.—__ 
 
 >         Of the amounts made available under paragraph (1), not more than $35,000,000 in any fiscal year may be used for land acquisition under subsection (b)(4).
 
->         “(3) __Individual project limit.—__ 
+>         “(3)  __Individual project limit__  __.—__ 
 
 >         Other than for projects described in subparagraphs (B) and (J) of subsection (b)(2), the total cost of any single project carried out under this subsection shall not exceed $25,000,000.
 
->         “(4) __Monitoring.—__ 
+>         “(4)  __Monitoring__  __.—__ 
 
 >         In addition to amounts authorized under paragraph (1), there are authorized $10,420,000 per fiscal year to carry out the monitoring program under subsection (c) if such sums are not appropriated pursuant to section 1103(e)(4) the Water Resources Development Act of 1986 ([33 U.S.C. 652(e)(4)][/us/usc/t33/s652/e/4]).
 
 >     “(g) __Implementation Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than June 30, 2009, and every 4 years thereafter, the Secretary \[of the Army\] shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives an implementation report that—
 
@@ -401,11 +401,11 @@
 
 >         “(2) __Advisory panel.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary shall appoint and convene an advisory panel to provide independent guidance in the development of each implementation report under paragraph (1).
 
->             “(B) __Panel members.—__ 
+>             “(B)  __Panel members__  __.—__ 
 
 >             Panel members shall include—
 
@@ -427,27 +427,27 @@
 
 >                 “(ix) two representatives of agriculture and industry advocacy groups.
 
->             “(C) __Chairperson.—__ 
+>             “(C)  __Chairperson__  __.—__ 
 
 >             The Secretary shall serve as chairperson of the advisory panel.
 
->             “(D) __Application of federal advisory committee act.—__ 
+>             “(D)  __Application of federal advisory committee act__  __.—__ 
 
 >             The Advisory Panel and any working group established by the Advisory Panel shall not be considered an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.).
 
 >     “(h) __Ranking System.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary \[of the Army\], in consultation with the Advisory Panel, shall develop a system to rank proposed projects.
 
->         “(2) __Priority.—__ 
+>         “(2)  __Priority__  __.—__ 
 
 >         The ranking system shall give greater weight to projects that restore natural river processes, including those projects listed in subsection (b)(2).
 
 > “SEC. 8005. __COMPARABLE PROGRESS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     As the Secretary \[of the Army\] conducts pre-engineering, design, and construction for projects authorized under this title, the Secretary shall—
 
@@ -457,7 +457,7 @@
 
 >         “(3) make an annual report to Congress, beginning in fiscal year 2009, regarding whether the projects are being carried out at a comparable rate.
 
->     “(b) __No Comparable Rate.—__ 
+>     “(b)  __No Comparable Rate__  __.—__ 
 
 >     If the Secretary \[of the Army\] or Congress determines under subsection (a)(2) that projects authorized under this title are not moving toward completion at a comparable rate, annual funding requests for the projects shall be adjusted to ensure that the projects move toward completion at a comparable rate in the future.”
 
@@ -465,7 +465,7 @@
 
 [Pub. L. 106–541, title IV, § 403][/us/pl/106/541/s403], Dec. 11, 2000, [114 Stat. 2634][/us/stat/114/2634], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In conjunction with the Secretary of Agriculture and the Secretary of the Interior, the Secretary \[of the Army\] shall conduct a study to—
 
@@ -477,7 +477,7 @@
 
 >     “(b) __Study Components.—__ 
 
->         “(1) __Computer modeling.—__ 
+>         “(1)  __Computer modeling__  __.—__ 
 
 >         In carrying out the study under this section, the Secretary shall develop computer models of the upper Mississippi River basin, at the subwatershed and basin scales, to—
 
@@ -485,7 +485,7 @@
 
 >             “(B) examine the effectiveness of alternative management measures.
 
->         “(2) __Research.—__ 
+>         “(2)  __Research__  __.—__ 
 
 >         In carrying out the study under this section, the Secretary shall conduct research to improve the understanding of—
 
@@ -495,27 +495,27 @@
 
 >             “(C) river hydrodynamics, in relation to sediment and nutrient transformations, retention, and transport.
 
->     “(c) __Use of Information.—__ 
+>     “(c)  __Use of Information__  __.—__ 
 
 >     On request of a Federal agency, the Secretary may provide information for use in applying sediment and nutrient reduction programs associated with land-use improvements and land management practices.
 
 >     “(d) __Reports.—__ 
 
->         “(1) __Preliminary report.—__ 
+>         “(1)  __Preliminary report__  __.—__ 
 
 >         Not later than 2 years after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary shall transmit to Congress a preliminary report that outlines work being conducted on the study components described in subsection (b).
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         Not later than 5 years after the date of enactment of this Act, the Secretary shall transmit to Congress a report describing the results of the study under this section, including any findings and recommendations of the study.
 
 >     “(e) __Funding.—__ 
 
->         “(1) __Authorization of appropriations.—__ 
+>         “(1)  __Authorization of appropriations__  __.—__ 
 
 >         There is authorized to be appropriated to carry out this section $4,000,000 for each of fiscal years 2001 through 2005.
 
->         “(2) __Federal share.—__ 
+>         “(2)  __Federal share__  __.—__ 
 
 >         The Federal share of the cost of carrying out this section shall be 50 percent.”
 
@@ -523,7 +523,7 @@
 
 [Pub. L. 106–53, title IV, § 459][/us/pl/106/53/s459], Aug. 17, 1999, [113 Stat. 332][/us/stat/113/332], as amended by [Pub. L. 106–541, title IV, § 404][/us/pl/106/541/s404], Dec. 11, 2000, [114 Stat. 2635][/us/stat/114/2635], provided that:
 
->     “(a) __Development.—__ 
+>     “(a)  __Development__  __.—__ 
 
 >     The Secretary \[of the Army\] shall develop a plan to address water resource and related land resource problems and opportunities in the upper Mississippi and Illinois River basins, from Cairo, Illinois, to the headwaters of the Mississippi River, in the interest of systemic flood damage reduction by means of—
 
@@ -541,7 +541,7 @@
 
 >         “(7) other related purposes.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The plan under subsection (a) shall—
 
@@ -551,7 +551,7 @@
 
 >         “(3) include recommendations for Federal action where appropriate and recommendations for follow-on studies for problem areas for which data or current technology does not allow immediate solutions.
 
->     “(c) __Consultation and Use of Existing Data.—__ 
+>     “(c)  __Consultation and Use of Existing Data__  __.—__ 
 
 >     In carrying out this section, the Secretary shall—
 
@@ -561,15 +561,15 @@
 
 >     “(d) __Cost Sharing.—__ 
 
->         “(1) __Development.—__ 
+>         “(1)  __Development__  __.—__ 
 
 >         Development of the plan under subsection (a) shall be at Federal expense.
 
->         “(2) __Feasibility studies.—__ 
+>         “(2)  __Feasibility studies__  __.—__ 
 
 >         Feasibility studies resulting from development of the plan shall be subject to cost sharing under section 105 of the Water Resources Development Act of 1986 ([33 U.S.C. 2215][/us/usc/t33/s2215]).
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 3 years after the first date on which funds are appropriated to carry out this section, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that includes the plan under subsection (a).”
 

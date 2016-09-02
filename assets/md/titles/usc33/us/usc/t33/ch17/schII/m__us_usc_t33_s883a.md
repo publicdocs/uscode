@@ -49,11 +49,11 @@
 
 > “SEC. 3202. __GREAT LAKES SHORELINE MAPPING PLAN.__ 
 
->     “(a) __Preparation of Plan.—__ 
+>     “(a)  __Preparation of Plan__  __.—__ 
 
 >     Not later than nine months after the date of the enactment of this subtitle \[Dec. 29, 1987\], the Director, in consultation with the Director of the United States Geological Survey, shall submit to the Congress a plan for preparing maps of the shoreline of the Great Lakes under section 3203.
 
->     “(b) __Content of Plan.—__ 
+>     “(b)  __Content of Plan__  __.—__ 
 
 >     A plan prepared under paragraph (1) shall include—
 
@@ -67,11 +67,11 @@
 
 > “SEC. 3203. __PREPARATION OF GREAT LAKES SHORELINE MAPS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The \[sic\] following completion of a shoreline mapping plan under section 3202 and subject to authorization and appropriation of funds, the Director, in consultation with the Director of the United States Geological Survey, shall prepare maps of the shoreline areas of the Great Lakes.
 
->     “(b) __Content of Maps.—__ 
+>     “(b)  __Content of Maps__  __.—__ 
 
 >     Maps prepared under this section—
 
@@ -93,7 +93,7 @@
 
 >         “(3) to the maximum extent practicable, shall be consistent with similar shoreline maps prepared by, or for the use of, the Government of Canada.
 
->     “(c) __Consultation.—__ 
+>     “(c)  __Consultation__  __.—__ 
 
 >     In preparing maps under this section, the Director shall consult with, and take into consideration, the informational needs of—
 
@@ -109,7 +109,7 @@
 
 >         “(6) the general public.
 
->     “(d) __Availability of Maps.—__ 
+>     “(d)  __Availability of Maps__  __.—__ 
 
 >     The Director shall make maps prepared under this section available to—
 
@@ -123,7 +123,7 @@
 
 >         “(5) the general public.
 
->     “(e) __Recovery of Costs.—__ 
+>     “(e)  __Recovery of Costs__  __.—__ 
 
 >     The costs of reproducing and distributing maps prepared under this section may be recovered under [section 9701 of title 31][/us/usc/t31/s9701], United States Code, or another law.
 

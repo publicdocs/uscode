@@ -141,7 +141,7 @@
 
 [Pub. L. 102–567, title II, § 205][/us/pl/102/567/s205], Oct. 29, 1992, [106 Stat. 4282][/us/stat/106/4282], provided that:
 
->     “(a) __Treatment of Amounts Received as Reimbursement of Expenses.—__ 
+>     “(a)  __Treatment of Amounts Received as Reimbursement of Expenses__  __.—__ 
 
 >     Notwithstanding any other provision of law, amounts received by the United States as reimbursement of expenses related to oil or hazardous substance spill response activities, or natural resource damage assessment, restoration, rehabilitation, replacement, or acquisition activities, conducted (or to be conducted) by the National Oceanic and Atmospheric Administration—
 
@@ -151,7 +151,7 @@
 
 >         “(3) shall not be considered to be an augmentation of appropriations.
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     Subsection (a) shall apply to amounts described in subsection (a) that are received—
 
@@ -159,7 +159,7 @@
 
 >         “(2) with respect to the oil spill associated with the grounding of the EXXON VALDEZ.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 

@@ -155,27 +155,27 @@
 
      “responsible party” means the following:
 
-        (A) __Vessels.—__ 
+        (A)  __Vessels__  __.—__ 
 
         In the case of a vessel, any person owning, operating, or demise chartering the vessel. In the case of a vessel, the term “responsible party” also includes the owner of oil being transported in a tank vessel with a single hull after December 31, 2010 (other than a vessel described in [section 3703a(b)(3) of title 46][/us/usc/t46/s3703a/b/3]).
 
-        (B) __Onshore facilities.—__ 
+        (B)  __Onshore facilities__  __.—__ 
 
         In the case of an onshore facility (other than a pipeline), any person owning or operating the facility, except a Federal agency, State, municipality, commission, or political subdivision of a State, or any interstate body, that as the owner transfers possession and right to use the property to another person by lease, assignment, or permit.
 
-        (C) __Offshore facilities.—__ 
+        (C)  __Offshore facilities__  __.—__ 
 
         In the case of an offshore facility (other than a pipeline or a deepwater port licensed under the Deepwater Port Act of 1974 ([33 U.S.C. 1501][/us/usc/t33/s1501] et seq.)), the lessee or permittee of the area in which the facility is located or the holder of a right of use and easement granted under applicable State law or the Outer Continental Shelf Lands Act ([43 U.S.C. 1301–135][/us/usc/t43/s1301–135]6) for the area in which the facility is located (if the holder is a different person than the lessee or permittee), except a Federal agency, State, municipality, commission, or political subdivision of a State, or any interstate body, that as owner transfers possession and right to use the property to another person by lease, assignment, or permit.
 
-        (D) __Deepwater ports.—__ 
+        (D)  __Deepwater ports__  __.—__ 
 
         In the case of a deepwater port licensed under the Deepwater Port Act of 1974 ([33 U.S.C. 1501–152][/us/usc/t33/s1501–152]4), the licensee.
 
-        (E) __Pipelines.—__ 
+        (E)  __Pipelines__  __.—__ 
 
         In the case of a pipeline, any person owning or operating the pipeline.
 
-        (F) __Abandonment.—__ 
+        (F)  __Abandonment__  __.—__ 
 
         In the case of an abandoned vessel, onshore facility, deepwater port, pipeline, or offshore facility, the persons who would have been responsible parties immediately prior to the abandonment of the vessel or facility.
 

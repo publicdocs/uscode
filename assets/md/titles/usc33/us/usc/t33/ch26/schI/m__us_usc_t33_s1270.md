@@ -173,23 +173,23 @@
 
 >     “(a) __Designation of Lake Champlain as a Priority Area Under the Environmental Quality Incentives Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Notwithstanding any other provision of law, the Lake Champlain basin, as defined under section 120(h) of the Federal Water Pollution Control Act \[[33 U.S.C. 1270(h)][/us/usc/t33/s1270/h]\], shall be designated by the Secretary of Agriculture as a priority area under the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[[16 U.S.C. 3839aa][/us/usc/t16/s3839aa] et seq.\].
 
->         “(2) __Technical assistance reimbursement.—__ 
+>         “(2)  __Technical assistance reimbursement__  __.—__ 
 
 >         To carry out the purposes of this subsection, the technical assistance reimbursement from the Agricultural Stabilization and Conservation Service authorized under the Soil Conservation and Domestic Allotment Act \[[16 U.S.C. 590a][/us/usc/t16/s590a] et seq.\], shall be increased from 5 per centum to 10 per centum.
 
->         “(3) __Comprehensive agricultural monitoring.—__ 
+>         “(3)  __Comprehensive agricultural monitoring__  __.—__ 
 
 >         The Secretary, in consultation with the Management Conference and appropriate State and Federal agencies, shall develop a comprehensive agricultural monitoring and evaluation network for all major drainages within the Lake Champlain basin.
 
->         “(4) __Allocation of funds.—__ 
+>         “(4)  __Allocation of funds__  __.—__ 
 
 >         In allocating funds under this subsection, the Secretary of Agriculture shall consult with the Management Conference established under section 120 of the Federal Water Pollution Control Act and to the extent allowable by law, allocate funds to those agricultural enterprises located at sites that the Management Conference determines to be priority sites, on the basis of a concern for ensuring implementation of nonpoint source pollution controls throughout the Lake Champlain basin.
 
->     “(b) __Cooperation of the United States Geological Survey of the Department of the Interior.—__ 
+>     “(b)  __Cooperation of the United States Geological Survey of the Department of the Interior__  __.—__ 
 
 >     For the purpose of enhancing and expanding basic data collection and monitoring in operation in the Lake Champlain basin, as defined under section 120 of the Federal Water Pollution Control Act \[[33 U.S.C. 1270][/us/usc/t33/s1270]\], the Secretary of the Interior, acting through the heads of water resources divisions of the New York and New England districts of the United States Geological Survey, shall—
 
@@ -201,7 +201,7 @@
 
 >     “(c) __Cooperation of the United States Fish and Wildlife Service of the Department of the Interior.—__ 
 
->         “(1) __Resource conservation program.—__ 
+>         “(1)  __Resource conservation program__  __.—__ 
 
 >         The Secretary of the Interior, acting through the United States Fish and Wildlife Service, in cooperation with the Lake Champlain Fish and Wildlife Management Cooperative and the Management Conference established pursuant to this subsection shall—
 
@@ -229,7 +229,7 @@
 
 >             “(D) conducting and periodically updating a survey of the fishery resources and their habitats and food chains in the Lake Champlain basin.
 
->     “(d) __Authorizations.—__ 
+>     “(d)  __Authorizations__  __.—__ 
 
 >         (1) There is authorized to be appropriated to the Department of Agriculture $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsection (a) of this section.
 

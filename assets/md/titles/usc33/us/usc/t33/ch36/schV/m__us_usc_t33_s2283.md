@@ -161,7 +161,7 @@
 
 >     “(1) __Investigation.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The Comptroller General shall conduct an investigation of the effectiveness of the concurrent mitigation requirements of section 906 of the Water Resources Development Act of 1986 ([33 U.S.C. 2283][/us/usc/t33/s2283]). In carrying out the investigation, the Comptroller General shall determine—
 
@@ -169,7 +169,7 @@
 
 >             “(ii) the extent to which mitigation projects restore natural hydrologic conditions, restore native vegetation, and otherwise support native fish and wildlife species.
 
->         “(B) __Special rule.—__ 
+>         “(B)  __Special rule__  __.—__ 
 
 >         In carrying out subparagraph (A)(ii), the Comptroller General shall—
 
@@ -177,7 +177,7 @@
 
 >             “(ii) assess methods used by the Corps of Engineers to monitor and evaluate mitigation projects, and compare Corps of Engineers mitigation project design, construction, monitoring, and evaluation practices with those used in other publicly and privately financed mitigation projects.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 1 year after the date of enactment of this Act \[Dec. 11, 2000\], the Comptroller General shall transmit to Congress a report on the results of the investigation.”
 

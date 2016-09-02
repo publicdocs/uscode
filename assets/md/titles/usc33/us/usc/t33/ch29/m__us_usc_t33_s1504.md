@@ -145,15 +145,15 @@
 
 [Pub. L. 107–295, title I, § 106(e)][/us/pl/107/295/s106/e], Nov. 25, 2002, [116 Stat. 2087][/us/stat/116/2087], provided that:
 
->     “(1) __Agency and department expertise and responsibilities.—__ 
+>     “(1)  __Agency and department expertise and responsibilities__  __.—__ 
 
 >     Not later than 30 days after the date of the enactment of this Act \[Nov. 25, 2002\], the heads of Federal departments or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports for natural gas shall transmit to the Secretary of Transportation written comments as to such expertise or statutory responsibilities pursuant to the Deepwater Port Act of 1974 ([33 U.S.C. 1501][/us/usc/t33/s1501] et seq.) or any other Federal law.
 
->     “(2) __Interim final rule.—__ 
+>     “(2)  __Interim final rule__  __.—__ 
 
 >     The Secretary may issue an interim final rule as a temporary regulation implementing this section \[amending this section and sections 1501 to 1503, 1507, and 1520 of this title\] (including the amendments made by this section) as soon as practicable after the date of enactment of this section, without regard to the provisions of chapter 5 of title 5, United States Code.
 
->     “(3) __Final rules.—__ 
+>     “(3)  __Final rules__  __.—__ 
 
 >     As soon as practicable after the date of the enactment of this Act, the Secretary of Transportation shall issue additional final rules that, in the discretion of the Secretary, are determined to be necessary under the Deepwater Port Act of 1974 ([33 U.S.C. 1501][/us/usc/t33/s1501] et seq.) for the application and issuance of licenses for a deepwater port for natural gas.”
 

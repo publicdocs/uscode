@@ -41,29 +41,29 @@
 
 [Pub. L. 104–303, title V, § 519][/us/pl/104/303/s519], Oct. 12, 1996, [110 Stat. 3765][/us/stat/110/3765], as amended by [Pub. L. 106–53, title III, § 350(a)][/us/pl/106/53/s350/a], Aug. 17, 1999, [113 Stat. 310][/us/stat/113/310], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall promote Federal, non-Federal, and private sector cooperation in creating public recreation opportunities and developing the necessary supporting infrastructure at water resources projects of the Corps of Engineers.
 
 >     “(b) __Infrastructure Improvements.—__ 
 
->         “(1) __Recreation infrastructure improvements.—__ 
+>         “(1)  __Recreation infrastructure improvements__  __.—__ 
 
 >         In determining the feasibility of the public-private cooperative under subsection (a), the Secretary shall provide such infrastructure improvements as are necessary to support a potential private recreational development at the Raystown Lake Project, Pennsylvania, generally in accordance with the Master Plan Update (1994) for the project.
 
->         “(2) __Agreement.—__ 
+>         “(2)  __Agreement__  __.—__ 
 
 >         The Secretary shall enter into an agreement with an appropriate non-Federal public entity to ensure that the infrastructure improvements constructed by the Secretary on non-project lands pursuant to paragraph (1) are transferred to and operated and maintained by the non-Federal public entity.
 
->         “(3) __Engineering and design services.—__ 
+>         “(3)  __Engineering and design services__  __.—__ 
 
 >         The Secretary may perform engineering and design services for project infrastructure expected to be associated with the development of the site at Raystown Lake, Hesston, Pennsylvania.
 
->         “(4) __Authorization of appropriations.—__ 
+>         “(4)  __Authorization of appropriations__  __.—__ 
 
 >         There is authorized to be appropriated to carry out this subsection $3,000,000.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than December 31, 1998, the Secretary shall transmit to Congress a report on the results of the cooperative efforts carried out under this section, including the improvements required by subsection (b).”
 

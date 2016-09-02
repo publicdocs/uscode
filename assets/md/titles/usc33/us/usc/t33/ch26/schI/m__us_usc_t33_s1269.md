@@ -123,7 +123,7 @@
 
 > “SEC. 2. __FINDINGS AND PURPOSE.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -143,7 +143,7 @@
 
 >         “(8) much of the remaining exemplary natural landscape is vulnerable to further development.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this Act is to establish the Long Island Sound Stewardship Initiative to identify, protect, and enhance upland sites within the Long Island Sound ecosystem with significant ecological, educational, open space, public access, or recreational value through a bi-State network of sites best exemplifying these values.
 
@@ -151,31 +151,31 @@
 
 > “In this Act, the following definitions apply:
 
->     “(1) __Administrator.—__ 
+>     “(1)  __Administrator__  __.—__ 
 
 >     The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
 
->     “(2) __Advisory committee.—__ 
+>     “(2)  __Advisory committee__  __.—__ 
 
 >     The term ‘Advisory Committee’ means the Long Island Sound Stewardship Advisory Committee established by section 8.
 
->     “(3) __Region.—__ 
+>     “(3)  __Region__  __.—__ 
 
 >     The term ‘Region’ means the Long Island Sound Stewardship Initiative Region established by section 4(a).
 
->     “(4) __State.—__ 
+>     “(4)  __State__  __.—__ 
 
 >     The term ‘State’ means each of the States of Connecticut and New York.
 
->     “(5) __Stewardship.—__ 
+>     “(5)  __Stewardship__  __.—__ 
 
 >     The term ‘stewardship’ means land acquisition, land conservation agreements, site planning, plan implementation, land and habitat management, public access improvements, site monitoring, and other activities designed to enhance and preserve natural resource-based recreation and ecological function of upland areas.
 
->     “(6) __Stewardship site.—__ 
+>     “(6)  __Stewardship site__  __.—__ 
 
 >     The term ‘stewardship site’ means any area of State, local, or tribal government, or privately owned land within the Region that is designated by the Administrator under section 5(a).
 
->     “(7) __Systematic site selection.—__ 
+>     “(7)  __Systematic site selection__  __.—__ 
 
 >     The term ‘systematic site selection’ means a process of selecting stewardship sites that—
 
@@ -191,21 +191,21 @@
 
 >         “(F) will result in achieving the goals of stewardship site selection at the lowest cost.
 
->     “(8) __Qualified applicants.—__ 
+>     “(8)  __Qualified applicants__  __.—__ 
 
 >     The term ‘qualified applicant’ means a non-Federal person that owns title to property located within the borders of the Region.
 
->     “(9) __Threat.—__ 
+>     “(9)  __Threat__  __.—__ 
 
 >     The term ‘threat’ means a threat that is likely to destroy or seriously degrade a conservation target or a recreation area.
 
 > “SEC. 4. __LONG ISLAND SOUND STEWARDSHIP INITIATIVE REGION.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established in the States of Connecticut and New York the Long Island Sound Stewardship Initiative Region.
 
->     “(b) __Boundaries.—__ 
+>     “(b)  __Boundaries__  __.—__ 
 
 >     The Region consists of the immediate coastal upland areas along—
 
@@ -215,11 +215,11 @@
 
 > “SEC. 5. __DESIGNATION OF STEWARDSHIP SITES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator may designate a stewardship site in accordance with this Act any area that contributes to accomplishing the purpose of this Act.
 
->     “(b) __Publication of List of Recommended Sites.—__ 
+>     “(b)  __Publication of List of Recommended Sites__  __.—__ 
 
 >     The Administrator shall—
 
@@ -233,11 +233,11 @@
 
 >             “(B) an opportunity for owners of such sites to decline designation of such sites as stewardship sites.
 
->     “(c) __Opinion Regarding Owner’s Responsibilities.—__ 
+>     “(c)  __Opinion Regarding Owner’s Responsibilities__  __.—__ 
 
 >     The Administrator may not designate an area as a stewardship site under this Act unless the Administrator provides to the owner of the area, and the owner acknowledges to the Administrator receipt of, a comprehensive opinion in plain English setting forth expressly the responsibility of the owner that arises from such designation.
 
->     “(d) __Designation of Stewardship Sites.—__ 
+>     “(d)  __Designation of Stewardship Sites__  __.—__ 
 
 >     Not later than 150 days after receiving from the Advisory Committee its list of recommended sites, the Administrator—
 
@@ -247,7 +247,7 @@
 
 > “SEC. 6. __RECOMMENDATIONS BY ADVISORY COMMITTEE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Advisory Committee shall—
 
@@ -275,15 +275,15 @@
 
 >     “(b) __Identification of Sites.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any qualified applicant may submit an application to the Advisory Committee to have a site recommended to the Administrator for designation as a stewardship site.
 
->         “(2) __Identification.—__ 
+>         “(2)  __Identification__  __.—__ 
 
 >         The Advisory Committee shall review each application submitted under this subsection to determine whether the site exhibits values that promote the purpose of this Act.
 
->         “(3) __Natural resource-based recreation areas.—__ 
+>         “(3)  __Natural resource-based recreation areas__  __.—__ 
 
 >         In reviewing an application for recommendation of a recreation area for designation as a stewardship site, the Advisory Committee may use a selection technique that includes consideration of—
 
@@ -299,7 +299,7 @@
 
 >             “(F) cultural, historic, and scenic characteristics.
 
->         “(4) __Natural areas with ecological value.—__ 
+>         “(4)  __Natural areas with ecological value__  __.—__ 
 
 >         In reviewing an application for recommendation of a natural area with ecological value for designation as a stewardship site, the Advisory Committee may use a selection technique that includes consideration of—
 
@@ -327,7 +327,7 @@
 
 >                 “(ix) threats.
 
->         “(5) __Deviation from process.—__ 
+>         “(5)  __Deviation from process__  __.—__ 
 
 >         The Advisory Committee may accept an application to recommend a site other than as provided in this subsection, if the Advisory Committee—
 
@@ -337,11 +337,11 @@
 
 >     “(c) __Submission of List of Recommended Sites.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         After completion of the site identification process set forth in subsection (b), the Advisory Committee shall submit to the Administrator its list of sites recommended for designation as stewardship sites.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         The Advisory Committee shall not include a site in the list submitted under this subsection unless, prior to submission of the list, the owner of the site is—
 
@@ -349,33 +349,33 @@
 
 >             “(B) allowed to decline inclusion of the site in the list.
 
->         “(3) __Public comment.—__ 
+>         “(3)  __Public comment__  __.—__ 
 
 >         In identifying sites for inclusion in the list, the Advisory Committee shall provide an opportunity for submission of, and consider, public comments.
 
 > “SEC. 7. __GRANTS AND ASSISTANCE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Administrator may provide grants, subject to the availability of appropriations, and other assistance for projects to fulfill the purpose of this Act.
 
->     “(b) __Federal Share.—__ 
+>     “(b)  __Federal Share__  __.—__ 
 
 >     The Federal share of the cost of an activity carried out using any assistance or grant under this Act shall not exceed 60 percent of the total cost of the activity.
 
 > “SEC. 8. __LONG ISLAND SOUND STEWARDSHIP ADVISORY COMMITTEE.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a committee to be known as the ‘Long Island Sound Stewardship Advisory Committee’.
 
 >     “(b) __Membership.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Administrator may appoint the members of the Advisory Committee in accordance with this subsection and the guidance in section 320(c) of the Federal Water Pollution Control Act ([33 U.S.C. 1330(c)][/us/usc/t33/s1330/c]), except that the Governor of each State may appoint 2 members of the Advisory Committee.
 
->         “(2) __Additional members.—__ 
+>         “(2)  __Additional members__  __.—__ 
 
 >         In addition to the other members appointed under this subsection, the Advisory Committee may include—
 
@@ -385,7 +385,7 @@
 
 >             “(C) a representative of private landowner interests.
 
->         “(3) __Consideration of interests.—__ 
+>         “(3)  __Consideration of interests__  __.—__ 
 
 >         In appointing members of the Advisory Committee, the Administrator shall consider—
 
@@ -399,15 +399,15 @@
 
 >             “(E) recreational and commercial fishing interests.
 
->         “(4) __Chairperson.—__ 
+>         “(4)  __Chairperson__  __.—__ 
 
 >         In addition to the other members appointed under this subsection, the Administrator may appoint as a member of the Advisory Committee an individual to serve as the Chairperson, who may be the Director of the Long Island Sound Office of the Environmental Protection Agency.
 
->         “(5) __Completion of appointments.—__ 
+>         “(5)  __Completion of appointments__  __.—__ 
 
 >         The Administrator shall complete the appointment of all members of the Advisory Committee by not later than 180 days after the date of enactment of this Act \[Oct. 16, 2006\].
 
->             “(A) __\[sic\] Vacancies.—__ 
+>             “(A) __\[sic\]__  __Vacancies__  __.—__ 
 
 >             A vacancy on the Advisory Committee—
 
@@ -419,35 +419,35 @@
 
 >     “(c) __Term.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A member of the Advisory Committee shall be appointed for a term of 4 years.
 
->         “(2) __Multiple terms.—__ 
+>         “(2)  __Multiple terms__  __.—__ 
 
 >         An individual may be appointed as a member of the Advisory Committee for more than 1 term.
 
->     “(d) __Powers.—__ 
+>     “(d)  __Powers__  __.—__ 
 
 >     The Advisory Committee may hold such hearings, meet and act at such times and places, take such testimony, and receive such evidence as the Advisory Committee considers advisable to carry out this Act.
 
 >     “(e) __Meetings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Advisory Committee shall meet at the call of the Chairperson, but no fewer than 4 times each year.
 
->         “(2) __Initial meeting.—__ 
+>         “(2)  __Initial meeting__  __.—__ 
 
 >         Not later than 30 days after the date on which all members of the Advisory Committee have been appointed, the Chairperson shall call the initial meeting of the Advisory Committee.
 
->         “(3) __Quorum.—__ 
+>         “(3)  __Quorum__  __.—__ 
 
 >         A majority of the members of the Advisory Committee shall constitute a quorum, but a lesser number of members may hold hearings.
 
 >     “(f) __Adaptive Management.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Advisory Committee shall use an adaptive management framework to identify the best policy initiatives and actions through—
 
@@ -467,11 +467,11 @@
 
 >             “(H) evaluation of outcomes and incorporation into management strategies.
 
->         “(2) __Application of adaptive management framework.—__ 
+>         “(2)  __Application of adaptive management framework__  __.—__ 
 
 >         The Advisory Committee shall apply the adaptive management framework to the process for making recommendations under subsections (b) through (f) of section 6 to the Administrator regarding sites that should be designated as stewardship sites.
 
->         “(3) __Adaptive management.—__ 
+>         “(3)  __Adaptive management__  __.—__ 
 
 >         The adaptive management framework required by this subsection shall consist of a scientific process—
 
@@ -489,13 +489,13 @@
 
 >             “(B) that requires that management be viewed as experimental.
 
->     “(g) __Termination of Advisory Committee.—__ 
+>     “(g)  __Termination of Advisory Committee__  __.—__ 
 
 >     The Advisory Committee shall terminate on December 31, 2011.
 
 > “SEC. 9. __REPORTS.__ 
 
->     “(a) __Administrator.—__ 
+>     “(a)  __Administrator__  __.—__ 
 
 >     The Administrator shall publish and make available to the public on the Internet and in paper form—
 
@@ -517,7 +517,7 @@
 
 >     “(b) __Advisory Committee.—__ 
 
->         “(1) __Report.—__ 
+>         “(1)  __Report__  __.—__ 
 
 >         For each of fiscal years 2007 through 2011, the Advisory Committee shall submit to the Administrator and the decisionmaking body of the Long Island Sound Study Management Conference established under section 320 of the Federal Water Pollution Control Act ([33 U.S.C. 1330][/us/usc/t33/s1330]), an annual report that contains—
 
@@ -531,7 +531,7 @@
 
 >         “(2) __Recommendation for grants.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Advisory Committee shall recommend that the Administrator award grants to qualified applicants to help to secure and improve the open space, public access, or ecological values of stewardship sites, through—
 
@@ -541,13 +541,13 @@
 
 >                 “(iii) entering into any other binding legal arrangement that ensures that the values of a stewardship site are sustained, including entering into an arrangement with a land manager or property owner to develop or implement a management plan that is necessary for the conservation of natural resources.
 
->             “(B) __Equitable distribution of funds.—__ 
+>             “(B)  __Equitable distribution of funds__  __.—__ 
 
 >             The Advisory Committee shall exert due diligence to ensure that its recommendations result in an equitable distribution of funds between the States.
 
 > “SEC. 10. __PRIVATE PROPERTY PROTECTION; NO REGULATORY AUTHORITY.__ 
 
->     “(a) __Access to Private Property.—__ 
+>     “(a)  __Access to Private Property__  __.—__ 
 
 >     Nothing in this Act—
 
@@ -555,39 +555,39 @@
 
 >         “(2) modifies the application of any provision of Federal, State, or local law with regard to public access to or use of private property, except as entered into by voluntary agreement of the owner or custodian of the property.
 
->     “(b) __Liability.—__ 
+>     “(b)  __Liability__  __.—__ 
 
 >     Establishment of the Region does not create any liability, or have any effect on any liability under any other law, of any private property owner with respect to any person injured on the private property.
 
->     “(c) __Recognition of Authority to Control Land Use.—__ 
+>     “(c)  __Recognition of Authority to Control Land Use__  __.—__ 
 
 >     Nothing in this Act modifies the authority of Federal, State, or local governments to regulate land use.
 
->     “(d) __Participation of Private Property Owners Not Required.—__ 
+>     “(d)  __Participation of Private Property Owners Not Required__  __.—__ 
 
 >     Nothing in this Act requires the owner of any private property located within the boundaries of the Region to participate in any land conservation, financial or technical assistance, or other programs established under this Act.
 
->     “(e) __Purchase of Land or Interest in Land From Willing Sellers Only.—__ 
+>     “(e)  __Purchase of Land or Interest in Land From Willing Sellers Only__  __.—__ 
 
 >     Funds appropriated to carry out this Act may be used to purchase land or interests in land only from willing sellers.
 
->     “(f) __Manner of Acquisition.—__ 
+>     “(f)  __Manner of Acquisition__  __.—__ 
 
 >     All acquisitions of land under this Act shall be made in a voluntary manner and shall not be the result of forced takings.
 
 >     “(g) __Effect of Establishment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The boundaries of the Region represent the area within which Federal funds appropriated for the purpose of this Act may be expended.
 
->         “(2) __Regulatory authority.—__ 
+>         “(2)  __Regulatory authority__  __.—__ 
 
 >         The establishment of the Region and the boundaries of the Region do not provide any regulatory authority not in existence immediately before the enactment of this Act \[Oct. 16, 2006\] on land use in the Region by any management entity, except for such property rights as may be purchased from or donated by the owner of the property (including public lands donated by a State or local government).
 
 > “SEC. 11. __AUTHORIZATION OF APPROPRIATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     There is authorized to be appropriated to the Administrator $25,000,000 for each of fiscal years 2007 through 2011 to carry out this Act, including for—
 
@@ -599,15 +599,15 @@
 
 >         “(4) administrative expenses of the Advisory Committee and the Administrator.
 
->     “(b) __Use of Funds.—__ 
+>     “(b)  __Use of Funds__  __.—__ 
 
 >     Amounts made available to the Administrator under this section each fiscal year shall be used by the Administrator after reviewing the recommendations included in the annual reports of the Advisory Committee under section 9.
 
->     “(c) __Authorization of Gifts, Devises, and Bequests for System.—__ 
+>     “(c)  __Authorization of Gifts, Devises, and Bequests for System__  __.—__ 
 
 >     In furtherance of the purpose of this Act, the Administrator may accept and use any gift, devise, or bequest of real or personal property, proceeds therefrom, or interests therein, to carry out this Act. Such acceptance may be subject to the terms of any restrictive or affirmative covenant, or condition of servitude, if such terms are considered by the Administrator to be in accordance with law and compatible with the purpose for which acceptance is sought.
 
->     “(d) __Limitation on Administrative Costs.—__ 
+>     “(d)  __Limitation on Administrative Costs__  __.—__ 
 
 >     Of the amount available each fiscal year to carry out this Act, not more than 8 percent may be used for administrative costs.”
 

@@ -41,7 +41,7 @@ Section 7 of act Aug. 4, 1954, which amended this section by repealing provision
 
 [Pub. L. 104–303, title II, § 202(h)][/us/pl/104/303/s202/h], Oct. 12, 1996, [110 Stat. 3676][/us/stat/110/3676], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary shall enter into an agreement with the National Academy of Sciences to conduct a study of the Corps of Engineers’ use of risk-based analysis for the evaluation of hydrology, hydraulics, and economics in flood damage reduction studies. The study shall include—
 
@@ -55,15 +55,15 @@ Section 7 of act Aug. 4, 1954, which amended this section by repealing provision
 
 >             “(ii) the impact of using risk-based analysis as it relates to current policy and procedures of the Corps of Engineers.
 
->     “(2) __Report.—__ 
+>     “(2)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Oct. 12, 1996\], the Secretary shall submit to Congress a report on the results of the study under paragraph (1), as well as such recommendations as the Secretary considers appropriate.
 
->     “(3) __Limitation on use of methodology.—__ 
+>     “(3)  __Limitation on use of methodology__  __.—__ 
 
 >     During the period beginning on the date of the enactment of this Act \[Oct. 12, 1996\] and ending 18 months after that date, if requested by a non-Federal interest, the Secretary shall refrain from using any risk-based technique required under the studies described in paragraph (1) for the evaluation and design of a project.
 
->     “(4) __Authorization of appropriations.—__ 
+>     “(4)  __Authorization of appropriations__  __.—__ 
 
 >     There is authorized to be appropriated $250,000 to carry out this subsection.”
 

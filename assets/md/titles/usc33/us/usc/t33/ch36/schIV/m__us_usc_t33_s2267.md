@@ -37,29 +37,29 @@
 
 [Pub. L. 102–580, title III, § 326][/us/pl/102/580/s326], Oct. 31, 1992, [106 Stat. 4850][/us/stat/106/4850], as amended by [Pub. L. 104–303, title IV, § 433][/us/pl/104/303/s433], Oct. 12, 1996, [110 Stat. 3746][/us/stat/110/3746], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     As a continuation of the study pursuant to section 728 of the Water Resources Development Act of 1986 \[[33 U.S.C. 2267][/us/usc/t33/s2267]\], the Secretary shall study a hydro-environmental monitoring and information system in the New York Bight and New York Harbor and tributaries to the head of tide, in the form of a system using computerized buoys and radio telemetry that allows for the continual monitoring (at strategically located sites throughout the New York Bight and Harbor region) of the following: wind, wave, current, salinity, and thermal gradients and sea chemistry, in order to measure the effect of changes due to air and water pollution, including changes due to continued dumping in the Bight. This effort will include the study of a verified, nested, high-resolution Harbor/Bight Apex numerical model, and supportive monitoring and information systems.
 
->     “(b) __Hydraulic Model.—__ 
+>     “(b)  __Hydraulic Model__  __.—__ 
 
 >     In addition, the Secretary shall study a proper physical hydraulic model of the New York Bight and the tying in of such model to the existing inshore physical hydraulic model of the Port of New York and New Jersey operated by the United States Army Corps of Engineers.
 
->     “(c) __Purpose.—__ 
+>     “(c)  __Purpose__  __.—__ 
 
 >     This New York Bight and Harbor effort will address the engineering, environmental, and social impacts of natural and man-made changes to the New York Bight, including water quality parameters such as contaminant and sediment transport effects, and nutrient eutrophication.
 
->     “(d) __Coordination With EPA; Reports.—__ 
+>     “(d)  __Coordination With EPA; Reports__  __.—__ 
 
 >     The Secretary shall coordinate fully with the Administrator of the Environmental Protection Agency in carrying out the study described in the section and shall report any findings and recommendations to Congress. The Secretary and the Administrator shall also consider the views of other appropriate Federal, State, and local agencies, academic institutions, and members of the public who are concerned about water and sediment quality in the New York Bight and Harbor region.
 
 >     “(e) __Remediation Techniques.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         To test and verify contaminant and sediment tracking ability of the models, and to reduce the problems associated with the dredging and disposal of dioxin contaminated sediments in the region, a study shall be performed to identify appropriate remediation techniques (including isolation and treatment) for mitigating dioxin contaminated sediments at their sources. The study and report are not intended to encumber civil works projects under development or scheduled to be maintained. Work on these projects shall proceed along the present schedule.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 1 year after the date of the enactment of this Act \[Oct. 31, 1992\], the Secretary shall submit to the Committee on Environment and Public Works of the Senate, the Committee on Public Works and Transportation of the House of Representatives, and to the State of New Jersey a report on—
 
@@ -67,7 +67,7 @@
 
 >             “(B) the effectiveness and costs of all reasonable remediation measures, including recommendations as to a plan for implementation of the most time and cost-effective measures.
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >     There is authorized to be appropriated $3,000,000 for fiscal years beginning after September 30, 1992. Such sums shall remain available until expended.”
 

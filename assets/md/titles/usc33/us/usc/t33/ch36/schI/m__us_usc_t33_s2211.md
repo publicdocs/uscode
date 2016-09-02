@@ -117,7 +117,7 @@
 
 [Pub. L. 106–53, title IV, § 401][/us/pl/106/53/s401], Aug. 17, 1999, [113 Stat. 322][/us/stat/113/322], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall undertake a study of non-Federal cost-sharing requirements for the construction and operation and maintenance of deep draft harbor projects to determine whether—
 
@@ -127,11 +127,11 @@
 
 >     “(b) __Recommendations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than May 30, 2001, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives any recommendations that the Secretary may have in light of the study under subsection (a).
 
->         “(2) __Considerations.—__ 
+>         “(2)  __Considerations__  __.—__ 
 
 >         In making recommendations, the Secretary shall consider—
 

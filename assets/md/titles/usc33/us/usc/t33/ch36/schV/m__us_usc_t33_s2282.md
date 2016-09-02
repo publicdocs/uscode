@@ -95,33 +95,33 @@
 
 [Pub. L. 106–541, title II, § 216][/us/pl/106/541/s216], Dec. 11, 2000, [114 Stat. 2595][/us/stat/114/2595], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section, the following definitions apply:
 
->         “(1) __Academy.—__ 
+>         “(1)  __Academy__  __.—__ 
 
 >         The term ‘Academy’ means the National Academy of Sciences.
 
->         “(2) __Method.—__ 
+>         “(2)  __Method__  __.—__ 
 
 >         The term ‘method’ means a method, model, assumption, or other pertinent planning tool used in conducting an economic or environmental analysis of a water resources project, including the formulation of a feasibility report.
 
->         “(3) __Feasibility report.—__ 
+>         “(3)  __Feasibility report__  __.—__ 
 
 >         The term ‘feasibility report’ means each feasibility report, and each associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project.
 
->         “(4) __Water resources project.—__ 
+>         “(4)  __Water resources project__  __.—__ 
 
 >         The term ‘water resources project’ means a project for navigation, a project for flood control, a project for hurricane and storm damage reduction, a project for emergency streambank and shore protection, a project for ecosystem restoration and protection, and a water resources project of any other type carried out by the Corps of Engineers.
 
 >     “(b) __Independent Peer Review of Projects.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary \[of the Army\] shall contract with the Academy to study, and make recommendations relating to, the independent peer review of feasibility reports.
 
->         “(2) __Study elements.—__ 
+>         “(2)  __Study elements__  __.—__ 
 
 >         In carrying out a contract under paragraph (1), the Academy shall study the practicality and efficacy of the independent peer review of the feasibility reports, including—
 
@@ -129,7 +129,7 @@
 
 >             “(B) objective criteria that may be used to determine the most effective application of independent peer review to feasibility reports for each type of water resources project.
 
->         “(3) __Academy report.—__ 
+>         “(3)  __Academy report__  __.—__ 
 
 >         Not later than 1 year after the date of a contract under paragraph (1), the Academy shall submit to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Environment and Public Works of the Senate a report that includes—
 
@@ -137,13 +137,13 @@
 
 >             “(B) in light of the results of the study, specific recommendations, if any, on a program for implementing independent peer review of feasibility reports.
 
->         “(4) __Authorization of appropriations.—__ 
+>         “(4)  __Authorization of appropriations__  __.—__ 
 
 >         There is authorized to be appropriated to carry out this subsection $1,000,000, to remain available until expended.
 
 >     “(c) __Independent Peer Review of Methods for Project Analysis.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary \[of the Army\] shall contract with the Academy to conduct a study that includes—
 
@@ -155,7 +155,7 @@
 
 >             “(D) a comparative evaluation of the basis and validity of state-of-the-art methods identified under subparagraph (A) and the methods identified under subparagraphs (B) and (C).
 
->         “(2) __Academy report.—__ 
+>         “(2)  __Academy report__  __.—__ 
 
 >         Not later than 1 year after the date of a contract under paragraph (1), the Academy shall transmit to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Environment and Public Works of the Senate a report that includes—
 
@@ -163,7 +163,7 @@
 
 >             “(B) in light of the results of the study, specific recommendations for modifying any of the methods currently used by the Secretary for conducting economic and environmental analyses of water resources projects.
 
->         “(3) __Authorization of appropriations.—__ 
+>         “(3)  __Authorization of appropriations__  __.—__ 
 
 >         There is authorized to be appropriated to carry out this subsection $2,000,000. Such sums shall remain available until expended.”
 

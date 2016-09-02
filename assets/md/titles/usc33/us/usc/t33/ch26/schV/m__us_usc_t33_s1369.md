@@ -27,7 +27,7 @@
 
         (2) Action of the Administrator with respect to which review could have been obtained under paragraph (1) of this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement.
 
-        (3) __Award of fees.—__ 
+        (3)  __Award of fees__  __.—__ 
 
         In any judicial proceeding under this subsection, the court may award costs of litigation (including reasonable attorney and expert witness fees) to any prevailing or substantially prevailing party whenever it determines that such award is appropriate.
 

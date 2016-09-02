@@ -89,11 +89,11 @@
 
 [Pub. L. 106–53, title V, § 540][/us/pl/106/53/s540], Aug. 17, 1999, [113 Stat. 350][/us/stat/113/350], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary shall conduct a study to analyze the economic and environmental benefits and costs of potential sediment management and contaminant reduction measures.
 
->     “(b) __Cooperative Agreements.—__ 
+>     “(b)  __Cooperative Agreements__  __.—__ 
 
 >     In conducting the study, the Secretary may enter into cooperative agreements with non-Federal interests to investigate, develop, and support measures for sediment management and reduction of sources of contaminant that affect navigation in the Port of New York-New Jersey and the environmental conditions of the New York-New Jersey Harbor estuary.”
 

@@ -273,15 +273,15 @@
 
 [Pub. L. 104–303, title II, § 202(b)(2)][/us/pl/104/303/s202/b/2], Oct. 12, 1996, [110 Stat. 3674][/us/stat/110/3674], provided that:
 
->     “(A) __Generally.—__ 
+>     “(A)  __Generally__  __.—__ 
 
 >     Subject to subparagraph (C), the amendment made by paragraph (1) \[amending this section\] shall apply to any project, or separable element thereof, with respect to which the Secretary and the non-Federal interest enter into a project cooperation agreement after December 31, 1997.
 
->     “(B) __Amendment of cooperation agreement.—__ 
+>     “(B)  __Amendment of cooperation agreement__  __.—__ 
 
 >     If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendment made by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment.
 
->     “(C) __Non-federal option.—__ 
+>     “(C)  __Non-federal option__  __.—__ 
 
 >     If requested by the non-Federal interest, the Secretary shall apply the criteria and procedures established pursuant to section 103(m) of the Water Resources Development Act of 1986 \[subsec. (m) of this section\] as in effect on the day before the date of the enactment of this Act for projects that are authorized before the date of the enactment of this Act.”
 

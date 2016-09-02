@@ -59,7 +59,7 @@
 
     (21) __Coastal recreation waters.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “coastal recreation waters” means—
 
@@ -67,7 +67,7 @@
 
             (ii) marine coastal waters (including coastal estuaries) that are designated under [section 1313(c) of this title][/us/usc/t33/s1313/c] by a State for use for swimming, bathing, surfing, or similar water contact activities.
 
-        (B) __Exclusions.—__ 
+        (B)  __Exclusions__  __.—__ 
 
         The term “coastal recreation waters” does not include—
 
@@ -77,11 +77,11 @@
 
     (22) __Floatable material.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “floatable material” means any foreign matter that may float or remain suspended in the water column.
 
-        (B) __Inclusions.—__ 
+        (B)  __Inclusions__  __.—__ 
 
         The term “floatable material” includes—
 
@@ -95,17 +95,17 @@
 
             (v) paper products.
 
-    (23) __Pathogen indicator.—__ 
+    (23)  __Pathogen indicator__  __.—__ 
 
     The term “pathogen indicator” means a substance that indicates the potential for human infectious disease.
 
-    (24) __Oil and gas exploration and production.—__ 
+    (24)  __Oil and gas exploration and production__  __.—__ 
 
     The term “oil and gas exploration, production, processing, or treatment operations or transmission facilities” means all field activities or operations associated with exploration, production, processing, or treatment operations, or transmission facilities, including activities necessary to prepare a site for drilling and for the movement and placement of drilling equipment, whether or not such field activities or operations may be considered to be construction activities.
 
     (25) __Recreational vessel.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “recreational vessel” means any vessel that is—
 
@@ -113,7 +113,7 @@
 
             (ii) leased, rented, or chartered to a person for the pleasure of that person.
 
-        (B) __Exclusion.—__ 
+        (B)  __Exclusion__  __.—__ 
 
         The term “recreational vessel” does not include a vessel that is subject to Coast Guard inspection and that—
 

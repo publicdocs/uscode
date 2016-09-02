@@ -21,11 +21,11 @@
 
         (2) __Agreement on eligible costs.—__ 
 
-            (A) __Limitation on modifications.—__ 
+            (A)  __Limitation on modifications__  __.—__ 
 
             Before taking final action on any plans, specifications, and estimates submitted under this subsection after the 60th day following February 4, 1987, the Administrator shall enter into a written agreement with the applicant which establishes and specifies which items of the proposed project are eligible for Federal payments under this section. The Administrator may not later modify such eligibility determinations unless they are found to have been made in violation of applicable Federal statutes and regulations.
 
-            (B) __Limitation on effect.—__ 
+            (B)  __Limitation on effect__  __.—__ 
 
             Eligibility determinations under this paragraph shall not preclude the Administrator from auditing a project pursuant to [section 1361 of this title][/us/usc/t33/s1361], or other authority, or from withholding or recovering Federal funds for costs which are found to be unreasonable, unsupported by adequate documentation, or otherwise unallowable under applicable Federal cost principles, or which are incurred on a project which fails to meet the design specifications or effluent limitations contained in the grant agreement and permit pursuant to [section 1342 of this title][/us/usc/t33/s1342] for such project.
 

@@ -173,11 +173,11 @@
 
 [Pub. L. 109–241, title VI, § 603(c)][/us/pl/109/241/s603/c], July 11, 2006, [120 Stat. 554][/us/stat/120/554], provided that:
 
->     “(1) __Initial report.—__ 
+>     “(1)  __Initial report__  __.—__ 
 
 >     Not later than 45 days after the date of enactment of this Act \[July 11, 2006\], the Secretary of the department in which the Coast Guard is operating shall submit a report on liability limits described in paragraph (2) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
->     “(2) __Contents.—__ 
+>     “(2)  __Contents__  __.—__ 
 
 >     The report shall include, at a minimum, the following:
 
@@ -187,7 +187,7 @@
 
 >         “(C) Based on analyses under this paragraph and taking into account other factors impacting the Fund, recommendations on whether the liability limits need to be adjusted in order to prevent the principal of the Fund from declining to levels that are likely to be insufficient to cover expected claims.
 
->     “(3) __Annual updates.—__ 
+>     “(3)  __Annual updates__  __.—__ 
 
 >     The Secretary shall provide an update of the report to the Committees referred to in paragraph (1) on an annual basis.”
 

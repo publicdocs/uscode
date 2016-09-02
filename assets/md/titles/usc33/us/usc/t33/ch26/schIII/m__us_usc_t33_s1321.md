@@ -145,7 +145,7 @@
 
         (6) __Administrative penalties.—__ 
 
-            (A) __Violations.—__ 
+            (A)  __Violations__  __.—__ 
 
             Any owner, operator, or person in charge of any vessel, onshore facility, or offshore facility—
 
@@ -157,33 +157,33 @@
 
             (B) __Classes of penalties.—__ 
 
-                (i) __Class i.—__ 
+                (i)  __Class i__  __.—__ 
 
                 The amount of a class I civil penalty under subparagraph (A) may not exceed $10,000 per violation, except that the maximum amount of any class I civil penalty under this subparagraph shall not exceed $25,000. Before assessing a civil penalty under this clause, the Administrator or Secretary, as the case may be, shall give to the person to be assessed such penalty written notice of the Administrator’s or Secretary’s proposal to assess the penalty and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the proposed penalty. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
 
-                (ii) __Class ii.—__ 
+                (ii)  __Class ii__  __.—__ 
 
                 The amount of a class II civil penalty under subparagraph (A) may not exceed $10,000 per day for each day during which the violation continues; except that the maximum amount of any class II civil penalty under this subparagraph shall not exceed $125,000. Except as otherwise provided in this subsection, a class II civil penalty shall be assessed and collected in the same manner, and subject to the same provisions, as in the case of civil penalties assessed and collected after notice and opportunity for a hearing on the record in accordance with [section 554 of title 5][/us/usc/t5/s554]. The Administrator and Secretary may issue rules for discovery procedures for hearings under this paragraph.
 
             (C) __Rights of interested persons.—__ 
 
-                (i) __Public notice.—__ 
+                (i)  __Public notice__  __.—__ 
 
                 Before issuing an order assessing a class II civil penalty under this paragraph the Administrator or Secretary, as the case may be, shall provide public notice of and reasonable opportunity to comment on the proposed issuance of such order.
 
-                (ii) __Presentation of evidence.—__ 
+                (ii)  __Presentation of evidence__  __.—__ 
 
                 Any person who comments on a proposed assessment of a class II civil penalty under this paragraph shall be given notice of any hearing held under this paragraph and of the order assessing such penalty. In any hearing held under this paragraph, such person shall have a reasonable opportunity to be heard and to present evidence.
 
-                (iii) __Rights of interested persons to a hearing.—__ 
+                (iii)  __Rights of interested persons to a hearing__  __.—__ 
 
                 If no hearing is held under subparagraph (B) before issuance of an order assessing a class II civil penalty under this paragraph, any person who commented on the proposed assessment may petition, within 30 days after the issuance of such order, the Administrator or Secretary, as the case may be, to set aside such order and to provide a hearing on the penalty. If the evidence presented by the petitioner in support of the petition is material and was not considered in the issuance of the order, the Administrator or Secretary shall immediately set aside such order and provide a hearing in accordance with subparagraph (B)(ii). If the Administrator or Secretary denies a hearing under this clause, the Administrator or Secretary shall provide to the petitioner, and publish in the Federal Register, notice of and the reasons for such denial.
 
-            (D) __Finality of order.—__ 
+            (D)  __Finality of order__  __.—__ 
 
             An order assessing a class II civil penalty under this paragraph shall become final 30 days after its issuance unless a petition for judicial review is filed under subparagraph (G) or a hearing is requested under subparagraph (C)(iii). If such a hearing is denied, such order shall become final 30 days after such denial.
 
-            (E) __Effect of order.—__ 
+            (E)  __Effect of order__  __.—__ 
 
             Action taken by the Administrator or Secretary, as the case may be, under this paragraph shall not affect or limit the Administrator’s or Secretary’s authority to enforce any provision of this chapter; except that any violation—
 
@@ -193,11 +193,11 @@
 
                 shall not be the subject of a civil penalty action under section 1319(d), 1319(g), or 1365 of this title or under paragraph (7).
 
-            (F) __Effect of action on compliance.—__ 
+            (F)  __Effect of action on compliance__  __.—__ 
 
             No action by the Administrator or Secretary under this paragraph shall affect any person’s obligation to comply with any section of this chapter.
 
-            (G) __Judicial review.—__ 
+            (G)  __Judicial review__  __.—__ 
 
             Any person against whom a civil penalty is assessed under this paragraph or who commented on the proposed assessment of such penalty in accordance with subparagraph (C) may obtain review of such assessment—
 
@@ -207,7 +207,7 @@
 
                 by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or Secretary, as the case may be, and the Attorney General. The Administrator or Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator’s or Secretary’s assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator’s or Secretary’s assessment of the penalty constitutes an abuse of discretion.
 
-            (H) __Collection.—__ 
+            (H)  __Collection__  __.—__ 
 
             If any person fails to pay an assessment of a civil penalty—
 
@@ -217,17 +217,17 @@
 
                 the Administrator or Secretary shall request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus interest at currently prevailing rates from the date of the final order or the date of the final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review. Any person who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this subparagraph shall be required to pay, in addition to such amount and interest, attorneys fees and costs for collection proceedings and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person’s penalties and nonpayment penalties which are unpaid as of the beginning of such quarter.
 
-            (I) __Subpoenas.—__ 
+            (I)  __Subpoenas__  __.—__ 
 
             The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this paragraph. In case of contumacy or refusal to obey a subpoena issued pursuant to this subparagraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
         (7) __Civil penalty action.—__ 
 
-            (A) __Discharge, generally.—__ 
+            (A)  __Discharge, generally__  __.—__ 
 
             Any person who is the owner, operator, or person in charge of any vessel, onshore facility, or offshore facility from which oil or a hazardous substance is discharged in violation of paragraph (3), shall be subject to a civil penalty in an amount up to $25,000 per day of violation or an amount up to $1,000 per barrel of oil or unit of reportable quantity of hazardous substances discharged.
 
-            (B) __Failure to remove or comply.—__ 
+            (B)  __Failure to remove or comply__  __.—__ 
 
             Any person described in subparagraph (A) who, without sufficient cause—
 
@@ -237,39 +237,39 @@
 
                 shall be subject to a civil penalty in an amount up to $25,000 per day of violation or an amount up to 3 times the costs incurred by the Oil Spill Liability Trust Fund as a result of such failure.
 
-            (C) __Failure to comply with regulation.—__ 
+            (C)  __Failure to comply with regulation__  __.—__ 
 
             Any person who fails or refuses to comply with any regulation issued under subsection (j) of this section shall be subject to a civil penalty in an amount up to $25,000 per day of violation.
 
-            (D) __Gross negligence.—__ 
+            (D)  __Gross negligence__  __.—__ 
 
             In any case in which a violation of paragraph (3) was the result of gross negligence or willful misconduct of a person described in subparagraph (A), the person shall be subject to a civil penalty of not less than $100,000, and not more than $3,000 per barrel of oil or unit of reportable quantity of hazardous substance discharged.
 
-            (E) __Jurisdiction.—__ 
+            (E)  __Jurisdiction__  __.—__ 
 
             An action to impose a civil penalty under this paragraph may be brought in the district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to assess such penalty.
 
-            (F) __Limitation.—__ 
+            (F)  __Limitation__  __.—__ 
 
             A person is not liable for a civil penalty under this paragraph for a discharge if the person has been assessed a civil penalty under paragraph (6) for the discharge.
 
-        (8) __Determination of amount.—__ 
+        (8)  __Determination of amount__  __.—__ 
 
         In determining the amount of a civil penalty under paragraphs (6) and (7), the Administrator, Secretary, or the court, as the case may be, shall consider the seriousness of the violation or violations, the economic benefit to the violator, if any, resulting from the violation, the degree of culpability involved, any other penalty for the same incident, any history of prior violations, the nature, extent, and degree of success of any efforts of the violator to minimize or mitigate the effects of the discharge, the economic impact of the penalty on the violator, and any other matters as justice may require.
 
-        (9) __Mitigation of damage.—__ 
+        (9)  __Mitigation of damage__  __.—__ 
 
         In addition to establishing a penalty for the discharge of oil or a hazardous substance, the Administrator or the Secretary of the department in which the Coast Guard is operating may act to mitigate the damage to the public health or welfare caused by such discharge. The cost of such mitigation shall be deemed a cost incurred under subsection (c) of this section for the removal of such substance by the United States Government.
 
-        (10) __Recovery of removal costs.—__ 
+        (10)  __Recovery of removal costs__  __.—__ 
 
         Any costs of removal incurred in connection with a discharge excluded by subsection (a)(2)(C) of this section shall be recoverable from the owner or operator of the source of the discharge in an action brought under [section 1319(b) of this title][/us/usc/t33/s1319/b].
 
-        (11) __Limitation.—__ 
+        (11)  __Limitation__  __.—__ 
 
         Civil penalties shall not be assessed under both this section and [section 1319 of this title][/us/usc/t33/s1319] for the same discharge.
 
-        (12) __Withholding clearance.—__ 
+        (12)  __Withholding clearance__  __.—__ 
 
         If any owner, operator, or person in charge of a vessel is liable for a civil penalty under this subsection, or if reasonable cause exists to believe that the owner, operator, or person in charge may be subject to a civil penalty under this subsection, the Secretary of the Treasury, upon the request of the Secretary of the department in which the Coast Guard is operating or the Administrator, shall with respect to such vessel refuse or revoke—
 
@@ -469,7 +469,7 @@
 
         (1) __In general__ 
 
-            Consistent with the National Contingency Plan required by subsection (c)(2) of this section, as soon as practicable after October 18, 1972, and from time to time thereafter, the President shall issue regulations consistent with maritime safety and with marine and navigation laws (A) establishing methods and procedures for removal of discharged oil and hazardous substances, (B) establishing criteria for the development and implementation of local and regional oil and hazardous substance removal contingency plans, (C) establishing procedures, methods, and equipment and other requirements for equipment to prevent discharges of oil and hazardous substances from vessels and from onshore facilities and offshore facilities, and to contain such discharges, and (D) governing the inspection of vessels carrying cargoes of oil and hazardous substances and the inspection of such cargoes in order to reduce the likelihood of discharges of oil from vessels in violation of this section.
+            Consistent with the National Contingency Plan required by subsection (c)(2) 2 of this section, as soon as practicable after October 18, 1972, and from time to time thereafter, the President shall issue regulations consistent with maritime safety and with marine and navigation laws (A) establishing methods and procedures for removal of discharged oil and hazardous substances, (B) establishing criteria for the development and implementation of local and regional oil and hazardous substance removal contingency plans, (C) establishing procedures, methods, and equipment and other requirements for equipment to prevent discharges of oil and hazardous substances from vessels and from onshore facilities and offshore facilities, and to contain such discharges, and (D) governing the inspection of vessels carrying cargoes of oil and hazardous substances and the inspection of such cargoes in order to reduce the likelihood of discharges of oil from vessels in violation of this section.
 
         (2) __National Response Unit__ 
 
@@ -1321,6 +1321,8 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
     The Oil Pollution Act of 1990, referred to in subsecs. (c)(5)(B), (d)(2)(H), and (j)(5)(H), is [Pub. L. 101–380][/us/pl/101/380], Aug. 18, 1990, [104 Stat. 484][/us/stat/104/484], which is classified principally to chapter 40 (§ 2701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 2701 et seq.) of chapter 40 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title][/us/usc/t33/s2701] and Tables.
 
+    Subsection (c)(2) of this section, referred to in subsec. (j)(1), was generally amended by [Pub. L. 101–380, title IV, § 4201(a)][/us/pl/101/380/s4201/a], Aug. 18, 1990, [104 Stat. 523][/us/stat/104/523], and no longer contains provisions establishing a National Contingency Plan. However, such provisions are contained in subsec. (d) of this section.
+
     Par. (3) of [section 1901(a) of this title][/us/usc/t33/s1901/a], referred to in subsec. (j)(5)(B), was redesignated par. (4) by [Pub. L. 110–280, § 3(1)][/us/pl/110/280/s3/1], July 21, 2008, [122 Stat. 2611][/us/stat/122/2611].
 
     The Federal Advisory Committee Act, referred to in subsec. (t)(2)(C)(viii), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -1587,15 +1589,15 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 > “SEC. 1602. __GULF COAST RESTORATION TRUST FUND.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established in the Treasury of the United States a trust fund to be known as the ‘Gulf Coast Restoration Trust Fund’ (referred to in this section as the ‘Trust Fund’), consisting of such amounts as are deposited in the Trust Fund under this Act \[probably means this subtitle\] or any other provision of law.
 
->     “(b) __Transfers.—__ 
+>     “(b)  __Transfers__  __.—__ 
 
 >     The Secretary of the Treasury shall deposit in the Trust Fund an amount equal to 80 percent of all administrative and civil penalties paid by responsible parties after the date of enactment of this Act \[July 6, 2012\] in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon pursuant to a court order, negotiated settlement, or other instrument in accordance with section 311 of the Federal Water Pollution Control Act ([33 U.S.C. 1321][/us/usc/t33/s1321]).
 
->     “(c) __Expenditures.—__ 
+>     “(c)  __Expenditures__  __.—__ 
 
 >     Amounts in the Trust Fund, including interest earned on advances to the Trust Fund and proceeds from investment under subsection (d), shall—
 
@@ -1603,11 +1605,11 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 >         “(2) remain available until expended, without fiscal year limitation.
 
->     “(d) __Investment.—__ 
+>     “(d)  __Investment__  __.—__ 
 
 >     Amounts in the Trust Fund shall be invested in accordance with [section 9702 of title 31][/us/usc/t31/s9702], United States Code, and any interest on, and proceeds from, any such investment shall be available for expenditure in accordance with this subtitle and the amendments made by this subtitle.
 
->     “(e) __Administration.—__ 
+>     “(e)  __Administration__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act, after providing notice and an opportunity for public comment, the Secretary of the Treasury, in consultation with the Secretary of the Interior and the Secretary of Commerce, shall establish such procedures as the Secretary determines to be necessary to deposit amounts in, and expend amounts from, the Trust Fund pursuant to this subtitle, including—
 
@@ -1617,7 +1619,7 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 >         “(3) procedures for identification and allocation of funds available to the Secretary under other provisions of law that may be necessary to pay the administrative expenses directly attributable to the management of the Trust Fund.
 
->     “(f) __Sunset.—__ 
+>     “(f)  __Sunset__  __.—__ 
 
 >     The authority for the Trust Fund shall terminate on the date all funds in the Trust Fund have been expended.
 
@@ -1627,33 +1629,33 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 > “SEC. 1604. __GULF COAST ECOSYSTEM RESTORATION SCIENCE, OBSERVATION, MONITORING, AND TECHNOLOGY PROGRAM.__ 
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Administrator.—__ 
+>         “(1)  __Administrator__  __.—__ 
 
 >         The term ‘Administrator’ means the Administrator of the National Oceanic and Atmospheric Administration.
 
->         “(2) __Commission.—__ 
+>         “(2)  __Commission__  __.—__ 
 
 >         The term ‘Commission’ means the Gulf States Marine Fisheries Commission.
 
->         “(3) __Director.—__ 
+>         “(3)  __Director__  __.—__ 
 
 >         The term ‘Director’ means the Director of the United States Fish and Wildlife Service.
 
->         “(4) __Program.—__ 
+>         “(4)  __Program__  __.—__ 
 
 >         The term ‘program’ means the Gulf Coast Ecosystem Restoration Science, Observation, Monitoring, and Technology program established under this section.
 
 >     “(b) __Establishment of Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of enactment of this Act \[July 6, 2012\], the Administrator, in consultation with the Director, shall establish the Gulf Coast Ecosystem Restoration Science, Observation, Monitoring, and Technology program to carry out research, observation, and monitoring to support, to the maximum extent practicable, the long-term sustainability of the ecosystem, fish stocks, fish habitat, and the recreational, commercial, and charter fishing industry in the Gulf of Mexico.
 
->         “(2) __Expenditure of funds.—__ 
+>         “(2)  __Expenditure of funds__  __.—__ 
 
 >         For each fiscal year, amounts made available to carry out this subsection may be expended for, with respect to the Gulf of Mexico—
 
@@ -1673,19 +1675,19 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 >             “(E) cooperative research.
 
->         “(3) __Cooperation with the commission.—__ 
+>         “(3)  __Cooperation with the commission__  __.—__ 
 
 >         For each fiscal year, amounts made available to carry out this subsection may be transferred to the Commission to establish a fisheries monitoring and research program, with respect to the Gulf of Mexico.
 
->         “(4) __Consultation.—__ 
+>         “(4)  __Consultation__  __.—__ 
 
 >         The Administrator and the Director shall consult with the Regional Gulf of Mexico Fishery Management Council and the Commission in carrying out the program.
 
->     “(c) __Species Included.—__ 
+>     “(c)  __Species Included__  __.—__ 
 
 >     The research, monitoring, assessment, and programs eligible for amounts made available under the program shall include all marine, estuarine, aquaculture, and fish species in State and Federal waters of the Gulf of Mexico.
 
->     “(d) __Research Priorities.—__ 
+>     “(d)  __Research Priorities__  __.—__ 
 
 >     In distributing funding under this subsection, priority shall be given to integrated, long-term projects that—
 
@@ -1693,21 +1695,21 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 >         “(2) address current or anticipated marine ecosystem, fishery, or wildlife management information needs.
 
->     “(e) __Duplication.—__ 
+>     “(e)  __Duplication__  __.—__ 
 
 >     In carrying out this section, the Administrator, in consultation with the Director, shall seek to avoid duplication of other research and monitoring activities.
 
->     “(f) __Coordination With Other Programs.—__ 
+>     “(f)  __Coordination With Other Programs__  __.—__ 
 
 >     The Administrator, in consultation with the Director, shall develop a plan for the coordination of projects and activities between the program and other existing Federal and State science and technology programs in the States of Alabama, Florida, Louisiana, Mississippi, and Texas, as well as between the centers of excellence.
 
 >     “(g) __Limitation on Expenditures.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not more than 3 percent of funds provided in subsection (h) shall be used for administrative expenses.
 
->         “(2) __NOAA.—__ 
+>         “(2)  __NOAA__  __.—__ 
 
 >         The funds provided in subsection (h) may not be used—
 
@@ -1717,49 +1719,49 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 >             “(C) to develop or approve a new limited access privilege program (as that term is used in section 303A of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1853a][/us/usc/t16/s1853a])) for any fishery under the jurisdiction of the South Atlantic, Mid-Atlantic, New England, or Gulf of Mexico Fishery Management Councils.
 
->     “(h) __Funding.—__ 
+>     “(h)  __Funding__  __.—__ 
 
 >     Of the total amount made available for each fiscal year for the Gulf Coast Restoration Trust Fund established under section 1602, 2.5 percent shall be available to carry out the program.
 
->     “(i) __Sunset.—__ 
+>     “(i)  __Sunset__  __.—__ 
 
 >     The program shall cease operations when all funds in the Gulf Coast Restoration Trust Fund established under section 1602 have been expended.
 
 > “SEC. 1605. __CENTERS OF EXCELLENCE RESEARCH GRANTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Of the total amount made available for each fiscal year from the Gulf Coast Restoration Trust Fund established under section 1602, 2.5 percent shall be made available to the Gulf Coast States (as defined in section 311(a) of the Federal Water Pollution Control Act \[[33 U.S.C. 1321(a)][/us/usc/t33/s1321/a]\] (as added by section 1603 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012)), in equal shares, exclusively for grants in accordance with subsection (c) to establish centers of excellence to conduct research only on the Gulf Coast Region (as defined in section 311 of the Federal Water Pollution Control Act (33. \[sic\] U.S.C. 1321)).
 
->     “(b) __Approval by State Entity, Task Force, or Agency.—__ 
+>     “(b)  __Approval by State Entity, Task Force, or Agency__  __.—__ 
 
 >     The duties of a Gulf Coast State under this section shall be carried out by the applicable Gulf Coast State entities, task forces, or agencies listed in section 311(t)(1)(F) of the Federal Water Pollution Control Act (as added by section 1603 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012), and for the State of Florida, a consortium of public and private research institutions within the State, which shall include the Florida Department of Environmental Protection and the Florida Fish and Wildlife Conservation Commission, for that Gulf Coast State.
 
 >     “(c) __Grants.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         A Gulf Coast State shall use the amounts made available to carry out this section to award competitive grants to nongovernmental entities and consortia in the Gulf Coast region (including public and private institutions of higher education) for the establishment of centers of excellence as described in subsection (d).
 
->         “(2) __Application.—__ 
+>         “(2)  __Application__  __.—__ 
 
 >         To be eligible to receive a grant under this subsection, an entity or consortium described in paragraph (1) shall submit to a Gulf Coast State an application at such time, in such manner, and containing such information as the Gulf Coast State determines to be appropriate.
 
->         “(3) __Priority.—__ 
+>         “(3)  __Priority__  __.—__ 
 
 >         In awarding grants under this subsection, a Gulf Coast State shall give priority to entities and consortia that demonstrate the ability to establish the broadest cross-section of participants with interest and expertise in any discipline described in subsection (d) on which the proposal of the center of excellence will be focused.
 
 >         “(4) __Reporting.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Each Gulf Coast State shall provide annually to the Gulf Coast Ecosystem Restoration Council established under section 311(t)(2)(C) of the Federal Water Pollution Control Act \[[31 U.S.C. 1321(t)(2)(C)][/us/usc/t31/s1321/t/2/C]\] (as added by section 1603 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012) information regarding all grants, including the amount, discipline or disciplines, and recipients of the grants, and in the case of any grant awarded to a consortium, the membership of the consortium.
 
->             “(B) __Inclusion.—__ 
+>             “(B)  __Inclusion__  __.—__ 
 
 >             The Gulf Coast Ecosystem Restoration Council shall include the information received under subparagraph (A) in the annual report to Congress of the Council required under section 311(t)(2)(C)(vii)(VII) of the Federal Water Pollution Control Act (as added by section 1603 of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012).
 
->     “(d) __Disciplines.—__ 
+>     “(d)  __Disciplines__  __.—__ 
 
 >     Each center of excellence shall focus on science, technology, and monitoring in at least 1 of the following disciplines:
 
@@ -1775,11 +1777,11 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 > “SEC. 1606. __EFFECT.__ 
 
->     “(a) __Definition of Deepwater Horizon Oil Spill.—__ 
+>     “(a)  __Definition of Deepwater Horizon Oil Spill__  __.—__ 
 
 >     In this section, the term ‘Deepwater Horizon oil spill’ has the meaning given the term in section 311(a) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(a)][/us/usc/t33/s1321/a]).
 
->     “(b) __Effect and Application.—__ 
+>     “(b)  __Effect and Application__  __.—__ 
 
 >     Nothing in this subtitle or any amendment made by this subtitle—
 
@@ -1787,17 +1789,17 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 >         “(2) applies to any fine collected under section 311 of the Federal Water Pollution Control Act ([33 U.S.C. 1321][/us/usc/t33/s1321]) for any incident other than the Deepwater Horizon oil spill.
 
->     “(c) __Use of Funds.—__ 
+>     “(c)  __Use of Funds__  __.—__ 
 
 >     Funds made available under this subtitle may be used only for eligible activities specifically authorized by this subtitle and the amendments made by this subtitle.
 
 > “SEC. 1607. __RESTORATION AND PROTECTION ACTIVITY LIMITATIONS.__ 
 
->     “(a) __Willing Seller.—__ 
+>     “(a)  __Willing Seller__  __.—__ 
 
 >     Funds made available under this subtitle may only be used to acquire land or interests in land by purchase, exchange, or donation from a willing seller.
 
->     “(b) __Acquisition of Federal Land.—__ 
+>     “(b)  __Acquisition of Federal Land__  __.—__ 
 
 >     None of the funds made available under this subtitle may be used to acquire land in fee title by the Federal Government unless—
 
@@ -1815,11 +1817,11 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 >     “(a) __Status Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act \[Oct. 15, 2010\], the Secretary of the department in which the Coast Guard is operating shall provide a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure on the status of all Coast Guard rulemakings required or otherwise being developed (but for which no final rule has been issued as of the date of enactment of this Act) under section 311 of the Federal Water Pollution Control Act ([33 U.S.C. 1321][/us/usc/t33/s1321]).
 
->         “(2) __Information required.—__ 
+>         “(2)  __Information required__  __.—__ 
 
 >         The Secretary shall include in the report required in paragraph (1)—
 
@@ -1835,7 +1837,7 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 >             “(B) the date by which a final rule may reasonably be expected to be issued.
 
->     “(b) __Final Rules.—__ 
+>     “(b)  __Final Rules__  __.—__ 
 
 >     The Secretary shall issue a final rule in each pending rulemaking described in subsection (a) as soon as practicable, but in no event later than 18 months after the date of enactment of this Act.”
 
@@ -1849,11 +1851,11 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 [Pub. L. 107–295, title IV, § 440][/us/pl/107/295/s440], Nov. 25, 2002, [116 Stat. 2130][/us/stat/116/2130], provided that:
 
->     “(a) __Report to Congress.—__ 
+>     “(a)  __Report to Congress__  __.—__ 
 
 >     Not later than January 1, 2004, the Secretary of the department in which the Coast Guard is operating, jointly with the Secretary of Commerce and the Secretary of the Interior, and after consultation with the Administrator of the Environmental Protection Agency and the Attorney General, shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the immunity from criminal and civil penalties provided under existing law of a private responder (other than a responsible party) in the case of the incidental take of federally listed fish or wildlife that results from, but is not the purpose of, carrying out an otherwise lawful activity conducted by that responder during an oil spill removal activity where the responder was acting in a manner consistent with the National Contingency Plan or as otherwise directed by the Federal On-Scene Coordinator for the spill, and on the circumstances under which such penalties have been or could be imposed on a private responder. The report shall take into consideration the procedures under the Inter-Agency Memorandum for addressing incidental takes.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section—
 
@@ -1891,7 +1893,7 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 [Pub. L. 101–380, title IV, § 4202(b)][/us/pl/101/380/s4202/b], Aug. 18, 1990, [104 Stat. 531][/us/stat/104/531], provided that:
 
->     “(1) __Area committees and contingency plans.—__ 
+>     “(1)  __Area committees and contingency plans__  __.—__ 
 
 >         (A) Not later than 6 months after the date of the enactment of this Act \[Aug. 18, 1990\], the President shall designate the areas for which Area Committees are established under section 311(j)(4) of the Federal Water Pollution Control Act \[[33 U.S.C. 1321(j)(4)][/us/usc/t33/s1321/j/4]\], as amended by this Act. In designating such areas, the President shall ensure that all navigable waters, adjoining shorelines, and waters of the exclusive economic zone are subject to an Area Contingency Plan under that section.
 
@@ -1907,15 +1909,15 @@ The penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of sub
 
 >             “(iii) approve each plan that meets the requirements of that section.
 
->     “(2) __National response unit.—__ 
+>     “(2)  __National response unit__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall establish a National Response Unit in accordance with section 311(j)(2) of the Federal Water Pollution Control Act, as amended by this Act.
 
->     “(3) __Coast guard district response groups.—__ 
+>     “(3)  __Coast guard district response groups__  __.—__ 
 
 >     Not later than 1 year after the date of the enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall establish Coast Guard District Response Groups in accordance with section 311(j)(3) of the Federal Water Pollution Control Act, as amended by this Act.
 
->     “(4) __Tank vessel and facility response plans; transition provision; effective date of prohibition.—__ 
+>     “(4)  __Tank vessel and facility response plans; transition provision; effective date of prohibition__  __.—__ 
 
 >         (A) Not later than 24 months after the date of the enactment of this Act, the President shall issue regulations for tank vessel and facility response plans under section 311(j)(5) of the Federal Water Pollution Control Act, as amended by this Act.
 
@@ -2228,6 +2230,8 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/101/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380
 [/us/stat/104/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F484
 [/us/usc/t33/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2701
+[/us/pl/101/380/s4201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F380%2Fs4201%2Fa
+[/us/stat/104/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F523
 [/us/usc/t33/s1901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1901%2Fa
 [/us/pl/110/280/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F280%2Fs3%2F1
 [/us/stat/122/2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2611

@@ -71,11 +71,11 @@
 
 [Pub. L. 100–707, title II, § 202][/us/pl/100/707/s202], Nov. 23, 1988, [102 Stat. 4711][/us/stat/102/4711], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Director is authorized to provide assistance to Great Lakes States in the establishment of State programs to reduce and prevent damage attributable to high water levels in the Great Lakes.
 
->     “(b) __Grants.—__ 
+>     “(b)  __Grants__  __.—__ 
 
 >     Upon application by a Great Lakes State within 1 year after the date of enactment of this Act \[Nov. 23, 1988\], the Director may make a one-time grant to the State of not more than $250,000 for use by the State for—
 
@@ -87,15 +87,15 @@
 
 >         “(4) assisting local governments in developing and implementing plans for nonstructural reduction and prevention of damages attributable to high water levels in the Great Lakes.
 
->     “(c) __Technical Assistance.—__ 
+>     “(c)  __Technical Assistance__  __.—__ 
 
 >     The Director may provide technical assistance to Great Lakes States for carrying out any activity carried out with assistance under this section.
 
->     “(d) __State Matching.—__ 
+>     “(d)  __State Matching__  __.—__ 
 
 >     A State which receives a grant under this section shall match the grant with an amount of funds from non-Federal sources equal to 25 percent of the amount of the grant.
 
->     “(e) __Authorization.—__ 
+>     “(e)  __Authorization__  __.—__ 
 
 >     There are authorized to be appropriated for making grants under this section not more than $2,000,000 for fiscal years beginning after September 30, 1988.”
 
@@ -105,19 +105,19 @@
 
 > “For purposes of this title \[see Short Title note above\]—
 
->     “(1) __Director.—__ 
+>     “(1)  __Director__  __.—__ 
 
 >     The term ‘Director’ means the Administrator of the Federal Emergency Management Agency.
 
->     “(2) __High water levels.—__ 
+>     “(2)  __High water levels__  __.—__ 
 
 >     The term ‘high water levels’ means water levels above the long-term average of water levels from 1900.
 
->     “(3) __Local government.—__ 
+>     “(3)  __Local government__  __.—__ 
 
 >     The term ‘local government’ means a county, city, village, town, district, or other political subdivision of a Great Lakes State and an Indian tribe or authorized tribal organization.
 
->     “(4) __Great lakes state.—__ 
+>     “(4)  __Great lakes state__  __.—__ 
 
 >     The term ‘Great Lakes State’ means Minnesota, Wisconsin, Illinois, Ohio, Michigan, Indiana, Pennsylvania, and New York.”
 

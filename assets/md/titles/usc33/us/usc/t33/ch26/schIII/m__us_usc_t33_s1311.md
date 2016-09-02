@@ -189,27 +189,27 @@
 
         (2) Subject to paragraph (3) of this section, any application for a modification filed under subsection (g) of this section shall not operate to stay any requirement under this chapter, unless in the judgment of the Administrator such a stay or the modification sought will not result in the discharge of pollutants in quantities which may reasonably be anticipated to pose an unacceptable risk to human health or the environment because of bioaccumulation, persistency in the environment, acute toxicity, chronic toxicity (including carcinogenic­ity, mutagenicity, or teratogenicity), or synergistic propensities, and that there is a substantial likelihood that the applicant will succeed on the merits of such application. In the case of an application filed under subsection (g) of this section, the Administrator may condition any stay granted under this paragraph on requiring the filing of a bond or other appropriate security to assure timely compliance with the requirements from which a modification is sought.
 
-        (3) __Compliance requirements under subsection (g).—__ 
+        (3)  __Compliance requirements under subsection__  __(g).—__ 
 
-            (A) __Effect of filing.—__ 
+            (A)  __Effect of filing__  __.—__ 
 
             An application for a modification under subsection (g) of this section and a petition for listing of a pollutant as a pollutant for which modifications are authorized under such subsection shall not stay the requirement that the person seeking such modification or listing comply with effluent limitations under this chapter for all pollutants not the subject of such application or petition.
 
-            (B) __Effect of disapproval.—__ 
+            (B)  __Effect of disapproval__  __.—__ 
 
             Disapproval of an application for a modification under subsection (g) of this section shall not stay the requirement that the person seeking such modification comply with all applicable effluent limitations under this chapter.
 
-        (4) __Deadline for subsection (g) decision.—__ 
+        (4)  __Deadline for subsection__  __(g)__  __decision__  __.—__ 
 
         An application for a modification with respect to a pollutant filed under subsection (g) of this section must be approved or disapproved not later than 365 days after the date of such filing; except that in any case in which a petition for listing such pollutant as a pollutant for which modifications are authorized under such subsection is approved, such application must be approved or disapproved not later than 365 days after the date of approval of such petition.
 
         (5) __Extension of application deadline.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             In the 180-day period beginning on October 31, 1994, the city of San Diego, California, may apply for a modification pursuant to subsection (h) of this section of the requirements of subsection (b)(1)(B) of this section with respect to biological oxygen demand and total suspended solids in the effluent discharged into marine waters.
 
-            (B) __Application.—__ 
+            (B)  __Application__  __.—__ 
 
             An application under this paragraph shall include a commitment by the applicant to implement a waste water reclamation program that, at a minimum, will—
 
@@ -217,11 +217,11 @@
 
                 (ii) result in a reduction in the quantity of suspended solids discharged by the applicant into the marine environment during the period of the modification.
 
-            (C) __Additional conditions.—__ 
+            (C)  __Additional conditions__  __.—__ 
 
             The Administrator may not grant a modification pursuant to an application submitted under this paragraph unless the Administrator determines that such modification will result in removal of not less than 58 percent of the biological oxygen demand (on an annual average) and not less than 80 percent of total suspended solids (on a monthly average) in the discharge to which the application applies.
 
-            (D) __Preliminary decision deadline.—__ 
+            (D)  __Preliminary decision deadline__  __.—__ 
 
             The Administrator shall announce a preliminary decision on an application submitted under this paragraph not later than 1 year after the date the application is submitted.
 
@@ -437,11 +437,11 @@
 
 [Pub. L. 100–4, title III, § 302(e)][/us/pl/100/4/s302/e], Feb. 4, 1987, [101 Stat. 32][/us/stat/101/32], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to all requests for modifications under section 301(g) of the Federal Water Pollution Control Act \[[33 U.S.C. 1311(g)][/us/usc/t33/s1311/g]\] pending on the date of the enactment of this Act \[Feb. 4, 1987\] and shall not have the effect of extending the deadline established in section 301(j)(1)(B) of such Act.
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendments made by this section shall not affect any application for a modification with respect to the discharge of ammonia, chlorine, color, iron, or total phenols (4AAP) under section 301(g) of the Federal Water Pollution Control Act pending on the date of the enactment of this Act; except that the Administrator must approve or disapprove such application not later than 365 days after the date of such enactment.”
 

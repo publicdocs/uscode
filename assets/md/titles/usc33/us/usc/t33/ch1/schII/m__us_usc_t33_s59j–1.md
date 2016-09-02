@@ -19,19 +19,25 @@
 
     Unless the Secretary finds, after consultation with local and regional public officials (including local and regional public planning organizations), that the proposed projects in Philadelphia, Pennsylvania, to be undertaken within the boundaries described below, are not in the public interest then, subject to subsections (b) and (c) of this section, those portions of the Delaware River, bounded and described as follows, are declared to be non-navigable waters of the United States:
 
-        (1) __Liberty Landing. \[Omitted\]__ 
+        (1)  __Liberty Landing__  __.__ 
 
-        (2) __Marina Towers and World Trade Center—__ 
+         \[Omitted\]
 
-        Pier 25 North. \[Omitted\]
+        (2)  __Marina Towers and World Trade Center—Pier__  __25__  __North__  __.__ 
 
-        (3) __Marine Trade Center—__ 
+         \[Omitted\]
 
-        Pier 24 North. \[Omitted\]
+        (3)  __Marine Trade Center—Pier__  __24__  __North__  __.__ 
 
-        (4) __National Sugar Company “Sugar House”. \[Omitted\]__ 
+         \[Omitted\]
 
-        (5) __Rivercenter. \[Omitted\]__ 
+        (4)  __National Sugar Company “Sugar House”__  __.__ 
+
+         \[Omitted\]
+
+        (5)  __Rivercenter__  __.__ 
+
+         \[Omitted\]
 
     (b) __Limits on applicability; regulatory requirements__ 
 

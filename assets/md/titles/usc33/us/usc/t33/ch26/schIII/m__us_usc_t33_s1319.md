@@ -279,7 +279,7 @@
 
 [Pub. L. 100–4, title III, § 313(b)(2)][/us/pl/100/4/s313/b/2], Feb. 4, 1987, [101 Stat. 45][/us/stat/101/45], provided that: 
 
-> “The Federal Water Pollution Control Act \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\] shall not be construed as requiring a State to have a civil penalty for violations described in section 309(d) of such Act \[[33 U.S.C. 1319(d)][/us/usc/t33/s1319/d]\] which has the same monetary amount as the civil penalty established by such section, as amended by paragraph (1) \[amending this section\]. Nothing in this paragraph shall affect the Administrator’s authority to establish or adjust by regulation a minimum acceptable State civil penalty.
+> “The Federal Water Pollution Control Act \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\] shall not be construed as requiring a State to have a civil penalty for violations described in section 309(d) of such Act \[[33 U.S.C. 1319(d)][/us/usc/t33/s1319/d]\] which has the same monetary amount as the civil penalty established by such section, as amended by paragraph (1) \[amending this section\]. Nothing in this paragraph shall affect the Administrator’s authority to establish or adjust by regulation a minimum acceptable State civil penalty.”
 
  __Actions by Surgeon General Relating to Interstate Pollution__ 
 

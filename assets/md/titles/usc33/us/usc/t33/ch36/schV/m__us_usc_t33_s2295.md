@@ -33,23 +33,23 @@
 
 [Pub. L. 110–114, title II, § 2004][/us/pl/110/114/s2004], Nov. 8, 2007, [121 Stat. 1071][/us/stat/121/1071], provided that:
 
->     “(a) __Compilation of Laws Enacted After__  __November 8, 1966__  __.—__ 
+>     “(a)  __Compilation of Laws Enacted After November__  __8, 1966.—__ 
 
 >     The Secretary \[of the Army\] and the Chief of Engineers shall prepare a compilation of the laws of the United States relating to the improvement of rivers and harbors, flood damage reduction, beach and shoreline erosion, hurricane and storm damage reduction, ecosystem and environmental restoration, and other water resources development enacted after November 8, 1966, and before January 1, 2008, and have such compilation printed for the use of the Department of the Army, Congress, and the general public.
 
->     “(b) __Reprint of Laws Enacted Before__  __November 8, 1966__  __.—__ 
+>     “(b)  __Reprint of Laws Enacted Before November__  __8, 1966.—__ 
 
 >     The Secretary shall have the volumes containing the laws referred to in subsection (a) enacted before November 8, 1966, reprinted.
 
->     “(c) __Index.—__ 
+>     “(c)  __Index__  __.—__ 
 
 >     The Secretary shall include an index in each volume compiled, and each volume reprinted, pursuant to this section.
 
->     “(d) __Congressional Copies.—__ 
+>     “(d)  __Congressional Copies__  __.—__ 
 
 >     Not later than April 1, 2008, the Secretary shall transmit at least 25 copies of each volume compiled, and of each volume reprinted, pursuant to this section to each of the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
->     “(e) __Availability.—__ 
+>     “(e)  __Availability__  __.—__ 
 
 >     The Secretary \[of the Army\] shall ensure that each volume compiled, and each volume reprinted, pursuant to this section are available through electronic means, including on the Internet.”
 

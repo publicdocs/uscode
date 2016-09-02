@@ -97,9 +97,9 @@
 
         For each post-storm assessment carried out under paragraph (2), the Administrator shall—
 
-            (A) __certify the degree of accuracy for such assessment, including specific reference to any segments or geographic areas for which the assessment is less than 90 percent accurate; and__ 
+            (A) certify the degree of accuracy for such assessment, including specific reference to any segments or geographic areas for which the assessment is less than 90 percent accurate; and
 
-            (B) __report such certification to the Secretary of Homeland Security for the purposes of use with indeterminate loss claims under__  __[__  __section 4057 of title 42__  __][/us/usc/t42/s4057]__  __.__ 
+            (B) report such certification to the Secretary of Homeland Security for the purposes of use with indeterminate loss claims under [section 4057 of title 42][/us/usc/t42/s4057].
 
         (5) __Finality of determinations__ 
 
@@ -165,9 +165,9 @@
 
         Not later than 180 days after July 6, 2012, the Administrator shall, in consultation with the Office of the Federal Coordinator for Meteorology—
 
-            (A) __carry out a survey to identify all Federal and State efforts and systems that are capable of collecting covered data; and__ 
+            (A) carry out a survey to identify all Federal and State efforts and systems that are capable of collecting covered data; and
 
-            (B) __consult with private and academic sector entities to identify domestic private and academic systems that are capable of collecting covered data.__ 
+            (B) consult with private and academic sector entities to identify domestic private and academic systems that are capable of collecting covered data.
 
         (2) __Identification of gaps__ 
 

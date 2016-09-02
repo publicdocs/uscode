@@ -31,7 +31,7 @@
 
 [Pub. L. 102–567, title I, § 116][/us/pl/102/567/s116], Oct. 29, 1992, [106 Stat. 4279][/us/stat/106/4279], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Federal Coordinating Council for Science, Engineering, and Technology through the Committee on Earth and Environmental Sciences, in consultation with Federal, academic, and commercial users of remotely sensed data, shall consider and develop findings and recommendations regarding—
 
@@ -39,7 +39,7 @@
 
 >         “(2) the major goals of satellite oceanography for the next 10 years.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than one year after the date of enactment of this Act \[Oct. 29, 1992\], the Federal Coordinating Council for Science, Engineering, and Technology shall submit to the Congress a report which describes the findings and recommendations of the Committee on Earth and Environmental Sciences, including recommendations for, or a description of actions to be taken toward—
 

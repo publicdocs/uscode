@@ -259,7 +259,7 @@
 
 [Pub. L. 106–457, title II, § 202][/us/pl/106/457/s202], Nov. 7, 2000, [114 Stat. 1967][/us/stat/114/1967], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that—
 
@@ -273,7 +273,7 @@
 
 >         “(5) there is a need to expand Federal support for monitoring, management, and restoration activities in the Chesapeake Bay and the tributaries of the Bay in order to meet and further the original and subsequent goals and commitments of the Chesapeake Bay Program.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this title \[amending this section and enacting provisions set out as a note under [section 1251 of this title][/us/usc/t33/s1251]\] are—
 
@@ -285,11 +285,11 @@
 
 [Pub. L. 106–53, title IV, § 457][/us/pl/106/53/s457], Aug. 17, 1999, [113 Stat. 332][/us/stat/113/332], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary shall conduct a study of nutrient loading that occurs as a result of discharges of dredged material into open-water sites in the Chesapeake Bay.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 18 months after the date of enactment of this Act \[Aug. 17, 1999\], the Secretary shall submit to Congress a report on the results of the study.”
 

@@ -55,11 +55,11 @@
 
 > “SEC. 302. __ACQUISITION OF FISHERY SURVEY VESSELS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary, subject to the availability of appropriations, may in accordance with this section acquire, by purchase, lease, lease-purchase, or charter, and equip up to six fishery survey vessels in accordance with this section.
 
->     “(b) __Vessel Requirements.—__ 
+>     “(b)  __Vessel Requirements__  __.—__ 
 
 >     Any vessel acquired and equipped under this section must—
 
@@ -75,7 +75,7 @@
 
 >         “(2) have a hull that meets the International Council for Exploration of the Sea standard regarding acoustic quietness.
 
->     “(c) __Authorization.—__ 
+>     “(c)  __Authorization__  __.—__ 
 
 >     To carry out this section there are authorized to be appropriated to the Secretary $60,000,000 for each of fiscal years 2002 and 2003.”
 

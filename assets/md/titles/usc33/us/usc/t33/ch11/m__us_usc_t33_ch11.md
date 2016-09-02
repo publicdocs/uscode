@@ -461,7 +461,7 @@ SUBCHAPTER IV—INTERNATIONAL BRIDGES  </td>
 
 [Pub. L. 112–213, title VII, § 712(a)][/us/pl/112/213/s712/a], Dec. 20, 2012, [126 Stat. 1582][/us/stat/126/1582], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For the purposes of reviewing a permit application pursuant to [section 9 of the Act of March 3, 1899][/us/act/1899-03-03/s9], popularly known as the Rivers and Harbors Appropriation Act of 1899 ([33 U.S.C. 401][/us/usc/t33/s401]), the Act of March 23, 1906, popularly known as the Bridge Act of 1906 ([33 U.S.C. 491][/us/usc/t33/s491] et seq.), the Act of June 21, 1940, popularly known as the Truman-Hobbs Act ([33 U.S.C. 511][/us/usc/t33/s511] et seq.), or the General Bridge Act of 1946 ([33 U.S.C. 525][/us/usc/t33/s525] et seq.), the Secretary of the department in which the Coast Guard is operating may—
 

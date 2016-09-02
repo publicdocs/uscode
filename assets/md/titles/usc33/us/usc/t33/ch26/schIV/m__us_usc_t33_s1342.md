@@ -79,7 +79,7 @@
 
         (3) Whenever the Administrator determines after public hearing that a State is not administering a program approved under this section in accordance with requirements of this section, he shall so notify the State and, if appropriate corrective action is not taken within a reasonable time, not to exceed ninety days, the Administrator shall withdraw approval of such program. The Administrator shall not withdraw approval of any such program unless he shall first have notified the State, and made public, in writing, the reasons for such withdrawal.
 
-        (4) __Limitations on partial permit program returns and withdrawals.—__ 
+        (4)  __Limitations on partial permit program returns and withdrawals__  __.—__ 
 
         A State may return to the Administrator administration, and the Administrator may withdraw under paragraph (3) of this subsection approval, of—
 
@@ -327,11 +327,11 @@
 
 > “In this Act:
 
->     “(1) __Administrator.—__ 
+>     “(1)  __Administrator__  __.—__ 
 
 >     The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
 
->     “(2) __Covered vessel.—__ 
+>     “(2)  __Covered vessel__  __.—__ 
 
 >     The term ‘covered vessel’ means a vessel that is—
 
@@ -339,13 +339,13 @@
 
 >         “(B) a fishing vessel (as defined in [section 2101 of title 46][/us/usc/t46/s2101], United States Code), regardless of the length of the vessel.
 
->     “(3) __Other terms.—__ 
+>     “(3)  __Other terms__  __.—__ 
 
 >     The terms ‘contiguous zone’, ‘discharge’, ‘ocean’, and ‘State’ have the meanings given the terms in section 502 of the Federal Water Pollution Control Act ([33 U.S.C. 1362][/us/usc/t33/s1362]).
 
 > “SEC. 2. __DISCHARGES INCIDENTAL TO NORMAL OPERATION OF VESSELS.__ 
 
->     “(a) __No Permit Requirement.—__ 
+>     “(a)  __No Permit Requirement__  __.—__ 
 
 >     Except as provided in subsection (b), during the period beginning on the date of the enactment of this Act \[July 31, 2008\] and ending on December 18, 2014, the Administrator, or a State in the case of a permit program approved under section 402 of the Federal Water Pollution Control Act ([33 U.S.C. 1342][/us/usc/t33/s1342]), shall not require a permit under that section for a covered vessel for—
 
@@ -355,7 +355,7 @@
 
 >         “(3) any other discharge incidental to the normal operation of a covered vessel.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     Subsection (a) shall not apply with respect to—
 
@@ -387,17 +387,17 @@
 
 [Pub. L. 102–240, title I, § 1068][/us/pl/102/240/s1068], Dec. 18, 1991, [105 Stat. 2007][/us/stat/105/2007], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     Notwithstanding the requirements of sections 402(p)(2)(B), (C), and (D) of the Federal Water Pollution Control Act \[[33 U.S.C. 1342(p)(2)(B)][/us/usc/t33/s1342/p/2/B], (C), (D)\], permit application deadlines for stormwater discharges associated with industrial activities from facilities that are owned or operated by a municipality shall be established by the Administrator of the Environmental Protection Agency (hereinafter in this section referred to as the ‘Administrator’) pursuant to the requirements of this section.
 
 >     “(b) __Permit Applications.—__ 
 
->         “(1) __Individual applications.—__ 
+>         “(1)  __Individual applications__  __.—__ 
 
 >         The Administrator shall require individual permit applications for discharges described in subsection (a) on or before October 1, 1992; except that any municipality that has participated in a timely part I group application for an industrial activity discharging stormwater that is denied such participation in a group application or for which a group application is denied shall not be required to submit an individual application until the 180th day following the date on which the denial is made.
 
->         “(2) __Group applications.—__ 
+>         “(2)  __Group applications__  __.—__ 
 
 >         With respect to group applications for permits for discharges described in subsection (a), the Administrator shall require—
 
@@ -405,19 +405,19 @@
 
 >             “(B) part II applications on or before October 1, 1992, except that any municipality with a population of less than 250,000 shall not be required to submit a part II application before May 17, 1993.
 
->     “(c) __Municipalities With Less Than 100,000 Population.—__ 
+>     “(c)  __Municipalities With Less Than__  __100,000__  __Population__  __.—__ 
 
 >     The Administrator shall not require any municipality with a population of less than 100,000 to apply for or obtain a permit for any stormwater discharge associated with an industrial activity other than an airport, powerplant, or uncontrolled sanitary landfill owned or operated by such municipality before October 1, 1992, unless such permit is required by section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[[33 U.S.C. 1342(p)(2)(A)][/us/usc/t33/s1342/p/2/A], (E)\].
 
->     “(d) __Uncontrolled Sanitary Landfill Defined.—__ 
+>     “(d)  __Uncontrolled Sanitary Landfill Defined__  __.—__ 
 
 >     For the purposes of this section, the term ‘uncontrolled sanitary landfill’ means a landfill or open dump, whether in operation or closed, that does not meet the requirements for run-on and run-off controls established pursuant to subtitle D of the Solid Waste Disposal Act \[[42 U.S.C. 6941][/us/usc/t42/s6941] et seq.\].
 
->     “(e) __Limitation on Statutory Construction.—__ 
+>     “(e)  __Limitation on Statutory Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to affect any application or permit requirement, including any deadline, to apply for or obtain a permit for stormwater discharges subject to section 402(p)(2)(A) or (E) of the Federal Water Pollution Control Act \[[33 U.S.C. 1342(p)(2)(A)][/us/usc/t33/s1342/p/2/A], (E)\].
 
->     “(f) __Regulations.—__ 
+>     “(f)  __Regulations__  __.—__ 
 
 >     The Administrator shall issue final regulations with respect to general permits for stormwater discharges associated with industrial activity on or before February 1, 1992.”
 
@@ -425,7 +425,7 @@
 
 [Pub. L. 100–4, title III, § 306(c)][/us/pl/100/4/s306/c], Feb. 4, 1987, [101 Stat. 36][/us/stat/101/36], provided that:
 
->     “(1) __Issuance of permit.—__ 
+>     “(1)  __Issuance of permit__  __.—__ 
 
 >     As soon as possible after the date of the enactment of this Act \[Feb. 4, 1987\], but not later than 180 days after such date of enactment, the Administrator shall issue permits under section 402(a)(1)(B) of the Federal Water Pollution Control Act \[[33 U.S.C. 1342(a)(1)(B)][/us/usc/t33/s1342/a/1/B]\] with respect to facilities—
 
@@ -433,7 +433,7 @@
 
 >         “(B) for which the Administrator is proposing to revise the applicability of the effluent limitation established under section 301(b) of such Act \[[33 U.S.C. 1311(b)][/us/usc/t33/s1311/b]\] for phosphate subcategory of the fertilizer manufacturing point source category to exclude such facilities.
 
->     “(2) __Limitations on statutory construction.—__ 
+>     “(2)  __Limitations on statutory construction__  __.—__ 
 
 >     Nothing in this section \[amending [section 1311 of this title][/us/usc/t33/s1311] and enacting this note\] shall be construed—
 
@@ -447,15 +447,15 @@
 
 [Pub. L. 100–4, title IV, § 407][/us/pl/100/4/s407], Feb. 4, 1987, [101 Stat. 74][/us/stat/101/74], provided that:
 
->     “(a) __Agreement.—__ 
+>     “(a)  __Agreement__  __.—__ 
 
 >     The Administrator and Secretary of the Army shall enter into an agreement regarding coordination of permitting for log transfer facilities to designate a lead agency and to process permits required under sections 402 and 404 of the Federal Water Pollution Control Act \[[33 U.S.C. 1342][/us/usc/t33/s1342], 1344\], where both such sections apply, for discharges associated with the construction and operation of log transfer facilities. The Administrator and Secretary are authorized to act in accordance with the terms of such agreement to assure that, to the maximum extent practicable, duplication, needless paperwork and delay in the issuance of permits, and inequitable enforcement between and among facilities in different States, shall be eliminated.
 
->     “(b) __Applications and Permits Before__  __October 22, 1985__  __.—__ 
+>     “(b)  __Applications and Permits Before October__  __22, 1985.—__ 
 
 >     Where both of sections 402 and 404 of the Federal Water Pollution Control Act \[[33 U.S.C. 1342][/us/usc/t33/s1342], 1344\] apply, log transfer facilities which have received a permit under section 404 of such Act before October 22, 1985, shall not be required to submit a new application for a permit under section 402 of such Act. If the Administrator determines that the terms of a permit issued on or before October 22, 1985, under section 404 of such Act satisfies the applicable requirements of sections 301, 302, 306, 307, 308, and 403 of such Act \[[33 U.S.C. 1311][/us/usc/t33/s1311], 1312, 1316, 1317, 1318, and 1343\], a separate application for a permit under section 402 of such Act shall not thereafter be required. In any case where the Administrator demonstrates, after an opportunity for a hearing, that the terms of a permit issued on or before October 22, 1985, under section 404 of such Act do not satisfy the applicable requirements of sections 301, 302, 306, 307, 308, and 403 of such Act, modifications to the existing permit under section 404 of such Act to incorporate such applicable requirements shall be issued by the Administrator as an alternative to issuance of a separate new permit under section 402 of such Act.
 
->     “(c) __Log Transfer Facility Defined.—__ 
+>     “(c)  __Log Transfer Facility Defined__  __.—__ 
 
 >     For the purposes of this section, the term ‘log transfer facility’ means a facility which is constructed in whole or in part in waters of the United States and which is utilized for the purpose of transferring commercially harvested logs to or from a vessel or log raft, including the formation of a log raft.”
 

@@ -203,7 +203,7 @@
 
 > “SEC. 1003. __FINDINGS AND PURPOSE.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds and declares that—
 
@@ -225,7 +225,7 @@
 
 >         “(9) the designation of Massachusetts Bay as an Estuary of National Significance and the development of a comprehensive plan for protecting and restoring the Bay may contribute significantly to its long-term health and environmental integrity.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this title is to protect and enhance the environmental quality of Massachusetts Bay by providing for its designation as an Estuary of National Significance and by providing for the preparation of a comprehensive restoration plan for the Bay.
 
@@ -237,7 +237,7 @@
 
 [Pub. L. 100–4, title III, § 317(a)][/us/pl/100/4/s317/a], Feb. 4, 1987, [101 Stat. 61][/us/stat/101/61], provided that:
 
->     “(1) __Findings.—__ 
+>     “(1)  __Findings__  __.—__ 
 
 >     Congress finds and declares that—
 
@@ -251,7 +251,7 @@
 
 >         “(E) better coordination among Federal and State programs affecting estuaries will increase the effectiveness and efficiency of the national effort to protect, preserve, and restore these areas.
 
->     “(2) __Purposes.—__ 
+>     “(2)  __Purposes__  __.—__ 
 
 >     The purposes of this section \[enacting this section\] are to—
 

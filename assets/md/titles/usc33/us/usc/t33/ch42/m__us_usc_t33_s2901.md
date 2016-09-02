@@ -49,11 +49,11 @@
 
 [Pub. L. 106–457, title IX, § 901][/us/pl/106/457/s901], Nov. 7, 2000, [114 Stat. 1981][/us/stat/114/1981], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     It is the sense of Congress that, to the extent practicable, all equipment and products purchased with funds made available under this Act \[see Short Title note above\] should be American made.
 
->     “(b) __Notice to Recipients of Assistance.—__ 
+>     “(b)  __Notice to Recipients of Assistance__  __.—__ 
 
 >     The head of each Federal Agency \[sic\] providing financial assistance under this Act, to the extent practicable, shall provide to each recipient of the assistance a notice describing the statement made in subsection (a).”
 
@@ -61,19 +61,19 @@
 
 [Pub. L. 106–457, title IX, § 902][/us/pl/106/457/s902], Nov. 7, 2000, [114 Stat. 1981][/us/stat/114/1981], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Commerce (acting through the Under Secretary for Oceans and Atmosphere) and the Secretary of the Interior (acting through the Director of the Geological Survey) may carry out a long-term estuary assessment project (in this section referred to as the ‘project’) in accordance with the requirements of this section.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of the project shall be to establish a network of strategic environmental assessment and monitoring projects for the Mississippi River south of Vicksburg, Mississippi, and the Gulf of Mexico, in order to develop advanced long-term assessment and monitoring systems and models relating to the Mississippi River and other aquatic ecosystems, including developing equipment and techniques necessary to implement the project.
 
->     “(c) __Management Agreement.—__ 
+>     “(c)  __Management Agreement__  __.—__ 
 
 >     To establish, operate, and implement the project, the Secretary of Commerce and the Secretary of the Interior may enter into a management agreement with a university-based consortium.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated—
 

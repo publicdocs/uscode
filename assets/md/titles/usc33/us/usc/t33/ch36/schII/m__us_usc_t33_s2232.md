@@ -93,15 +93,15 @@
 
 [Pub. L. 101–640, title IV, § 404][/us/pl/101/640/s404], Nov. 28, 1990, [104 Stat. 4646][/us/stat/104/4646], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For purposes of demonstrating the safety benefits and economic efficiencies which would accrue as a consequence of non-Federal management of harbor improvement projects, the Secretary shall enter into agreements with 2 non-Federal interests pursuant to which the non-Federal interests will undertake part or all of a harbor project authorized by law, by utilizing their own personnel or by procuring outside services, if the cost of doing so will not exceed the cost of the Secretary undertaking the project. If proposals for such agreements meet the criteria of section 204 of the Water Resources Development Act of 1986 \[[33 U.S.C. 2232][/us/usc/t33/s2232]\], the agreements shall be entered into not later than 1 year after the date of the enactment of this Act \[Nov. 28, 1990\].
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     At least 1 project carried out pursuant to this section shall pertain to improvements to a major ship channel which carries a substantial volume of both passenger and cargo traffic.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     The Secretary shall transmit to Congress a report regarding the safety benefits and economic efficiencies accrued from entering into agreements with non-Federal interests under this section.”
 

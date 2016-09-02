@@ -23,39 +23,39 @@
 
 >     “(a) __Decontamination Project.—__ 
 
->         “(1) __Selection of technologies.—__ 
+>         “(1)  __Selection of technologies__  __.—__ 
 
 >         Based upon a review of decontamination technologies identified pursuant to section 412(c) of the Water Resources Development Act of 1990 \[[Pub. L. 101–640][/us/pl/101/640], set out below\], the Administrator of the Environmental Protection Agency and the Secretary shall, within 1 year after the date of the enactment of this Act \[Oct. 31, 1992\], jointly select removal, pre-treatment, post-treatment, and decontamination technologies for contaminated marine sediments for a decontamination project in the New York/New Jersey Harbor.
 
->         “(2) __Recommended program.—__ 
+>         “(2)  __Recommended program__  __.—__ 
 
 >         Upon selection of technologies, the Administrator and the Secretary shall jointly recommend a program of selected technologies to assess their effectiveness in rendering sediments acceptable for unrestricted ocean disposal or beneficial reuse, or both.
 
->         “(3) __Project purpose.—__ 
+>         “(3)  __Project purpose__  __.—__ 
 
 >         The purpose of the project to be carried out under this section is to provide for the development of 1 or more sediment decontamination technologies on a pilot scale demonstrating a capacity of at least 500,000 cubic yards per year.
 
->         “(4) __Practical end-use products.—__ 
+>         “(4)  __Practical end-use products__  __.—__ 
 
 >         Technologies selected for demonstration at the pilot scale shall be intended to result in practical end-use products.
 
->         “(5) __Assistance by the secretary.—__ 
+>         “(5)  __Assistance by the secretary__  __.—__ 
 
 >         The Secretary shall assist the project to ensure expeditious completion by providing sufficient quantities of contaminated dredged material to conduct the full-scale demonstrations to stated capacity.
 
->     “(b) __Decontamination Defined.—__ 
+>     “(b)  __Decontamination Defined__  __.—__ 
 
 >     For purposes of this section, ‘decontamination’ may include local or remote prototype or production and laboratory decontamination technologies, sediment pre-treatment and post-treatment processes, and siting, economic, or other measures necessary to develop a matrix for selection of interim prototype of long-term processes. Decontamination techniques need not be preproven in terms of likely success.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to carry out this section $22,000,000 to complete technology testing, technology commercialization, and the development of full scale processing facilities within the New York/New Jersey Harbor. Such sums shall remain available until expended.
 
->     “(d) __Reports.—__ 
+>     “(d)  __Reports__  __.—__ 
 
 >     Not later than September 30, 1998, and periodically thereafter, the Administrator and the Secretary shall transmit to Congress a report on the results of the project to be carried out under this section, including an assessment of the progress made in achieving the purpose of the project set forth in subsection (a)(3).
 
->     “(e) __Support.—__ 
+>     “(e)  __Support__  __.—__ 
 
 >     In carrying out the program under this section, the Secretary is encouraged to use contracts, cooperative agreements, and grants with colleges and universities and other non-Federal entities.”
 
@@ -63,11 +63,11 @@
 
 [Pub. L. 101–640, title IV, § 412][/us/pl/101/640/s412], Nov. 28, 1990, [104 Stat. 4650][/us/stat/104/4650], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Within 90 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Administrator of the Environmental Protection Agency shall submit to the Congress a final report on the feasibility of designating an alternative site to the Mud Dump Site at a distance not less than 20 miles from the shoreline.
 
->     “(b) __Plan.—__ 
+>     “(b)  __Plan__  __.—__ 
 
 >     Within 180 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary and the Administrator of the Environmental Protection Agency shall submit to Congress a plan for the long-term management of dredged material from the New York/New Jersey Harbor region. The plan shall include—
 
@@ -83,19 +83,19 @@
 
 >         “(6) a study of the characteristics of the bottom sediments, including type and distribution.
 
->     “(c) __Demonstration Project.—__ 
+>     “(c)  __Demonstration Project__  __.—__ 
 
 >     The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall implement a demonstration project for disposing on an annual basis up to 10 percent of the material dredged from the New York/New Jersey Harbor region in an environmentally sound manner other than by ocean disposal. Environmentally sound alternatives may include, among others, capping of borrow pits, construction of a containment island, application for landfill cover, habitat restoration, and use of decontamination technology.
 
->     “(d) __Mud Dump Site Defined.—__ 
+>     “(d)  __Mud Dump Site Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘Mud Dump Site’ means the area located approximately 5¾ miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28 seconds West; 40 degrees, 21 minutes, 48 seconds North, 73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28 seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Secretary for fiscal year 1991, $3,000,000 to implement subsection (b) and $1,000,000 to implement subsection (c), and such sums as may be necessary for fiscal year 1992.
 
->     “(f) __Repeal.—__ 
+>     “(f)  __Repeal__  __.—__ 
 
 >     Section 211 of the Water Resources Development Act of 1986 ([33 U.S.C. 2239][/us/usc/t33/s2239]) is repealed.”
 

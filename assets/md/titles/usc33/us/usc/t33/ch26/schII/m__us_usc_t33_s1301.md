@@ -93,7 +93,7 @@
 
 [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 112(d)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–227, provided that:
 
->     “(1) __Report to congress.—__ 
+>     “(1)  __Report to congress__  __.—__ 
 
 >     Not later than 3 years after the date of enactment of this Act \[Dec. 21, 2000\], the Administrator of the Environmental Protection Agency shall transmit to Congress a report summarizing—
 
@@ -103,7 +103,7 @@
 
 >         “(C) an evaluation of the technologies used by municipalities to address these impacts.
 
->     “(2) __Technology clearinghouse.—__ 
+>     “(2)  __Technology clearinghouse__  __.—__ 
 
 >     After transmitting a report under paragraph (1), the Administrator shall maintain a clearinghouse of cost-effective and efficient technologies for addressing human health and environmental impacts due to municipal combined sewer overflows and sanitary sewer overflows.”
 

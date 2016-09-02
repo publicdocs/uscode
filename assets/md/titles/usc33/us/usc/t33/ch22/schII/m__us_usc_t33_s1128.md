@@ -109,15 +109,15 @@
 
 [Pub. L. 110–394, § 9(a)(1)][/us/pl/110/394/s9/a/1]–(3), Oct. 13, 2008, [122 Stat. 4207][/us/stat/122/4207], provided that:
 
->     “(1) __Redesignation.—__ 
+>     “(1)  __Redesignation__  __.—__ 
 
 >     The sea grant review panel established by section 209 of the National Sea Grant College Program Act ([33 U.S.C. 1128][/us/usc/t33/s1128]), as in effect before the date of the enactment of this Act \[Oct. 13, 2008\], is redesignated as the National Sea Grant Advisory Board.
 
->     “(2) __Membership not affected.—__ 
+>     “(2)  __Membership not affected__  __.—__ 
 
 >     An individual serving as a member of the sea grant review panel immediately before date of the enactment of this Act may continue to serve as a member of the National Sea Grant Advisory Board until the expiration of such member’s term under section 209(c) of such Act ([33 U.S.C. 1128(c)][/us/usc/t33/s1128/c]).
 
->     “(3) __References.—__ 
+>     “(3)  __References__  __.—__ 
 
 >     Any reference in a law, map, regulation, document, paper, or other record of the United States to such sea grant review panel is deemed to be a reference to the National Sea Grant Advisory Board.”
 

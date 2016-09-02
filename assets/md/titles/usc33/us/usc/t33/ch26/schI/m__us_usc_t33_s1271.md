@@ -69,11 +69,11 @@
 
 > “SEC. 501. __SHORT TITLE AND DEFINITIONS.__ 
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This title \[enacting this section, amending sections 1412 to 1416, 1420, and 1421 of this title, and enacting provisions set out below\] may be cited as the ‘National Contaminated Sediment Assessment and Management Act’.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For the purposes of sections 502 and 503 of this title \[enacting this section and provisions set out below\]—
 
@@ -95,7 +95,7 @@
 
 > “SEC. 502. __NATIONAL CONTAMINATED SEDIMENT TASK FORCE.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a National Contaminated Sediment Task Force (hereinafter referred to in this section as the ‘Task Force’). The Task Force shall—
 
@@ -121,7 +121,7 @@
 
 >     “(b) __Membership.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The membership of the Task Force shall include 1 representative of each of the following:
 
@@ -137,7 +137,7 @@
 
 >             “(F) The Department of Agriculture.
 
->         “(2) __Additional members.—__ 
+>         “(2)  __Additional members__  __.—__ 
 
 >         Additional members of the Task Force shall be jointly selected by the Administrator and the Secretary, and shall include—
 
@@ -147,19 +147,19 @@
 
 >             “(C) not more than 3 representatives of public interest organizations with a demonstrated interest in aquatic sediment contamination.
 
->         “(3) __Cochairmen.—__ 
+>         “(3)  __Cochairmen__  __.—__ 
 
 >         The Administrator and the Secretary shall serve as cochairmen of the Task Force.
 
->         “(4) __Clerical and technical assistance.—__ 
+>         “(4)  __Clerical and technical assistance__  __.—__ 
 
 >         Such clerical and technical assistance as may be necessary to discharge the duties of the Task Force shall be provided by the personnel of the Environmental Protection Agency and the Army Corps of Engineers.
 
->         “(5) __Compensation for additional members.—__ 
+>         “(5)  __Compensation for additional members__  __.—__ 
 
 >         The additional members of the Task Force selected under paragraph (2) shall, while attending meetings or conferences of the Task Force, be compensated at a rate to be fixed by the cochairmen, but not to exceed the daily equivalent of the base rate of pay in effect for grade GS–15 of the General Schedule under [section 5332 of title 5][/us/usc/t5/s5332], United States Code, for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Task Force. While away from their homes or regular places of business in the performance of services for the Task Force, such members shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under [section 5703(b) of title 5][/us/usc/t5/s5703/b], United States Code.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Within 2 years after the date of the enactment of this Act \[Oct. 31, 1992\], the Task Force shall submit to Congress a report stating the findings and recommendations of the Task Force.”
 

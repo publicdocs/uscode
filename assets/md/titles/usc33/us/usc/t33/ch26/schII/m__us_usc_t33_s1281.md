@@ -179,7 +179,7 @@
 
 [Pub. L. 104–303, title V, § 586][/us/pl/104/303/s586], Oct. 12, 1996, [110 Stat. 3791][/us/stat/110/3791], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding the provisions of title II of the Federal Water Pollution Control Act ([33 U.S.C. 1281][/us/usc/t33/s1281] et seq.), Executive Order 12803 \[[5 U.S.C. 601][/us/usc/t5/s601] note\], or any other law or authority, an entity that received Federal grant assistance for an infrastructure asset under the Federal Water Pollution Control Act \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\] shall not be required to repay any portion of the grant upon the lease or concession of the asset only if—
 
@@ -187,7 +187,7 @@
 
 >         “(2) the Administrator of the Environmental Protection Agency determines that the lease or concession furthers the purposes of such Act and approves the lease or concession.
 
->     “(b) __Limitation.—__ 
+>     “(b)  __Limitation__  __.—__ 
 
 >     The Administrator shall not approve a total of more than 5 leases and concessions under this section.”
 
@@ -201,15 +201,15 @@
 
 [Pub. L. 104–182, title III, § 307][/us/pl/104/182/s307], Aug. 6, 1996, [110 Stat. 1688][/us/stat/110/1688], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     As used in this section:
 
->         “(1) __Border state.—__ 
+>         “(1)  __Border state__  __.—__ 
 
 >         The term ‘border State’ means Arizona, California, New Mexico, and Texas.
 
->         “(2) __Eligible community.—__ 
+>         “(2)  __Eligible community__  __.—__ 
 
 >         The term ‘eligible community’ means a low-income community with economic hardship that—
 
@@ -219,23 +219,23 @@
 
 >             “(C) lacks basic sanitation facilities such as household plumbing or a proper sewage disposal system.
 
->         “(3) __Treatment works.—__ 
+>         “(3)  __Treatment works__  __.—__ 
 
 >         The term ‘treatment works’ has the meaning provided in section 212(2) of the Federal Water Pollution Control Act ([33 U.S.C. 1292(2)][/us/usc/t33/s1292/2]).
 
->     “(b) __Grants for Wastewater Assistance.—__ 
+>     “(b)  __Grants for Wastewater Assistance__  __.—__ 
 
 >     The Administrator of the Environmental Protection Agency and the heads of other appropriate Federal agencies are authorized to award grants to a border State to provide assistance to eligible communities for the planning, design, and construction or improvement of sewers, treatment works, and appropriate connections for wastewater treatment.
 
->     “(c) __Use of Funds.—__ 
+>     “(c)  __Use of Funds__  __.—__ 
 
 >     Each grant awarded pursuant to subsection (b) shall be used to provide assistance to one or more eligible communities with respect to which the residents are subject to a significant health risk (as determined by the Administrator or the head of the Federal agency making the grant) attributable to the lack of access to an adequate and affordable treatment works for wastewater.
 
->     “(d) __Cost Sharing.—__ 
+>     “(d)  __Cost Sharing__  __.—__ 
 
 >     The amount of a grant awarded pursuant to this section shall not exceed 50 percent of the costs of carrying out the project that is the subject of the grant.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to carry out this section $25,000,000 for each of the fiscal years 1997 through 1999.”
 

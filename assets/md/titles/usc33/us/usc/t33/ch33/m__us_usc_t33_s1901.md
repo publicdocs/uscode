@@ -87,21 +87,21 @@
 
 [Pub. L. 100–220, title II, § 2002][/us/pl/100/220/s2002], Dec. 29, 1987, [101 Stat. 1460][/us/stat/101/1460], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsections (b) and (c), this title \[enacting sections 1912 to 1915 of this title, amending this section and sections 1902, 1903, 1905, and 1907 to 1909 of this title, and enacting provisions set out as notes under this section, [section 2267 of this title][/us/usc/t33/s2267], and [section 6981 of Title 42][/us/usc/t42/s6981], The Public Health and Welfare\] shall be effective on the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, enters into force for the United States. \[Annex V entered into force for the United States Dec. 31, 1988.\]
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     Sections 2001, 2002, 2003, 2108, 2202, 2203, 2204, and subtitle C of this title \[enacting sections 1912, 1914, and 1915 of this title, and provisions set out as notes under this section, [section 2267 of this title][/us/usc/t33/s2267], and [section 6981 of Title 42][/us/usc/t42/s6981]\] shall be effective on the date of the enactment of this title \[Dec. 29, 1987\].
 
 >     “(c) __Issuance of Regulations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The authority to prescribe regulations pursuant to this title shall be effective on the date of enactment of this title \[Dec. 29, 1987\].
 
->         “(2) __Effective date of regulations.—__ 
+>         “(2)  __Effective date of regulations__  __.—__ 
 
 >         Any regulation prescribed pursuant to this title shall not be effective before the effective date of the provision of this title under which the regulation is prescribed.”
 
@@ -145,7 +145,7 @@
 
 [Pub. L. 108–293, title VI, § 623][/us/pl/108/293/s623], Aug. 9, 2004, [118 Stat. 1063][/us/stat/118/1063], provided that:
 
->     “(a) __Extension of Interim Authority.—__ 
+>     “(a)  __Extension of Interim Authority__  __.—__ 
 
 >     The Secretary of the Department in which the Coast Guard is operating shall continue to implement and enforce United States Coast Guard 1997 Enforcement Policy for Cargo Residues on the Great Lakes (hereinafter in this section referred to as the ‘Policy’) or revisions thereto, in accordance with that policy, for the purpose of regulating incidental discharges from vessels of residues of dry bulk cargo into the waters of the Great Lakes under the jurisdiction of the United States, until the earlier of—
 
@@ -153,11 +153,11 @@
 
 >         “(2) September 30, 2008.
 
->     “(b) __Permanent Authority.—__ 
+>     “(b)  __Permanent Authority__  __.—__ 
 
 >     Notwithstanding any other law, the Commandant of the Coast Guard may promulgate regulations governing the discharge of dry bulk cargo residue on the Great Lakes.
 
->     “(c) __Environmental Assessment.—__ 
+>     “(c)  __Environmental Assessment__  __.—__ 
 
 >     No later than 90 days after the date of the enactment of this Act \[Aug. 9, 2004\], the Secretary of the department in which the Coast Guard is operating shall commence the environmental assessment necessary to promulgate the regulations under subsection (b).”
 
@@ -261,43 +261,43 @@
 
 >     “(a) __Administrative Penalties.—__ 
 
->         “(1) __Violations.—__ 
+>         “(1)  __Violations__  __.—__ 
 
 >         Any person who violates section 1403, 1404, 1408, or 1413 of this title, or any regulations promulgated pursuant to this title may be assessed a class I or class II civil penalty by the Secretary or Administrator.
 
 >         “(2) __Classes of penalties.—__ 
 
->             “(A) __Class i.—__ 
+>             “(A)  __Class i__  __.—__ 
 
 >             The amount of a class I civil penalty under this section may not exceed $10,000 per violation, except that the maximum amount of any class I civil penalty under this section shall not exceed $25,000. Before assessing a civil penalty under this clause, the Secretary or Administrator, as the case may be, shall give to the person to be assessed such penalty written notice of the Secretary’s or Administrator’s proposal to assess the penalty and the opportunity to request, within 30 days of the date the notice is received by such person, a hearing on the proposed penalty. Such hearing shall not be subject to section 554 or 556 of title 5, but shall provide a reasonable opportunity to be heard and to present evidence.
 
->             “(B) __Class ii.—__ 
+>             “(B)  __Class ii__  __.—__ 
 
 >             The amount of a class II civil penalty under this section may not exceed $10,000 per day for each day during which the violation continues, except that the maximum amount of any class II civil penalty under this section shall not exceed $125,000. Except as otherwise provided in this subsection, a class II civil penalty shall be assessed and collected in the same manner, and subject to the same provisions as in the case of civil penalties assessed and collected after notice and an opportunity for a hearing on the record in accordance with [section 554 of title 5][/us/usc/t5/s554], United States Code. The Secretary and Administrator may issue rules for discovery procedures for hearings under this paragraph.
 
 >         “(3) __Rights of interested persons.—__ 
 
->             “(A) __Public notice.—__ 
+>             “(A)  __Public notice__  __.—__ 
 
 >             Before issuing an order assessing a class II civil penalty under this section, the Secretary or Administrator, as the case may be, shall provide public notice of and reasonable opportunity to comment on the proposed issuance of each order.
 
->             “(B) __Presentation of evidence.—__ 
+>             “(B)  __Presentation of evidence__  __.—__ 
 
 >             Any person who comments on a proposed assessment of a class II civil penalty under this section shall be given notice of any hearing held under this paragraph and of the order assessing such penalty. In any hearing held under this paragraph, such person shall have a reasonable opportunity to be heard and present evidence.
 
->             “(C) __Rights of interested persons to a hearing.—__ 
+>             “(C)  __Rights of interested persons to a hearing__  __.—__ 
 
 >             If no hearing is held under subsection (2) before issuance of an order assessing a class II civil penalty under this section, any person who commented on the proposed assessment may petition, within 30 days after the issuance of such order, the Administrator or Secretary, as the case may be, to set aside such order and to provide a hearing on the penalty. If the evidence presented by the petitioner in support of the petition is material and was not considered in the issuance of the order, the Administrator or Secretary shall immediately set aside such order and provide a hearing in accordance with subsection (2)(B). If the Administrator or Secretary denies a hearing under this clause, the Administrator or Secretary shall provide to the petitioner, and publish in the Federal Register, notice of and the reasons for such denial.
 
->         “(4) __Finality of order.—__ 
+>         “(4)  __Finality of order__  __.—__ 
 
 >         An order assessing a class II civil penalty under this paragraph shall become final 30 days after its issuance unless a petition for judicial review is filed under subparagraph (6) or a hearing is requested under subsection (3)(C). If such a hearing is denied, such order shall become final 30 days after such denial.
 
->         “(5) __Effect of action on compliance.—__ 
+>         “(5)  __Effect of action on compliance__  __.—__ 
 
 >         No action by the Administrator or Secretary under this paragraph shall affect any person’s obligation to comply with any section of this title.
 
->         “(6) __Judicial review.—__ 
+>         “(6)  __Judicial review__  __.—__ 
 
 >         Any person against whom a civil penalty is assessed under this paragraph or who commented on the proposed assessment of such penalty in accordance with subsection (3) may obtain review of such assessment—
 
@@ -305,7 +305,7 @@
 
 >             “(B) in the case of assessment of a class II civil penalty, in the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business, by filing a notice of appeal in such court within the 30-day period beginning on the date the civil penalty order is issued and by simultaneously sending a copy of such notice by certified mail to the Administrator or Secretary, as the case may be, and the Attorney General. The Administrator or Secretary shall promptly file in such court a certified copy of the record on which the order was issued. Such court shall not set aside or remand such order unless there is not substantial evidence in the record, taken as a whole, to support the finding of a violation or unless the Administrator’s or Secretary’s assessment of the penalty constitutes an abuse of discretion and shall not impose additional civil penalties for the same violation unless the Administrator’s or Secretary’s assessment of the penalty constitutes an abuse of discretion.
 
->         “(7) __Collection.—__ 
+>         “(7)  __Collection__  __.—__ 
 
 >         If any person fails to pay an assessment of a civil penalty—
 
@@ -313,39 +313,39 @@
 
 >             “(B) after a court in an action brought under subsection (6) has entered a final judgment in favor of the Administrator or Secretary, as the case may be, the Administrator or Secretary shall request the Attorney General to bring a civil action in an appropriate district court to recover the amount assessed (plus interest at currently prevailing rates from the date of the final order or the date of the final judgment, as the case may be). In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review. Any person who fails to pay on a timely basis the amount of an assessment of a civil penalty as described in the first sentence of this subparagraph shall be required to pay, in addition to such amount and interest, attorneys fees and costs for collection proceedings and a quarterly nonpayment penalty for each quarter during which such failure to pay persists. Such nonpayment penalty shall be in an amount equal to 20 percent of the aggregate amount of such person’s penalties and nonpayment penalties which are unpaid as of the beginning of such quarter.
 
->         “(8) __Subpoenas.—__ 
+>         “(8)  __Subpoenas__  __.—__ 
 
 >         The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this section. In case of contumacy or refusal to obey a subpoena issued pursuant to this subsection and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Administrator or Secretary or to appear and produce documents before the Administrator or Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 >     “(b) __Civil Penalties.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Any person who violates section 1403, 1404, 1408, or 1413 of this title, or any regulations promulgated pursuant to this title shall be subject to a civil penalty not to exceed $25,000 per day for each violation. Each day a violation continues constitutes a separate violation.
 
->         “(2) __Jurisdiction.—__ 
+>         “(2)  __Jurisdiction__  __.—__ 
 
 >         An action to impose a civil penalty under this section may be brought in the district court of the United States for the district in which the defendant is located, resides, or transacts business, and such court shall have jurisdiction to assess such penalty.
 
->         “(3) __Limitation.—__ 
+>         “(3)  __Limitation__  __.—__ 
 
 >         A person is not liable for a civil judicial penalty under this paragraph for a violation if the person has been assessed a civil administrative penalty under paragraph (a) for the violation.
 
->     “(c) __Determination of Amount.—__ 
+>     “(c)  __Determination of Amount__  __.—__ 
 
 >     In determining the amount of a civil penalty under paragraphs (a) or (b) of this section, the court, the Secretary or the Administrator, as the case may be, shall consider the seriousness of the violation or violations, the economic benefit (if any) resulting from the violation, any history of such violations, any good-faith efforts to comply with the applicable requirements, the economic impact of the penalty on the violator, and other such matters as justice may require.
 
 >     “(d) __Criminal Penalties.—__ 
 
->         “(1) __Negligent violations.—__ 
+>         “(1)  __Negligent violations__  __.—__ 
 
 >         Any person who negligently violates section 1403, 1404, 1408, or 1413 of this title, or any regulations promulgated pursuant to this title commits a Class A misdemeanor.
 
->         “(2) __Knowing violations.—__ 
+>         “(2)  __Knowing violations__  __.—__ 
 
 >         Any person who knowingly violates section 1403, 1404, 1408, or 1413 of this title, or any regulations promulgated pursuant to this title commits a Class D felony.
 
->         “(3) __False statements.—__ 
+>         “(3)  __False statements__  __.—__ 
 
 >         Any person who knowingly makes any false statement, representation, or certification in any record, report or other document filed or required to be maintained under this title or the regulations issued thereunder, or who falsifies, tampers with, or knowingly renders inaccurate any testing or monitoring device or method required to be maintained under this title, or the regulations issued thereunder, commits a Class D felony.
 
@@ -355,21 +355,21 @@
 
 >         “(2) The Secretary, Administrator or the court, when assessing any fines or civil penalties, as the case may be, may pay, from any fines or civil penalties collected under this section, to the State of Alaska or to any federally recognized Tribe providing information or investigative assistance which leads to payment of the penalty or fine, an amount which reflects the level of information or investigative assistance provided. Should the State of Alaska or a federally recognized Tribe and an individual under paragraph (1) of this section be eligible for an award, the Secretary, the Administrator, or the court, as the case may be, shall divide the amount equitably.
 
->     “(f) __Liability in Rem.—__ 
+>     “(f)  __Liability in Rem__  __.—__ 
 
 >     A cruise vessel operated in violation of this title or the regulations issued thereunder is liable in rem for any fine imposed under subsection (d) of this section or for any civil penalty imposed under subsections (a) or (b) of this section, and may be proceeded against in the United States district court of any district in which the cruise vessel may be found.
 
 >     “(g) __Compliance Orders.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Whenever on the basis of any information available to him the Administrator finds that any person is in violation of section 1403, 1404, 1408, or 1413 of this title, or any regulations promulgated pursuant to this title, the Administrator shall issue an order requiring such person to comply with such section or requirement, or shall bring a civil action in accordance with subsection (b).
 
->         “(2) __Copies of orders, service.—__ 
+>         “(2)  __Copies of orders, service__  __.—__ 
 
 >         A copy of any order issued under this subsection shall be sent immediately by the Administrator to the State of Alaska. In any case in which an order under this subsection is issued to a corporation, a copy of such order shall be served on any appropriate corporate officer. Any order issued under this subsection shall be by personal service, shall state with reasonable specificity the nature of the violation, and shall specify a time for compliance not to exceed 30 days in the case of a violation of an interim compliance schedule or operation and maintenance requirement and not to exceed a time the Administrator determines to be reasonable in the case of a violation of a final deadline, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
 
->     “(h) __Civil Actions.—__ 
+>     “(h)  __Civil Actions__  __.—__ 
 
 >     The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under this subsection. Any action under subsection (h) may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the State of Alaska.
 
@@ -401,47 +401,47 @@
 
 > “In this title:
 
->     “(1) __Administrator.—__ 
+>     “(1)  __Administrator__  __.—__ 
 
 >     The term ‘Administrator’ means the Administrator of the United States Environmental Protection Agency.
 
->     “(2) __Cruise vessel.—__ 
+>     “(2)  __Cruise vessel__  __.—__ 
 
 >     The term ‘cruise vessel’ means a passenger vessel as defined in [section 2101(22) of title 46][/us/usc/t46/s2101/22], United States Code. The term ‘cruise vessel’ does not include a vessel of the United States operated by the Federal Government or a vessel owned and operated by the government of a State.
 
->     “(3) __Discharge.—__ 
+>     “(3)  __Discharge__  __.—__ 
 
 >     The term ‘discharge’ means any release however caused from a cruise vessel, and includes any escape, disposal, spilling, leaking, pumping, emitting, or emptying.
 
->     “(4) __Graywater.—__ 
+>     “(4)  __Graywater__  __.—__ 
 
 >     The term ‘graywater’ means only galley, dishwasher, bath, and laundry waste water. The term does not include other wastes or waste streams.
 
->     “(5) __Navigable waters.—__ 
+>     “(5)  __Navigable waters__  __.—__ 
 
 >     The term ‘navigable waters’ has the same meaning as in section 502 of the Federal Water Pollution Control Act \[[33 U.S.C. 1362][/us/usc/t33/s1362]\], as amended.
 
->     “(6) __Person.—__ 
+>     “(6)  __Person__  __.—__ 
 
 >     The term ‘person’ means an individual, corporation, partnership, limited liability company, association, State, municipality, commission, or political subdivision of a State, or any federally recognized tribe.
 
->     “(7) __Secretary.—__ 
+>     “(7)  __Secretary__  __.—__ 
 
 >     The term ‘Secretary’ means the Secretary of the department in which the United States Coast Guard is operating.
 
->     “(8) __Sewage.—__ 
+>     “(8)  __Sewage__  __.—__ 
 
 >     The term ‘sewage’ means human body wastes and the wastes from toilets and other receptacles intended to receive or retain body waste.
 
->     “(9) __Treated sewage.—__ 
+>     “(9)  __Treated sewage__  __.—__ 
 
 >     The term ‘treated sewage’ means sewage meeting all applicable effluent limitation standards and processing requirements of the Federal Water Pollution Control Act \[[33 U.S.C. 1251][/us/usc/t33/s1251] et seq.\], as amended\[,\] and of this title, and regulations promulgated under either.
 
->     “(10) __Untreated sewage.—__ 
+>     “(10)  __Untreated sewage__  __.—__ 
 
 >     The term ‘untreated sewage’ means sewage that is not treated sewage.
 
->     “(11) __Waters of the Alexander Archipelago.—__ 
+>     “(11)  __Waters of the Alexander Archipelago__  __.—__ 
 
 >     The term ‘waters of the Alexander Archipelago’ means all waters under the sovereignty of the United States within or near Southeast Alaska, beginning at a point 58°11′41′′N, 136°39′25′′W \[near Cape Spencer Light\], thence southeasterly along a line three nautical miles seaward of the baseline from which the breadth of the territorial sea is measured in the Pacific Ocean and the Dixon Entrance, except where this line intersects geodesics connecting the following five pairs of points:    “(1) 58°05′17′′N, 136°33′49′′W and 58°11′41′′N, 136°39′25′′W \[Cross Sound\].
 
@@ -457,11 +457,11 @@
 
 [Pub. L. 100–220, title II, § 2003][/us/pl/100/220/s2003], Dec. 29, 1987, [101 Stat. 1460][/us/stat/101/1460], provided that:
 
->     “(a) __Preemption.—__ 
+>     “(a)  __Preemption__  __.—__ 
 
 >     Except as specifically provided in this title \[see Effective Date of 1987 Amendment note above\], nothing in this title shall be interpreted or construed to supersede or preempt any other provision of Federal or State law, either statutory or common.
 
->     “(b) __Additional State Requirements.—__ 
+>     “(b)  __Additional State Requirements__  __.—__ 
 
 >     Nothing in this title shall be construed or interpreted as preempting any State from imposing any additional requirements.”
 
