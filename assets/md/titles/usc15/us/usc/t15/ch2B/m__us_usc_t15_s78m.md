@@ -423,7 +423,7 @@
 
             (G)
 
-             on a confidential basis pursuant to [section 78x of this title][/us/usc/t15/s78x], upon request, and after notifying the Commission of the request, make available all data obtained by the security-based swap data repository, including individual counterparty trade and position data, to—
+             on a confidential basis pursuant to [section 78x of this title][/us/usc/t15/s78x], upon request, and after notifying the Commission of the request, make available security-based swap data obtained by the security-based swap data repository, including individual counterparty trade and position data, to—
 
                 (i) each appropriate prudential regulator;
 
@@ -439,17 +439,15 @@
 
                     (I) foreign financial supervisors (including foreign futures authorities);
 
-                    (II) foreign central banks; and
+                    (II) foreign central banks;
 
-                    (III) foreign ministries.
+                    (III) foreign ministries; and
 
-            (H)  __Confidentiality and indemnification agreement__  __.—__ 
+                    (IV) other foreign authorities.
 
-            Before the security-based swap data repository may share information with any entity described in subparagraph (G)—
+            (H)  __Confidentiality agreement__  __.—__ 
 
-                (i) the security-based swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in [section 78x of this title][/us/usc/t15/s78x] relating to the information on security-based swap transactions that is provided; and
-
-                (ii) each entity shall agree to indemnify the security-based swap data repository and the Commission for any expenses arising from litigation relating to the information provided under [section 78x of this title][/us/usc/t15/s78x].
+            Before the security-based swap data repository may share information with any entity described in subparagraph (G), the security-based swap data repository shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in [section 78x of this title][/us/usc/t15/s78x] relating to the information on security-based swap transactions that is provided.
 
         (6) __Designation of chief compliance officer__ 
 
@@ -773,7 +771,7 @@
 
             The provisions of this subsection shall terminate on the date that is 30 days after the date on which the President makes the certification described in [section 8551(a) of title 22][/us/usc/t22/s8551/a].
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 13, [48 Stat. 894][/us/stat/48/894]; [Pub. L. 88–467, § 4][/us/pl/88/467/s4], Aug. 20, 1964, [78 Stat. 569][/us/stat/78/569]; [Pub. L. 90–439, § 2][/us/pl/90/439/s2], July 29, 1968, [82 Stat. 454][/us/stat/82/454]; [Pub. L. 91–567][/us/pl/91/567], §§ 1, 2, Dec. 22, 1970, [84 Stat. 1497][/us/stat/84/1497]; [Pub. L. 94–29, § 10][/us/pl/94/29/s10], June 4, 1975, [89 Stat. 119][/us/stat/89/119]; [Pub. L. 94–210, title III, § 308(b)][/us/pl/94/210/s308/b], Feb. 5, 1976, [90 Stat. 57][/us/stat/90/57]; [Pub. L. 95–213, title I, § 102][/us/pl/95/213/s102], title II, §§ 202, 203, Dec. 19, 1977, [91 Stat. 1494][/us/stat/91/1494], 1498, 1499; [Pub. L. 98–38, § 2(a)][/us/pl/98/38/s2/a], June 6, 1983, [97 Stat. 205][/us/stat/97/205]; [Pub. L. 100–181, title III][/us/pl/100/181], §§ 315, 316, Dec. 4, 1987, [101 Stat. 1256][/us/stat/101/1256]; [Pub. L. 100–241, § 12(d)][/us/pl/100/241/s12/d], Feb. 3, 1988, [101 Stat. 1810][/us/stat/101/1810]; [Pub. L. 100–418, title V, § 5002][/us/pl/100/418/s5002], Aug. 23, 1988, [102 Stat. 1415][/us/stat/102/1415]; [Pub. L. 101–432, § 3][/us/pl/101/432/s3], Oct. 16, 1990, [104 Stat. 964][/us/stat/104/964]; [Pub. L. 107–123, § 5][/us/pl/107/123/s5], Jan. 16, 2002, [115 Stat. 2395][/us/stat/115/2395]; [Pub. L. 107–204, title I, § 109(i)][/us/pl/107/204/s109/i], formerly § 109(h), title IV, §§ 401(a), 402(a), 409, July 30, 2002, [116 Stat. 771][/us/stat/116/771], 785, 787, 791, renumbered § 109(i), [Pub. L. 111–203, title IX, § 982(h)(3)][/us/pl/111/203/s982/h/3], July 21, 2010, [124 Stat. 1930][/us/stat/124/1930]; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 763(i), 766(b), (c), (e), title IX, §§ 929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§ 1502(b), 1504, July 21, 2010, [124 Stat. 1779][/us/stat/124/1779], 1799, 1866, 1870, 1933, 1952, 2213, 2220; [Pub. L. 112–106, title I, § 102(b)(2)][/us/pl/112/106/s102/b/2], Apr. 5, 2012, [126 Stat. 309][/us/stat/126/309]; [Pub. L. 112–158, title II, § 219(a)][/us/pl/112/158/s219/a], Aug. 10, 2012, [126 Stat. 1235][/us/stat/126/1235].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 13, [48 Stat. 894][/us/stat/48/894]; [Pub. L. 88–467, § 4][/us/pl/88/467/s4], Aug. 20, 1964, [78 Stat. 569][/us/stat/78/569]; [Pub. L. 90–439, § 2][/us/pl/90/439/s2], July 29, 1968, [82 Stat. 454][/us/stat/82/454]; [Pub. L. 91–567][/us/pl/91/567], §§ 1, 2, Dec. 22, 1970, [84 Stat. 1497][/us/stat/84/1497]; [Pub. L. 94–29, § 10][/us/pl/94/29/s10], June 4, 1975, [89 Stat. 119][/us/stat/89/119]; [Pub. L. 94–210, title III, § 308(b)][/us/pl/94/210/s308/b], Feb. 5, 1976, [90 Stat. 57][/us/stat/90/57]; [Pub. L. 95–213, title I, § 102][/us/pl/95/213/s102], title II, §§ 202, 203, Dec. 19, 1977, [91 Stat. 1494][/us/stat/91/1494], 1498, 1499; [Pub. L. 98–38, § 2(a)][/us/pl/98/38/s2/a], June 6, 1983, [97 Stat. 205][/us/stat/97/205]; [Pub. L. 100–181, title III][/us/pl/100/181], §§ 315, 316, Dec. 4, 1987, [101 Stat. 1256][/us/stat/101/1256]; [Pub. L. 100–241, § 12(d)][/us/pl/100/241/s12/d], Feb. 3, 1988, [101 Stat. 1810][/us/stat/101/1810]; [Pub. L. 100–418, title V, § 5002][/us/pl/100/418/s5002], Aug. 23, 1988, [102 Stat. 1415][/us/stat/102/1415]; [Pub. L. 101–432, § 3][/us/pl/101/432/s3], Oct. 16, 1990, [104 Stat. 964][/us/stat/104/964]; [Pub. L. 107–123, § 5][/us/pl/107/123/s5], Jan. 16, 2002, [115 Stat. 2395][/us/stat/115/2395]; [Pub. L. 107–204, title I, § 109(i)][/us/pl/107/204/s109/i], formerly § 109(h), title IV, §§ 401(a), 402(a), 409, July 30, 2002, [116 Stat. 771][/us/stat/116/771], 785, 787, 791, renumbered § 109(i), [Pub. L. 111–203, title IX, § 982(h)(3)][/us/pl/111/203/s982/h/3], July 21, 2010, [124 Stat. 1930][/us/stat/124/1930]; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 763(i), 766(b), (c), (e), title IX, §§ 929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§ 1502(b), 1504, July 21, 2010, [124 Stat. 1779][/us/stat/124/1779], 1799, 1866, 1870, 1933, 1952, 2213, 2220; [Pub. L. 112–106, title I, § 102(b)(2)][/us/pl/112/106/s102/b/2], Apr. 5, 2012, [126 Stat. 309][/us/stat/126/309]; [Pub. L. 112–158, title II, § 219(a)][/us/pl/112/158/s219/a], Aug. 10, 2012, [126 Stat. 1235][/us/stat/126/1235]; [Pub. L. 114–94, div. G, title LXXXVI, § 86001(c)][/us/pl/114/94/s86001/c], Dec. 4, 2015, [129 Stat. 1798][/us/stat/129/1798].)
 
  __Amendment of Section__ 
 
@@ -800,6 +798,12 @@
     Executive Order No. 13382, referred to in subsec. (r)(1)(D)(ii), is Ex. Ord. No. 13382, June 28, 2005, 70 F.R. 38567, which is listed in a table under [section 1701 of Title 50][/us/usc/t50/s1701], War and National Defense.
 
  __Amendments__ 
+
+    2015—Subsec. (n)(5)(G). [Pub. L. 114–94, § 86001(c)(1)(A)][/us/pl/114/94/s86001/c/1/A], substituted “make available security-based swap” for “make available all” in introductory provisions.
+
+    Subsec. (n)(5)(G)(v)(IV). [Pub. L. 114–94, § 86001(c)(1)(B)][/us/pl/114/94/s86001/c/1/B], added subcl. (IV)
+
+    Subsec. (n)(5)(H). [Pub. L. 114–94, § 86001(c)(2)][/us/pl/114/94/s86001/c/2], added subpar. (H) and struck out former subpar. (H) which related to confidentiality and indemnification agreement.
 
     2012—Subsec. (a). [Pub. L. 112–106][/us/pl/112/106] inserted at end of concluding provisions “In any registration statement, periodic report, or other reports to be filed with the Commission, an emerging growth company need not present selected financial data in accordance with section 229.301 of title 17, Code of Federal Regulations, for any period prior to the earliest audited period presented in connection with its first registration statement that became effective under this chapter or the Securities Act of 1933 and, with respect to any such statement or reports, an emerging growth company may not be required to comply with any new or revised financial accounting standard until such date that a company that is not an issuer (as defined under [section 7201 of this title][/us/usc/t15/s7201]) is required to comply with such new or revised accounting standard, if such standard applies to companies that are not issuers.”
 
@@ -883,6 +887,10 @@
 
     1964—Subsec. (a). [Pub. L. 88–467][/us/pl/88/467] substituted provisions which require the issuer of a security registered pursuant to section 78l of this title to file reports with the Commission rather than with the exchange and to furnish the exchange with duplicate originals and prohibit the Commission from requiring the filing of any material contract wholly executed before July 1, 1962 for former provisions which required the issuer of a security registered on a national securities exchange to file certain reports with the exchange and to file duplicates with the Commission.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective as if enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, [Pub. L. 111–203][/us/pl/111/203], see [section 86001(d) of Pub. L. 114–94][/us/pl/114/94/s86001/d], set out as a note under [section 7a–1 of Title 7][/us/usc/t7/s7a–1], Agriculture.
+
  __Effective Date of 2012 Amendment__ 
 
 [Pub. L. 112–158, title II, § 219(b)][/us/pl/112/158/s219/b], Aug. 10, 2012, [126 Stat. 1236][/us/stat/126/1236], provided that: 
@@ -916,6 +924,12 @@
  __Transfer of Functions__ 
 
     For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, [64 Stat. 1265][/us/stat/64/1265], set out under [section 78d of this title][/us/usc/t15/s78d].
+
+ __Summary Page for Form 10–K__ 
+
+[Pub. L. 114–94, div. G, title LXXII, § 72001][/us/pl/114/94/s72001], Dec. 4, 2015, [129 Stat. 1784][/us/stat/129/1784], provided that: 
+
+> “Not later than the end of the 180-day period beginning on the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall issue regulations to permit issuers to submit a summary page on form 10–K (17 CFR 249.310), but only if each item on such summary page includes a cross-reference (by electronic link or otherwise) to the material contained in form 10–K to which such item relates.”
 
  __Elimination of Exemption From Fair Disclosure Rule__ 
 
@@ -1138,7 +1152,6 @@
 [/us/usc/t15/s78c–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%933%2Fb
 [/us/usc/t15/s78x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78x
 [/us/usc/t15/s78x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78x
-[/us/usc/t15/s78x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78x
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t15/s78p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78p
 [/us/pl/104/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F172
@@ -1184,6 +1197,8 @@
 [/us/stat/126/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F309
 [/us/pl/112/158/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs219%2Fa
 [/us/stat/126/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1235
+[/us/pl/114/94/s86001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fc
+[/us/stat/129/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1798
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
@@ -1205,6 +1220,9 @@
 [/us/pl/111/203/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1502
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/pl/114/94/s86001/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fc%2F1%2FA
+[/us/pl/114/94/s86001/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fc%2F1%2FB
+[/us/pl/114/94/s86001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fc%2F2
 [/us/pl/112/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106
 [/us/usc/t15/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7201
 [/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
@@ -1254,6 +1272,10 @@
 [/us/pl/91/567/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567%2Fs2
 [/us/pl/90/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F439
 [/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/114/94/s86001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fd
+[/us/usc/t7/s7a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7a%E2%80%931
 [/us/pl/112/158/s219/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs219%2Fb
 [/us/stat/126/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1236
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
@@ -1280,6 +1302,8 @@
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
+[/us/pl/114/94/s72001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs72001
+[/us/stat/129/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1784
 [/us/pl/111/203/s939B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939B
 [/us/stat/124/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1887
 [/us/pl/111/203/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1502

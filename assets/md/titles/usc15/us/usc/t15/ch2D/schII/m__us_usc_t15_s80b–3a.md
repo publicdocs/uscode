@@ -55,9 +55,11 @@
 
         No law of any State or political subdivision thereof requiring the registration, licensing, or qualification as an investment adviser or supervised person of an investment adviser shall apply to any person—
 
-            (A) that is registered under [section 80b–3 of this title][/us/usc/t15/s80b–3] as an investment adviser, or that is a supervised person of such person, except that a State may license, register, or otherwise qualify any investment adviser representative who has a place of business located within that State; or
+            (A) that is registered under [section 80b–3 of this title][/us/usc/t15/s80b–3] as an investment adviser, or that is a supervised person of such person, except that a State may license, register, or otherwise qualify any investment adviser representative who has a place of business located within that State;
 
-            (B) that is not registered under [section 80b–3 of this title][/us/usc/t15/s80b–3] because that person is excepted from the definition of an investment adviser under [section 80b–2(a)(11) of this title][/us/usc/t15/s80b–2/a/11].
+            (B) that is not registered under [section 80b–3 of this title][/us/usc/t15/s80b–3] because that person is excepted from the definition of an investment adviser under [section 80b–2(a)(11) of this title][/us/usc/t15/s80b–2/a/11]; or
+
+            (C) that is not registered under [section 80b–3 of this title][/us/usc/t15/s80b–3] because that person is exempt from registration as provided in subsection (b)(7) of such section, or is a supervised person of such person.
 
         (2) __Limitation__ 
 
@@ -71,13 +73,15 @@
 
         Upon request of the securities commissioner (or any agency or officer performing like functions) of any State, the Commission may provide such training, technical assistance, or other reasonable assistance in connection with the regulation of investment advisers by the State.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 203A, as added [Pub. L. 104–290, title III, § 303(a)][/us/pl/104/290/s303/a], Oct. 11, 1996, [110 Stat. 3437][/us/stat/110/3437]; amended [Pub. L. 109–290, § 7(b)(1)][/us/pl/109/290/s7/b/1], Sept. 29, 2006, [120 Stat. 1321][/us/stat/120/1321]; [Pub. L. 111–203, title IV, § 410][/us/pl/111/203/s410], July 21, 2010, [124 Stat. 1576][/us/stat/124/1576].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 203A, as added [Pub. L. 104–290, title III, § 303(a)][/us/pl/104/290/s303/a], Oct. 11, 1996, [110 Stat. 3437][/us/stat/110/3437]; amended [Pub. L. 109–290, § 7(b)(1)][/us/pl/109/290/s7/b/1], Sept. 29, 2006, [120 Stat. 1321][/us/stat/120/1321]; [Pub. L. 111–203, title IV, § 410][/us/pl/111/203/s410], July 21, 2010, [124 Stat. 1576][/us/stat/124/1576]; [Pub. L. 114–94, div. G, title LXXIV, § 74003][/us/pl/114/94/s74003], Dec. 4, 2015, [129 Stat. 1786][/us/stat/129/1786].)
 
  __References in Text__ 
 
     The Investment Company Act of 1940, referred to in subsec. (a)(2)(A), is title I of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], [54 Stat. 789][/us/stat/54/789], which is classified generally to subchapter I (§ 80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 80a–51 of this title][/us/usc/t15/s80a–51] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1)(C). [Pub. L. 114–94][/us/pl/114/94] added subpar. (C).
 
     2010—Subsec. (a)(2), (3). [Pub. L. 111–203][/us/pl/111/203] added par. (2) and redesignated former par. (2) as (3).
 
@@ -132,6 +136,7 @@
 [/us/usc/t15/s80b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%933
 [/us/usc/t15/s80b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%933
 [/us/usc/t15/s80b–2/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932%2Fa%2F11
+[/us/usc/t15/s80b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%933
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/pl/104/290/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs303%2Fa
 [/us/stat/110/3437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3437
@@ -139,9 +144,12 @@
 [/us/stat/120/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1321
 [/us/pl/111/203/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs410
 [/us/stat/124/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1576
+[/us/pl/114/94/s74003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs74003
+[/us/stat/129/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1786
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
 [/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

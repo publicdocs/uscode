@@ -183,7 +183,7 @@
 
                  that is extended by a creditor that—
 
-                    (I) operates predominantly in rural or underserved areas;
+                    (I) operates in rural or underserved areas;
 
                     (II) together with all affiliates, has total annual residential mortgage loan originations that do not exceed a limit set by the Bureau;
 
@@ -331,7 +331,7 @@
 
         This section and any regulations promulgated under this section do not apply to an extension of credit relating to a plan described in section 101(53D) of title 11.
 
-([Pub. L. 90–321, title I, § 129C][/us/pl/90/321/s129C], as added and amended [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], title XIV, §§ 1411(a)(2), 1412, 1414(a), (c), (d), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2142, 2145, 2149, 2152.)
+([Pub. L. 90–321, title I, § 129C][/us/pl/90/321/s129C], as added and amended [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], title XIV, §§ 1411(a)(2), 1412, 1414(a), (c), (d), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2142, 2145, 2149, 2152; [Pub. L. 114–94, div. G, title LXXXIX, § 89003(1)][/us/pl/114/94/s89003/1], Dec. 4, 2015, [129 Stat. 1800][/us/stat/129/1800].)
 
  __References in Text__ 
 
@@ -344,6 +344,8 @@
     The Mortgage Reform and Anti-Predatory Lending Act, referred to in subsec. (c)(2)(C), is title XIV of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 2136][/us/stat/124/2136]. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 1601 of this title][/us/usc/t15/s1601] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2)(E)(iv)(I). [Pub. L. 114–94][/us/pl/114/94] struck out “predominantly” after “operates”.
 
     2010—[Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board” wherever appearing.
 
@@ -390,6 +392,8 @@
 [/us/pl/90/321/s129C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs129C
 [/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
+[/us/pl/114/94/s89003/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs89003%2F1
+[/us/stat/129/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1800
 [/us/usc/t15/s1602/aa/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Faa%2F4
 [/us/usc/t15/s1602/bb/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fbb%2F4
 [/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
@@ -402,6 +406,7 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2136
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
 [/us/pl/111/203/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1412
 [/us/pl/111/203/s1414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1414%2Fa

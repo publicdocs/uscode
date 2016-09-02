@@ -121,7 +121,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 701 of Title 49][/us/usc/t49/s701], Transportation.
+    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 1301 of Title 49][/us/usc/t49/s1301], Transportation.
 
  __Effective Date of 1984 Amendments__ 
 
@@ -196,7 +196,7 @@
 [/us/pl/85/791/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs4%2Fd
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403
 [/us/usc/t28/s1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1657

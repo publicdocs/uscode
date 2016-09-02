@@ -71,21 +71,23 @@
 
             (D)
 
-  <sup>\[2\]</sup>  <sup><sup> 2 So in original. There are two subpars. (D). </sup></sup>  a rule or regulation adopted pursuant to [section 77c(b)(2) of this title][/us/usc/t15/s77c/b/2] and such security is—
+             a rule or regulation adopted pursuant to [section 77c(b)(2) of this title][/us/usc/t15/s77c/b/2] and such security is—
 
                 (i) offered or sold on a national securities exchange; or
 
                 (ii) offered or sold to a qualified purchaser, as defined by the Commission pursuant to paragraph (3) with respect to that purchase or sale;
 
-            (D) 2 [section 77c(a) of this title][/us/usc/t15/s77c/a], other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located; or
+            (E) [section 77c(a) of this title][/us/usc/t15/s77c/a], other than the offer or sale of a security that is exempt from such registration pursuant to paragraph (4), (10), or (11) of such section, except that a municipal security that is exempt from such registration pursuant to paragraph (2) of such section is not a covered security with respect to the offer or sale of such security in the State in which the issuer of such security is located;
 
-            (E) Commission rules or regulations issued under section 77d(2) 1 of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) 1 of this title that are in effect on September 1, 1996.
+            (F) Commission rules or regulations issued under section 77d(2) 1 of this title, except that this subparagraph does not prohibit a State from imposing notice filing requirements that are substantially similar to those required by rule or regulation under section 77d(2) 1 of this title that are in effect on September 1, 1996; or
+
+            (G) [section 77d(a)(7) of this title][/us/usc/t15/s77d/a/7].
 
     (c) __Preservation of authority__ 
 
         (1) __Fraud authority__ 
 
-        Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions  <sup>\[3\]</sup>  <sup><sup> 3 So in original. The words “in connection with securities or securities transactions” probably should be part of subpar. (A). </sup></sup> 
+        Consistent with this section, the securities commission (or any agency or office performing like functions) of any State shall retain jurisdiction under the laws of such State to investigate and bring enforcement actions, in connection with securities or securities transactions  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The words “in connection with securities or securities transactions” probably should be part of subpar. (A). </sup></sup> 
 
             (A)
 
@@ -97,7 +99,7 @@
 
             (B)
 
-             in connection to  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “with”. </sup></sup>  a transaction described under section 77d(6) 1 of this title, with respect to—
+             in connection to  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “with”. </sup></sup>  a transaction described under section 77d(6) 1 of this title, with respect to—
 
                 (i) fraud or deceit; or
 
@@ -133,7 +135,7 @@
 
                 Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(1), or will be such a covered security upon completion of the transaction, or is a security of the same issuer that is equal in seniority or that is a senior security to a security that is a covered security pursuant to subsection (b)(1).
 
-            (F)  __ <sup>\[__  __5__  __\]</sup> __  __ <sup><sup> __  __5__  __ So in original. No subpar. (E) has been enacted.__  __ </sup></sup> __  __Fees not permitted on crowdfunded securities__ 
+            (F)  __ <sup>\[__  __4__  __\]</sup> __  __ <sup><sup> __  __4__  __ So in original. No subpar. (E) has been enacted.__  __ </sup></sup> __  __Fees not permitted on crowdfunded securities__ 
 
                 Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(4)(B), or will be such a covered security upon completion of the transaction, except for the securities commission (or any agency or office performing like functions) of the State of the principal place of business of the issuer, or any State in which purchasers of 50 percent or greater of the aggregate amount of the issue are residents, provided that for purposes of this subparagraph, the term “State” includes the District of Columbia and the territories of the United States.
 
@@ -165,7 +167,7 @@
 
             The term “senior security” means any bond, debenture, note, or similar obligation or instrument constituting a security and evidencing indebtedness, and any stock of a class having priority over any other class as to distribution of assets or payment of dividends.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 18, [48 Stat. 85][/us/stat/48/85]; [Pub. L. 104–290, title I, § 102(a)][/us/pl/104/290/s102/a], Oct. 11, 1996, [110 Stat. 3417][/us/stat/110/3417]; [Pub. L. 105–353, title III][/us/pl/105/353], §§ 301(a)(4), 302, Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235], 3237; [Pub. L. 111–203, title IX, § 985(a)(2)][/us/pl/111/203/s985/a/2], July 21, 2010, [124 Stat. 1933][/us/stat/124/1933]; [Pub. L. 112–106, title III, § 305(a)][/us/pl/112/106/s305/a], (b)(2), (c), (d)(2), title IV, § 401(b), Apr. 5, 2012, [126 Stat. 322][/us/stat/126/322], 323, 325.)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 18, [48 Stat. 85][/us/stat/48/85]; [Pub. L. 104–290, title I, § 102(a)][/us/pl/104/290/s102/a], Oct. 11, 1996, [110 Stat. 3417][/us/stat/110/3417]; [Pub. L. 105–353, title III][/us/pl/105/353], §§ 301(a)(4), 302, Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235], 3237; [Pub. L. 111–203, title IX, § 985(a)(2)][/us/pl/111/203/s985/a/2], July 21, 2010, [124 Stat. 1933][/us/stat/124/1933]; [Pub. L. 112–106, title III, § 305(a)][/us/pl/112/106/s305/a], (b)(2), (c), (d)(2), title IV, § 401(b), Apr. 5, 2012, [126 Stat. 322][/us/stat/126/322], 323, 325; [Pub. L. 114–94, div. G, title LXXVI, § 76001(b)][/us/pl/114/94/s76001/b], Dec. 4, 2015, [129 Stat. 1789][/us/stat/129/1789].)
 
  __References in Text__ 
 
@@ -174,6 +176,12 @@
     Section 77d(1), (2), (3), (4), and (6) of this title, referred to in subsecs. (b)(4)(A) to (C), (E) and (c)(1)(B), were redesignated section 77d(a)(1), (2), (3), (4), and (6), respectively, of this title by [Pub. L. 112–106, title II, § 201(b)(1)][/us/pl/112/106/s201/b/1], (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(4)(E). [Pub. L. 114–94, § 76001(b)(1)][/us/pl/114/94/s76001/b/1], which directed amendment of subsec. (b)(4) by redesignating “the second subparagraph (D)” as (E), was executed by making the redesignation for the subpar. (D) relating to [section 77c(a) of this title][/us/usc/t15/s77c/a] to reflect the probable intent of Congress. Former subpar. (E) redesignated (F)
+
+    Subsec. (b)(4)(F). [Pub. L. 114–94, § 76001(b)(1)][/us/pl/114/94/s76001/b/1], redesignated subpar. (E) as (F).
+
+    Subsec. (b)(4)(G). [Pub. L. 114–94, § 76001(b)(2)][/us/pl/114/94/s76001/b/2]–(4), added subpar. (G).
 
     2012—Subsec. (b)(4)(C). [Pub. L. 112–106, § 305(a)(2)][/us/pl/112/106/s305/a/2], added subpar. (C). Former subpar. (C) redesignated (D).
 
@@ -235,6 +243,7 @@
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
 [/us/usc/t15/s77c/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fb%2F2
 [/us/usc/t15/s77c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa
+[/us/usc/t15/s77d/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%2Fa%2F7
 [/us/usc/t15/s77b/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b%2Fa%2F10
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
@@ -247,11 +256,17 @@
 [/us/stat/124/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1933
 [/us/pl/112/106/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs305%2Fa
 [/us/stat/126/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F322
+[/us/pl/114/94/s76001/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs76001%2Fb
+[/us/stat/129/1789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1789
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
 [/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
 [/us/pl/112/106/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs201%2Fb%2F1
 [/us/stat/126/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F314
+[/us/pl/114/94/s76001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs76001%2Fb%2F1
+[/us/usc/t15/s77c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa
+[/us/pl/114/94/s76001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs76001%2Fb%2F1
+[/us/pl/114/94/s76001/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs76001%2Fb%2F2
 [/us/pl/112/106/s305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs305%2Fa%2F2
 [/us/pl/112/106/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs401%2Fb
 [/us/usc/t15/s77c/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fb%2F2

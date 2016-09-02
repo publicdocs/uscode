@@ -93,9 +93,21 @@
 
             Any financial institution that elects to provide the model form developed by the agencies under this subsection shall be deemed to be in compliance with the disclosures required under this section.
 
-([Pub. L. 106–102, title V, § 503][/us/pl/106/102/s503], Nov. 12, 1999, [113 Stat. 1439][/us/stat/113/1439]; [Pub. L. 109–351, title VI, § 609][/us/pl/109/351/s609], title VII, § 728, Oct. 13, 2006, [120 Stat. 1983][/us/stat/120/1983], 2003.)
+    (f) __Exception to annual notice requirement__ 
+
+    A financial institution that—
+
+        (1) provides nonpublic personal information only in accordance with the provisions of subsection (b)(2) or (e) of [section 6802 of this title][/us/usc/t15/s6802] or regulations prescribed under [section 6804(b) of this title][/us/usc/t15/s6804/b], and
+
+        (2) has not changed its policies and practices with regard to disclosing nonpublic personal information from the policies and practices that were disclosed in the most recent disclosure sent to consumers in accordance with this section,
+
+        shall not be required to provide an annual disclosure under this section until such time as the financial institution fails to comply with any criteria described in paragraph (1) or (2).
+
+([Pub. L. 106–102, title V, § 503][/us/pl/106/102/s503], Nov. 12, 1999, [113 Stat. 1439][/us/stat/113/1439]; [Pub. L. 109–351, title VI, § 609][/us/pl/109/351/s609], title VII, § 728, Oct. 13, 2006, [120 Stat. 1983][/us/stat/120/1983], 2003; [Pub. L. 114–94, div. G, title LXXV, § 75001][/us/pl/114/94/s75001], Dec. 4, 2015, [129 Stat. 1787][/us/stat/129/1787].)
 
  __Amendments__ 
+
+    2015—Subsec. (f). [Pub. L. 114–94][/us/pl/114/94] added subsec. (f).
 
     2006—[Pub. L. 109–351][/us/pl/109/351] designated concluding provisions of subsec. (a) as (b), inserted heading, substituted “Disclosures required by subsection (a)” for “Such disclosures”, redesignated former subsec. (b) as (c), and added subsecs. (d) and (e).
 
@@ -118,10 +130,15 @@
 [/us/usc/t15/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6801
 [/us/usc/t15/s1681a/d/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fd%2F2%2FA%2Fiii
 [/us/usc/t15/s6804/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6804%2Fa%2F1
+[/us/usc/t15/s6802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6802
+[/us/usc/t15/s6804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6804%2Fb
 [/us/pl/106/102/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs503
 [/us/stat/113/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1439
 [/us/pl/109/351/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs609
 [/us/stat/120/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1983
+[/us/pl/114/94/s75001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs75001
+[/us/stat/129/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1787
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

@@ -51,13 +51,11 @@
 
          In response to a request by the head of a State or local child support enforcement agency (or a State or local government official authorized by the head of such an agency), if the person making the request certifies to the consumer reporting agency that—
 
-            (A) the consumer report is needed for the purpose of establishing an individual’s capacity to make child support payments or determining the appropriate level of such payments;
+            (A) the consumer report is needed for the purpose of establishing an individual’s capacity to make child support payments, determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment;
 
-            (B) the paternity of the consumer for the child to which the obligation relates has been established or acknowledged by the consumer in accordance with State laws under which the obligation arises (if required by those laws);
+            (B) the parentage of the consumer for the child to which the obligation relates has been established or acknowledged by the consumer in accordance with State laws under which the obligation arises (if required by those laws); and
 
-            (C) the person has provided at least 10 days’ prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and
-
-            (D) the consumer report will be kept confidential, will be used solely for a purpose described in subparagraph (A), and will not be used in connection with any other civil, administrative, or criminal proceeding, or for any other purpose.
+            (C) the consumer report will be kept confidential, will be used solely for a purpose described in subparagraph (A), and will not be used in connection with any other civil, administrative, or criminal proceeding, or for any other purpose.
 
         (5) To an agency administering a State plan under [section 654 of title 42][/us/usc/t42/s654] for use to set an initial or modified child support award.
 
@@ -343,7 +341,7 @@
 
             No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
 
-([Pub. L. 90–321, title VI, § 604][/us/pl/90/321/s604], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1129][/us/stat/84/1129]; amended [Pub. L. 101–73, title IX, § 964(c)][/us/pl/101/73/s964/c], Aug. 9, 1989, [103 Stat. 506][/us/stat/103/506]; [Pub. L. 104–193, title III, § 352][/us/pl/104/193/s352], Aug. 22, 1996, [110 Stat. 2240][/us/stat/110/2240]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208], §§ 2403, 2404(a), (b), 2405, Sept. 30, 1996, [110 Stat. 3009–430][/us/stat/110/3009-430], 3009–431, 3009–433, 3009–434; [Pub. L. 105–107, title III, § 311(a)][/us/pl/105/107/s311/a], Nov. 20, 1997, [111 Stat. 2255][/us/stat/111/2255]; [Pub. L. 105–347][/us/pl/105/347], §§ 2, 3, 6(4), Nov. 2, 1998, [112 Stat. 3208][/us/stat/112/3208], 3210, 3211; [Pub. L. 107–306, title VIII, § 811(b)(8)(A)][/us/pl/107/306/s811/b/8/A], Nov. 27, 2002, [116 Stat. 2426][/us/stat/116/2426]; [Pub. L. 108–159, title II, § 213(c)][/us/pl/108/159/s213/c], title IV, §§ 411(a), 412(f), title VIII, § 811(b), Dec. 4, 2003, [117 Stat. 1979][/us/stat/117/1979], 1999, 2003, 2011; [Pub. L. 108–177, title III, § 361(j)][/us/pl/108/177/s361/j], Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625]; [Pub. L. 109–351, title VII, § 719][/us/pl/109/351/s719], Oct. 13, 2006, [120 Stat. 1998][/us/stat/120/1998]; [Pub. L. 110–161, div. D, title VII, § 743][/us/pl/110/161/s743], Dec. 26, 2007, [121 Stat. 2033][/us/stat/121/2033]; [Pub. L. 111–24, title III, § 302][/us/pl/111/24/s302], May 22, 2009, [123 Stat. 1748][/us/stat/123/1748]; [Pub. L. 111–203, title X, § 1088(a)(2)(A)][/us/pl/111/203/s1088/a/2/A], (4), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
+([Pub. L. 90–321, title VI, § 604][/us/pl/90/321/s604], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1129][/us/stat/84/1129]; amended [Pub. L. 101–73, title IX, § 964(c)][/us/pl/101/73/s964/c], Aug. 9, 1989, [103 Stat. 506][/us/stat/103/506]; [Pub. L. 104–193, title III, § 352][/us/pl/104/193/s352], Aug. 22, 1996, [110 Stat. 2240][/us/stat/110/2240]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208], §§ 2403, 2404(a), (b), 2405, Sept. 30, 1996, [110 Stat. 3009–430][/us/stat/110/3009-430], 3009–431, 3009–433, 3009–434; [Pub. L. 105–107, title III, § 311(a)][/us/pl/105/107/s311/a], Nov. 20, 1997, [111 Stat. 2255][/us/stat/111/2255]; [Pub. L. 105–347][/us/pl/105/347], §§ 2, 3, 6(4), Nov. 2, 1998, [112 Stat. 3208][/us/stat/112/3208], 3210, 3211; [Pub. L. 107–306, title VIII, § 811(b)(8)(A)][/us/pl/107/306/s811/b/8/A], Nov. 27, 2002, [116 Stat. 2426][/us/stat/116/2426]; [Pub. L. 108–159, title II, § 213(c)][/us/pl/108/159/s213/c], title IV, §§ 411(a), 412(f), title VIII, § 811(b), Dec. 4, 2003, [117 Stat. 1979][/us/stat/117/1979], 1999, 2003, 2011; [Pub. L. 108–177, title III, § 361(j)][/us/pl/108/177/s361/j], Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625]; [Pub. L. 109–351, title VII, § 719][/us/pl/109/351/s719], Oct. 13, 2006, [120 Stat. 1998][/us/stat/120/1998]; [Pub. L. 110–161, div. D, title VII, § 743][/us/pl/110/161/s743], Dec. 26, 2007, [121 Stat. 2033][/us/stat/121/2033]; [Pub. L. 111–24, title III, § 302][/us/pl/111/24/s302], May 22, 2009, [123 Stat. 1748][/us/stat/123/1748]; [Pub. L. 111–203, title X, § 1088(a)(2)(A)][/us/pl/111/203/s1088/a/2/A], (4), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087]; [Pub. L. 114–94, div. G, title LXXX, § 80001][/us/pl/114/94/s80001], Dec. 4, 2015, [129 Stat. 1792][/us/stat/129/1792].)
 
  __References in Text__ 
 
@@ -362,6 +360,12 @@
     Section 1179 of such Act, referred to in subsec. (g)(3)(B), probably means section 1179 of the Social Security Act, as added by [section 262(a) of Pub. L. 104–191][/us/pl/104/191/s262/a], title II, Aug. 21, 1996, [110 Stat. 2030][/us/stat/110/2030], which is classified to [section 1320d–8 of Title 42][/us/usc/t42/s1320d–8], The Public Health and Welfare.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(4)(A). [Pub. L. 114–94, § 80001(1)][/us/pl/114/94/s80001/1], substituted “, determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment” for “or determining the appropriate level of such payments”.
+
+    Subsec. (a)(4)(B). [Pub. L. 114–94, § 80001(2)(A)][/us/pl/114/94/s80001/2/A], substituted “parentage” for “paternity” and inserted “and” at end.
+
+    Subsec. (a)(4)(C), (D). [Pub. L. 114–94, § 80001(3)][/us/pl/114/94/s80001/3], (4), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “the person has provided at least 10 days’ prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and”.
 
     2010—Subsec. (b)(1)(B), (3)(A)(ii), (B)(ii). [Pub. L. 111–203, § 1088(a)(2)(A)][/us/pl/111/203/s1088/a/2/A], substituted “Bureau” for “Federal Trade Commission”.
 
@@ -530,6 +534,8 @@
 [/us/stat/123/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1748
 [/us/pl/111/203/s1088/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FA
 [/us/stat/124/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2087
+[/us/pl/114/94/s80001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs80001
+[/us/stat/129/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1792
 [/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
@@ -549,6 +555,9 @@
 [/us/pl/104/191/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs262%2Fa
 [/us/stat/110/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2030
 [/us/usc/t42/s1320d–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%938
+[/us/pl/114/94/s80001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs80001%2F1
+[/us/pl/114/94/s80001/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs80001%2F2%2FA
+[/us/pl/114/94/s80001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs80001%2F3
 [/us/pl/111/203/s1088/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FA
 [/us/pl/111/203/s1088/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F4%2FA
 [/us/usc/t15/s1681s/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s%2Fb

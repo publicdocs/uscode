@@ -137,11 +137,51 @@
 
     For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, [64 Stat. 1265][/us/stat/64/1265], set out under [section 78d of this title][/us/usc/t15/s78d].
 
+ __Improvement of Regulation S–K__ 
+
+[Pub. L. 114–94, div. G, title LXXII, § 72002][/us/pl/114/94/s72002], Dec. 4, 2015, [129 Stat. 1784][/us/stat/129/1784], provided that: 
+
+> “Not later than the end of the 180-day period beginning on the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall take all such actions to revise regulation S–K (17 CFR 229.10 et seq.)—
+
+>     “(1) to further scale or eliminate requirements of regulation S–K, in order to reduce the burden on emerging growth companies, accelerated filers, smaller reporting companies, and other smaller issuers, while still providing all material information to investors;
+
+>     “(2) to eliminate provisions of regulation S–K, required for all issuers, that are duplicative, overlapping, outdated, or unnecessary; and
+
+>     “(3) for which the Commission determines that no further study under section 72203 \[probably means [section 72003 of Pub. L. 114–94][/us/pl/114/94/s72003], set out as a note under [section 77s of this title][/us/usc/t15/s77s]\] is necessary to determine the efficacy of such revisions to regulation S–K.”
+
+ __Forward Incorporation by Reference for Form S–1__ 
+
+[Pub. L. 114–94, div. G, title LXXXIV, § 84001][/us/pl/114/94/s84001], Dec. 4, 2015, [129 Stat. 1797][/us/stat/129/1797], provided that: 
+
+> “Not later than 45 days after the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall revise Form S–1 so as to permit a smaller reporting company (as defined in section 230.405 of title 17, Code of Federal Regulations) to incorporate by reference in a registration statement filed on such form any documents that such company files with the Commission after the effective date of such registration statement.”
+
  __Other Disclosures__ 
 
 [Pub. L. 112–106, title I, § 102(c)][/us/pl/112/106/s102/c], Apr. 5, 2012, [126 Stat. 310][/us/stat/126/310], provided that: 
 
 > “An emerging growth company may comply with section 229.303(a) of title 17, Code of Federal Regulations, or any successor thereto, by providing information required by such section with respect to the financial statements of the emerging growth company for each period presented pursuant to section 7(a) of the Securities Act of 1933 ([15 U.S.C. 77g(a)][/us/usc/t15/s77g/a]). An emerging growth company may comply with section 229.402 of title 17, Code of Federal Regulations, or any successor thereto, by disclosing the same information as any issuer with a market value of outstanding voting and nonvoting common equity held by non-affiliates of less than $75,000,000.”
+
+ __Simplified Disclosure Requirements__ 
+
+[Pub. L. 112–106, title I, § 102(d)][/us/pl/112/106/s102/d], as added by [Pub. L. 114–94, div. G, title LXXI, § 71003][/us/pl/114/94/s71003], Dec. 4, 2015, [129 Stat. 1783][/us/stat/129/1783], provided that: 
+
+> “With respect to an emerging growth company (as such term is defined under section 2 of the Securities Act of 1933 \[[15 U.S.C. 77b][/us/usc/t15/s77b]\]):
+
+>     “(1)  __Requirement to include notice on forms s–1 and f–1__  __.—__ 
+
+>     Not later than 30 days after the date of enactment of this subsection, the Securities and Exchange Commission shall revise its general instructions on Forms S–1 and F–1 to indicate that a registration statement filed (or submitted for confidential review) by an issuer prior to an initial public offering may omit financial information for historical periods otherwise required by regulation S–X (17 CFR 210.1–01 et seq.) as of the time of filing (or confidential submission) of such registration statement, provided that—
+
+>         “(A) the omitted financial information relates to a historical period that the issuer reasonably believes will not be required to be included in the Form S–1 or F–1 at the time of the contemplated offering; and
+
+>         “(B) prior to the issuer distributing a preliminary prospectus to investors, such registration statement is amended to include all financial information required by such regulation S–X at the date of such amendment.
+
+>     “(2)  __Reliance by issuers__  __.—__ 
+
+>     Effective 30 days after the date of enactment of this subsection, an issuer filing a registration statement (or submitting the statement for confidential review) on Form S–1 or Form F–1 may omit financial information for historical periods otherwise required by regulation S–X (17 CFR 210.1–01 et seq.) as of the time of filing (or confidential submission) of such registration statement, provided that—
+
+>         “(A) the omitted financial information relates to a historical period that the issuer reasonably believes will not be required to be included in the Form S–1 or Form F–1 at the time of the contemplated offering; and
+
+>         “(B) prior to the issuer distributing a preliminary prospectus to investors, such registration statement is amended to include all financial information required by such regulation S–X at the date of such amendment.”
 
 ----------
 
@@ -179,8 +219,18 @@
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
+[/us/pl/114/94/s72002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs72002
+[/us/stat/129/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1784
+[/us/pl/114/94/s72003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs72003
+[/us/usc/t15/s77s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77s
+[/us/pl/114/94/s84001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs84001
+[/us/stat/129/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1797
 [/us/pl/112/106/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs102%2Fc
 [/us/stat/126/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F310
 [/us/usc/t15/s77g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77g%2Fa
+[/us/pl/112/106/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs102%2Fd
+[/us/pl/114/94/s71003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs71003
+[/us/stat/129/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1783
+[/us/usc/t15/s77b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b
 
 

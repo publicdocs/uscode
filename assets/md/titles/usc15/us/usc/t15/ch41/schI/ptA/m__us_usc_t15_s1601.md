@@ -63,6 +63,12 @@
 
     [Section 504(a) of Pub. L. 90–321][/us/pl/90/321/s504/a] provided that this part is effective May 29, 1968.
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–94, div. G, title LXXXIX, § 89001][/us/pl/114/94/s89001], Dec. 4, 2015, [129 Stat. 1799][/us/stat/129/1799], provided that: 
+
+> “This title \[amending sections 1639c and 1639d of this title and enacting provisions set out as a note under [section 5512 of Title 12][/us/usc/t12/s5512], Banks and Banking\] may be cited as the ‘Helping Expand Lending Practices in Rural Communities Act of 2015’ or the ‘HELP Rural Communities Act of 2015’.”
+
  __Short Title of 2010 Amendment__ 
 
 [Pub. L. 111–319, § 1][/us/pl/111/319/s1], Dec. 18, 2010, [124 Stat. 3457][/us/stat/124/3457], provided that: 
@@ -345,6 +351,9 @@
 [/us/pl/93/495/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs308
 [/us/usc/t15/s1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1666
 [/us/pl/90/321/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs504%2Fa
+[/us/pl/114/94/s89001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs89001
+[/us/stat/129/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1799
+[/us/usc/t12/s5512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5512
 [/us/pl/111/319/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F319%2Fs1
 [/us/stat/124/3457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3457
 [/us/usc/t15/s1681m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681m

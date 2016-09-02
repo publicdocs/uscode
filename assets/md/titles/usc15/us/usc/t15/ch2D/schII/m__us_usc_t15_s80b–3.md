@@ -285,7 +285,13 @@
 
     (l) __Exemption of venture capital fund advisers__ 
 
-        No investment adviser that acts as an investment adviser solely to 1 or more venture capital funds shall be subject to the registration requirements of this subchapter with respect to the provision of investment advice relating to a venture capital fund. Not later than 1 year after July 21, 2010, the Commission shall issue final rules to define the term “venture capital fund” for purposes of this subsection. The Commission shall require such advisers to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
+        (1) __In general__ 
+
+            No investment adviser that acts as an investment adviser solely to 1 or more venture capital funds shall be subject to the registration requirements of this subchapter with respect to the provision of investment advice relating to a venture capital fund. Not later than 1 year after July 21, 2010, the Commission shall issue final rules to define the term “venture capital fund” for purposes of this subsection. The Commission shall require such advisers to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
+
+        (2) __Advisers of SBICS__ 
+
+            For purposes of this subsection, a venture capital fund includes an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 \[[15 U.S.C. 80a–53][/us/usc/t15/s80a–53]\]).
 
     (m) __Exemption of and reporting by certain private fund advisers__ 
 
@@ -297,11 +303,15 @@
 
             The Commission shall require investment advisers exempted by reason of this subsection to maintain such records and provide to the Commission such annual or other reports as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
 
+        (3) __Advisers of SBICS__ 
+
+            For purposes of this subsection, the assets under management of a private fund that is an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 \[[15 U.S.C. 80–53][/us/usc/t15/s80–53]\]) shall be excluded from the limit set forth in paragraph (1).
+
     (n) __Registration and examination of mid-sized private fund advisers__ 
 
         In prescribing regulations to carry out the requirements of this section with respect to investment advisers acting as investment advisers to mid-sized private funds, the Commission shall take into account the size, governance, and investment strategy of such funds to determine whether they pose systemic risk, and shall provide for registration and examination procedures with respect to the investment advisers of such funds which reflect the level of systemic risk posed by such funds.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 203, [54 Stat. 850][/us/stat/54/850]; [Pub. L. 86–750][/us/pl/86/750], §§ 2–5, Sept. 13, 1960, [74 Stat. 885][/us/stat/74/885], 886; [Pub. L. 91–547, § 24][/us/pl/91/547/s24], Dec. 14, 1970, [84 Stat. 1430][/us/stat/84/1430]; [Pub. L. 94–29, § 29(1)][/us/pl/94/29/s29/1]–(4), June 4, 1975, [89 Stat. 166–169][/us/stat/89/166-169]; [Pub. L. 96–477, title II, § 202][/us/pl/96/477/s202], Oct. 21, 1980, [94 Stat. 2290][/us/stat/94/2290]; [Pub. L. 99–571, title I, § 102(m)][/us/pl/99/571/s102/m], Oct. 28, 1986, [100 Stat. 3220][/us/stat/100/3220]; [Pub. L. 100–181, title VII, § 702][/us/pl/100/181/s702], Dec. 4, 1987, [101 Stat. 1263][/us/stat/101/1263]; [Pub. L. 101–429, title IV, § 401][/us/pl/101/429/s401], Oct. 15, 1990, [104 Stat. 946][/us/stat/104/946]; [Pub. L. 101–550, title II, § 205(b)][/us/pl/101/550/s205/b], (c), Nov. 15, 1990, [104 Stat. 2719][/us/stat/104/2719], 2720; [Pub. L. 104–62, § 5][/us/pl/104/62/s5], Dec. 8, 1995, [109 Stat. 685][/us/stat/109/685]; [Pub. L. 104–290, title III][/us/pl/104/290], §§ 303(b), (d), 305, title V, § 508(d), Oct. 11, 1996, [110 Stat. 3438][/us/stat/110/3438], 3439, 3448; [Pub. L. 105–353, title III, § 301(d)(1)][/us/pl/105/353/s301/d/1], Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 209(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–436; [Pub. L. 107–204, title VI, § 604(b)][/us/pl/107/204/s604/b], (c)(2), July 30, 2002, [116 Stat. 796][/us/stat/116/796]; [Pub. L. 109–291, § 4(b)(3)(C)][/us/pl/109/291/s4/b/3/C], Sept. 29, 2006, [120 Stat. 1337][/us/stat/120/1337]; [Pub. L. 111–203, title IV][/us/pl/111/203], §§ 403, 407, 408, title IX, §§ 925(b), 929P(a)(4), 985(e)(1), July 21, 2010, [124 Stat. 1571][/us/stat/124/1571], 1574, 1575, 1851, 1864, 1935.)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 203, [54 Stat. 850][/us/stat/54/850]; [Pub. L. 86–750][/us/pl/86/750], §§ 2–5, Sept. 13, 1960, [74 Stat. 885][/us/stat/74/885], 886; [Pub. L. 91–547, § 24][/us/pl/91/547/s24], Dec. 14, 1970, [84 Stat. 1430][/us/stat/84/1430]; [Pub. L. 94–29, § 29(1)][/us/pl/94/29/s29/1]–(4), June 4, 1975, [89 Stat. 166–169][/us/stat/89/166-169]; [Pub. L. 96–477, title II, § 202][/us/pl/96/477/s202], Oct. 21, 1980, [94 Stat. 2290][/us/stat/94/2290]; [Pub. L. 99–571, title I, § 102(m)][/us/pl/99/571/s102/m], Oct. 28, 1986, [100 Stat. 3220][/us/stat/100/3220]; [Pub. L. 100–181, title VII, § 702][/us/pl/100/181/s702], Dec. 4, 1987, [101 Stat. 1263][/us/stat/101/1263]; [Pub. L. 101–429, title IV, § 401][/us/pl/101/429/s401], Oct. 15, 1990, [104 Stat. 946][/us/stat/104/946]; [Pub. L. 101–550, title II, § 205(b)][/us/pl/101/550/s205/b], (c), Nov. 15, 1990, [104 Stat. 2719][/us/stat/104/2719], 2720; [Pub. L. 104–62, § 5][/us/pl/104/62/s5], Dec. 8, 1995, [109 Stat. 685][/us/stat/109/685]; [Pub. L. 104–290, title III][/us/pl/104/290], §§ 303(b), (d), 305, title V, § 508(d), Oct. 11, 1996, [110 Stat. 3438][/us/stat/110/3438], 3439, 3448; [Pub. L. 105–353, title III, § 301(d)(1)][/us/pl/105/353/s301/d/1], Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 209(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–436; [Pub. L. 107–204, title VI, § 604(b)][/us/pl/107/204/s604/b], (c)(2), July 30, 2002, [116 Stat. 796][/us/stat/116/796]; [Pub. L. 109–291, § 4(b)(3)(C)][/us/pl/109/291/s4/b/3/C], Sept. 29, 2006, [120 Stat. 1337][/us/stat/120/1337]; [Pub. L. 111–203, title IV][/us/pl/111/203], §§ 403, 407, 408, title IX, §§ 925(b), 929P(a)(4), 985(e)(1), July 21, 2010, [124 Stat. 1571][/us/stat/124/1571], 1574, 1575, 1851, 1864, 1935; [Pub. L. 114–94, div. G, title LXXIV][/us/pl/114/94], §§ 74001, 74002, Dec. 4, 2015, [129 Stat. 1786][/us/stat/129/1786].)
 
  __References in Text__ 
 
@@ -313,9 +323,13 @@
 
     The Securities Exchange Act of 1934, referred to in subsecs. (e)(5), (6) and (i)(1)(A)(i), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title][/us/usc/t15/s78a] and Tables.
 
-    The Investment Company Act of 1940, referred to in subsec. (e)(5), (6) and (i)(1)(A), is title I of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], [54 Stat. 789][/us/stat/54/789], which is classified generally to subchapter I (§ 80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 80a–51 of this title][/us/usc/t15/s80a–51] and Tables.
+    The Investment Company Act of 1940, referred to in subsecs. (e)(5), (6) and (i)(1)(A), is title I of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], [54 Stat. 789][/us/stat/54/789], which is classified generally to subchapter I (§ 80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 80a–51 of this title][/us/usc/t15/s80a–51] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (l). [Pub. L. 114–94, § 74001][/us/pl/114/94/s74001], designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+    Subsec. (m)(3). [Pub. L. 114–94, § 74002][/us/pl/114/94/s74002], added par. (3).
 
     2010—Subsec. (b)(1). [Pub. L. 111–203, § 403(1)][/us/pl/111/203/s403/1], inserted “, other than an investment adviser who acts as an investment adviser to any private fund,” after “any investment adviser”.
 
@@ -508,6 +522,8 @@
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
 [/us/usc/t15/s80b–11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%9311%2Fc
 [/us/usc/t15/s80b–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%9313
+[/us/usc/t15/s80a–53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9353
+[/us/usc/t15/s80–53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80%E2%80%9353
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F850
 [/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
@@ -540,6 +556,8 @@
 [/us/stat/120/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1337
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1571
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1786
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
@@ -555,6 +573,8 @@
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
 [/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
+[/us/pl/114/94/s74001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs74001
+[/us/pl/114/94/s74002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs74002
 [/us/pl/111/203/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs403%2F1
 [/us/pl/111/203/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs403%2F2
 [/us/usc/t15/s80a–53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9353

@@ -15,9 +15,9 @@
 
 ## § 77d. Exempted transactions
 
-    (a)
+    (a) __In general__ 
 
-     The provisions of [section 77e of this title][/us/usc/t15/s77e] shall not apply to—
+    The provisions of [section 77e of this title][/us/usc/t15/s77e] shall not apply to—
 
         (1) transactions by any person other than an issuer, underwriter, or dealer.
 
@@ -57,13 +57,17 @@
 
             (D) the issuer complies with the requirements of [section 77d–1(b) of this title][/us/usc/t15/s77d–1/b].
 
-    (b)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Two subsecs. (b) have been enacted. </sup></sup>  Offers and sales exempt under section 230.506 of title 17, Code of Federal Regulations (as revised pursuant to section 201 of the Jumpstart Our Business Startups Act) shall not be deemed public offerings under the Federal securities laws as a result of general advertising or general solicitation.
+        (7) transactions meeting the requirements of subsection (d).
 
-    (b)
+    (b) __Offers and sales exempt under 17 CFR 230.506__ 
+
+        Offers and sales exempt under section 230.506 of title 17, Code of Federal Regulations (as revised pursuant to section 201 of the Jumpstart Our Business Startups Act) shall not be deemed public offerings under the Federal securities laws as a result of general advertising or general solicitation.
+
+    (c) __Securities offered and sold in compliance with Rule 506 of Regulation D__ 
 
         (1)
 
- 1 With respect to securities offered and sold in compliance with Rule 506 of Regulation D under this subchapter, no person who meets the conditions set forth in paragraph (2) shall be subject to registration as a broker or dealer pursuant to section 78o(a)(1) of this title, <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  solely because—
+         With respect to securities offered and sold in compliance with Rule 506 of Regulation D under this subchapter, no person who meets the conditions set forth in paragraph (2) shall be subject to registration as a broker or dealer pursuant to section 78o(a)(1) of this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  solely because—
 
             (A) that person maintains a platform or mechanism that permits the offer, sale, purchase, or negotiation of or with respect to securities, or permits general solicitations, general advertisements, or similar or related activities by issuers of such securities, whether online, in person, or through any other means;
 
@@ -79,7 +83,7 @@
 
             (B) such person and each person associated with that person does not have possession of customer funds or securities in connection with the purchase or sale of such security; and
 
-            (C) such person is not subject to a statutory disqualification as defined in [section 78c(a)(39) of this title][/us/usc/t15/s78c/a/39] 2 and does not have any person associated with that person subject to such a statutory disqualification.
+            (C) such person is not subject to a statutory disqualification as defined in [section 78c(a)(39) of this title][/us/usc/t15/s78c/a/39] 1 and does not have any person associated with that person subject to such a statutory disqualification.
 
         (3)
 
@@ -89,17 +93,113 @@
 
             (B) the provision of standardized documents to the issuers and investors, so long as such person or entity does not negotiate the terms of the issuance for and on behalf of third parties and issuers are not required to use the standardized documents as a condition of using the service.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 4, [48 Stat. 77][/us/stat/48/77]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 203, [48 Stat. 906][/us/stat/48/906]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title I, § 6, [68 Stat. 684][/us/stat/68/684]; [Pub. L. 88–467, § 12][/us/pl/88/467/s12], Aug. 20, 1964, [78 Stat. 580][/us/stat/78/580]; [Pub. L. 94–29, § 30][/us/pl/94/29/s30], June 4, 1975, [89 Stat. 169][/us/stat/89/169]; [Pub. L. 96–477, title VI, § 602][/us/pl/96/477/s602], Oct. 21, 1980, [94 Stat. 2294][/us/stat/94/2294]; [Pub. L. 111–203, title IX, § 944(a)][/us/pl/111/203/s944/a], July 21, 2010, [124 Stat. 1897][/us/stat/124/1897]; [Pub. L. 112–106, title II, § 201(b)][/us/pl/112/106/s201/b], (c), title III, § 302(a), title IV, § 401(c), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314], 315, 325.)
+    (d) __Certain accredited investor transactions__ 
+
+    The transactions referred to in subsection (a)(7) are transactions meeting the following requirements:
+
+        (1)  __Accredited investor requirement__  __.—__ 
+
+        Each purchaser is an accredited investor, as that term is defined in section 230.501(a) of title 17, Code of Federal Regulations (or any successor regulation).
+
+        (2)  __Prohibition on general solicitation or advertising__  __.—__ 
+
+        Neither the seller, nor any person acting on the seller’s behalf, offers or sells securities by any form of general solicitation or general advertising.
+
+        (3)  __Information requirement__  __.—__ 
+
+        In the case of a transaction involving the securities of an issuer that is neither subject to section 78m or 78o(d) of this title, nor exempt from reporting pursuant to section 240.12g3–2(b) of title 17, Code of Federal Regulations, nor a foreign government (as defined in section 230.405 of title 17, Code of Federal Regulations) eligible to register securities under Schedule B, the seller and a prospective purchaser designated by the seller obtain from the issuer, upon request of the seller, and the seller in all cases makes available to a prospective purchaser, the following information (which shall be reasonably current in relation to the date of resale under this section):
+
+            (A) The exact name of the issuer and the issuer’s predecessor (if any).
+
+            (B) The address of the issuer’s principal executive offices.
+
+            (C) The exact title and class of the security.
+
+            (D) The par or stated value of the security.
+
+            (E) The number of shares or total amount of the securities outstanding as of the end of the issuer’s most recent fiscal year.
+
+            (F) The name and address of the transfer agent, corporate secretary, or other person responsible for transferring shares and stock certificates.
+
+            (G) A statement of the nature of the business of the issuer and the products and services it offers, which shall be presumed reasonably current if the statement is as of 12 months before the transaction date.
+
+            (H) The names of the officers and directors of the issuer.
+
+            (I) The names of any persons registered as a broker, dealer, or agent that shall be paid or given, directly or indirectly, any commission or remuneration for such person’s participation in the offer or sale of the securities.
+
+            (J)
+
+             The issuer’s most recent balance sheet and profit and loss statement and similar financial statements, which shall—
+
+                (i) be for such part of the 2 preceding fiscal years as the issuer has been in operation;
+
+                (ii) be prepared in accordance with generally accepted accounting principles or, in the case of a foreign private issuer, be prepared in accordance with generally accepted accounting principles or the International Financial Reporting Standards issued by the International Accounting Standards Board;
+
+                (iii)
+
+                 be presumed reasonably current if—
+
+                    (I) with respect to the balance sheet, the balance sheet is as of a date less than 16 months before the transaction date; and
+
+                    (II) with respect to the profit and loss statement, such statement is for the 12 months preceding the date of the issuer’s balance sheet; and
+
+                (iv) if the balance sheet is not as of a date less than 6 months before the transaction date, be accompanied by additional statements of profit and loss for the period from the date of such balance sheet to a date less than 6 months before the transaction date.
+
+            (K) To the extent that the seller is a control person with respect to the issuer, a brief statement regarding the nature of the affiliation, and a statement certified by such seller that they have no reasonable grounds to believe that the issuer is in violation of the securities laws or regulations.
+
+        (4)  __Issuers disqualified__  __.—__ 
+
+        The transaction is not for the sale of a security where the seller is an issuer or a subsidiary, either directly or indirectly, of the issuer.
+
+        (5)  __Bad actor prohibition__  __.—__ 
+
+        Neither the seller, nor any person that has been or will be paid (directly or indirectly) remuneration or a commission for their participation in the offer or sale of the securities, including solicitation of purchasers for the seller is subject to an event that would disqualify an issuer or other covered person under Rule 506(d)(1) of Regulation D (17 CFR 230.506(d)(1)) or is subject to a statutory disqualification described under [section 78c(a)(39) of this title][/us/usc/t15/s78c/a/39].
+
+        (6)  __Business requirement__  __.—__ 
+
+        The issuer is engaged in business, is not in the organizational stage or in bankruptcy or receivership, and is not a blank check, blind pool, or shell company that has no specific business plan or purpose or has indicated that the issuer’s primary business plan is to engage in a merger or combination of the business with, or an acquisition of, an unidentified person.
+
+        (7)  __Underwriter prohibition__  __.—__ 
+
+        The transaction is not with respect to a security that constitutes the whole or part of an unsold allotment to, or a subscription or participation by, a broker or dealer as an underwriter of the security or a redistribution.
+
+        (8)  __Outstanding class requirement__  __.—__ 
+
+        The transaction is with respect to a security of a class that has been authorized and outstanding for at least 90 days prior to the date of the transaction.
+
+    (e) __Additional requirements__ 
+
+        (1)  __In general__  __.—__ 
+
+        With respect to an exempted transaction described under subsection (a)(7):
+
+            (A) Securities acquired in such transaction shall be deemed to have been acquired in a transaction not involving any public offering.
+
+            (B) Such transaction shall be deemed not to be a distribution for purposes of [section 77b(a)(11) of this title][/us/usc/t15/s77b/a/11].
+
+            (C) Securities involved in such transaction shall be deemed to be restricted securities within the meaning of Rule 144 (17 CFR 230.144).
+
+        (2)  __Rule of construction__  __.—__ 
+
+        The exemption provided by subsection (a)(7) shall not be the exclusive means for establishing an exemption from the registration requirements of [section 77e of this title][/us/usc/t15/s77e].
+
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 4, [48 Stat. 77][/us/stat/48/77]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 203, [48 Stat. 906][/us/stat/48/906]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title I, § 6, [68 Stat. 684][/us/stat/68/684]; [Pub. L. 88–467, § 12][/us/pl/88/467/s12], Aug. 20, 1964, [78 Stat. 580][/us/stat/78/580]; [Pub. L. 94–29, § 30][/us/pl/94/29/s30], June 4, 1975, [89 Stat. 169][/us/stat/89/169]; [Pub. L. 96–477, title VI, § 602][/us/pl/96/477/s602], Oct. 21, 1980, [94 Stat. 2294][/us/stat/94/2294]; [Pub. L. 111–203, title IX, § 944(a)][/us/pl/111/203/s944/a], July 21, 2010, [124 Stat. 1897][/us/stat/124/1897]; [Pub. L. 112–106, title II, § 201(b)][/us/pl/112/106/s201/b], (c), title III, § 302(a), title IV, § 401(c), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314], 315, 325; [Pub. L. 114–94, div. G, title LXXVI, § 76001(a)][/us/pl/114/94/s76001/a], Dec. 4, 2015, [129 Stat. 1787][/us/stat/129/1787].)
 
  __References in Text__ 
 
     Section 201 of the Jumpstart Our Business Startups Act, referred to in subsec. (b), is [section 201 of Pub. L. 112–106][/us/pl/112/106/s201], which amended this section and enacted provisions set out as a note under this section.
 
-    Section 78o(a)(1) of this title, referred to in subsec. (b)(1), was in the original “[section 15(a)(1) of this title][/us/usc/t15/s15/a/1]” and was translated as meaning section 15(a)(1) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
+    Section 78o(a)(1) of this title, referred to in subsec. (c)(1), was in the original “[section 15(a)(1) of this title][/us/usc/t15/s15/a/1]” and was translated as meaning section 15(a)(1) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
 
-    [Section 78c(a)(39) of this title][/us/usc/t15/s78c/a/39], referrred to in subsec. (b)(2)(C), was in the original “[section 3(a)(39) of this title][/us/usc/t15/s3/a/39]” and was translated as meaning section 3(a)(39) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
+    [Section 78c(a)(39) of this title][/us/usc/t15/s78c/a/39], referrred to in subsec. (c)(2)(C), was in the original “[section 3(a)(39) of this title][/us/usc/t15/s3/a/39]” and was translated as meaning section 3(a)(39) of the Securities Exchange Act of 1934 to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(7). [Pub. L. 114–94, § 76001(a)(1)][/us/pl/114/94/s76001/a/1], added par. (7).
+
+    Subsecs. (b), (c). [Pub. L. 114–94, § 76001(a)(2)][/us/pl/114/94/s76001/a/2], redesignated subsec. (b) relating to securities offered and sold in compliance with Rule 506 of Regulation D as (c).
+
+    Subsecs. (d), (e). [Pub. L. 114–94, § 76001(a)(3)][/us/pl/114/94/s76001/a/3], added subsecs. (d) and (e).
 
     2012—[Pub. L. 112–106, § 201(b)(1)][/us/pl/112/106/s201/b/1], (c)(1), made identical amendments, designating existing provisions as subsec. (a).
 
@@ -250,6 +350,9 @@
 [/us/usc/t15/s77d–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%E2%80%931%2Fa
 [/us/usc/t15/s77d–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%E2%80%931%2Fb
 [/us/usc/t15/s78c/a/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F39
+[/us/usc/t15/s78c/a/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F39
+[/us/usc/t15/s77b/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b%2Fa%2F11
+[/us/usc/t15/s77e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77e
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F77
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
@@ -266,10 +369,15 @@
 [/us/stat/124/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1897
 [/us/pl/112/106/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs201%2Fb
 [/us/stat/126/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F314
+[/us/pl/114/94/s76001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs76001%2Fa
+[/us/stat/129/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1787
 [/us/pl/112/106/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs201
 [/us/usc/t15/s15/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15%2Fa%2F1
 [/us/usc/t15/s78c/a/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F39
 [/us/usc/t15/s3/a/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3%2Fa%2F39
+[/us/pl/114/94/s76001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs76001%2Fa%2F1
+[/us/pl/114/94/s76001/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs76001%2Fa%2F2
+[/us/pl/114/94/s76001/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs76001%2Fa%2F3
 [/us/pl/112/106/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs201%2Fb%2F1
 [/us/pl/112/106/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs401%2Fc
 [/us/pl/112/106/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs201%2Fb%2F1
