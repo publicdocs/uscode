@@ -135,6 +135,18 @@
 
             The Administrator shall not require a permit under this section, nor shall the Administrator directly or indirectly require any State to require a permit, for discharges of stormwater runoff from mining operations or oil and gas exploration, production, processing, or treatment operations or transmission facilities, composed entirely of flows which are from conveyances or systems of conveyances (including but not limited to pipes, conduits, ditches, and channels) used for collecting and conveying precipitation runoff and which are not contaminated by contact with, or do not come into contact with, any overburden, raw material, intermediate products, finished product, byproduct, or waste products located on the site of such operations.
 
+        (3) __Silvicultural activities__ 
+
+            (A) __NPDES permit requirements for silvicultural activities__ 
+
+                The Administrator shall not require a permit under this section nor directly or indirectly require any State to require a permit under this section for a discharge from runoff resulting from the conduct of the following silviculture activities conducted in accordance with standard industry practice: nursery operations, site preparation, reforestation and subsequent cultural treatment, thinning, prescribed burning, pest and fire control, harvesting operations, surface drainage, or road construction and maintenance.
+
+            (B) __Other requirements__ 
+
+                Nothing in this paragraph exempts a discharge from silvicultural activity from any permitting requirement under [section 1344 of this title][/us/usc/t33/s1344], existing permitting requirements under [section 1342 of this title][/us/usc/t33/s1342], or from any other federal law.
+
+            (C) The authorization provided in Section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  1365(a) of this title does not apply to any non-permitting program established under 1342(p)(6)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be preceded by “section”. </sup></sup>  of this title for the silviculture activities listed in 1342(l)(3)(A)  <sup>\[2\]</sup>  of this title, or to any other limitations that might be deemed to apply to the silviculture activities listed in 1342(l)(3)(A)  <sup>\[2\]</sup>  of this title.
+
     (m) __Additional pretreatment of conventional pollutants not required__ 
 
         To the extent a treatment works (as defined in [section 1292 of this title][/us/usc/t33/s1292]) which is publicly owned is not meeting the requirements of a permit issued under this section for such treatment works as a result of inadequate design or operation of such treatment works, the Administrator, in issuing a permit under this section, shall not require pretreatment by a person introducing conventional pollutants identified pursuant to [section 1314(a)(4) of this title][/us/usc/t33/s1314/a/4] into such treatment works other than pretreatment required to assure compliance with pretreatment standards under subsection (b)(8) of this section and [section 1317(b)(1) of this title][/us/usc/t33/s1317/b/1]. Nothing in this subsection shall affect the Administrator’s authority under sections 1317 and 1319 of this title, affect State and local authority under sections 1317(b)(4) and 1370 of this title, relieve such treatment works of its obligations to meet requirements established under this chapter, or otherwise preclude such works from pursuing whatever feasible options are available to meet its responsibility to comply with its permit under this section.
@@ -275,9 +287,11 @@
 
         No permit shall be required under this chapter by the Administrator (or a State, in the case of a permit program approved under subsection (b)) for the discharge of any graywater, bilge water, cooling water, weather deck runoff, oil water separator effluent, or effluent from properly functioning marine engines, or any other discharge that is incidental to the normal operation of a vessel, if the discharge is from a recreational vessel.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title IV, § 402, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 880][/us/stat/86/880]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, [91 Stat. 1577][/us/stat/91/1577], 1588, 1591, 1599, 1600; [Pub. L. 100–4, title IV][/us/pl/100/4], §§ 401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, [101 Stat. 65–67][/us/stat/101/65-67], 69, renumbered § 404(c), [Pub. L. 104–66, title II, § 2021(e)(2)][/us/pl/104/66/s2021/e/2], Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727]; [Pub. L. 102–580, title III, § 364][/us/pl/102/580/s364], Oct. 31, 1992, [106 Stat. 4862][/us/stat/106/4862]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 112(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–224; [Pub. L. 110–288, § 2][/us/pl/110/288/s2], July 29, 2008, [122 Stat. 2650][/us/stat/122/2650].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title IV, § 402, as added [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 880][/us/stat/86/880]; amended [Pub. L. 95–217][/us/pl/95/217], §§ 33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, [91 Stat. 1577][/us/stat/91/1577], 1588, 1591, 1599, 1600; [Pub. L. 100–4, title IV][/us/pl/100/4], §§ 401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, [101 Stat. 65–67][/us/stat/101/65-67], 69, renumbered § 404(c), [Pub. L. 104–66, title II, § 2021(e)(2)][/us/pl/104/66/s2021/e/2], Dec. 21, 1995, [109 Stat. 727][/us/stat/109/727]; [Pub. L. 102–580, title III, § 364][/us/pl/102/580/s364], Oct. 31, 1992, [106 Stat. 4862][/us/stat/106/4862]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 112(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–224; [Pub. L. 110–288, § 2][/us/pl/110/288/s2], July 29, 2008, [122 Stat. 2650][/us/stat/122/2650]; [Pub. L. 113–79, title XII, § 12313][/us/pl/113/79/s12313], Feb. 7, 2014, [128 Stat. 992][/us/stat/128/992].)
 
  __Amendments__ 
+
+    Subsec. (l)(3). [Pub. L. 113–79][/us/pl/113/79] added par. (3).
 
     2008—Subsec. (r). [Pub. L. 110–288][/us/pl/110/288] added subsec. (r).
 
@@ -491,6 +505,8 @@
 [/us/usc/t33/s1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1317
 [/us/usc/t33/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs407
 [/us/usc/t33/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs407
+[/us/usc/t33/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1344
+[/us/usc/t33/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1342
 [/us/usc/t33/s1292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1292
 [/us/usc/t33/s1314/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1314%2Fa%2F4
 [/us/usc/t33/s1317/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1317%2Fb%2F1
@@ -513,6 +529,9 @@
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/110/288/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F288%2Fs2
 [/us/stat/122/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2650
+[/us/pl/113/79/s12313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12313
+[/us/stat/128/992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F992
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/110/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F288
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/102/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580
