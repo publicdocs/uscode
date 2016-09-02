@@ -163,7 +163,7 @@ June 30, 1949, ch. 288, title I, § 101(a), 63 Stat. 379.  </td>
 
  __Ex. Ord. No. 13538. Establishing the President’s Management Advisory Board__ 
 
-    Ex. Ord. No. 13538, Apr. 19, 2010, 75 F.R. 20895, provided:
+    Ex. Ord. No. 13538, Apr. 19, 2010, 75 F.R. 20895, as amended by Ex. Ord. No. 13652, § 4, Sept. 30, 2013, 78 F.R. 61818, provided:
 
     By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -183,7 +183,7 @@ June 30, 1949, ch. 288, title I, § 101(a), 63 Stat. 379.  </td>
 
     (b) All executive departments, agencies, and offices shall provide information and assistance to the PMAB as the Chair may request for purposes of carrying out the PMAB’s functions, to the extent permitted by law.
 
-    (c) The PMAB shall have a staff headed by an Executive Director, who shall be a full-time or permanent part-time Federal employee appointed by the Chair. The Executive Director shall serve as the Designated Federal Officer in accordance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA).
+    (c) The PMAB shall have a staff headed by an Executive Director, who shall be a full-time or permanent part-time Federal employee appointed by the Chair. The PMAB shall also have a Designated Federal Officer (DFO) in accordance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA). The Executive Director may serve as the DFO.
 
     (d) Members of the PMAB shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service ([5 U.S.C. 5701–570][/us/usc/t5/s5701–570]7), consistent with the availability of funds.
 
@@ -203,7 +203,9 @@ June 30, 1949, ch. 288, title I, § 101(a), 63 Stat. 379.  </td>
 
  __Extension of Term of President’s Management Advisory Board__ 
 
-    Term of the President’s Management Advisory Board extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+    Term of President’s Management Advisory Board extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+    Term of President’s Management Advisory Board extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 ----------
 

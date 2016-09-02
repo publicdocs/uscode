@@ -99,7 +99,7 @@
 
         (2)  __Recipients of federal assistance__  __.—__ 
 
-        Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be available for audit by the President, the Comptroller General, and the Commission.
+        Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “to”. </sup></sup>  available for audit by the President, the Comptroller General, and the Commission.
 
 ([Pub. L. 107–217][/us/pl/107/217], Aug. 21, 2002, [116 Stat. 1262][/us/stat/116/1262]; [Pub. L. 110–371, § 2(a)][/us/pl/110/371/s2/a], Oct. 8, 2008, [122 Stat. 4037][/us/stat/122/4037].)
 
