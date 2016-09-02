@@ -31,17 +31,21 @@
 
     (c) __Requirements regarding financial operations; noncompliance with requirements__ 
 
-        (1) The Director shall, in consultation with the Board, ensure that appropriate procedures for fiscal control and fund accounting are established for the financial operations of the Congressional Award Program, and that such operations are administered by personnel with expertise in accounting and financial management. Such personnel may be retained under contract. In carrying out this paragraph, the Director shall ensure that the liabilities of the Board do not in any fiscal year exceed the assets of the Board.
+        (1) The Director shall, in consultation with the Board, ensure that appropriate policies and procedures for fiscal control and accounting are established for the financial operations of the Congressional Award Program, and that such operations are administered by personnel with expertise in accounting and financial management. Such personnel may be retained under contract. In carrying out this paragraph, the Director shall ensure that the liabilities of the Board do not in any fiscal year exceed the assets of the Board.
 
         (2)
 
-            (A) The Comptroller General of the United States shall determine for each fiscal year whether the Director has substantially complied with paragraph (1). The findings made by the Comptroller General under the preceding sentence shall be included in the reports submitted under [section 807(b) of this title][/us/usc/t2/s807/b].
+            (A) The independent public accountant conducting the annual audit of the financial records of the Board pursuant to [section 807(a) of this title][/us/usc/t2/s807/a] shall determine for each fiscal year whether the Director has substantially complied with paragraph (1). The findings made by the independent public accountant under the preceding sentence shall be included in the reports submitted under [section 807(b) of this title][/us/usc/t2/s807/b].
 
             (B) If the Director fails to substantially comply with paragraph (1), the Board shall instruct the Director to take such actions as may be necessary to correct such deficiencies, and shall remove and replace the Director if such deficiencies are not promptly corrected.
 
-([Pub. L. 96–114, title I, § 104][/us/pl/96/114/s104], formerly § 5, Nov. 16, 1979, [93 Stat. 853][/us/stat/93/853]; [Pub. L. 102–457, § 2][/us/pl/102/457/s2], Oct. 23, 1992, [106 Stat. 2265][/us/stat/106/2265]; [Pub. L. 104–208, div. A, title V, § 5401(a)][/us/pl/104/208/s5401/a], Sept. 30, 1996, [110 Stat. 3009–511][/us/stat/110/3009-511]; [Pub. L. 106–63, § 1(c)][/us/pl/106/63/s1/c], Oct. 1, 1999, [113 Stat. 510][/us/stat/113/510]; renumbered title I, § 104, [Pub. L. 106–533, § 1(b)(1)][/us/pl/106/533/s1/b/1], (2), Nov. 22, 2000, [114 Stat. 2553][/us/stat/114/2553]; [Pub. L. 109–143, § 1(a)][/us/pl/109/143/s1/a], (c)(2), Dec. 22, 2005, [119 Stat. 2659][/us/stat/119/2659]; [Pub. L. 111–200, § 2(c)][/us/pl/111/200/s2/c], July 7, 2010, [124 Stat. 1369][/us/stat/124/1369].)
+([Pub. L. 96–114, title I, § 104][/us/pl/96/114/s104], formerly § 5, Nov. 16, 1979, [93 Stat. 853][/us/stat/93/853]; [Pub. L. 102–457, § 2][/us/pl/102/457/s2], Oct. 23, 1992, [106 Stat. 2265][/us/stat/106/2265]; [Pub. L. 104–208, div. A, title V, § 5401(a)][/us/pl/104/208/s5401/a], Sept. 30, 1996, [110 Stat. 3009–511][/us/stat/110/3009-511]; [Pub. L. 106–63, § 1(c)][/us/pl/106/63/s1/c], Oct. 1, 1999, [113 Stat. 510][/us/stat/113/510]; renumbered title I, § 104, [Pub. L. 106–533, § 1(b)(1)][/us/pl/106/533/s1/b/1], (2), Nov. 22, 2000, [114 Stat. 2553][/us/stat/114/2553]; [Pub. L. 109–143, § 1(a)][/us/pl/109/143/s1/a], (c)(2), Dec. 22, 2005, [119 Stat. 2659][/us/stat/119/2659]; [Pub. L. 111–200, § 2(c)][/us/pl/111/200/s2/c], July 7, 2010, [124 Stat. 1369][/us/stat/124/1369]; [Pub. L. 113–188, title IX, § 902(c)(2)][/us/pl/113/188/s902/c/2], Nov. 26, 2014, [128 Stat. 2021][/us/stat/128/2021].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1). [Pub. L. 113–188, § 902(c)(2)(A)][/us/pl/113/188/s902/c/2/A], inserted “policies and” before “procedures” and struck out “fund” before “accounting are established”.
+
+    Subsec. (c)(2)(A). [Pub. L. 113–188, § 902(c)(2)(B)][/us/pl/113/188/s902/c/2/B], substituted “The independent public accountant conducting the annual audit of the financial records of the Board pursuant to [section 807(a) of this title][/us/usc/t2/s807/a]” for “The Comptroller General of the United States” and “the independent public accountant” for “the Comptroller General”.
 
     2010—Subsec. (c)(1). [Pub. L. 111–200, § 2(c)(1)][/us/pl/111/200/s2/c/1], which directed substitution of “in any fiscal year” for “, in any calendar year,” in third sentence, was executed by making the substitution for “, for any calendar year,” to reflect the probable intent of Congress.
 
@@ -59,6 +63,12 @@
 
     1992—Subsec. (c). [Pub. L. 102–457][/us/pl/102/457] added subsec. (c).
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–188, title IX, § 902(c)(3)][/us/pl/113/188/s902/c/3], Nov. 26, 2014, [128 Stat. 2022][/us/stat/128/2022], provided that: 
+
+> “The amendments made by this subsection \[amending this section and [section 807 of this title][/us/usc/t2/s807]\] shall take effect on October 1, 2014.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t2/ch19/schI/m__us_usc_t2_s803.md) | [Next](./../../../../..//us/usc/t2/ch19/schI/m__us_usc_t2_s805.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs804)
@@ -66,6 +76,7 @@
 ----------
 ----------
 
+[/us/usc/t2/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs807%2Fa
 [/us/usc/t2/s807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs807%2Fb
 [/us/pl/96/114/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F114%2Fs104
 [/us/stat/93/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F853
@@ -81,6 +92,11 @@
 [/us/stat/119/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2659
 [/us/pl/111/200/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200%2Fs2%2Fc
 [/us/stat/124/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1369
+[/us/pl/113/188/s902/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs902%2Fc%2F2
+[/us/stat/128/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2021
+[/us/pl/113/188/s902/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs902%2Fc%2F2%2FA
+[/us/pl/113/188/s902/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs902%2Fc%2F2%2FB
+[/us/usc/t2/s807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs807%2Fa
 [/us/pl/111/200/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200%2Fs2%2Fc%2F1
 [/us/pl/111/200/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F200%2Fs2%2Fc%2F2
 [/us/usc/t2/s807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs807%2Fb
@@ -89,5 +105,8 @@
 [/us/pl/106/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F63
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/102/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F457
+[/us/pl/113/188/s902/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs902%2Fc%2F3
+[/us/stat/128/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2022
+[/us/usc/t2/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs807
 
 

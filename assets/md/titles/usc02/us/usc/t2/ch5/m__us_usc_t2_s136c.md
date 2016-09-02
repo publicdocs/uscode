@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    This Act, referred to in text, is [Pub. L. 98–51][/us/pl/98/51], July 14, 1983, [97 Stat. 263][/us/stat/97/263], known as the Legislative Branch Appropriations Act, 1984. For complete classification of this Act to the Code, see Tables.
+    This Act, referred to in text, is [Pub. L. 98–51][/us/pl/98/51], July 14, 1983, [97 Stat. 263][/us/stat/97/263], known as the Legislative Branch Appropriations Act, 1984. See page 36 of Senate Report 98–161, 98th Congress, 1st Session, to accompany H.R. 3135, which became [Pub. L. 98–51][/us/pl/98/51]. For complete classification of this Act to the Code, see Tables.
 
 ----------
 
@@ -35,5 +35,6 @@
 [/us/stat/97/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F276
 [/us/pl/98/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51
 [/us/stat/97/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F263
+[/us/pl/98/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51
 
 

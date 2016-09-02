@@ -83,7 +83,7 @@ SUBCHAPTER I—CONGRESSIONAL AWARD PROGRAM  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs807" data-uslm-ref="/us/usc/t2/s807">807.</a>  </td>
 
-    <td> Audits and evaluation.  </td>
+    <td> Audits.  </td>
 
   </tr>
 
