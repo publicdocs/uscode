@@ -1,0 +1,128 @@
+---
+---
+
+# 36 U.S.C., USLM ref /us/usc/t36/s22104
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch221/m__us_usc_t36_s22103.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch221/m__us_usc_t36_s22105.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs22104)
+
+## § 22104. Powers
+
+The corporation may—
+
+    (1) adopt and amend a constitution, bylaws, and regulations for the management of its property and the regulation of its affairs;
+
+    (2) adopt and alter a corporate seal;
+
+    (3) choose officers, managers, and agents as the activities of the corporation require;
+
+    (4) make contracts;
+
+    (5) acquire, own, lease, encumber, and transfer property as necessary to carry out the purposes of the corporation;
+
+    (6) borrow money, issue instruments of indebtedness, and secure its obligations by granting security interests in its property;
+
+    (7) publish a journal and other publications;
+
+    (8) sue and be sued; and
+
+    (9) do any other act necessary and proper to carry out the purposes of the corporation.
+
+([Pub. L. 105–225][/us/pl/105/225], Aug. 12, 1998, [112 Stat. 1300][/us/stat/112/1300].)
+
+<table>
+
+  <tr>
+
+    <td colspan="3"> 
+
+Historical and Revision Notes  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Revised
+
+Section  </td>
+
+    <td> 
+
+Source (U.S. Code)  </td>
+
+    <td> 
+
+Source (Statutes at Large)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+22104  </td>
+
+    <td> 
+
+36:345 (less perpetual succession).  </td>
+
+    <td> 
+
+Sept. 20, 1950, ch. 958, §§ 5 (less perpetual succession), 11, 64 Stat. 871, 872.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+   </td>
+
+    <td> 
+
+36:351.  </td>
+
+    <td> 
+
+   </td>
+
+  </tr>
+
+</table>
+
+    In this section, the text of 36:351 is omitted as executed and obsolete.
+
+    In clause (1), the words “apply, and administer” are omitted as unnecessary. The words “not inconsistent with the laws of the United States of America or any State in which the corporation is to operate” are omitted as unnecessary.
+
+    In clause (2), the word “use” is omitted as unnecessary.
+
+    In clause (3), the word “activities” is substituted for “business” for consistency in the revised title.
+
+    In clause (4), the words “make contracts” are substituted for “contract and be contracted with” for consistency in the revised title and to eliminate unnecessary words.
+
+    Clause (5) is substituted for “take and hold by lease, gift, purchase, grant, devise, or bequest, in full title, in trust, or otherwise, any property, real or personal, necessary for attaining the objects and carrying into effect the purposes of the corporation” and “transfer and convey real or personal property” for consistency in the revised title and to eliminate unnecessary words. The words “subject however, to applicable provisions of law of any State (A) governing the amount or kind of real and personal property which may be held by, or (B) otherwise limiting or controlling the ownership of real and personal property by a corporation operating in such State” are omitted as unnecessary.
+
+    In clause (6), the words “instruments of indebtedness” are substituted for “bonds”, and the words “secure its obligations by granting security interests in its property” are substituted for “secure the same by mortgage”, for consistency in the revised title. The words “for the purposes of the corporation” and “therefor” are omitted as unnecessary. The words “subject in every case to all applicable provisions of Federal or State laws” are omitted as unnecessary.
+
+    In clause (8), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary and for consistency in the revised title.
+
+----------
+
+[Previous](./../../../../../..//us/usc/t36/stII/ptB/ch221/m__us_usc_t36_s22103.md) | [Next](./../../../../../..//us/usc/t36/stII/ptB/ch221/m__us_usc_t36_s22105.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs22104)
+
+----------
+----------
+
+[/us/pl/105/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F225
+[/us/stat/112/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1300
+
+
