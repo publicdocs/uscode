@@ -33,15 +33,17 @@
 
     (e)  __Duration of Authority__  __.—__ 
 
-    No bonus shall be paid under this section with respect to any enlistment in the armed forces made after December 31, 2014.
+    No bonus shall be paid under this section with respect to any enlistment in the armed forces made after December 31, 2015.
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 624(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–152; amended [Pub. L. 107–107, div. A, title VI, § 614(c)][/us/pl/107/107/s614/c], Dec. 28, 2001, [115 Stat. 1136][/us/stat/115/1136]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VI, § 614(c)][/us/pl/107/314/s614/c], Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568]; [Pub. L. 108–136, div. A, title VI, § 614(c)][/us/pl/108/136/s614/c], Nov. 24, 2003, [117 Stat. 1501][/us/stat/117/1501]; [Pub. L. 108–375, div. A, title VI, § 614(d)][/us/pl/108/375/s614/d], Oct. 28, 2004, [118 Stat. 1948][/us/stat/118/1948]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 624(d), 635, 687(b)(20), Jan. 6, 2006, [119 Stat. 3295][/us/stat/119/3295], 3300, 3330; [Pub. L. 109–364, div. A, title VI, § 614(d)][/us/pl/109/364/s614/d], Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248]; [Pub. L. 110–181, div. A, title VI, § 614(c)][/us/pl/110/181/s614/c], Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 614(d), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI, § 615(4)][/us/pl/111/84/s615/4], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–383, div. A, title VI, § 615(4)][/us/pl/111/383/s615/4], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 615(4)][/us/pl/112/81/s615/4], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 615(4)][/us/pl/112/239/s615/4], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 615(4)][/us/pl/113/66/s615/4], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781].)
+(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 624(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–152; amended [Pub. L. 107–107, div. A, title VI, § 614(c)][/us/pl/107/107/s614/c], Dec. 28, 2001, [115 Stat. 1136][/us/stat/115/1136]; [Pub. L. 107–296, title XVII, § 1704(c)][/us/pl/107/296/s1704/c], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VI, § 614(c)][/us/pl/107/314/s614/c], Dec. 2, 2002, [116 Stat. 2568][/us/stat/116/2568]; [Pub. L. 108–136, div. A, title VI, § 614(c)][/us/pl/108/136/s614/c], Nov. 24, 2003, [117 Stat. 1501][/us/stat/117/1501]; [Pub. L. 108–375, div. A, title VI, § 614(d)][/us/pl/108/375/s614/d], Oct. 28, 2004, [118 Stat. 1948][/us/stat/118/1948]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 624(d), 635, 687(b)(20), Jan. 6, 2006, [119 Stat. 3295][/us/stat/119/3295], 3300, 3330; [Pub. L. 109–364, div. A, title VI, § 614(d)][/us/pl/109/364/s614/d], Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248]; [Pub. L. 110–181, div. A, title VI, § 614(c)][/us/pl/110/181/s614/c], Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 614(d), Oct. 14, 2008, [122 Stat. 4485][/us/stat/122/4485]; [Pub. L. 111–84, div. A, title VI, § 615(4)][/us/pl/111/84/s615/4], Oct. 28, 2009, [123 Stat. 2354][/us/stat/123/2354]; [Pub. L. 111–383, div. A, title VI, § 615(4)][/us/pl/111/383/s615/4], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 615(4)][/us/pl/112/81/s615/4], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 615(4)][/us/pl/112/239/s615/4], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 615(4)][/us/pl/113/66/s615/4], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781]; [Pub. L. 113–291, div. A, title VI, § 615(4)][/us/pl/113/291/s615/4], Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401].)
 
  __Prior Provisions__ 
 
     A prior section 309, [Pub. L. 87–649][/us/pl/87/649], Sept. 7, 1962, [76 Stat. 468][/us/stat/76/468], related to authority of Secretary concerned to provide for additional pay for performance of administrative functions by officers of the National Guard and reserve components, prior to repeal by [Pub. L. 96–107, title IV, § 404(a)(1)][/us/pl/96/107/s404/a/1], (b), Nov. 9, 1979, [93 Stat. 808][/us/stat/93/808], 809, applicable only with respect to administrative functions performed after Sept. 30, 1980.
 
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–291][/us/pl/113/291] substituted “December 31, 2015” for “December 31, 2014”.
 
     2013—Subsec. (e). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -132,10 +134,13 @@
 [/us/stat/126/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1777
 [/us/pl/113/66/s615/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs615%2F4
 [/us/stat/127/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F781
+[/us/pl/113/291/s615/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs615%2F4
+[/us/stat/128/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3401
 [/us/pl/87/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649
 [/us/stat/76/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F468
 [/us/pl/96/107/s404/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs404%2Fa%2F1
 [/us/stat/93/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F808
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

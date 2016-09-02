@@ -39,11 +39,13 @@
 
     (e)  __Termination__  __.—__ 
 
-    No reimbursement may be provided under this section for travel that occurs after December 31, 2014.
+    No reimbursement may be provided under this section for travel that occurs after December 31, 2015.
 
-(Added [Pub. L. 110–181, div. A, title VI, § 631(a)(1)][/us/pl/110/181/s631/a/1], Jan. 28, 2008, [122 Stat. 153][/us/stat/122/153], § 408a; amended [Pub. L. 111–383, div. A, title VI, § 621][/us/pl/111/383/s621], Jan. 7, 2011, [124 Stat. 4238][/us/stat/124/4238]; renumbered § 478a and amended [Pub. L. 112–81, div. A, title VI][/us/pl/112/81], §§ 621, 631(d)(2), Dec. 31, 2011, [125 Stat. 1452][/us/stat/125/1452], 1460; [Pub. L. 112–239, div. A, title VI, § 611(7)][/us/pl/112/239/s611/7], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 611(7)][/us/pl/113/66/s611/7], title X, § 1091(b)(3), Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780], 876.)
+(Added [Pub. L. 110–181, div. A, title VI, § 631(a)(1)][/us/pl/110/181/s631/a/1], Jan. 28, 2008, [122 Stat. 153][/us/stat/122/153], § 408a; amended [Pub. L. 111–383, div. A, title VI, § 621][/us/pl/111/383/s621], Jan. 7, 2011, [124 Stat. 4238][/us/stat/124/4238]; renumbered § 478a and amended [Pub. L. 112–81, div. A, title VI][/us/pl/112/81], §§ 621, 631(d)(2), Dec. 31, 2011, [125 Stat. 1452][/us/stat/125/1452], 1460; [Pub. L. 112–239, div. A, title VI, § 611(7)][/us/pl/112/239/s611/7], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 611(7)][/us/pl/113/66/s611/7], title X, § 1091(b)(3), Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780], 876; [Pub. L. 113–291, div. A, title VI, § 611(7)][/us/pl/113/291/s611/7], Dec. 19, 2014, [128 Stat. 3399][/us/stat/128/3399].)
 
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–291][/us/pl/113/291] substituted “December 31, 2015” for “December 31, 2014”.
 
     2013—Subsec. (e). [Pub. L. 113–66, § 611(7)][/us/pl/113/66/s611/7], substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -82,6 +84,9 @@
 [/us/stat/126/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1776
 [/us/pl/113/66/s611/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs611%2F7
 [/us/stat/127/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F780
+[/us/pl/113/291/s611/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs611%2F7
+[/us/stat/128/3399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3399
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66/s611/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs611%2F7
 [/us/pl/112/239/s611/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs611%2F7
 [/us/pl/113/66/s1091/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F3

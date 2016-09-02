@@ -49,9 +49,13 @@
 
     (g)  __Termination of Authority__  __.—__ 
 
-    No agreement under this section may be entered into after December 31, 2014.
+    No agreement under this section may be entered into after December 31, 2015.
 
-(Added [Pub. L. 113–66, div. A, title VI, § 617(a)][/us/pl/113/66/s617/a], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781].)
+(Added [Pub. L. 113–66, div. A, title VI, § 617(a)][/us/pl/113/66/s617/a], Dec. 26, 2013, [127 Stat. 781][/us/stat/127/781]; amended [Pub. L. 113–291, div. A, title VI, § 614(6)][/us/pl/113/291/s614/6], Dec. 19, 2014, [128 Stat. 3401][/us/stat/128/3401].)
+
+ __Amendments__ 
+
+    2014—Subsec. (g). [Pub. L. 113–291][/us/pl/113/291] substituted “December 31, 2015” for “December 31, 2014”.
 
 ----------
 
@@ -64,5 +68,8 @@
 [/us/usc/t37/s373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs373
 [/us/pl/113/66/s617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs617%2Fa
 [/us/stat/127/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F781
+[/us/pl/113/291/s614/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs614%2F6
+[/us/stat/128/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3401
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

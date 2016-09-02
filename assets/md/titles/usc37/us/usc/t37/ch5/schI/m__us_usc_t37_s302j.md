@@ -17,7 +17,7 @@
 
     (a)  __Accession Bonus Authorized__  __.—__ 
 
-    A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000, and ending on December 31, 2014, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+    A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000, and ending on December 31, 2015, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
     (b)  __Limitation on Amount of Bonus.__  __—__ 
 
@@ -39,9 +39,11 @@
 
     A person who, after signing an agreement under subsection (a), is not commissioned as an officer of the armed forces, does not become and remain certified or licensed as a pharmacist, or does not complete the period of active duty specified in the agreement shall be subject to the repayment provisions of [section 303a(e) of this title][/us/usc/t37/s303a/e].
 
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 628(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–154; amended [Pub. L. 107–314, div. A, title X, § 1062(c)(1)][/us/pl/107/314/s1062/c/1], Dec. 2, 2002, [116 Stat. 2650][/us/stat/116/2650]; [Pub. L. 108–375, div. A, title VI, § 612(g)][/us/pl/108/375/s612/g], Oct. 28, 2004, [118 Stat. 1947][/us/stat/118/1947]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 622(g), 687(b)(12), Jan. 6, 2006, [119 Stat. 3294][/us/stat/119/3294], 3329; [Pub. L. 109–364, div. A, title VI, § 612(g)][/us/pl/109/364/s612/g], Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248]; [Pub. L. 110–181, div. A, title VI, § 612(g)][/us/pl/110/181/s612/g], Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 612(g), Oct. 14, 2008, [122 Stat. 4484][/us/stat/122/4484]; [Pub. L. 111–84, div. A, title VI, § 612(b)(6)][/us/pl/111/84/s612/b/6], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 612(b)(6)][/us/pl/111/383/s612/b/6], Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI, § 612(b)(6)][/us/pl/112/81/s612/b/6], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 612(b)(6)][/us/pl/112/239/s612/b/6], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 612(b)(6)][/us/pl/113/66/s612/b/6], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780].)
+(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 628(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–154; amended [Pub. L. 107–314, div. A, title X, § 1062(c)(1)][/us/pl/107/314/s1062/c/1], Dec. 2, 2002, [116 Stat. 2650][/us/stat/116/2650]; [Pub. L. 108–375, div. A, title VI, § 612(g)][/us/pl/108/375/s612/g], Oct. 28, 2004, [118 Stat. 1947][/us/stat/118/1947]; [Pub. L. 109–163, div. A, title VI][/us/pl/109/163], §§ 622(g), 687(b)(12), Jan. 6, 2006, [119 Stat. 3294][/us/stat/119/3294], 3329; [Pub. L. 109–364, div. A, title VI, § 612(g)][/us/pl/109/364/s612/g], Oct. 17, 2006, [120 Stat. 2248][/us/stat/120/2248]; [Pub. L. 110–181, div. A, title VI, § 612(g)][/us/pl/110/181/s612/g], Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 612(g), Oct. 14, 2008, [122 Stat. 4484][/us/stat/122/4484]; [Pub. L. 111–84, div. A, title VI, § 612(b)(6)][/us/pl/111/84/s612/b/6], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 612(b)(6)][/us/pl/111/383/s612/b/6], Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI, § 612(b)(6)][/us/pl/112/81/s612/b/6], Dec. 31, 2011, [125 Stat. 1449][/us/stat/125/1449]; [Pub. L. 112–239, div. A, title VI, § 612(b)(6)][/us/pl/112/239/s612/b/6], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 612(b)(6)][/us/pl/113/66/s612/b/6], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780]; [Pub. L. 113–291, div. A, title VI, § 612(b)(6)][/us/pl/113/291/s612/b/6], Dec. 19, 2014, [128 Stat. 3400][/us/stat/128/3400].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–291][/us/pl/113/291] substituted “December 31, 2015” for “December 31, 2014”.
 
     2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -107,6 +109,9 @@
 [/us/stat/126/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1776
 [/us/pl/113/66/s612/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs612%2Fb%2F6
 [/us/stat/127/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F780
+[/us/pl/113/291/s612/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs612%2Fb%2F6
+[/us/stat/128/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3400
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

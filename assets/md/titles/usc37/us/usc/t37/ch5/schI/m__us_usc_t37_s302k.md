@@ -41,11 +41,13 @@
 
     (f)  __Termination of Authority__  __.—__ 
 
-    No agreement under this section may be entered into after December 31, 2014.
+    No agreement under this section may be entered into after December 31, 2015.
 
-(Added [Pub. L. 109–364, div. A, title VI, § 617(b)][/us/pl/109/364/s617/b], Oct. 17, 2006, [120 Stat. 2249][/us/stat/120/2249]; amended [Pub. L. 110–181, div. A, title VI, § 612(h)][/us/pl/110/181/s612/h], Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 612(h), Oct. 14, 2008, [122 Stat. 4484][/us/stat/122/4484]; [Pub. L. 111–84, div. A, title VI, § 612(b)(7)][/us/pl/111/84/s612/b/7], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 612(b)(7)][/us/pl/111/383/s612/b/7], Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI, § 612(b)(7)][/us/pl/112/81/s612/b/7], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 612(b)(7)][/us/pl/112/239/s612/b/7], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 612(b)(7)][/us/pl/113/66/s612/b/7], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780].)
+(Added [Pub. L. 109–364, div. A, title VI, § 617(b)][/us/pl/109/364/s617/b], Oct. 17, 2006, [120 Stat. 2249][/us/stat/120/2249]; amended [Pub. L. 110–181, div. A, title VI, § 612(h)][/us/pl/110/181/s612/h], Jan. 28, 2008, [122 Stat. 149][/us/stat/122/149]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 612(h), Oct. 14, 2008, [122 Stat. 4484][/us/stat/122/4484]; [Pub. L. 111–84, div. A, title VI, § 612(b)(7)][/us/pl/111/84/s612/b/7], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 612(b)(7)][/us/pl/111/383/s612/b/7], Jan. 7, 2011, [124 Stat. 4236][/us/stat/124/4236]; [Pub. L. 112–81, div. A, title VI, § 612(b)(7)][/us/pl/112/81/s612/b/7], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 612(b)(7)][/us/pl/112/239/s612/b/7], Jan. 2, 2013, [126 Stat. 1776][/us/stat/126/1776]; [Pub. L. 113–66, div. A, title VI, § 612(b)(7)][/us/pl/113/66/s612/b/7], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780]; [Pub. L. 113–291, div. A, title VI, § 612(b)(7)][/us/pl/113/291/s612/b/7], Dec. 19, 2014, [128 Stat. 3400][/us/stat/128/3400].)
 
  __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–291][/us/pl/113/291] substituted “December 31, 2015” for “December 31, 2014”.
 
     2013—Subsec. (f). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -93,6 +95,9 @@
 [/us/stat/126/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1776
 [/us/pl/113/66/s612/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs612%2Fb%2F7
 [/us/stat/127/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F780
+[/us/pl/113/291/s612/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs612%2Fb%2F7
+[/us/stat/128/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3400
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

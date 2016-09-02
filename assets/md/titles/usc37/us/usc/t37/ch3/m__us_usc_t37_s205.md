@@ -263,11 +263,11 @@ Oct. 12, 1949, ch. 681, § 202 (less proviso of (d)), 63 Stat. 807; Apr. 30, 1
 
  __Inclusion of Senior Enlisted Advisor for the Chairman of the Joint Chiefs of Staff Among Senior Enlisted Members of the Armed Forces__ 
 
-[Pub. L. 109–163, div. A, title VI, § 685(a)][/us/pl/109/163/s685/a], Jan. 6, 2006, [119 Stat. 3325][/us/stat/119/3325], as amended by [Pub. L. 109–364, div. A, title X, § 1071(e)(5)][/us/pl/109/364/s1071/e/5], Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401], provided that:
+[Pub. L. 109–163, div. A, title VI, § 685(a)][/us/pl/109/163/s685/a], Jan. 6, 2006, [119 Stat. 3325][/us/stat/119/3325], as amended by [Pub. L. 109–364, div. A, title X, § 1071(e)(5)][/us/pl/109/364/s1071/e/5], Oct. 17, 2006, [120 Stat. 2401][/us/stat/120/2401]; [Pub. L. 113–291, div. A, title VI, § 603(a)(2)(A)][/us/pl/113/291/s603/a/2/A], Dec. 19, 2014, [128 Stat. 3398][/us/stat/128/3398], provided that:
 
 >     “(1)  __Equal treatment__  __.—__ 
 
->     The rate of basic pay for an enlisted member in the grade E–9 while serving as Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff shall be the same as the rate of basic pay for an enlisted member in that grade while serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard, regardless of cumulative years of service computed under [section 205 of title 37][/us/usc/t37/s205], United States Code.
+>     The rate of basic pay for an enlisted member in the grade E–9 while serving as Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff or as Senior Enlisted Advisor to the Chief of the National Guard Bureau shall be the same as the rate of basic pay for an enlisted member in that grade while serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard, regardless of cumulative years of service computed under [section 205 of title 37][/us/usc/t37/s205], United States Code.
 
 >     “(2)  __Effective date__  __.—__ 
 
@@ -374,6 +374,8 @@ Oct. 12, 1949, ch. 681, § 202 (less proviso of (d)), 63 Stat. 807; Apr. 30, 1
 [/us/stat/119/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3325
 [/us/pl/109/364/s1071/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fe%2F5
 [/us/stat/120/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2401
+[/us/pl/113/291/s603/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fa%2F2%2FA
+[/us/stat/128/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3398
 [/us/usc/t37/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs205
 [/us/usc/t10/s12209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12209
 [/us/usc/t10/s16401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs16401

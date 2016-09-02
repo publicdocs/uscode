@@ -301,6 +301,22 @@ Oct. 12, 1949, ch. 681, § 201(a); May 19, 1952, ch. 310, § 1(a); restated 
 
     For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+ __No Fiscal Year 2015 Increase in Basic Pay for General and Flag Officers__ 
+
+[Pub. L. 113–291, div. A, title VI, § 601][/us/pl/113/291/s601], Dec. 19, 2014, [128 Stat. 3397][/us/stat/128/3397], provided that: 
+
+> “In the case of commissioned officers in the uniformed services in pay grades O–7 through O–10—
+
+>     “(1) [section 203(a)(2) of title 37][/us/usc/t37/s203/a/2], United States Code, shall be applied for rates of basic pay payable for such officers during calendar year 2015 by using the rate of pay for level II of the Executive Schedule in effect during 2014; and
+
+>     “(2) the rates of monthly basic pay payable for such officers shall not increase during calendar year 2015.”
+
+ __Basic Pay Rate Equal Treatment of Chief of the National Guard Bureau__ 
+
+[Pub. L. 113–291, div. A, title VI, § 603(a)(1)][/us/pl/113/291/s603/a/1], Dec. 19, 2014, [128 Stat. 3397][/us/stat/128/3397], provided that: 
+
+> “The rate of basic pay for an officer while serving as the Chief of the National Guard Bureau shall be the same as the rate of basic pay for the officers specified in Footnote 2 of the table entitled ‘commissioned officers’ in section 601(b) of the National Defense Authorization Act for Fiscal Year 2004 ([Public Law 108–136][/us/pl/108/136]; [37 U.S.C. 1009][/us/usc/t37/s1009] note), regardless of cumulative years of service computed under [section 205 of title 37][/us/usc/t37/s205], United States Code.”
+
  __Rate of Pay Increases for Cadets, Midshipmen, and Applicants for Membership in Senior Reserve Officers’ Training Corps__ 
 
 [Pub. L. 95–79, title III, § 302(b)][/us/pl/95/79/s302/b], (c), July 30, 1977, [91 Stat. 326][/us/stat/91/326], 327, provided that:
@@ -574,6 +590,14 @@ Prior to amendment of this section by [Pub. L. 93–419][/us/pl/93/419], pay rat
 [/us/pl/88/132/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F132%2Fs14
 [/us/usc/t37/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs201
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/113/291/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs601
+[/us/stat/128/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3397
+[/us/usc/t37/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs203%2Fa%2F2
+[/us/pl/113/291/s603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs603%2Fa%2F1
+[/us/stat/128/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3397
+[/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/usc/t37/s1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs1009
+[/us/usc/t37/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs205
 [/us/pl/95/79/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F79%2Fs302%2Fb
 [/us/stat/91/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F326
 [/us/usc/t37/s209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs209%2Fc

@@ -91,11 +91,13 @@
 
     (h)  __Termination of Authority__  __.—__ 
 
-    No agreement may be entered into under this section after December 31, 2014.
+    No agreement may be entered into under this section after December 31, 2015.
 
-(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)][/us/pl/110/181/s661/a/2], Jan. 28, 2008, [122 Stat. 163][/us/stat/122/163]; amended [Pub. L. 111–84, div. A, title VI, § 614(1)][/us/pl/111/84/s614/1], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 614(1)][/us/pl/111/383/s614/1], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 614(1)][/us/pl/112/81/s614/1], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 614(1)][/us/pl/112/239/s614/1], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 614(1)][/us/pl/113/66/s614/1], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780].)
+(Added [Pub. L. 110–181, div. A, title VI, § 661(a)(2)][/us/pl/110/181/s661/a/2], Jan. 28, 2008, [122 Stat. 163][/us/stat/122/163]; amended [Pub. L. 111–84, div. A, title VI, § 614(1)][/us/pl/111/84/s614/1], Oct. 28, 2009, [123 Stat. 2353][/us/stat/123/2353]; [Pub. L. 111–383, div. A, title VI, § 614(1)][/us/pl/111/383/s614/1], Jan. 7, 2011, [124 Stat. 4237][/us/stat/124/4237]; [Pub. L. 112–81, div. A, title VI, § 614(1)][/us/pl/112/81/s614/1], Dec. 31, 2011, [125 Stat. 1450][/us/stat/125/1450]; [Pub. L. 112–239, div. A, title VI, § 614(1)][/us/pl/112/239/s614/1], Jan. 2, 2013, [126 Stat. 1777][/us/stat/126/1777]; [Pub. L. 113–66, div. A, title VI, § 614(1)][/us/pl/113/66/s614/1], Dec. 26, 2013, [127 Stat. 780][/us/stat/127/780]; [Pub. L. 113–291, div. A, title VI, § 614(1)][/us/pl/113/291/s614/1], Dec. 19, 2014, [128 Stat. 3400][/us/stat/128/3400].)
 
  __Amendments__ 
+
+    2014—Subsec. (h). [Pub. L. 113–291][/us/pl/113/291] substituted “December 31, 2015” for “December 31, 2014”.
 
     2013—Subsec. (h). [Pub. L. 113–66][/us/pl/113/66] substituted “December 31, 2014” for “December 31, 2013”.
 
@@ -128,6 +130,9 @@
 [/us/stat/126/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1777
 [/us/pl/113/66/s614/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs614%2F1
 [/us/stat/127/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F780
+[/us/pl/113/291/s614/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs614%2F1
+[/us/stat/128/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3400
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
