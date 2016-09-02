@@ -17,13 +17,13 @@
 
     (a)  __In General__  __.—__ 
 
-    The authority of the Secretary of Transportation to provide insurance and reinsurance under any provision of this chapter other than section 44305 is not effective after the date specified in section 106(3) of the Continuing Appropriations Act, 2014.
+    The authority of the Secretary of Transportation to provide insurance and reinsurance under any provision of this chapter other than section 44305 is not effective after September 30, 2014.
 
     (b)  __Insurance of United States Government Property__  __.—__ 
 
     The authority of the Secretary of Transportation to provide insurance and reinsurance for a department, agency, or instrumentality of the United States Government under section 44305 is not effective after December 31, 2018.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1173][/us/stat/108/1173]; [Pub. L. 105–85, div. A, title X, § 1088(a)][/us/pl/105/85/s1088/a], Nov. 18, 1997, [111 Stat. 1921][/us/stat/111/1921]; [Pub. L. 105–137, § 5(a)][/us/pl/105/137/s5/a], Dec. 2, 1997, [111 Stat. 2641][/us/stat/111/2641]; [Pub. L. 105–277, div. C, title I, § 110(c)(2)][/us/pl/105/277/s110/c/2], Oct. 21, 1998, [112 Stat. 2681–588][/us/stat/112/2681-588]; [Pub. L. 106–6, § 6][/us/pl/106/6/s6], Mar. 31, 1999, [113 Stat. 10][/us/stat/113/10]; [Pub. L. 106–31, title VI, § 6002(f)][/us/pl/106/31/s6002/f], May 21, 1999, [113 Stat. 113][/us/stat/113/113]; [Pub. L. 106–181, title VII, § 711][/us/pl/106/181/s711], Apr. 5, 2000, [114 Stat. 160][/us/stat/114/160]; [Pub. L. 108–11, title IV, § 4001(c)][/us/pl/108/11/s4001/c], Apr. 16, 2003, [117 Stat. 606][/us/stat/117/606]; [Pub. L. 108–176, title I, § 106(d)][/us/pl/108/176/s106/d], Dec. 12, 2003, [117 Stat. 2499][/us/stat/117/2499]; [Pub. L. 110–181, div. A, title III, § 378][/us/pl/110/181/s378], Jan. 28, 2008, [122 Stat. 85][/us/stat/122/85]; [Pub. L. 113–46, div. A, § 154][/us/pl/113/46/s154], Oct. 17, 2013, [127 Stat. 565][/us/stat/127/565]; [Pub. L. 113–66, div. A, title X, § 1093][/us/pl/113/66/s1093], Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1173][/us/stat/108/1173]; [Pub. L. 105–85, div. A, title X, § 1088(a)][/us/pl/105/85/s1088/a], Nov. 18, 1997, [111 Stat. 1921][/us/stat/111/1921]; [Pub. L. 105–137, § 5(a)][/us/pl/105/137/s5/a], Dec. 2, 1997, [111 Stat. 2641][/us/stat/111/2641]; [Pub. L. 105–277, div. C, title I, § 110(c)(2)][/us/pl/105/277/s110/c/2], Oct. 21, 1998, [112 Stat. 2681–588][/us/stat/112/2681-588]; [Pub. L. 106–6, § 6][/us/pl/106/6/s6], Mar. 31, 1999, [113 Stat. 10][/us/stat/113/10]; [Pub. L. 106–31, title VI, § 6002(f)][/us/pl/106/31/s6002/f], May 21, 1999, [113 Stat. 113][/us/stat/113/113]; [Pub. L. 106–181, title VII, § 711][/us/pl/106/181/s711], Apr. 5, 2000, [114 Stat. 160][/us/stat/114/160]; [Pub. L. 108–11, title IV, § 4001(c)][/us/pl/108/11/s4001/c], Apr. 16, 2003, [117 Stat. 606][/us/stat/117/606]; [Pub. L. 108–176, title I, § 106(d)][/us/pl/108/176/s106/d], Dec. 12, 2003, [117 Stat. 2499][/us/stat/117/2499]; [Pub. L. 110–181, div. A, title III, § 378][/us/pl/110/181/s378], Jan. 28, 2008, [122 Stat. 85][/us/stat/122/85]; [Pub. L. 113–46, div. A, § 154][/us/pl/113/46/s154], Oct. 17, 2013, [127 Stat. 565][/us/stat/127/565]; [Pub. L. 113–66, div. A, title X, § 1093][/us/pl/113/66/s1093], Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878]; [Pub. L. 113–76, div. L, title I, § 119E(c)][/us/pl/113/76/s119E/c], Jan. 17, 2014, [128 Stat. 582][/us/stat/128/582].)
 
 <table>
 
@@ -73,11 +73,9 @@ Aug. 23, 1958, Pub. L. 85–726, § 1312, 72 Stat. 806; July 20, 1961, Pub. L.
 
     The words “is not effective after” are substituted for “shall expire at the termination of” for clarity and consistency in the revised title.
 
- __References in Text__ 
-
-    The date specified in section 106(3) of the Continuing Appropriations Act, 2014, referred to in text, is the date specified in [section 106(3) of div. A of Pub. L. 113–46][/us/pl/113/46/s106/3], Oct. 17, 2013, [127 Stat. 559][/us/stat/127/559], which is Jan. 15, 2014.
-
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–76][/us/pl/113/76] substituted “September 30, 2014” for “the date specified in section 106(3) of the Continuing Appropriations Act, 2014”.
 
     2013—[Pub. L. 113–66][/us/pl/113/66] designated existing provisions as subsec. (a), inserted heading and substituted in text “any provision of this chapter other than section 4430” for “this chapter”, and added subsec. (b).
 
@@ -156,8 +154,9 @@ Aug. 23, 1958, Pub. L. 85–726, § 1312, 72 Stat. 806; July 20, 1961, Pub. L.
 [/us/stat/127/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F565
 [/us/pl/113/66/s1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1093
 [/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
-[/us/pl/113/46/s106/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2Fs106%2F3
-[/us/stat/127/559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F559
+[/us/pl/113/76/s119E/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs119E%2Fc
+[/us/stat/128/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F582
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/113/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181

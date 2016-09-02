@@ -19,7 +19,7 @@
 
         (1)  __In general__  __.—__ 
 
-        A person that violates any of section 30112, 30115, 30117 through 30122, 30123(d), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  30125(c), 30127, 30141 through 30147, or 31137, or a regulation prescribed thereunder, is liable to the United States Government for a civil penalty of not more than $5,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $15,000,000.
+        A person that violates any of section 30112, 30115, 30117 through 30122, 30123(a), 30125(c), 30127, 30141 through 30147, or 31137, or a regulation prescribed thereunder, is liable to the United States Government for a civil penalty of not more than $5,000 for each violation. A separate violation occurs for each motor vehicle or item of motor vehicle equipment and for each failure or refusal to allow or perform an act required by any of those sections. The maximum penalty under this subsection for a related series of violations is $35,000,000.
 
         (2) __School buses.—__ 
 
@@ -37,7 +37,7 @@
 
         (3)  __Section 30166__  __.—__ 
 
-        Except as provided in paragraph (4), a person who violates section 30166 or a regulation prescribed under that section is liable to the United States Government for a civil penalty for failing or refusing to allow or perform an act required under that section or regulation. The maximum penalty under this paragraph is $5,000 per violation per day. The maximum penalty under this paragraph for a related series of daily violations is $15,000,000.
+        Except as provided in paragraph (4), a person who violates section 30166 or a regulation prescribed under that section is liable to the United States Government for a civil penalty for failing or refusing to allow or perform an act required under that section or regulation. The maximum penalty under this paragraph is $5,000 per violation per day. The maximum penalty under this paragraph for a related series of daily violations is $35,000,000.
 
         (4)  __False or misleading reports__  __.—__ 
 
@@ -49,49 +49,33 @@
 
         (2) The Government may deduct the amount of a civil penalty imposed or compromised under this section from amounts it owes the person liable for the penalty.
 
-    (c)  __Considerations__  __.—__ 
+    (c)  __Relevant Factors in Determining Amount of Penalty or Compromise__  __.—__ 
 
-    In determining the amount of a civil penalty or compromise, the appropriateness of the penalty or compromise to the size of the business of the person charged and the gravity of the violation shall be considered.
+    In determining the amount of a civil penalty or compromise under this section, the Secretary of Transportation shall consider the nature, circumstances, extent, and gravity of the violation. Such determination shall include, as appropriate—
+
+        (1) the nature of the defect or noncompliance;
+
+        (2) knowledge by the person charged of its obligations under this chapter;
+
+        (3) the severity of the risk of injury;
+
+        (4) the occurrence or absence of injury;
+
+        (5) the number of motor vehicles or items of motor vehicle equipment distributed with the defect or noncompliance;
+
+        (6) actions taken by the person charged to identify, investigate, or mitigate the condition;
+
+        (7) the appropriateness of such penalty in relation to the size of the business of the person charged, including the potential for undue adverse economic impacts;
+
+        (8) whether the person has been assessed civil penalties under this section during the most recent 5 years; and
+
+        (9) other appropriate factors.
 
     (d)  __Subpenas for Witnesses__  __.—__ 
 
     In a civil action brought under this section, a subpena for a witness may be served in any judicial district.
 
 ([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 968][/us/stat/108/968]; [Pub. L. 103–429, § 6(23)][/us/pl/103/429/s6/23], Oct. 31, 1994, [108 Stat. 4380][/us/stat/108/4380]; [Pub. L. 106–414, § 5(a)][/us/pl/106/414/s5/a], Nov. 1, 2000, [114 Stat. 1803][/us/stat/114/1803]; [Pub. L. 109–59, title X, § 10309(c)][/us/pl/109/59/s10309/c], Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141], §§ 31203(a), 31304(b), title II, § 32301(c), July 6, 2012, [126 Stat. 758][/us/stat/126/758], 764, 788.)
-
- __Amendment of Subsections (a) and (c)__ 
-
-[Pub. L. 112–141, § 3][/us/pl/112/141/s3], div. C, title I, § 31203(a), (c), July 6, 2012, [126 Stat. 413][/us/stat/126/413], 758, provided that, effective on the date that is the earlier of the date on which final regulations are issued under [section 31203(b) of Pub. L. 112–141][/us/pl/112/141/s31203/b] (set out as a note below) or 1 year after the date of enactment of this Act (see section 3(a), (b) of [Pub. L. 112–141][/us/pl/112/141], set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23][/us/usc/t23/s101], Highways), this section is amended as follows:
-
-    (1) in subsection (a)—
-
-    (A) in paragraph (1), by striking “30123(d)” and inserting “30123(a)” and by striking “$15,000,000” and inserting “$35,000,000”; and
-
-    (B) in paragraph (3), by striking “$15,000,000” and inserting “$35,000,000”; and
-
-    (2) by amending subsection (c) to read as follows:
-
-    (c) Relevant Factors in Determining Amount of Penalty or Compromise.—In determining the amount of a civil penalty or compromise under this section, the Secretary of Transportation shall consider the nature, circumstances, extent, and gravity of the violation. Such determination shall include, as appropriate—
-
-    (1) the nature of the defect or noncompliance;
-
-    (2) knowledge by the person charged of its obligations under this chapter;
-
-    (3) the severity of the risk of injury;
-
-    (4) the occurrence or absence of injury;
-
-    (5) the number of motor vehicles or items of motor vehicle equipment distributed with the defect or noncompliance;
-
-    (6) actions taken by the person charged to identify, investigate, or mitigate the condition;
-
-    (7) the appropriateness of such penalty in relation to the size of the business of the person charged, including the potential for undue adverse economic impacts;
-
-    (8) whether the person has been assessed civil penalties under this section during the most recent 5 years; and
-
-    (9) other appropriate factors.
-
-    See 2012 Amendment notes below.
 
 <table>
 
@@ -215,10 +199,6 @@ Sept. 9, 1966, Pub. L. 89–563, §§ 109(b), 110(d) (related to § 109), 20
 
     This amends 49:30141(c)(4)(A) and 30165(a) to correct erroneous cross-references.
 
- __References in Text__ 
-
-    [Section 30123(d) of this title][/us/usc/t49/s30123/d], referred to in subsec. (a)(1), was redesignated [section 30123(a) of this title][/us/usc/t49/s30123/a] by [Pub. L. 105–178, title VII, § 7106(b)][/us/pl/105/178/s7106/b], June 9, 1998, [112 Stat. 467][/us/stat/112/467].
-
  __Amendments__ 
 
     2012—Subsec. (a)(1). [Pub. L. 112–141, § 32301(c)][/us/pl/112/141/s32301/c], substituted “30141 through 30147, or 31137” for “or 30141 through 30147”.
@@ -277,17 +257,8 @@ Sept. 9, 1966, Pub. L. 89–563, §§ 109(b), 110(d) (related to § 109), 20
 [/us/stat/119/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1942
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F758
-[/us/pl/112/141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3
-[/us/stat/126/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F413
-[/us/pl/112/141/s31203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31203%2Fb
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 [/us/usc/t49/s1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1397
 [/us/pl/103/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F429
-[/us/usc/t49/s30123/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30123%2Fd
-[/us/usc/t49/s30123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30123%2Fa
-[/us/pl/105/178/s7106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs7106%2Fb
-[/us/stat/112/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F467
 [/us/pl/112/141/s32301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs32301%2Fc
 [/us/pl/112/141/s31203/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31203%2Fa%2F1%2FA
 [/us/pl/112/141/s31304/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31304%2Fb%2F1

@@ -17,7 +17,7 @@
 
     (a)  __Establishment__  __.—__ 
 
-    There is established in the Research and Innovative Technology Administration an Office of Intermodalism.
+    There is established in the Office of the Assistant Secretary for Research and Technology of the Department of Transportation an Office of Intermodalism.
 
     (b)  __Director__  __.—__ 
 
@@ -105,7 +105,7 @@
 
     There is authorized to be appropriated to the Secretary of Transportation such sums as may be necessary for fiscal years 2006 through 2009 to carry out this chapter.
 
-([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 850][/us/stat/108/850]; [Pub. L. 105–178, title V, § 5109(b)][/us/pl/105/178/s5109/b], June 9, 1998, [112 Stat. 440][/us/stat/112/440]; [Pub. L. 108–426, § 4(c)][/us/pl/108/426/s4/c], Nov. 30, 2004, [118 Stat. 2425][/us/stat/118/2425]; [Pub. L. 109–59, title IV, § 4149][/us/pl/109/59/s4149], Aug. 10, 2005, [119 Stat. 1750][/us/stat/119/1750]; [Pub. L. 110–244, title III, § 301(k)][/us/pl/110/244/s301/k], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616].)
+([Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 850][/us/stat/108/850]; [Pub. L. 105–178, title V, § 5109(b)][/us/pl/105/178/s5109/b], June 9, 1998, [112 Stat. 440][/us/stat/112/440]; [Pub. L. 108–426, § 4(c)][/us/pl/108/426/s4/c], Nov. 30, 2004, [118 Stat. 2425][/us/stat/118/2425]; [Pub. L. 109–59, title IV, § 4149][/us/pl/109/59/s4149], Aug. 10, 2005, [119 Stat. 1750][/us/stat/119/1750]; [Pub. L. 110–244, title III, § 301(k)][/us/pl/110/244/s301/k], June 6, 2008, [122 Stat. 1616][/us/stat/122/1616]; [Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 574][/us/stat/128/574].)
 
 <table>
 
@@ -187,6 +187,10 @@ Dec. 18, 1991, Pub. L. 102–240, § 5002(c), 105 Stat. 2158.  </td>
 
     “(2) The Director shall make information from the data base available to the public.”
 
+ __Change of Name__ 
+
+    “Office of the Assistant Secretary for Research and Technology of the Department of Transportation” substituted for “Research and Innovative Technology Administration” in subsec. (a) on authority of title I of div. L of [Pub. L. 113–76][/us/pl/113/76], set out in part as a note under [section 112 of this title][/us/usc/t49/s112].
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t49/stIII/ch55/schI/m__us_usc_t49_s5502.md) | [Next](./../../../../../..//us/usc/t49/stIII/ch55/schI/m__us_usc_t49_s5504.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5503)
@@ -207,6 +211,8 @@ Dec. 18, 1991, Pub. L. 102–240, § 5002(c), 105 Stat. 2158.  </td>
 [/us/stat/119/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1750
 [/us/pl/110/244/s301/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs301%2Fk
 [/us/stat/122/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1616
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F574
 [/us/pl/102/240/s6009/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs6009%2Fb
 [/us/usc/t23/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs508
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
@@ -218,5 +224,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 5002(c), 105 Stat. 2158.  </td>
 [/us/pl/109/59/s4149/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4149%2F2
 [/us/pl/108/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F426
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/usc/t49/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs112
 
 
