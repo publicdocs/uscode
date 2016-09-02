@@ -17,7 +17,7 @@
 
     (a) __Supersedure; effective date__ 
 
-        Except as provided in subsection (b) of this section, the provisions of this subchapter and subchapter III of this chapter shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in [section 1003(a) of this title][/us/usc/t29/s1003/a] and not exempt under [section 1003(b) of this title][/us/usc/t29/s1003/b]. This section shall take effect on January 1, 1975.
+        Except as provided in subsection (b) of this section, the provisions of this subchapter and subchapter III shall supersede any and all State laws insofar as they may now or hereafter relate to any employee benefit plan described in [section 1003(a) of this title][/us/usc/t29/s1003/a] and not exempt under [section 1003(b) of this title][/us/usc/t29/s1003/b]. This section shall take effect on January 1, 1975.
 
     (b) __Construction and application__ 
 

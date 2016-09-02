@@ -85,7 +85,7 @@
 
         (9) The making by a fiduciary of a distribution of the assets of the plan in accordance with the terms of the plan if such assets are distributed in the same manner as provided under [section 1344 of this title][/us/usc/t29/s1344] (relating to allocation of assets).
 
-        (10) Any transaction required or permitted under part 1 of subtitle E of subchapter III of this chapter.
+        (10) Any transaction required or permitted under part 1 of subtitle E of subchapter III.
 
         (11) A merger of multiemployer plans, or the transfer of assets or liabilities between multiemployer plans, determined by the Pension Benefit Guaranty Corporation to meet the requirements of [section 1411 of this title][/us/usc/t29/s1411].
 

@@ -187,7 +187,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs218a" data-uslm-ref="/us/usc/t29/s218a">218a.</a>  </td>
 
-    <td> Automatic enrollment for employees of large employers.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

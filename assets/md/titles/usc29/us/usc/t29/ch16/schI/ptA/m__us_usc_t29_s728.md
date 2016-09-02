@@ -17,11 +17,11 @@
 
     (a) __Expenditure__ 
 
-        Amounts described in subsection (b) of this section may not be expended by a State for any purpose other than carrying out programs for which the State receives financial assistance under this subchapter, under subchapter VI of this chapter, or under subchapter VII of this chapter.
+        Amounts described in subsection (b) may not be expended by a State for any purpose other than carrying out programs for which the State receives financial assistance under this subchapter, under subchapter VI, or under subchapter VII.
 
     (b) __Amounts__ 
 
-        The amounts referred to in subsection (a) of this section are amounts provided to a State under the Social Security Act ([42 U.S.C. 301][/us/usc/t42/s301] et seq.) as reimbursement for the expenditure of payments received by the State from allotments under [section 730 of this title][/us/usc/t29/s730].
+        The amounts referred to in subsection (a) are amounts provided to a State under the Social Security Act ([42 U.S.C. 301][/us/usc/t42/s301] et seq.) as reimbursement for the expenditure of payments received by the State from allotments under [section 730 of this title][/us/usc/t29/s730].
 
 ([Pub. L. 93–112, title I, § 108][/us/pl/93/112/s108], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1160][/us/stat/112/1160]; amended [Pub. L. 113–128, title IV, § 417(b)][/us/pl/113/128/s417/b], July 22, 2014, [128 Stat. 1655][/us/stat/128/1655].)
 

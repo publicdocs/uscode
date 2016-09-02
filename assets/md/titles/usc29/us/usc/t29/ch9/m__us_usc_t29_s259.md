@@ -19,7 +19,7 @@
 
     (b)
 
-     The agency referred to in subsection (a) of this section shall be—
+     The agency referred to in subsection (a) shall be—
 
         (1) in the case of the Fair Labor Standards Act of 1938, as amended \[[29 U.S.C. 201][/us/usc/t29/s201] et seq.\]—the Administrator of the Wage and Hour Division of the Department of Labor;
 

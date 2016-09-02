@@ -17,7 +17,7 @@
 
     (a) __Findings__ 
 
-    With respect to the programs authorized in subchapters II through VII of this chapter, the Congress finds as follows:
+    With respect to the programs authorized in subchapters II through VII, the Congress finds as follows:
 
         (1) __Racial profile__ 
 
@@ -45,13 +45,13 @@
 
         (1) __In general__ 
 
-            For each fiscal year, the Commissioner and the Director of the National Institute on Disability, Independent Living, and Rehabilitation Research (referred to in this subsection as the “Director”) shall reserve 1 percent of the funds appropriated for the fiscal year for programs authorized under subchapters II, III, VI, and VII of this chapter to carry out this subsection. The Commissioner and the Director shall use the reserved funds to carry out one or more of the activities described in paragraph (2) through a grant, contract, or cooperative agreement.
+            For each fiscal year, the Commissioner and the Director of the National Institute on Disability, Independent Living, and Rehabilitation Research (referred to in this subsection as the “Director”) shall reserve 1 percent of the funds appropriated for the fiscal year for programs authorized under subchapters II, III, VI, and VII to carry out this subsection. The Commissioner and the Director shall use the reserved funds to carry out one or more of the activities described in paragraph (2) through a grant, contract, or cooperative agreement.
 
         (2) __Activities__ 
 
         The activities carried out by the Commissioner and the Director shall include one or more of the following:
 
-            (A) Making awards to minority entities and Indian tribes to carry out activities under the programs authorized under subchapters II, III, VI, and VII of this chapter.
+            (A) Making awards to minority entities and Indian tribes to carry out activities under the programs authorized under subchapters II, III, VI, and VII.
 
             (B) Making awards to minority entities and Indian tribes to conduct research, training, technical assistance, or a related activity, to improve services provided under this chapter, especially services provided to individuals from minority backgrounds.
 

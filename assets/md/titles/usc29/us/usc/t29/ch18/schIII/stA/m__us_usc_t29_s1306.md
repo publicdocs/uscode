@@ -435,13 +435,91 @@
 
                 (ii) the denominator of which is 12.
 
-([Pub. L. 93–406, title IV, § 4006][/us/pl/93/406/s4006], Sept. 2, 1974, [88 Stat. 1010][/us/stat/88/1010]; [Pub. L. 96–364, title I, § 105][/us/pl/96/364/s105], Sept. 26, 1980, [94 Stat. 1264][/us/stat/94/1264]; [Pub. L. 99–272, title XI, § 11005(a)][/us/pl/99/272/s11005/a]–(c)(3), Apr. 7, 1986, [100 Stat. 240–242][/us/stat/100/240-242]; [Pub. L. 100–203, title IX, § 9331(a)][/us/pl/100/203/s9331/a], (b), (e), Dec. 22, 1987, [101 Stat. 1330–367][/us/stat/101/1330-367], 1330–368; [Pub. L. 101–239, title VII, § 7881(h)][/us/pl/101/239/s7881/h], Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442]; [Pub. L. 101–508, title XII, § 12021(a)][/us/pl/101/508/s12021/a], (b), Nov. 5, 1990, [104 Stat. 1388–573][/us/stat/104/1388-573]; [Pub. L. 103–465, title VII, § 774(a)(1)][/us/pl/103/465/s774/a/1], (b)(1), (2), Dec. 8, 1994, [108 Stat. 5045][/us/stat/108/5045], 5046; [Pub. L. 107–147, title IV, § 405(c)][/us/pl/107/147/s405/c], Mar. 9, 2002, [116 Stat. 43][/us/stat/116/43]; [Pub. L. 108–218, title I, § 101(a)(4)][/us/pl/108/218/s101/a/4], Apr. 10, 2004, [118 Stat. 597][/us/stat/118/597]; [Pub. L. 108–311, title IV, § 403(d)][/us/pl/108/311/s403/d], Oct. 4, 2004, [118 Stat. 1187][/us/stat/118/1187]; [Pub. L. 109–171, title VIII, § 8101(a)][/us/pl/109/171/s8101/a]–(c), Feb. 8, 2006, [120 Stat. 180–182][/us/stat/120/180-182]; [Pub. L. 109–280, title III, § 301(a)(3)][/us/pl/109/280/s301/a/3], title IV, §§ 401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, [120 Stat. 919][/us/stat/120/919], 922, 928; [Pub. L. 110–458, title I, § 104(a)][/us/pl/110/458/s104/a], Dec. 23, 2008, [122 Stat. 5104][/us/stat/122/5104]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(b)(3)(C), 40221, 40222, July 6, 2012, [126 Stat. 849–852][/us/stat/126/849-852]; [Pub. L. 113–67, div. A, title VII, § 703(a)][/us/pl/113/67/s703/a]–(d), Dec. 26, 2013, [127 Stat. 1190][/us/stat/127/1190], 1191; [Pub. L. 113–235, div. O, title I, § 131(a)][/us/pl/113/235/s131/a], Dec. 16, 2014, [128 Stat. 2796][/us/stat/128/2796].)
+([Pub. L. 93–406, title IV, § 4006][/us/pl/93/406/s4006], Sept. 2, 1974, [88 Stat. 1010][/us/stat/88/1010]; [Pub. L. 96–364, title I, § 105][/us/pl/96/364/s105], Sept. 26, 1980, [94 Stat. 1264][/us/stat/94/1264]; [Pub. L. 99–272, title XI, § 11005(a)][/us/pl/99/272/s11005/a]–(c)(3), Apr. 7, 1986, [100 Stat. 240–242][/us/stat/100/240-242]; [Pub. L. 100–203, title IX, § 9331(a)][/us/pl/100/203/s9331/a], (b), (e), Dec. 22, 1987, [101 Stat. 1330–367][/us/stat/101/1330-367], 1330–368; [Pub. L. 101–239, title VII, § 7881(h)][/us/pl/101/239/s7881/h], Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442]; [Pub. L. 101–508, title XII, § 12021(a)][/us/pl/101/508/s12021/a], (b), Nov. 5, 1990, [104 Stat. 1388–573][/us/stat/104/1388-573]; [Pub. L. 103–465, title VII, § 774(a)(1)][/us/pl/103/465/s774/a/1], (b)(1), (2), Dec. 8, 1994, [108 Stat. 5045][/us/stat/108/5045], 5046; [Pub. L. 107–147, title IV, § 405(c)][/us/pl/107/147/s405/c], Mar. 9, 2002, [116 Stat. 43][/us/stat/116/43]; [Pub. L. 108–218, title I, § 101(a)(4)][/us/pl/108/218/s101/a/4], Apr. 10, 2004, [118 Stat. 597][/us/stat/118/597]; [Pub. L. 108–311, title IV, § 403(d)][/us/pl/108/311/s403/d], Oct. 4, 2004, [118 Stat. 1187][/us/stat/118/1187]; [Pub. L. 109–171, title VIII, § 8101(a)][/us/pl/109/171/s8101/a]–(c), Feb. 8, 2006, [120 Stat. 180–182][/us/stat/120/180-182]; [Pub. L. 109–280, title III, § 301(a)(3)][/us/pl/109/280/s301/a/3], title IV, §§ 401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, [120 Stat. 919][/us/stat/120/919], 922, 928; [Pub. L. 110–458, title I, § 104(a)][/us/pl/110/458/s104/a], Dec. 23, 2008, [122 Stat. 5104][/us/stat/122/5104]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(b)(3)(C), 40221, 40222, July 6, 2012, [126 Stat. 849–852][/us/stat/126/849-852]; [Pub. L. 113–67, div. A, title VII, § 703(a)][/us/pl/113/67/s703/a]–(d), Dec. 26, 2013, [127 Stat. 1190][/us/stat/127/1190], 1191; [Pub. L. 113–235, div. O, title I, § 131(a)][/us/pl/113/235/s131/a], Dec. 16, 2014, [128 Stat. 2796][/us/stat/128/2796]; [Pub. L. 114–74, title V, § 501(a)][/us/pl/114/74/s501/a], (b)(1), (2), Nov. 2, 2015, [129 Stat. 591][/us/stat/129/591], 592.)
+
+ __Amendment of Subsection (a)__ 
+
+    [Pub. L. 114–74, title V, § 501][/us/pl/114/74/s501], Nov. 2, 2015, [129 Stat. 591][/us/stat/129/591], provided that, applicable to plan years beginning after December 31, 2016, this section is amended—
+
+    (1) in subsection (a)(3)(A)(i), by striking “and” at the end of subclause (IV), by striking the period at the end of subclause (V) and inserting a semicolon, and by inserting after subclause (V) the following:
+
+    “(VI) for plan years beginning after December 31, 2016, and before January 1, 2018, $69;
+
+    “(VII) for plan years beginning after December 31, 2017, and before January 1, 2019, $74; and
+
+    “(VIII) for plan years beginning after December 31, 2018, $80.”;
+
+    (2) in subsection (a)(3)(G)—
+
+    (A) in the matter preceding clause (i), by striking “2016” and inserting “2019”; and
+
+    (B) in clause (i)(II) by striking “2014” and inserting “2017”;
+
+    (3) in subsection (a)(8)(A)—
+
+    (A) in clause (iii), by striking “and” at the end;
+
+    (B) in clause (iv), by striking the period at the end and inserting a semicolon; and
+
+    (C) by adding at the end the following:
+
+    “(v) for plan years beginning after calendar year 2017, the amount in effect for plan years beginning in 2017 (determined after application of subparagraph (C));
+
+    “(vi) for plan years beginning after calendar year 2018, the amount in effect for plan years beginning in 2018 (determined after application of subparagraph (C)); and
+
+    “(vii) for plan years beginning after calendar year 2019, the amount in effect for plan years beginning in 2019 (determined after application of subparagraph (C)).”;
+
+    (4) in subsection (a)(8)(C)
+
+    (A) in the subparagraph heading, by striking “increase in 2014 and 2015” and inserting “increases”;
+
+    (B) in clause (ii), by striking “and” at the end;
+
+    (C) in clause (iii), by striking the period at the end and inserting a semicolon; and
+
+    (D) by adding at the end the following:
+
+    “(iv) in the case of plan years beginning in calendar year 2017, by $3;
+
+    “(v) in the case of plan years beginning in calendar year 2018, by $4; and
+
+    “(vi) in the case of plan years beginning in calendar year 2019, by $4.”;
+
+    (5) in subsection (a)(8)(D)—
+
+    (A) in clause (iii), by striking “and” at the end;
+
+    (B) in clause (iv), by striking the period at the end and inserting a semicolon; and
+
+    (C) by adding at the end the following:
+
+    “(v) 2015, in the case of plan years beginning after calendar year 2017;
+
+    “(vi) 2016, in the case of plan years beginning after calendar year 2018; and
+
+    “(vii) 2017, in the case of plan years beginning after calendar year 2019.”
+
+    See 2015 Amendment notes below.
 
  __References in Text__ 
 
     The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of [Pub. L. 96–364][/us/pl/96/364] falls, such enactment being approved Sept. 26, 1980.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(3)(A)(i)(VI) to (VIII). [Pub. L. 114–74, § 501(a)(1)][/us/pl/114/74/s501/a/1], added subcls. (VI) to (VIII).
+
+    Subsec. (a)(3)(G). [Pub. L. 114–74, § 501(a)(2)(A)][/us/pl/114/74/s501/a/2/A], substituted “2019” for “2016” in introductory provisions.
+
+    Subsec. (a)(3)(G)(i)(II). [Pub. L. 114–74, § 501(a)(2)(B)][/us/pl/114/74/s501/a/2/B], substituted “2017” for “2014”.
+
+    Subsec. (a)(8)(A)(v) to (vii). [Pub. L. 114–74, § 501(b)(2)(A)][/us/pl/114/74/s501/b/2/A], added cls. (v) to (vii).
+
+    Subsec. (a)(8)(C). [Pub. L. 114–74, § 501(b)(1)(A)][/us/pl/114/74/s501/b/1/A], substituted “increases” for “increase in 2014 and 2015” in heading.
+
+    Subsec. (a)(8)(C)(iv) to (vi). [Pub. L. 114–74, § 501(b)(1)(B)][/us/pl/114/74/s501/b/1/B]–(D), added cls. (iv) to (vi).
+
+    Subsec. (a)(8)(D)(v) to (vii). [Pub. L. 114–74, § 501(b)(2)(B)][/us/pl/114/74/s501/b/2/B], added cls. (v) to (vii).
 
     2014—Subsec. (a)(3)(A)(v), (vi). [Pub. L. 113–235, § 131(a)(1)][/us/pl/113/235/s131/a/1], inserted “and before January 1, 2015,” after “December 31, 2012,” in cl. (v) and added cl. (vi).
 
@@ -586,6 +664,12 @@
     Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
     Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–74, title V, § 501(b)(3)][/us/pl/114/74/s501/b/3], Nov. 2, 2015, [129 Stat. 593][/us/stat/129/593], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2016.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -880,7 +964,18 @@
 [/us/stat/127/1190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1190
 [/us/pl/113/235/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs131%2Fa
 [/us/stat/128/2796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2796
+[/us/pl/114/74/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs501%2Fa
+[/us/stat/129/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F591
+[/us/pl/114/74/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs501
+[/us/stat/129/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F591
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/114/74/s501/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs501%2Fa%2F1
+[/us/pl/114/74/s501/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs501%2Fa%2F2%2FA
+[/us/pl/114/74/s501/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs501%2Fa%2F2%2FB
+[/us/pl/114/74/s501/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs501%2Fb%2F2%2FA
+[/us/pl/114/74/s501/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs501%2Fb%2F1%2FA
+[/us/pl/114/74/s501/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs501%2Fb%2F1%2FB
+[/us/pl/114/74/s501/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs501%2Fb%2F2%2FB
 [/us/pl/113/235/s131/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs131%2Fa%2F1
 [/us/pl/113/235/s131/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs131%2Fa%2F2
 [/us/pl/113/67/s703/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fa%2F2
@@ -953,6 +1048,8 @@
 [/us/pl/96/364/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs105%2Fa
 [/us/pl/96/364/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs105%2Fb
 [/us/pl/96/364/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs105%2Fc
+[/us/pl/114/74/s501/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs501%2Fb%2F3
+[/us/stat/129/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F593
 [/us/pl/113/235/s131/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs131%2Fd
 [/us/stat/128/2798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2798
 [/us/pl/113/67/s703/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs703%2Fe

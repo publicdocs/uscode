@@ -29,7 +29,7 @@
 
         (D) the impact of family and medical leave policies on the availability of employee benefits provided by employers, including employers not covered under this Act;
 
-        (E) alternate and equivalent State enforcement of subchapter I of this chapter with respect to employees described in [section 2618(a) of this title][/us/usc/t29/s2618/a];
+        (E) alternate and equivalent State enforcement of subchapter I with respect to employees described in [section 2618(a) of this title][/us/usc/t29/s2618/a];
 
         (F) methods used by employers to reduce administrative costs of implementing family and medical leave policies;
 

@@ -119,7 +119,7 @@
 
         (5) Paragraph (1) shall not apply with respect to any employee who is a highly compensated employee (within the meaning of [section 414(q) of title 26][/us/usc/t26/s414/q]) to the extent provided in regulations prescribed by the Secretary of the Treasury for purposes of precluding discrimination in favor of highly compensated employees within the meaning of subchapter D of chapter 1 of title 26.
 
-        (6) A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals or it is a plan permitted by subsection (m) of this section.. <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup> 
+        (6) A plan shall not be treated as failing to meet the requirements of paragraph (1) solely because the subsidized portion of any early retirement benefit is disregarded in determining benefit accruals or it is a plan permitted by subsection (m).. <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup> 
 
         (7) Any regulations prescribed by the Secretary of the Treasury pursuant to clause (v) of [section 411(b)(1)(H) of title 26][/us/usc/t26/s411/b/1/H] and subparagraphs (C) and (D)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of [section 411(b)(2) of title 26][/us/usc/t26/s411/b/2] shall apply with respect to the requirements of this subsection in the same manner and to the same extent as such regulations apply with respect to the requirements of such sections 411(b)(1)(H) and 411(b)(2).
 
@@ -273,13 +273,13 @@
 
     (l) __Lawful practices; minimum age as condition of eligibility for retirement benefits; deductions from severance pay; reduction of long-term disability benefits__ 
 
-    Notwithstanding clause (i) or (ii) of subsection (f)(2)(B) of this section—
+    Notwithstanding clause (i) or (ii) of subsection (f)(2)(B)—
 
         (1)
 
             (A)
 
-             It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because—
+             It shall not be a violation of subsection (a), (b), (c), or (e) solely because—
 
                 (i) an employee pension benefit plan (as defined in [section 1002(2) of this title][/us/usc/t29/s1002/2]) provides for the attainment of a minimum age as a condition of eligibility for normal or early retirement benefits; or
 
@@ -311,7 +311,7 @@
 
             (A)
 
-             It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because following a contingent event unrelated to age—
+             It shall not be a violation of subsection (a), (b), (c), or (e) solely because following a contingent event unrelated to age—
 
                 (i) the value of any retiree health benefits received by an individual eligible for an immediate pension;
 
@@ -357,7 +357,7 @@
 
         (3)
 
-         It shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because an employer provides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
+         It shall not be a violation of subsection (a), (b), (c), or (e) solely because an employer provides a bona fide employee benefit plan or plans under which long-term disability benefits received by an individual are reduced by any pension benefits (other than those attributable to employee contributions)—
 
             (A) paid to the individual that the individual voluntarily elects to receive; or
 
@@ -365,7 +365,7 @@
 
     (m) __Voluntary retirement incentive plans__ 
 
-    Notwithstanding subsection (f)(2)(B) of this section, it shall not be a violation of subsection (a), (b), (c), or (e) of this section solely because a plan of an institution of higher education (as defined in [section 1001 of title 20][/us/usc/t20/s1001]) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
+    Notwithstanding subsection (f)(2)(B), it shall not be a violation of subsection (a), (b), (c), or (e) solely because a plan of an institution of higher education (as defined in [section 1001 of title 20][/us/usc/t20/s1001]) offers employees who are serving under a contract of unlimited tenure (or similar arrangement providing for unlimited tenure) supplemental benefits upon voluntary retirement that are reduced or eliminated on the basis of age, if—
 
         (1) such institution does not implement with respect to such employees any age-based reduction or cessation of benefits that are not such supplemental benefits, except as permitted by other provisions of this chapter;
 
@@ -393,7 +393,7 @@
 
     Subsec. (l)(1). [Pub. L. 109–280, § 1104(a)(2)][/us/pl/109/280/s1104/a/2], designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II) of cl. (ii), respectively, and added subpar. (B).
 
-    1998—Subsec. (i)(6). [Pub. L. 105–244, § 941(b)][/us/pl/105/244/s941/b], inserted “or it is a plan permitted by subsection (m) of this section.” after “accruals”.
+    1998—Subsec. (i)(6). [Pub. L. 105–244, § 941(b)][/us/pl/105/244/s941/b], inserted “or it is a plan permitted by subsection (m).” after “accruals”.
 
     Subsec. (m). [Pub. L. 105–244, § 941(a)][/us/pl/105/244/s941/a], added subsec. (m).
 

@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Except as provided in subsection (b) of this section, and notwithstanding any other provision of law—
+    Except as provided in subsection (b), and notwithstanding any other provision of law—
 
         (1) any funds appropriated for a fiscal year to carry out any grant program under part B of subchapter I, [section 794e of this title][/us/usc/t29/s794e] (except as provided in [section 794e(b) of this title][/us/usc/t29/s794e/b]), subchapter VI, subpart 2 or 3 of part A of subchapter VII, or part B of subchapter VII (except as provided in [section 796k(b) of this title][/us/usc/t29/s796k/b]), including any funds reallotted under any such grant program, that are not obligated and expended by recipients prior to the beginning of the succeeding fiscal year; or
 

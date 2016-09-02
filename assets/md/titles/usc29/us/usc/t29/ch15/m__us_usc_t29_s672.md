@@ -55,7 +55,7 @@
 
     (g) __Administration and enforcement of programs contained in approved State plans; Federal share__ 
 
-        The Secretary is authorized to make grants to the States to assist them in administering and enforcing programs for occupational safety and health contained in State plans approved by the Secretary pursuant to [section 667 of this title][/us/usc/t29/s667]. The Federal share for each State grant under this subsection may not exceed 50 per centum of the total cost to the State of such a program. The last sentence of subsection (f) of this section shall be applicable in determining the Federal share under this subsection.
+        The Secretary is authorized to make grants to the States to assist them in administering and enforcing programs for occupational safety and health contained in State plans approved by the Secretary pursuant to [section 667 of this title][/us/usc/t29/s667]. The Federal share for each State grant under this subsection may not exceed 50 per centum of the total cost to the State of such a program. The last sentence of subsection (f) shall be applicable in determining the Federal share under this subsection.
 
     (h) __Report to President and Congress__ 
 

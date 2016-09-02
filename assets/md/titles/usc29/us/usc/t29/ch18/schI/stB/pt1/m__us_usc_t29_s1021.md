@@ -169,15 +169,15 @@
 
                 In the case of a single-employer plan for an applicable plan year, each notice under paragraph (1) shall include—
 
-                    (I) a statement that the MAP-21 and the Highway and Transportation Funding Act of 2014 modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
+                    (I) a statement that the MAP-21, the Highway and Transportation Funding Act of 2014, and the Bipartisan Budget Act of 2015 modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
 
-                    (II) a statement that, as a result of the MAP-21 and the Highway and Transportation Funding Act of 2014, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
+                    (II) a statement that, as a result of the MAP-21, the Highway and Transportation Funding Act of 2014, and the Bipartisan Budget Act of 2015, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
 
                     (III) a table which shows (determined both with and without regard to [section 1083(h)(2)(C)(iv) of this title][/us/usc/t29/s1083/h/2/C/iv]) the funding target attainment percentage (as defined in [section 1083(d)(2) of this title][/us/usc/t29/s1083/d/2]), the funding shortfall (as defined in [section 1083(c)(4) of this title][/us/usc/t29/s1083/c/4]), and the minimum required contribution (as determined under [section 1083 of this title][/us/usc/t29/s1083]), for the applicable plan year and each of the 2 preceding plan years.
 
                 (ii) __Applicable plan year__ 
 
-                For purposes of this subparagraph, the term “applicable plan year” means any plan year beginning after December 31, 2011, and before January 1, 2020, for which—
+                For purposes of this subparagraph, the term “applicable plan year” means any plan year beginning after December 31, 2011, and before January 1, 2023, for which—
 
                     (I) the funding target (as defined in [section 1083(d)(2) of this title][/us/usc/t29/s1083/d/2]) is less than 95 percent of such funding target determined without regard to [section 1083(h)(2)(C)(iv) of this title][/us/usc/t29/s1083/h/2/C/iv],
 
@@ -449,7 +449,7 @@
 
         For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see [section 1204 of this title][/us/usc/t29/s1204].
 
-([Pub. L. 93–406, title I, § 101][/us/pl/93/406/s101], Sept. 2, 1974, [88 Stat. 840][/us/stat/88/840]; [Pub. L. 100–203, title IX, § 9304(d)][/us/pl/100/203/s9304/d], Dec. 22, 1987, [101 Stat. 1330–348][/us/stat/101/1330-348]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, [103 Stat. 2438][/us/stat/103/2438], 2448; [Pub. L. 101–508, title XII, § 12012(d)(1)][/us/pl/101/508/s12012/d/1], Nov. 5, 1990, [104 Stat. 1388–572][/us/stat/104/1388-572]; [Pub. L. 103–66, title IV, § 4301(b)(1)][/us/pl/103/66/s4301/b/1], Aug. 10, 1993, [107 Stat. 375][/us/stat/107/375]; [Pub. L. 103–465, title VII, § 731(c)(4)(A)][/us/pl/103/465/s731/c/4/A], Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004]; [Pub. L. 104–188, title I, § 1421(d)(1)][/us/pl/104/188/s1421/d/1], Aug. 20, 1996, [110 Stat. 1799][/us/stat/110/1799]; [Pub. L. 104–191, title I, § 101(e)(1)][/us/pl/104/191/s101/e/1], Aug. 21, 1996, [110 Stat. 1952][/us/stat/110/1952]; [Pub. L. 104–204, title VI, § 603(b)(3)(B)][/us/pl/104/204/s603/b/3/B], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 105–34, title XV, § 1503(a)][/us/pl/105/34/s1503/a], Aug. 5, 1997, [111 Stat. 1061][/us/stat/111/1061]; [Pub. L. 105–200, title IV, § 401(h)(1)(A)][/us/pl/105/200/s401/h/1/A], July 16, 1998, [112 Stat. 668][/us/stat/112/668]; [Pub. L. 106–170, title V, § 535(a)(2)(A)][/us/pl/106/170/s535/a/2/A], Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 107–204, title III, § 306(b)(1)][/us/pl/107/204/s306/b/1], July 30, 2002, [116 Stat. 780][/us/stat/116/780]; [Pub. L. 108–218, title I, § 103(a)][/us/pl/108/218/s103/a], title II, § 204(b)(1), Apr. 10, 2004, [118 Stat. 602][/us/stat/118/602], 609; [Pub. L. 108–357, title VII, § 709(a)(1)][/us/pl/108/357/s709/a/1], Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551]; [Pub. L. 109–280, title I][/us/pl/109/280], §§ 103(b)(1), 108(a)(1), (11), formerly § 107(a)(1), (11), title V, §§ 501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, [120 Stat. 815][/us/stat/120/815], 818, 819, 936, 939, 940, 944, 948, 952, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097], 5104, 5105; [Pub. L. 111–148, title VI, § 6606][/us/pl/111/148/s6606], Mar. 23, 2010, [124 Stat. 781][/us/stat/124/781]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, [126 Stat. 848][/us/stat/126/848], 859, 863; [Pub. L. 113–97, title I, § 104(a)(1)][/us/pl/113/97/s104/a/1], (b), Apr. 7, 2014, [128 Stat. 1120][/us/stat/128/1120]; [Pub. L. 113–159, title II, § 2003(b)(2)(A)][/us/pl/113/159/s2003/b/2/A], Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849]; [Pub. L. 113–235, div. O, title I, § 111(a)][/us/pl/113/235/s111/a], (b), title II, § 201(a)(4), Dec. 16, 2014, [128 Stat. 2792][/us/stat/128/2792], 2793, 2799; [Pub. L. 114–41, title II, § 2007(b)(1)][/us/pl/114/41/s2007/b/1], July 31, 2015, [129 Stat. 459][/us/stat/129/459].)
+([Pub. L. 93–406, title I, § 101][/us/pl/93/406/s101], Sept. 2, 1974, [88 Stat. 840][/us/stat/88/840]; [Pub. L. 100–203, title IX, § 9304(d)][/us/pl/100/203/s9304/d], Dec. 22, 1987, [101 Stat. 1330–348][/us/stat/101/1330-348]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, [103 Stat. 2438][/us/stat/103/2438], 2448; [Pub. L. 101–508, title XII, § 12012(d)(1)][/us/pl/101/508/s12012/d/1], Nov. 5, 1990, [104 Stat. 1388–572][/us/stat/104/1388-572]; [Pub. L. 103–66, title IV, § 4301(b)(1)][/us/pl/103/66/s4301/b/1], Aug. 10, 1993, [107 Stat. 375][/us/stat/107/375]; [Pub. L. 103–465, title VII, § 731(c)(4)(A)][/us/pl/103/465/s731/c/4/A], Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004]; [Pub. L. 104–188, title I, § 1421(d)(1)][/us/pl/104/188/s1421/d/1], Aug. 20, 1996, [110 Stat. 1799][/us/stat/110/1799]; [Pub. L. 104–191, title I, § 101(e)(1)][/us/pl/104/191/s101/e/1], Aug. 21, 1996, [110 Stat. 1952][/us/stat/110/1952]; [Pub. L. 104–204, title VI, § 603(b)(3)(B)][/us/pl/104/204/s603/b/3/B], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 105–34, title XV, § 1503(a)][/us/pl/105/34/s1503/a], Aug. 5, 1997, [111 Stat. 1061][/us/stat/111/1061]; [Pub. L. 105–200, title IV, § 401(h)(1)(A)][/us/pl/105/200/s401/h/1/A], July 16, 1998, [112 Stat. 668][/us/stat/112/668]; [Pub. L. 106–170, title V, § 535(a)(2)(A)][/us/pl/106/170/s535/a/2/A], Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 107–204, title III, § 306(b)(1)][/us/pl/107/204/s306/b/1], July 30, 2002, [116 Stat. 780][/us/stat/116/780]; [Pub. L. 108–218, title I, § 103(a)][/us/pl/108/218/s103/a], title II, § 204(b)(1), Apr. 10, 2004, [118 Stat. 602][/us/stat/118/602], 609; [Pub. L. 108–357, title VII, § 709(a)(1)][/us/pl/108/357/s709/a/1], Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551]; [Pub. L. 109–280, title I][/us/pl/109/280], §§ 103(b)(1), 108(a)(1), (11), formerly § 107(a)(1), (11), title V, §§ 501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, [120 Stat. 815][/us/stat/120/815], 818, 819, 936, 939, 940, 944, 948, 952, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, [122 Stat. 5097][/us/stat/122/5097], 5104, 5105; [Pub. L. 111–148, title VI, § 6606][/us/pl/111/148/s6606], Mar. 23, 2010, [124 Stat. 781][/us/stat/124/781]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, [126 Stat. 848][/us/stat/126/848], 859, 863; [Pub. L. 113–97, title I, § 104(a)(1)][/us/pl/113/97/s104/a/1], (b), Apr. 7, 2014, [128 Stat. 1120][/us/stat/128/1120]; [Pub. L. 113–159, title II, § 2003(b)(2)(A)][/us/pl/113/159/s2003/b/2/A], Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849]; [Pub. L. 113–235, div. O, title I, § 111(a)][/us/pl/113/235/s111/a], (b), title II, § 201(a)(4), Dec. 16, 2014, [128 Stat. 2792][/us/stat/128/2792], 2793, 2799; [Pub. L. 114–41, title II, § 2007(b)(1)][/us/pl/114/41/s2007/b/1], July 31, 2015, [129 Stat. 459][/us/stat/129/459]; [Pub. L. 114–74, title V, § 504(b)(2)(A)][/us/pl/114/74/s504/b/2/A], Nov. 2, 2015, [129 Stat. 594][/us/stat/129/594].)
 
  __References in Text__ 
 
@@ -461,6 +461,8 @@
 
     The Highway and Transportation Funding Act of 2014, referred to in subsec. (f)(2)(D)(i)(I) and (II), is [Pub. L. 113–159][/us/pl/113/159], Aug. 8, 2014, [128 Stat. 1839][/us/stat/128/1839]. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 101 of Title 23][/us/usc/t23/s101], Highways, and Tables.
 
+    The Bipartisan Budget Act of 2015, referred to in subsec. (f)(2)(D)(i)(I) and (II), is [Pub. L. 114–74][/us/pl/114/74], Nov. 2, 2015, [129 Stat. 584][/us/stat/129/584]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 1 of Title 26][/us/usc/t26/s1], Internal Revenue Code, and Tables.
+
     The Cooperative and Small Employer Charity Pension Flexibility Act, referred to in subsec. (f)(2)(E)(ii), is [Pub. L. 113–97][/us/pl/113/97], Apr. 7, 2014, [128 Stat. 1101][/us/stat/128/1101]. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
     The content of paragraph (1)(B) of subsec. (k) (relating to financial reports), referred to in subsec. (k)(2), was moved to subsec. (k)(1)(H) as a result of the general amendment of subsec. (k)(1) by [Pub. L. 113–235, § 111(a)][/us/pl/113/235/s111/a]. See 2014 Amendment note below.
@@ -468,6 +470,10 @@
  __Amendments__ 
 
     2015—Subsec. (e)(3). [Pub. L. 114–41][/us/pl/114/41] substituted “July 31, 2015” for “July 6, 2012”. Amendment was executed to reflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
+
+    Subsec. (f)(2)(D)(i)(I), (II). [Pub. L. 114–74, § 504(b)(2)(A)(i)][/us/pl/114/74/s504/b/2/A/i], substituted “, the Highway and Transportation Funding Act of 2014, and the Bipartisan Budget Act of 2015” for “and the Highway and Transportation Funding Act of 2014”.
+
+    Subsec. (f)(2)(D)(ii). [Pub. L. 114–74, § 504(b)(2)(A)(ii)][/us/pl/114/74/s504/b/2/A/ii], substituted “2023” for “2020” in introductory provisions.
 
     2014—Subsec. (d)(2). [Pub. L. 113–97, § 104(b)(1)][/us/pl/113/97/s104/b/1], substituted “section 1083 or 1085a of this title” for “[section 1083 of this title][/us/usc/t29/s1083]”.
 
@@ -594,6 +600,10 @@
     Subsec. (d)(1). [Pub. L. 101–239, § 7881(b)(5)(A)][/us/pl/101/239/s7881/b/5/A], substituted “an employer maintaining a plan” for “an employer of a plan”.
 
     1987—Subsecs. (d), (e). [Pub. L. 100–203][/us/pl/100/203] added subsec. (d) and redesignated former subsec. (d) as (e).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–74][/us/pl/114/74] applicable with respect to plan years beginning after Dec. 31, 2015, see [section 504(c) of Pub. L. 114–74][/us/pl/114/74/s504/c], set out as a note under [section 430 of Title 26][/us/usc/t26/s430], Internal Revenue Code.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -757,6 +767,10 @@
 
  __Statements__ 
 
+[Pub. L. 114–74, title V, § 504(b)(2)(B)][/us/pl/114/74/s504/b/2/B], Nov. 2, 2015, [129 Stat. 594][/us/stat/129/594], provided that: 
+
+> “The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act \[[29 U.S.C. 1021(f)(2)(D)(i)][/us/usc/t29/s1021/f/2/D/i]\] to conform to the amendments made by this section \[amending this section, [section 1083 of this title][/us/usc/t29/s1083], and [section 430 of Title 26][/us/usc/t26/s430], Internal Revenue Code, and enacting provisions set out as a note under [section 430 of Title 26][/us/usc/t26/s430]\].”
+
 [Pub. L. 113–159, title II, § 2003(b)(2)(B)][/us/pl/113/159/s2003/b/2/B], Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849], provided that: 
 
 > “The Secretary of Labor shall modify the statements required under subclauses (I) and (II) of section 101(f)(2)(D)(i) of such Act \[[29 U.S.C. 1021(f)(2)(D)(i)][/us/usc/t29/s1021/f/2/D/i]\] to conform to the amendments made by this section \[probably means “this subsection”, which amended this section and [section 1083 of this title][/us/usc/t29/s1083]\].”
@@ -897,6 +911,8 @@
 [/us/stat/128/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2792
 [/us/pl/114/41/s2007/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2007%2Fb%2F1
 [/us/stat/129/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F459
+[/us/pl/114/74/s504/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs504%2Fb%2F2%2FA
+[/us/stat/129/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F594
 [/us/usc/t29/s1022/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1022%2Fa%2F1
 [/us/usc/t29/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1022%2Fa
 [/us/pl/105/34/s1503/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1503%2Fb%2F1%2FB
@@ -911,11 +927,16 @@
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
 [/us/stat/128/1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1839
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/stat/129/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F584
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/stat/128/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1101
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/113/235/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs111%2Fa
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
+[/us/pl/114/74/s504/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs504%2Fb%2F2%2FA%2Fi
+[/us/pl/114/74/s504/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs504%2Fb%2F2%2FA%2Fii
 [/us/pl/113/97/s104/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs104%2Fb%2F1
 [/us/usc/t29/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083
 [/us/pl/113/97/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs104%2Fb%2F2
@@ -977,6 +998,9 @@
 [/us/pl/101/239/s7894/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fb%2F2
 [/us/pl/101/239/s7881/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Fb%2F5%2FA
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs504%2Fc
+[/us/usc/t26/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs430
 [/us/pl/113/235/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs111%2Fe
 [/us/stat/128/2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2794
 [/us/pl/113/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159
@@ -1073,6 +1097,12 @@
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
+[/us/pl/114/74/s504/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs504%2Fb%2F2%2FB
+[/us/stat/129/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F594
+[/us/usc/t29/s1021/f/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Ff%2F2%2FD%2Fi
+[/us/usc/t29/s1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083
+[/us/usc/t26/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs430
+[/us/usc/t26/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs430
 [/us/pl/113/159/s2003/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fb%2F2%2FB
 [/us/stat/128/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1849
 [/us/usc/t29/s1021/f/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Ff%2F2%2FD%2Fi

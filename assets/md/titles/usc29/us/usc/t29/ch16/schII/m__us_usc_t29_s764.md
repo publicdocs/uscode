@@ -21,7 +21,7 @@
 
         (2)
 
-            (A) In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII of this chapter, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies and from which the research findings, conclusions, or recommendations can be transferred to practice.
+            (A) In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies and from which the research findings, conclusions, or recommendations can be transferred to practice.
 
             (B)
 
@@ -53,7 +53,7 @@
 
     (b) __Research grants__ 
 
-        (1) In addition to carrying out projects under subsection (a) of this section, the Director may make grants under this subsection (referred to in this subsection as “research grants”) to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (17). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “paragraphs (2) through (16)”. </sup></sup>  A research grant made under any of paragraphs (2) through (17)  <sup>\[1\]</sup>  may only be used in a manner consistent with priorities established in the 5-year plan described in [section 762(h) of this title][/us/usc/t29/s762/h].
+        (1) In addition to carrying out projects under subsection (a), the Director may make grants under this subsection (referred to in this subsection as “research grants”) to pay part or all of the cost of the research or other specialized covered activities described in paragraphs (2) through (17). <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “paragraphs (2) through (16)”. </sup></sup>  A research grant made under any of paragraphs (2) through (17)  <sup>\[1\]</sup>  may only be used in a manner consistent with priorities established in the 5-year plan described in [section 762(h) of this title][/us/usc/t29/s762/h].
 
         (2)
 
@@ -195,7 +195,7 @@
 
                     (II) Education at the elementary and secondary levels, including transition from school to postsecondary education, competitive integrated employment, and other age-appropriate activities.
 
-                    (III) Employment, including supported employment, and reasonable accommodations and the reduction of environmental barriers as required by the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.) and subchapter V of this chapter.
+                    (III) Employment, including supported employment, and reasonable accommodations and the reduction of environmental barriers as required by the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101][/us/usc/t42/s12101] et seq.) and subchapter V.
 
                     (IV) Independent living, including transition from institutional to community living, maintenance of community living on leaving the workforce, self-help skills, and activities of daily living.
 

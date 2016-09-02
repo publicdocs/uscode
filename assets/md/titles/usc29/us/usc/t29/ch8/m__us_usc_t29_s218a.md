@@ -13,11 +13,9 @@
 
 [Previous](./../../../..//us/usc/t29/ch8/m__us_usc_t29_s218.md) | [Next](./../../../..//us/usc/t29/ch8/m__us_usc_t29_s218b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs218a)
 
-## § 218a. Automatic enrollment for employees of large employers
+## § 218a. Repealed. [Pub. L. 114–74, title VI, § 604][/us/pl/114/74/s604], Nov. 2, 2015, [129 Stat. 599][/us/stat/129/599]
 
-    In accordance with regulations promulgated by the Secretary, an employer to which this chapter applies that has more than 200 full-time employees and that offers employees enrollment in 1 or more health benefits plans shall automatically enroll new full-time employees in one of the plans offered (subject to any waiting period authorized by law) and to continue the enrollment of current employees in a health benefits plan offered through the employer. Any automatic enrollment program shall include adequate notice and the opportunity for an employee to opt out of any coverage the individual or employee were  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “was”. </sup></sup>  automatically enrolled in. Nothing in this section shall be construed to supersede any State law which establishes, implements, or continues in effect any standard or requirement relating to employers in connection with payroll except to the extent that such standard or requirement prevents an employer from instituting the automatic enrollment program under this section.
-
-([June 25, 1938, ch. 676, § 18A][/us/act/1938-06-25/ch676/s18A], as added [Pub. L. 111–148, title I, § 1511][/us/pl/111/148/s1511], Mar. 23, 2010, [124 Stat. 252][/us/stat/124/252].)
+    Section, [act June 25, 1938, ch. 676, § 18A][/us/act/1938-06-25/ch676/s18A], as added [Pub. L. 111–148, title I, § 1511][/us/pl/111/148/s1511], Mar. 23, 2010, [124 Stat. 252][/us/stat/124/252], related to automatic enrollment for employees of large employers.
 
 ----------
 
@@ -26,6 +24,8 @@
 ----------
 ----------
 
+[/us/pl/114/74/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs604
+[/us/stat/129/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F599
 [/us/act/1938-06-25/ch676/s18A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs18A
 [/us/pl/111/148/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1511
 [/us/stat/124/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F252

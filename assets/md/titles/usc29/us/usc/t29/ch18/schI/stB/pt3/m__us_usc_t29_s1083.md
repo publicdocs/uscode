@@ -659,15 +659,11 @@
 
                             <td> 
 
-                        The
-
-                        applicable minimum percentage is:  </td>
+                        The applicable minimum percentage is:  </td>
 
                             <td> 
 
-                        The
-
-                        applicable maximum percentage is:  </td>
+                        The applicable maximum percentage is:  </td>
 
   </tr>
 
@@ -675,7 +671,7 @@
 
                             <td> 
 
-                        2012, 2013, 2014, 2015, 2016, or 2017  </td>
+                        2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, or 2020  </td>
 
                             <td> 
 
@@ -691,7 +687,7 @@
 
                             <td> 
 
-                        2018  </td>
+                        2021  </td>
 
                             <td> 
 
@@ -707,7 +703,7 @@
 
                             <td> 
 
-                        2019  </td>
+                        2022  </td>
 
                             <td> 
 
@@ -723,7 +719,7 @@
 
                             <td> 
 
-                        2020  </td>
+                        2023  </td>
 
                             <td> 
 
@@ -739,7 +735,7 @@
 
                             <td> 
 
-                        After 2020  </td>
+                        After 2023  </td>
 
                             <td> 
 
@@ -1335,7 +1331,7 @@
 
         In the case of a qualified transfer (as defined in [section 420 of title 26][/us/usc/t26/s420]), any assets so transferred shall not, for purposes of this section, be treated as assets in the plan.
 
-([Pub. L. 93–406, title I, § 303][/us/pl/93/406/s303], as added [Pub. L. 109–280, title I, § 102(a)][/us/pl/109/280/s102/a], Aug. 17, 2006, [120 Stat. 789][/us/stat/120/789]; amended [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(b)(1), 121(a), title II, § 202(a), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5113, 5117; [Pub. L. 111–192, title II][/us/pl/111/192], §§ 201(a), 204(a), June 25, 2010, [124 Stat. 1283][/us/stat/124/1283], 1300; [Pub. L. 112–141, div. D, title II, § 40211(b)(1)][/us/pl/112/141/s40211/b/1], (3)(A), July 6, 2012, [126 Stat. 847][/us/stat/126/847], 849; [Pub. L. 113–159, title II, § 2003(b)(1)][/us/pl/113/159/s2003/b/1], (d)(2), Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849], 1851; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(C)(ii)][/us/pl/113/295/s221/a/57/C/ii], (D)(ii), Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046].)
+([Pub. L. 93–406, title I, § 303][/us/pl/93/406/s303], as added [Pub. L. 109–280, title I, § 102(a)][/us/pl/109/280/s102/a], Aug. 17, 2006, [120 Stat. 789][/us/stat/120/789]; amended [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(b)(1), 121(a), title II, § 202(a), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5113, 5117; [Pub. L. 111–192, title II][/us/pl/111/192], §§ 201(a), 204(a), June 25, 2010, [124 Stat. 1283][/us/stat/124/1283], 1300; [Pub. L. 112–141, div. D, title II, § 40211(b)(1)][/us/pl/112/141/s40211/b/1], (3)(A), July 6, 2012, [126 Stat. 847][/us/stat/126/847], 849; [Pub. L. 113–159, title II, § 2003(b)(1)][/us/pl/113/159/s2003/b/1], (d)(2), Aug. 8, 2014, [128 Stat. 1849][/us/stat/128/1849], 1851; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(C)(ii)][/us/pl/113/295/s221/a/57/C/ii], (D)(ii), Dec. 19, 2014, [128 Stat. 4046][/us/stat/128/4046]; [Pub. L. 114–74, title V, § 504(b)(1)][/us/pl/114/74/s504/b/1], Nov. 2, 2015, [129 Stat. 593][/us/stat/129/593].)
 
  __References in Text__ 
 
@@ -1350,6 +1346,8 @@
     A prior section 1083, [Pub. L. 93–406, title I, § 303][/us/pl/93/406/s303], Sept. 2, 1974, [88 Stat. 872][/us/stat/88/872]; [Pub. L. 99–272, title XI][/us/pl/99/272], §§ 11015(b)(1)(A), 11016(c)(2), Apr. 7, 1986, [100 Stat. 267][/us/stat/100/267], 273; [Pub. L. 100–203, title IX, § 9306(a)(2)][/us/pl/100/203/s9306/a/2], (b)(2), (c)(2)(A), (d)(2), Dec. 22, 1987, [101 Stat. 1330–353][/us/stat/101/1330-353] to 1330–355; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(b)(6)(B)(ii), (7), (8), (c)(2), 7891(a)(1), Dec. 19, 1989, [103 Stat. 2438][/us/stat/103/2438], 2439, 2445, related to variance from minimum funding standard, prior to repeal by [Pub. L. 109–280, title I, § 101(a)][/us/pl/109/280/s101/a], (d), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784], 789, applicable to plan years beginning after 2007.
 
  __Amendments__ 
+
+    2015—Subsec. (h)(2)(C)(iv)(II). [Pub. L. 114–74][/us/pl/114/74] amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for calendar years 2012 to 2020.
 
     2014—Subsec. (c)(5). [Pub. L. 113–295, § 221(a)(57)(C)(ii)][/us/pl/113/295/s221/a/57/C/ii], struck out subpar. (A) designation and heading and struck out subpar. (B) which related to transition rule and availability of transition relief.
 
@@ -1515,6 +1513,10 @@ After 2015  </td>
 
     Subsec. (k)(6)(B). [Pub. L. 110–458, § 101(b)(1)(H)][/us/pl/110/458/s101/b/1/H], struck out “, except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under this section” after “subsection (j)”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–74][/us/pl/114/74] applicable with respect to plan years beginning after Dec. 31, 2015, see [section 504(c) of Pub. L. 114–74][/us/pl/114/74/s504/c], set out as a note under [section 430 of Title 26][/us/usc/t26/s430], Internal Revenue Code.
+
  __Effective Date of 2014 Amendment__ 
 
     Amendment by [Pub. L. 113–295][/us/pl/113/295] effective Dec. 19, 2014, subject to a savings provision, see [section 221(b) of Pub. L. 113–295][/us/pl/113/295/s221/b], set out as a note under [section 1 of Title 26][/us/usc/t26/s1], Internal Revenue Code.
@@ -1596,6 +1598,8 @@ After 2015  </td>
 [/us/stat/128/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1849
 [/us/pl/113/295/s221/a/57/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FC%2Fii
 [/us/stat/128/4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4046
+[/us/pl/114/74/s504/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs504%2Fb%2F1
+[/us/stat/129/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F593
 [/us/pl/109/280/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs106
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/usc/t29/s1055/g/3/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055%2Fg%2F3%2FB%2Fiii%2FI
@@ -1615,6 +1619,7 @@ After 2015  </td>
 [/us/stat/103/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2438
 [/us/pl/109/280/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fa
 [/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/113/295/s221/a/57/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F57%2FC%2Fii
 [/us/pl/113/159/s2003/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fd%2F2
 [/us/pl/113/159/s2003/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2003%2Fb%2F1
@@ -1643,6 +1648,9 @@ After 2015  </td>
 [/us/pl/110/458/s101/b/1/G/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F1%2FG%2Fi
 [/us/pl/110/458/s101/b/1/G/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F1%2FG%2Fii
 [/us/pl/110/458/s101/b/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fb%2F1%2FH
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs504%2Fc
+[/us/usc/t26/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs430
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/295/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fb
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1

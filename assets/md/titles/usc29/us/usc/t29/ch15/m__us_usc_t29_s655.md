@@ -65,7 +65,7 @@
 
         (2) Such standard shall be effective until superseded by a standard promulgated in accordance with the procedures prescribed in paragraph (3) of this subsection.
 
-        (3) Upon publication of such standard in the Federal Register the Secretary shall commence a proceeding in accordance with subsection (b) of this section, and the standard as published shall also serve as a proposed rule for the proceeding. The Secretary shall promulgate a standard under this paragraph no later than six months after publication of the emergency standard as provided in paragraph (2) of this subsection.
+        (3) Upon publication of such standard in the Federal Register the Secretary shall commence a proceeding in accordance with subsection (b), and the standard as published shall also serve as a proposed rule for the proceeding. The Secretary shall promulgate a standard under this paragraph no later than six months after publication of the emergency standard as provided in paragraph (2) of this subsection.
 
     (d) __Variances from standards; procedure__ 
 

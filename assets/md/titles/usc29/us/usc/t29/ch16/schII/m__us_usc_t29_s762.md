@@ -187,7 +187,7 @@
 
                 (ii) in coordination with the Administrator;
 
-                (iii) after consultation with the National Council on Disability established under subchapter IV of this chapter, the Secretary of Education, officials responsible for the administration of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[[42 U.S.C. 15001][/us/usc/t42/s15001] et seq.\], and the Interagency Committee on Disability Research established under [section 763 of this title][/us/usc/t29/s763]; and
+                (iii) after consultation with the National Council on Disability established under subchapter IV, the Secretary of Education, officials responsible for the administration of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[[42 U.S.C. 15001][/us/usc/t42/s15001] et seq.\], and the Interagency Committee on Disability Research established under [section 763 of this title][/us/usc/t29/s763]; and
 
                 (iv) after full consideration of the input of individuals with disabilities and the individuals’ representatives, organizations representing individuals with disabilities, providers of services furnished under this chapter, researchers in the independent living and rehabilitation fields, and any other persons or entities the Director considers to be appropriate;
 

@@ -41,7 +41,7 @@
 
     (e) __Employer and authorized employee representatives to accompany Secretary or his authorized representative on inspection of workplace; consultation with employees where no authorized employee representative is present__ 
 
-        Subject to regulations issued by the Secretary, a representative of the employer and a representative authorized by his employees shall be given an opportunity to accompany the Secretary or his authorized representative during the physical inspection of any workplace under subsection (a) of this section for the purpose of aiding such inspection. Where there is no authorized employee representative, the Secretary or his authorized representative shall consult with a reasonable number of employees concerning matters of health and safety in the workplace.
+        Subject to regulations issued by the Secretary, a representative of the employer and a representative authorized by his employees shall be given an opportunity to accompany the Secretary or his authorized representative during the physical inspection of any workplace under subsection (a) for the purpose of aiding such inspection. Where there is no authorized employee representative, the Secretary or his authorized representative shall consult with a reasonable number of employees concerning matters of health and safety in the workplace.
 
     (f) __Request for inspection by employees or representative of employees; grounds; procedure; determination of request; notification of Secretary or representative prior to or during any inspection of violations; procedure for review of refusal by representative of Secretary to issue citation for alleged violations__ 
 

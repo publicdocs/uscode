@@ -31,7 +31,7 @@
 
             (A) __In general__ 
 
-            Except in the case of a separate Council established under subsection (a)(2) of this section, the Council shall be composed of—
+            Except in the case of a separate Council established under subsection (a)(2), the Council shall be composed of—
 
                 (i) at least one representative of the Statewide Independent Living Council established under [section 796d of this title][/us/usc/t29/s796d], which representative may be the chairperson or other designee of the Council;
 
@@ -63,7 +63,7 @@
 
             (B) __Separate Council__ 
 
-            In the case of a separate Council established under subsection (a)(2) of this section, the Council shall be composed of—
+            In the case of a separate Council established under subsection (a)(2), the Council shall be composed of—
 
                 (i) at least one representative described in subparagraph (A)(i);
 
@@ -97,7 +97,7 @@
 
             (C) __Exception__ 
 
-            In the case of a separate Council established under subsection (a)(2) of this section, any Council that is required by State law, as in effect on October 29, 1992, to have fewer than 15 members shall be deemed to be in compliance with subparagraph (B) if the Council—
+            In the case of a separate Council established under subsection (a)(2), any Council that is required by State law, as in effect on October 29, 1992, to have fewer than 15 members shall be deemed to be in compliance with subparagraph (B) if the Council—
 
                 (i) meets the requirements of subparagraph (B), other than the requirements of clauses (vi) and (ix) of such subparagraph; and
 
@@ -129,7 +129,7 @@
 
             (B) __Separate Council__ 
 
-            In the case of a separate Council established under subsection (a)(2) of this section, a majority of Council members shall be persons who are—
+            In the case of a separate Council established under subsection (a)(2), a majority of Council members shall be persons who are—
 
                 (i) blind; and
 

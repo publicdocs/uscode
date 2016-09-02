@@ -17,7 +17,7 @@
 
     (a) __Activities not compensable__ 
 
-    Except as provided in subsection (b) of this section, no employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[[29 U.S.C. 201][/us/usc/t29/s201] et seq.\], the Walsh-Healey Act, or the Bacon-Davis Act, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any of the following activities of such employee engaged in on or after May 14, 1947—
+    Except as provided in subsection (b), no employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[[29 U.S.C. 201][/us/usc/t29/s201] et seq.\], the Walsh-Healey Act, or the Bacon-Davis Act, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any of the following activities of such employee engaged in on or after May 14, 1947—
 
         (1) walking, riding, or traveling to and from the actual place of performance of the principal activity or activities which such employee is employed to perform, and
 
@@ -27,7 +27,7 @@
 
     (b) __Compensability by contract or custom__ 
 
-    Notwithstanding the provisions of subsection (a) of this section which relieve an employer from liability and punishment with respect to any activity, the employer shall not be so relieved if such activity is compensable by either—
+    Notwithstanding the provisions of subsection (a) which relieve an employer from liability and punishment with respect to any activity, the employer shall not be so relieved if such activity is compensable by either—
 
         (1) an express provision of a written or nonwritten contract in effect, at the time of such activity, between such employee, his agent, or collective-bargaining representative and his employer; or
 
@@ -35,7 +35,7 @@
 
     (c) __Restriction on activities compensable under contract or custom__ 
 
-        For the purposes of subsection (b) of this section, an activity shall be considered as compensable under such contract provision or such custom or practice only when it is engaged in during the portion of the day with respect to which it is so made compensable.
+        For the purposes of subsection (b), an activity shall be considered as compensable under such contract provision or such custom or practice only when it is engaged in during the portion of the day with respect to which it is so made compensable.
 
     (d) __Determination of time employed with respect to activities__ 
 

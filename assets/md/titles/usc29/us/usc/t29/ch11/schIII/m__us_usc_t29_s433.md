@@ -47,7 +47,7 @@
 
     (d) __Exemption from filing requirements generally__ 
 
-        Nothing contained in this section shall be construed to require an employer to file a report under subsection (a) of this section unless he has made an expenditure, payment, loan, agreement, or arrangement of the kind described therein. Nothing contained in this section shall be construed to require any other person to file a report under subsection (b) of this section unless he was a party to an agreement or arrangement of the kind described therein.
+        Nothing contained in this section shall be construed to require an employer to file a report under subsection (a) unless he has made an expenditure, payment, loan, agreement, or arrangement of the kind described therein. Nothing contained in this section shall be construed to require any other person to file a report under subsection (b) unless he was a party to an agreement or arrangement of the kind described therein.
 
     (e) __Services by and payments to regular officers, supervisors, and employees of employer__ 
 

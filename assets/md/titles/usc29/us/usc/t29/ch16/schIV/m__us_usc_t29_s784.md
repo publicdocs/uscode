@@ -33,7 +33,7 @@
 
     (e) __Use of services, personnel, information, and facilities__ 
 
-        The National Council may use, with the consent of the agencies represented on the Interagency Disability Coordinating Council, and as authorized in subchapter V of this chapter, such services, personnel, information, and facilities as may be needed to carry out its duties under this subchapter, with or without reimbursement to such agencies.
+        The National Council may use, with the consent of the agencies represented on the Interagency Disability Coordinating Council, and as authorized in subchapter V, such services, personnel, information, and facilities as may be needed to carry out its duties under this subchapter, with or without reimbursement to such agencies.
 
 ([Pub. L. 93–112, title IV, § 404][/us/pl/93/112/s404], as added [Pub. L. 105–220, title IV, § 407][/us/pl/105/220/s407], Aug. 7, 1998, [112 Stat. 1201][/us/stat/112/1201].)
 

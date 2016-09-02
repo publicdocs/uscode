@@ -17,7 +17,7 @@
 
     (a) It shall be unlawful, for the purpose of this section only, in an industry or activity affecting commerce, for any labor organization to engage in any activity or conduct defined as an unfair labor practice in [section 158(b)(4) of this title][/us/usc/t29/s158/b/4].
 
-    (b) Whoever shall be injured in his business or property by reason or  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “of”. </sup></sup>  any violation of subsection (a) of this section may sue therefor in any district court of the United States subject to the limitations and provisions of [section 185 of this title][/us/usc/t29/s185] without respect to the amount in controversy, or in any other court having jurisdiction of the parties, and shall recover the damages by him sustained and the cost of the suit.
+    (b) Whoever shall be injured in his business or property by reason or  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “of”. </sup></sup>  any violation of subsection (a) may sue therefor in any district court of the United States subject to the limitations and provisions of [section 185 of this title][/us/usc/t29/s185] without respect to the amount in controversy, or in any other court having jurisdiction of the parties, and shall recover the damages by him sustained and the cost of the suit.
 
 ([June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title III, § 303, [61 Stat. 158][/us/stat/61/158]; [Pub. L. 86–257, title VII, § 704(e)][/us/pl/86/257/s704/e], Sept. 14, 1959, [73 Stat. 545][/us/stat/73/545].)
 

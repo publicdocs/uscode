@@ -77,6 +77,12 @@
 
     Amendment by [Pub. L. 96–364][/us/pl/96/364] effective Sept. 26, 1980, except as specifically provided, see [section 1461(e) of this title][/us/usc/t29/s1461/e].
 
+ __Pension Payment Acceleration__ 
+
+[Pub. L. 114–74, title V, § 502][/us/pl/114/74/s502], Nov. 2, 2015, [129 Stat. 593][/us/stat/129/593], provided that: 
+
+> “Notwithstanding section 4007(a) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1307(a)][/us/usc/t29/s1307/a]) and section 4007.11 of title 29, Code of Federal Regulations, for plan years commencing after December 31, 2024, and before January 1, 2026, the premium due date for such plan years shall be the fifteenth day of the ninth calendar month that begins on or after the first day of the premium payment year.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t29/ch18/schIII/stA/m__us_usc_t29_s1306.md) | [Next](./../../../../../..//us/usc/t29/ch18/schIII/stA/m__us_usc_t29_s1308.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1307)
@@ -114,5 +120,8 @@
 [/us/usc/t29/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1305
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/usc/t29/s1461/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1461%2Fe
+[/us/pl/114/74/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs502
+[/us/stat/129/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F593
+[/us/usc/t29/s1307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1307%2Fa
 
 

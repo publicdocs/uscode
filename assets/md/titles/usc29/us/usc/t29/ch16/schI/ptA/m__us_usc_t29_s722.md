@@ -55,7 +55,7 @@
 
             (A) __In general__ 
 
-                To the maximum extent appropriate and consistent with the requirements of this part, for purposes of determining the eligibility of an individual for vocational rehabilitation services under this subchapter and developing the individualized plan for employment described in subsection (b) of this section for the individual, the designated State unit shall use information that is existing and current (as of the date of the determination of eligibility or of the development of the individualized plan for employment), including information available from other programs and providers, particularly information used by education officials and the Social Security Administration, information provided by the individual and the family of the individual, and information obtained under the assessment for determining eligibility and vocational rehabilitation needs.
+                To the maximum extent appropriate and consistent with the requirements of this part, for purposes of determining the eligibility of an individual for vocational rehabilitation services under this subchapter and developing the individualized plan for employment described in subsection (b) for the individual, the designated State unit shall use information that is existing and current (as of the date of the determination of eligibility or of the development of the individualized plan for employment), including information available from other programs and providers, particularly information used by education officials and the Social Security Administration, information provided by the individual and the family of the individual, and information obtained under the assessment for determining eligibility and vocational rehabilitation needs.
 
             (B) __Determinations by officials of other agencies__ 
 
@@ -83,7 +83,7 @@
 
                 (i) the reasons for the determination, including the clear and convincing evidence that forms the basis for the determination of ineligibility; and
 
-                (ii) a description of the means by which the individual may express, and seek a remedy for, any dissatisfaction with the determination, including the procedures for review by an impartial hearing officer under subsection (c) of this section;
+                (ii) a description of the means by which the individual may express, and seek a remedy for, any dissatisfaction with the determination, including the procedures for review by an impartial hearing officer under subsection (c);
 
             (D) the individual shall be provided with a description of services available from the client assistance program under [section 732 of this title][/us/usc/t29/s732] and information on how to contact that program; and
 
@@ -107,7 +107,7 @@
 
         (1) __Options for developing an individualized plan for employment__ 
 
-        If an individual is determined to be eligible for vocational rehabilitation services as described in subsection (a) of this section, the designated State unit shall complete the assessment for determining eligibility and vocational rehabilitation needs, as appropriate, and shall provide the eligible individual or the individual’s representative, in writing and in an appropriate mode of communication, with information on the individual’s options for developing an individualized plan for employment, including—
+        If an individual is determined to be eligible for vocational rehabilitation services as described in subsection (a), the designated State unit shall complete the assessment for determining eligibility and vocational rehabilitation needs, as appropriate, and shall provide the eligible individual or the individual’s representative, in writing and in an appropriate mode of communication, with information on the individual’s options for developing an individualized plan for employment, including—
 
             (A) information on the availability of assistance from a qualified vocational rehabilitation counselor or, as appropriate, a disability advocacy organization in developing all or part of the individualized plan for employment for the individual, and the availability of technical assistance in developing all or part of the individualized plan for employment for the individual;
 
@@ -125,7 +125,7 @@
 
             (D)
 
-                (i) a description of the rights and remedies available to such an individual including, if appropriate, recourse to the processes set forth in subsection (c) of this section; and
+                (i) a description of the rights and remedies available to such an individual including, if appropriate, recourse to the processes set forth in subsection (c); and
 
                 (ii) a description of the availability of a client assistance program established pursuant to [section 732 of this title][/us/usc/t29/s732] and information about how to contact the client assistance program.
 
@@ -141,7 +141,7 @@
 
             (B) __Informed choice__ 
 
-                An individualized plan for employment shall be developed and implemented in a manner that affords eligible individuals the opportunity to exercise informed choice in selecting an employment outcome, the specific vocational rehabilitation services to be provided under the plan, the entity that will provide the vocational rehabilitation services, and the methods used to procure the services, consistent with subsection (d) of this section.
+                An individualized plan for employment shall be developed and implemented in a manner that affords eligible individuals the opportunity to exercise informed choice in selecting an employment outcome, the specific vocational rehabilitation services to be provided under the plan, the entity that will provide the vocational rehabilitation services, and the methods used to procure the services, consistent with subsection (d).
 
             (C) __Signatories__ 
 

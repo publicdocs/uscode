@@ -63,7 +63,7 @@
 
             (A)
 
-             In the case of a contribution, or a payment of withdrawal liability under part 1 of subtitle E of subchapter III of this chapter—
+             In the case of a contribution, or a payment of withdrawal liability under part 1 of subtitle E of subchapter III—
 
                 (i) if such contribution or payment is made by an employer to a plan (other than a multiemployer plan) by a mistake of fact, paragraph (1) shall not prohibit the return of such contribution to the employer within one year after the payment of the contribution, and
 

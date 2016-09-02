@@ -29,7 +29,7 @@
 
         (5) to violate any of the provisions of [section 211(c) of this title][/us/usc/t29/s211/c], or any regulation or order made or continued in effect under the provisions of [section 211(d) of this title][/us/usc/t29/s211/d], or to make any statement, report, or record filed or kept pursuant to the provisions of such section or of any regulation or order thereunder, knowing such statement, report, or record to be false in a material respect.
 
-    (b) For the purposes of subsection (a)(1) of this section proof that any employee was employed in any place of employment where goods shipped or sold in commerce were produced, within ninety days prior to the removal of the goods from such place of employment, shall be prima facie evidence that such employee was engaged in the production of such goods.
+    (b) For the purposes of subsection (a)(1) proof that any employee was employed in any place of employment where goods shipped or sold in commerce were produced, within ninety days prior to the removal of the goods from such place of employment, shall be prima facie evidence that such employee was engaged in the production of such goods.
 
 ([June 25, 1938, ch. 676, § 15][/us/act/1938-06-25/ch676/s15], [52 Stat. 1068][/us/stat/52/1068]; [Oct. 26, 1949, ch. 736, § 13][/us/act/1949-10-26/ch736/s13], [63 Stat. 919][/us/stat/63/919]; 1950 Reorg. Plan No. 6, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1263][/us/stat/64/1263].)
 

@@ -49,7 +49,7 @@
 
     (i) __Rules and regulations for determining adequacy of removal procedures__ 
 
-        The Secretary shall promulgate rules and regulations prescribing minimum standards and procedures for determining the adequacy of the removal procedures to which reference is made in subsection (h) of this section.
+        The Secretary shall promulgate rules and regulations prescribing minimum standards and procedures for determining the adequacy of the removal procedures to which reference is made in subsection (h).
 
 ([Pub. L. 86–257, title IV, § 401][/us/pl/86/257/s401], Sept. 14, 1959, [73 Stat. 532][/us/stat/73/532].)
 

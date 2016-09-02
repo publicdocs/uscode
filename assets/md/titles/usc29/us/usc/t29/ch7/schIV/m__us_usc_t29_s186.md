@@ -29,7 +29,7 @@
 
     (b) __Request, demand, etc., for money or other thing of value__ 
 
-        (1) It shall be unlawful for any person to request, demand, receive, or accept, or agree to receive or accept, any payment, loan, or delivery of any money or other thing of value prohibited by subsection (a) of this section.
+        (1) It shall be unlawful for any person to request, demand, receive, or accept, or agree to receive or accept, any payment, loan, or delivery of any money or other thing of value prohibited by subsection (a).
 
         (2) It shall be unlawful for any labor organization, or for any person acting as an officer, agent, representative, or employee of such labor organization, to demand or accept from the operator of any motor vehicle (as defined in [section 13102 of title 49][/us/usc/t49/s13102]) employed in the transportation of property in commerce, or the employer of any such operator, any money or other thing of value payable to such organization or to an officer, agent, representative or employee thereof as a fee or charge for the unloading, or in connection with the unloading, of the cargo of such vehicle: Provided, That nothing in this paragraph shall be construed to make unlawful any payment by an employer to any of his employees as compensation for their services as employees.
 
@@ -53,7 +53,7 @@
 
     (g) __Contributions to trust funds__ 
 
-        Compliance with the restrictions contained in subsection (c)(5)(B) of this section upon contributions to trust funds, otherwise lawful, shall not be applicable to contributions to such trust funds established by collective agreement prior to January 1, 1946, nor shall subsection (c)(5)(A) of this section be construed as prohibiting contributions to such trust funds if prior to January 1, 1947, such funds contained provisions for pooled vacation benefits.
+        Compliance with the restrictions contained in subsection (c)(5)(B) upon contributions to trust funds, otherwise lawful, shall not be applicable to contributions to such trust funds established by collective agreement prior to January 1, 1946, nor shall subsection (c)(5)(A) be construed as prohibiting contributions to such trust funds if prior to January 1, 1947, such funds contained provisions for pooled vacation benefits.
 
 ([June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title III, § 302, [61 Stat. 157][/us/stat/61/157]; [Pub. L. 86–257, title V, § 505][/us/pl/86/257/s505], Sept. 14, 1959, [73 Stat. 537][/us/stat/73/537]; [Pub. L. 91–86][/us/pl/91/86], Oct. 14, 1969, [83 Stat. 133][/us/stat/83/133]; [Pub. L. 93–95][/us/pl/93/95], Aug. 15, 1973, [87 Stat. 314][/us/stat/87/314]; [Pub. L. 95–524, § 6(d)][/us/pl/95/524/s6/d], Oct. 27, 1978, [92 Stat. 2021][/us/stat/92/2021]; [Pub. L. 98–473, title II, § 801][/us/pl/98/473/s801], Oct. 12, 1984, [98 Stat. 2131][/us/stat/98/2131]; [Pub. L. 101–273, § 1][/us/pl/101/273/s1], Apr. 18, 1990, [104 Stat. 138][/us/stat/104/138]; [Pub. L. 104–88, title III, § 337][/us/pl/104/88/s337], Dec. 29, 1995, [109 Stat. 954][/us/stat/109/954].)
 
