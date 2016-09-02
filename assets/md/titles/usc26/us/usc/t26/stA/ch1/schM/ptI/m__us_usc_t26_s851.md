@@ -1,0 +1,546 @@
+---
+---
+
+# 26 U.S.C., USLM ref /us/usc/t26/s851
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schM/ptI/m__us_usc_t26_stA_ch1_schM_ptI.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schM/ptI/m__us_usc_t26_s852.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs851)
+
+## § 851. Definition of regulated investment company
+
+    (a) __General rule__ 
+
+    For purposes of this subtitle, the term “regulated investment company” means any domestic corporation—
+
+        (1)
+
+         which, at all times during the taxable year—
+
+            (A) is registered under the Investment Company Act of 1940, as amended ([15 U.S.C. 80a–1][/us/usc/t15/s80a–1] to 80b–2) as a management company or unit investment trust, or
+
+            (B) has in effect an election under such Act to be treated as a business development company, or
+
+        (2) which is a common trust fund or similar fund excluded by section 3(c)(3) of such Act ([15 U.S.C. 80a–3(c)][/us/usc/t15/s80a–3/c]) from the definition of “investment company” and is not included in the definition of “common trust fund” by section 584(a).
+
+    (b) __Limitations__ 
+
+    A corporation shall not be considered a regulated investment company for any taxable year unless—
+
+        (1) it files with its return for the taxable year an election to be a regulated investment company or has made such election for a previous taxable year;
+
+        (2)
+
+         at least 90 percent of its gross income is derived from—
+
+            (A) dividends, interest, payments with respect to securities loans (as defined in section 512(a)(5)), and gains from the sale or other disposition of stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies, and
+
+            (B) net income derived from an interest in a qualified publicly traded partnership (as defined in subsection (h)); and
+
+        (3)
+
+         at the close of each quarter of the taxable year—
+
+            (A)
+
+             at least 50 percent of the value of its total assets is represented by—
+
+                (i) cash and cash items (including receivables), Government securities and securities of other regulated investment companies, and
+
+                (ii) other securities for purposes of this calculation limited, except and to the extent provided in subsection (e), in respect of any one issuer to an amount not greater in value than 5 percent of the value of the total assets of the taxpayer and to not more than 10 percent of the outstanding voting securities of such issuer, and
+
+            (B)
+
+             not more than 25 percent of the value of its total assets is invested in—
+
+                (i) the securities (other than Government securities or the securities of other regulated investment companies) of any one issuer,
+
+                (ii) the securities (other than the securities of other regulated investment companies) of two or more issuers which the taxpayer controls and which are determined, under regulations prescribed by the Secretary, to be engaged in the same or similar trades or businesses or related trades or businesses, or
+
+                (iii) the securities of one or more qualified publicly traded partnerships (as defined in subsection (h)).
+
+        For purposes of paragraph (2), there shall be treated as dividends amounts included in gross income under section 951(a)(1)(A)(i) or 1293(a) for the taxable year to the extent that, under section 959(a)(1) or 1293(c) (as the case may be), there is a distribution out of the earnings and profits of the taxable year which are attributable to the amounts so included. For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not directly related to the company’s principal business of investing in stock or securities (or options and futures with respect to stock or securities). For purposes of paragraph (2), amounts excludable from gross income under section 103(a) shall be treated as included in gross income. Income derived from a partnership (other than a qualified publicly traded partnership as defined in subsection (h)) or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust.
+
+    (c) __Rules applicable to subsection (b)(3)__ 
+
+    For purposes of subsection (b)(3) and this subsection—
+
+        (1) In ascertaining the value of the taxpayer’s investment in the securities of an issuer, for the purposes of subparagraph (B), there shall be included its proper proportion of the investment of any other corporation, a member of a controlled group, in the securities of such issuer, as determined under regulations prescribed by the Secretary.
+
+        (2) The term “controls” means the ownership in a corporation of 20 percent or more of the total combined voting power of all classes of stock entitled to vote.
+
+        (3)
+
+         The term “controlled group” means one or more chains of corporations connected through stock ownership with the taxpayer if—
+
+            (A) 20 percent or more of the total combined voting power of all classes of stock entitled to vote of each of the corporations (except the taxpayer) is owned directly by one or more of the other corporations, and
+
+            (B) the taxpayer owns directly 20 percent or more of the total combined voting power of all classes of stock entitled to vote, of at least one of the other corporations.
+
+        (4) The term “value” means, with respect to securities (other than those of majority-owned subsidiaries) for which market quotations are readily available, the market value of such securities; and with respect to other securities and assets, fair value as determined in good faith by the board of directors, except that in the case of securities of majority-owned subsidiaries which are investment companies such fair value shall not exceed market value or asset value, whichever is higher.
+
+        (5) The term “outstanding voting securities of such issuer” shall include the equity securities of a qualified publicly traded partnership (as defined in subsection (h)).
+
+        (6) All other terms shall have the same meaning as when used in the Investment Company Act of 1940, as amended.
+
+    (d) __Determination of status__ 
+
+        (1) __In general__ 
+
+            A corporation which meets the requirements of subsections (b)(3) and (c) at the close of any quarter shall not lose its status as a regulated investment company because of a discrepancy during a subsequent quarter between the value of its various investments and such requirements unless such discrepancy exists immediately after the acquisition of any security or other property and is wholly or partly the result of such acquisition. A corporation which does not meet such requirements at the close of any quarter by reason of a discrepancy existing immediately after the acquisition of any security or other property which is wholly or partly the result of such acquisition during such quarter shall not lose its status for such quarter as a regulated investment company if such discrepancy is eliminated within 30 days after the close of such quarter and in such cases it shall be considered to have met such requirements at the close of such quarter for purposes of applying the preceding sentence.
+
+        (2) __Special rules regarding failure to satisfy requirements__ 
+
+        If paragraph (1) does not preserve a corporation’s status as a regulated investment company for any particular quarter—
+
+            (A) __In general__ 
+
+            A corporation that fails to meet the requirements of subsection (b)(3) (other than a failure described in subparagraph (B)(i)) for such quarter shall nevertheless be considered to have satisfied the requirements of such subsection for such quarter if—
+
+                (i) following the corporation’s identification of the failure to satisfy the requirements of such subsection for such quarter, a description of each asset that causes the corporation to fail to satisfy the requirements of such subsection at the close of such quarter is set forth in a schedule for such quarter filed in the manner provided by the Secretary,
+
+                (ii) the failure to meet the requirements of such subsection for such quarter is due to reasonable cause and not due to willful neglect, and
+
+                (iii)
+
+                    (I) the corporation disposes of the assets set forth on the schedule specified in clause (i) within 6 months after the last day of the quarter in which the corporation’s identification of the failure to satisfy the requirements of such subsection occurred or such other time period prescribed by the Secretary and in the manner prescribed by the Secretary, or
+
+                    (II) the requirements of such subsection are otherwise met within the time period specified in subclause (I).
+
+            (B) __Rule for certain de minimis failures__ 
+
+            A corporation that fails to meet the requirements of subsection (b)(3) for such quarter shall nevertheless be considered to have satisfied the requirements of such subsection for such quarter if—
+
+                (i)
+
+                 such failure is due to the ownership of assets the total value of which does not exceed the lesser of—
+
+                    (I) 1 percent of the total value of the corporation’s assets at the end of the quarter for which such measurement is done, or
+
+                    (II) $10,000,000, and
+
+                (ii)
+
+                    (I) the corporation, following the identification of such failure, disposes of assets in order to meet the requirements of such subsection within 6 months after the last day of the quarter in which the corporation’s identification of the failure to satisfy the requirements of such subsection occurred or such other time period prescribed by the Secretary and in the manner prescribed by the Secretary, or
+
+                    (II) the requirements of such subsection are otherwise met within the time period specified in subclause (I).
+
+            (C) __Tax__ 
+
+                (i) __Tax imposed__ 
+
+                If subparagraph (A) applies to a corporation for any quarter, there is hereby imposed on such corporation a tax in an amount equal to the greater of—
+
+                    (I) $50,000, or
+
+                    (II) the amount determined (pursuant to regulations promulgated by the Secretary) by multiplying the net income generated by the assets described in the schedule specified in subparagraph (A)(i) for the period specified in clause (ii) by the highest rate of tax specified in section 11.
+
+                (ii) __Period__ 
+
+                    For purposes of clause (i)(II), the period described in this clause is the period beginning on the first date that the failure to satisfy the requirements of subsection (b)(3) occurs as a result of the ownership of such assets and ending on the earlier of the date on which the corporation disposes of such assets or the end of the first quarter when there is no longer a failure to satisfy such subsection.
+
+                (iii) __Administrative provisions__ 
+
+                    For purposes of subtitle F, a tax imposed by this subparagraph shall be treated as an excise tax with respect to which the deficiency procedures of such subtitle apply.
+
+    (e) __Investment companies furnishing capital to development corporations__ 
+
+        (1) __General rule__ 
+
+            If the Securities and Exchange Commission determines, in accordance with regulations issued by it, and certifies to the Secretary not earlier than 60 days prior to the close of the taxable year of a management company or a business development company described in subsection (a)(1), that such investment company is principally engaged in the furnishing of capital to other corporations which are principally engaged in the development or exploitation of inventions, technological improvements, new processes, or products not previously generally available, such investment company may, in the computation of 50 percent of the value of its assets under subparagraph (A) of subsection (b)(3) for any quarter of such taxable year, include the value of any securities of an issuer, whether or not the investment company owns more than 10 percent of the outstanding voting securities of such issuer, the basis of which, when added to the basis of the investment company for securities of such issuer previously acquired, did not exceed 5 percent of the value of the total assets of the investment company at the time of the subsequent acquisition of securities. The preceding sentence shall not apply to the securities of an issuer if the investment company has continuously held any security of such issuer (or of any predecessor company of such issuer as determined under regulations prescribed by the Secretary) for 10 or more years preceding such quarter of such taxable year.
+
+        (2) __Limitation__ 
+
+            The provisions of this subsection shall not apply at the close of any quarter of a taxable year to an investment company if at the close of such quarter more than 25 percent of the value of its total assets is represented by securities of issuers with respect to each of which the investment company holds more than 10 percent of the outstanding voting securities of such issuer and in respect of each of which or any predecessor thereof the investment company has continuously held any security for 10 or more years preceding such quarter unless the value of its total assets so represented is reduced to 25 percent or less within 30 days after the close of such quarter.
+
+        (3) __Determination of status__ 
+
+            For purposes of this subsection, unless the Securities and Exchange Commission determines otherwise, a corporation shall be considered to be principally engaged in the development or exploitation of inventions, technological improvements, new processes, or products not previously generally available, for at least 10 years after the date of the first acquisition of any security in such corporation or any predecessor thereof by such investment company if at the date of such acquisition the corporation or its predecessor was principally so engaged, and an investment company shall be considered at any date to be furnishing capital to any company whose securities it holds if within 10 years prior to such date it has acquired any of such securities, or any securities surrendered in exchange therefor, from such other company or predecessor thereof. For purposes of the certification under this subsection, the Securities and Exchange Commission shall have authority to issue such rules, regulations and orders, and to conduct such investigations and hearings, either public or private, as it may deem appropriate.
+
+        (4) __Definitions__ 
+
+            The terms used in this subsection shall have the same meaning as in subsections (b)(3) and (c) of this section.
+
+    (f) __Certain unit investment trusts__ 
+
+    For purposes of this title—
+
+        (1)
+
+         A unit investment trust (as defined in the Investment Company Act of 1940)—
+
+            (A) which is registered under such Act and issues periodic payment plan certificates (as defined in such Act) in one or more series,
+
+            (B) substantially all of the assets of which, as to all such series, consist of (i) securities issued by a single management company (as defined in such Act) and securities acquired pursuant to subparagraph (C), or (ii) securities issued by a single other corporation, and
+
+            (C) which has no power to invest in any other securities except securities issued by a single other management company, when permitted by such Act or the rules and regulations of the Securities and Exchange Commission,
+
+            shall not be treated as a person.
+
+        (2)
+
+         In the case of a unit investment trust described in paragraph (1)—
+
+            (A) each holder of an interest in such trust shall, to the extent of such interest, be treated as owning a proportionate share of the assets of such trust;
+
+            (B) the basis of the assets of such trust which are treated under subparagraph (A) as being owned by a holder of an interest in such trust shall be the same as the basis of his interest in such trust; and
+
+            (C) in determining the period for which the holder of an interest in such trust has held the assets of the trust which are treated under subparagraph (A) as being owned by him, there shall be included the period for which such holder has held his interest in such trust.
+
+        This subsection shall not apply in the case of a unit investment trust which is a segregated asset account under the insurance laws or regulations of a State.
+
+    (g) __Special rule for series funds__ 
+
+        (1) __In general__ 
+
+            In the case of a regulated investment company (within the meaning of subsection (a)) having more than one fund, each fund of such regulated investment company shall be treated as a separate corporation for purposes of this title (except with respect to the definitional requirement of subsection (a)).
+
+        (2) __Fund defined__ 
+
+            For purposes of paragraph (1) the term “fund” means a segregated portfolio of assets, the beneficial interests in which are owned by the holders of a class or series of stock of the regulated investment company that is preferred over all other classes or series in respect of such portfolio of assets.
+
+    (h) __Qualified publicly traded partnership__ 
+
+        For purposes of this section, the term “qualified publicly traded partnership” means a publicly traded partnership described in section 7704(b) other than a partnership which would satisfy the gross income requirements of section 7704(c)(2) if qualifying income included only income described in subsection (b)(2)(A).
+
+    (i) __Failure to satisfy gross income test__ 
+
+        (1) __Disclosure requirement__ 
+
+        A corporation that fails to meet the requirement of paragraph (2) of subsection (b) for any taxable year shall nevertheless be considered to have satisfied the requirement of such paragraph for such taxable year if—
+
+            (A) following the corporation’s identification of the failure to meet such requirement for such taxable year, a description of each item of its gross income described in such paragraph is set forth in a schedule for such taxable year filed in the manner provided by the Secretary, and
+
+            (B) the failure to meet such requirement is due to reasonable cause and not due to willful neglect.
+
+        (2) __Imposition of tax on failures__ 
+
+        If paragraph (1) applies to a regulated investment company for any taxable year, there is hereby imposed on such company a tax in an amount equal to the excess of—
+
+            (A) the gross income of such company which is not derived from sources referred to in subsection (b)(2), over
+
+            (B) ⅑ of the gross income of such company which is derived from such sources.
+
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 268][/us/stat/68A/268]; [Pub. L. 85–866, title I, § 38][/us/pl/85/866/s38], Sept. 2, 1958, [72 Stat. 1638][/us/stat/72/1638]; [Pub. L. 91–172, title IX, § 908(a)][/us/pl/91/172/s908/a], Dec. 30, 1969, [83 Stat. 717][/us/stat/83/717]; [Pub. L. 94–12, title VI, § 602(a)(2)][/us/pl/94/12/s602/a/2], Mar. 29, 1975, [89 Stat. 58][/us/stat/89/58]; [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1783][/us/stat/90/1783], 1834; [Pub. L. 95–345, § 2(a)(3)][/us/pl/95/345/s2/a/3], Aug. 15, 1978, [92 Stat. 481][/us/stat/92/481]; [Pub. L. 95–600, title VII, § 701(s)(1)][/us/pl/95/600/s701/s/1], Nov. 6, 1978, [92 Stat. 2911][/us/stat/92/2911]; [Pub. L. 97–424, title V, § 547(b)(1)][/us/pl/97/424/s547/b/1], Jan. 6, 1983, [96 Stat. 2199][/us/stat/96/2199]; [Pub. L. 98–369, div. A, title X, § 1071(a)(1)][/us/pl/98/369/s1071/a/1], July 18, 1984, [98 Stat. 1049][/us/stat/98/1049]; [Pub. L. 99–514, title VI][/us/pl/99/514], §§ 652(a), (b), 653(a)–(c), 654(a), title XII, § 1235(f)(3), Oct. 22, 1986, [100 Stat. 2297][/us/stat/100/2297], 2298, 2575; [Pub. L. 100–647, title I, § 1006(m)][/us/pl/100/647/s1006/m], (n)(1), (2)(A), (B), (4), (5), (o), Nov. 10, 1988, [102 Stat. 3415][/us/stat/102/3415], 3416; [Pub. L. 105–34, title XII, § 1271(a)][/us/pl/105/34/s1271/a]–(b)(7), Aug. 5, 1997, [111 Stat. 1036][/us/stat/111/1036], 1037; [Pub. L. 108–357, title III, § 331(a)][/us/pl/108/357/s331/a]–(d), (f), Oct. 22, 2004, [118 Stat. 1476][/us/stat/118/1476]; [Pub. L. 111–325, title II, § 201(a)][/us/pl/111/325/s201/a], (b), Dec. 22, 2010, [124 Stat. 3539][/us/stat/124/3539], 3540.)
+
+ __References in Text__ 
+
+    The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), (b)(2)(A), (c)(6), and (f)(1), is title I of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], [54 Stat. 789][/us/stat/54/789], as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of the Act is classified to [section 80a–2(a)(36) of Title 15][/us/usc/t15/s80a–2/a/36]. For complete classification of this Act to the Code, see [section 80a–51 of Title 15][/us/usc/t15/s80a–51] and Tables.
+
+ __Amendments__ 
+
+    2010—Subsec. (d). [Pub. L. 111–325, § 201(a)][/us/pl/111/325/s201/a], designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+    Subsec. (i). [Pub. L. 111–325, § 201(b)][/us/pl/111/325/s201/b], added subsec. (i).
+
+    2004—Subsec. (b). [Pub. L. 108–357, § 331(b)][/us/pl/108/357/s331/b], inserted “(other than a qualified publicly traded partnership as defined in subsection (h))” after “derived from a partnership” in concluding provisions.
+
+    Subsec. (b)(2). [Pub. L. 108–357, § 331(a)][/us/pl/108/357/s331/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “at least 90 percent of its gross income is derived from dividends, interest, payments with respect to securities loans (as defined in section 512(a)(5)), and gains from the sale or other disposition of stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies; and”.
+
+    Subsec. (b)(3)(B). [Pub. L. 108–357, § 331(f)][/us/pl/108/357/s331/f], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not more than 25 percent of the value of its total assets is invested in the securities (other than Government securities or the securities of other regulated investment companies) of any one issuer, or of two or more issuers which the taxpayer controls and which are determined, under regulations prescribed by the Secretary, to be engaged in the same or similar trades or businesses or related trades or businesses.”
+
+    Subsec. (c)(5), (6). [Pub. L. 108–357, § 331(c)][/us/pl/108/357/s331/c], added par. (5) and redesignated former par. (5) as (6).
+
+    Subsec. (h). [Pub. L. 108–357, § 331(d)][/us/pl/108/357/s331/d], added subsec. (h).
+
+    1997—Subsec. (b). [Pub. L. 105–34, § 1271(b)(1)][/us/pl/105/34/s1271/b/1], in concluding provisions, substituted “paragraph (2), amounts excludable” for “paragraphs (2) and (3), amounts excludable” and struck out “In the case of the taxable year in which a regulated investment company is completely liquidated, there shall not be taken into account under paragraph (3) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation.” at end.
+
+    Subsec. (b)(2). [Pub. L. 105–34, § 1271(a)][/us/pl/105/34/s1271/a], inserted “and” at end.
+
+    Subsec. (b)(3), (4). [Pub. L. 105–34, § 1271(a)][/us/pl/105/34/s1271/a], redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “less than 30 percent of its gross income is derived from the sale or disposition of any of the following which was held for less than 3 months:
+
+    “(A) stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended),
+
+    “(B) options, futures, or forward contracts (other than options, futures, or forward contracts on foreign currencies), or
+
+    “(C) foreign currencies (or options, futures, or forward contracts on foreign currencies) but only if such currencies (or options, futures, or forward contracts) are not directly related to the company’s principal business of investing in stock or securities (or options and futures with respect to stocks or securities), and”.
+
+    Subsec. (c). [Pub. L. 105–34, § 1271(b)(2)][/us/pl/105/34/s1271/b/2], substituted “subsection (b)(3)” for “subsection (b)(4)” in heading and introductory provisions.
+
+    Subsec. (d). [Pub. L. 105–34, § 1271(b)(3)][/us/pl/105/34/s1271/b/3], substituted “subsections (b)(3)” for “subsections (b)(4)”.
+
+    Subsec. (e)(1). [Pub. L. 105–34, § 1271(b)(4)][/us/pl/105/34/s1271/b/4], substituted “subsection (b)(3)” for “subsection (b)(4)”.
+
+    Subsec. (e)(4). [Pub. L. 105–34, § 1271(b)(5)][/us/pl/105/34/s1271/b/5], substituted “subsections (b)(3)” for “subsections (b)(4)”.
+
+    Subsec. (g). [Pub. L. 105–34, § 1271(b)(6)][/us/pl/105/34/s1271/b/6], redesignated subsec. (h) as (g) and struck out former subsec. (g) which provided for treatment of certain hedging transactions.
+
+    Subsec. (g)(3). [Pub. L. 105–34, § 1271(b)(7)][/us/pl/105/34/s1271/b/7], struck out par. (3) which provided special rule for abnormal redemptions.
+
+    Subsec. (h). [Pub. L. 105–34, § 1271(b)(6)][/us/pl/105/34/s1271/b/6], redesignated subsec. (h) as (g).
+
+    1988—Subsec. (a)(1). [Pub. L. 100–647, § 1006(m)(1)][/us/pl/100/647/s1006/m/1], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “which, at all times during the taxable year, is registered under the Investment Company Act of 1940, as amended ([15 U.S.C. 80a–1][/us/usc/t15/s80a–1] to 80b–2), as a management company, business development company, or unit investment trust, or”.
+
+    Subsec. (b). [Pub. L. 100–647, § 1006(n)(1)][/us/pl/100/647/s1006/n/1], (5), inserted at end “Income derived from a partnership or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust. In the case of the taxable year in which a regulated investment company is completely liquidated, there shall not be taken into account under paragraph (3) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation.”
+
+    [Pub. L. 100–647, § 1006(n)(2)(B)][/us/pl/100/647/s1006/n/2/B], substituted “which are not directly related” for “which are not ancillary” in last sentence.
+
+    Subsec. (b)(3). [Pub. L. 100–647, § 1006(n)(2)(A)][/us/pl/100/647/s1006/n/2/A], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “less than 30 percent of its gross income is derived from the sale or other disposition of stock or securities held for less than 3 months; and”.
+
+    Subsec. (e)(1). [Pub. L. 100–647, § 1006(m)(2)][/us/pl/100/647/s1006/m/2], substituted “a management company or a business development company described in subsection (a)(1)” for “a registered management company or registered business development company”.
+
+    Subsec. (g)(2)(A)(i). [Pub. L. 100–647, § 1006(n)(4)][/us/pl/100/647/s1006/n/4], substituted “contractual obligation” for “contractual option”.
+
+    Subsec. (h). [Pub. L. 100–647, § 1006][/us/pl/100/647/s1006](o)(1), redesignated subsec. (q) as (h).
+
+    Subsec. (h)(3). [Pub. L. 100–647, § 1006][/us/pl/100/647/s1006](o)(2), added par. (3).
+
+    Subsec. (q). [Pub. L. 100–647, § 1006][/us/pl/100/647/s1006](o)(1), redesignated subsec. (q) as (h).
+
+    1986—Subsec. (a)(1). [Pub. L. 99–514, § 652(a)][/us/pl/99/514/s652/a], substituted “as a management company, business development company, or unit investment trust” for “either as a management company or as a unit investment trust”.
+
+    Subsec. (b). [Pub. L. 99–514, § 1235(f)(3)][/us/pl/99/514/s1235/f/3], inserted “or 1293(a)” and “or 1293(c) (as the case may be)”, in concluding provision.
+
+    [Pub. L. 99–514, § 653(c)][/us/pl/99/514/s653/c], inserted before last sentence “For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not ancillary to the company’s principal business of investing in stock or securities (or options and futures with respect to stock or securities).”
+
+    Subsec. (b)(2). [Pub. L. 99–514, § 653(b)][/us/pl/99/514/s653/b], inserted “(as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies”.
+
+    Subsec. (e)(1). [Pub. L. 99–514, § 652(b)][/us/pl/99/514/s652/b], substituted “registered management company or registered business development company” for “registered management company”.
+
+    Subsec. (g). [Pub. L. 99–514, § 653(a)][/us/pl/99/514/s653/a], added subsec. (g).
+
+    Subsec. (q). [Pub. L. 99–514, § 654(a)][/us/pl/99/514/s654/a], added subsec. (q).
+
+    1984—Subsec. (a). [Pub. L. 98–369][/us/pl/98/369] struck out “(other than a personal holding company as defined in section 542)” after “any domestic corporation” in introductory provisions.
+
+    1983—Subsec. (b). [Pub. L. 97–424][/us/pl/97/424] substituted “section 103(a)” for “section 103(a)(1)” after “gross income under”.
+
+    1978—Subsec. (b). [Pub. L. 95–600][/us/pl/95/600] required that for purposes of pars. (2) and (3), amounts excludable from gross income under section 103(a)(1) shall be treated as included in gross income.
+
+    Subsec. (b)(2). [Pub. L. 95–345][/us/pl/95/345] inserted provision relating to payments with respect to securities loans.
+
+    1976—Subsec. (a)(1). [Pub. L. 94–455, § 1901(a)(109)(A)][/us/pl/94/455/s1901/a/109/A], struck out “[54 Stat. 789][/us/stat/54/789];” before “[15 U.S.C. 80a–1][/us/usc/t15/s80a–1] to 80b–2)”.
+
+    Subsec. (b)(1), (4)(B). [Pub. L. 94–455, § 1901(a)(109)(B)][/us/pl/94/455/s1901/a/109/B], struck out “which began after December 31, 1941” after “previous taxable year” in par. (1), and “or his delegate” after “Secretary” in par. (4)(B).
+
+    Subsecs. (c), (d). [Pub. L. 94–455, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], struck out “or his delegate” after “Secretary” wherever appearing.
+
+    1975—Subsec. (b). [Pub. L. 94–12][/us/pl/94/12] inserted provisions directing that, for purposes of par. (2), there shall be treated as dividends amounts included in gross income under section 951(a)(1)(A)(i) for the taxable year to the extent that, under section 959(a)(1), there is a distribution out of earnings and profits of the taxable year which are attributable to the amounts so included.
+
+    1969—Subsec. (f). [Pub. L. 91–172][/us/pl/91/172] added subsec. (f).
+
+    1958—Subsec. (e)(1). [Pub. L. 85–866, § 38(a)][/us/pl/85/866/s38/a], substituted “not earlier than 60 days” for “not less than 60 days” in first sentence.
+
+    Subsec. (e)(2). [Pub. L. 85–866, § 38(b)][/us/pl/85/866/s38/b], substituted “issuer” for “issues”.
+
+ __Effective Date of 2010 Amendment__ 
+
+[Pub. L. 111–325, title II, § 201(d)][/us/pl/111/325/s201/d], Dec. 22, 2010, [124 Stat. 3541][/us/stat/124/3541], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 852 of this title][/us/usc/t26/s852]\] shall apply to taxable years with respect to which the due date (determined with regard to any extensions) of the return of tax for such taxable year is after the date of the enactment of this Act \[Dec. 22, 2010\].”
+
+ __Effective Date of 2004 Amendment__ 
+
+    Amendment by [Pub. L. 108–357][/us/pl/108/357] applicable to taxable years beginning after Oct. 22, 2004, see [section 331(h) of Pub. L. 108–357][/us/pl/108/357/s331/h], set out as a note under [section 469 of this title][/us/usc/t26/s469].
+
+ __Effective Date of 1997 Amendment__ 
+
+    Amendment by [Pub. L. 105–34][/us/pl/105/34] applicable to taxable years beginning after Aug. 5, 1997, see [section 1271(c) of Pub. L. 105–34][/us/pl/105/34/s1271/c], set out as a note under [section 817 of this title][/us/usc/t26/s817].
+
+ __Effective Date of 1988 Amendment__ 
+
+[Pub. L. 100–647, title I, § 1006(n)(2)(C)][/us/pl/100/647/s1006/n/2/C], Nov. 10, 1988, [102 Stat. 3415][/us/stat/102/3415], provided that: 
+
+> “Subparagraph (C) of section 851(b)(3) of the 1986 Code (as amended by subparagraph (A)), and the amendment made by subparagraph (B) \[amending this section\], shall apply to taxable years beginning after the date of the enactment of this Act \[Nov. 10, 1988\].”
+
+    Amendment by section 1006(m), (n)(1), (2)(A), (4), (5), (o) of [Pub. L. 100–647][/us/pl/100/647] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 1019(a) of Pub. L. 100–647][/us/pl/100/647/s1019/a], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
+ __Effective Date of 1986 Amendment__ 
+
+[Pub. L. 99–514, title VI, § 652(c)][/us/pl/99/514/s652/c], Oct. 22, 1986, [100 Stat. 2297][/us/stat/100/2297], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986.”
+
+[Pub. L. 99–514, title VI, § 653(d)][/us/pl/99/514/s653/d], Oct. 22, 1986, [100 Stat. 2298][/us/stat/100/2298], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].”
+
+[Pub. L. 99–514, title VI, § 654(b)][/us/pl/99/514/s654/b], Oct. 22, 1986, [100 Stat. 2298][/us/stat/100/2298], provided that:
+
+>     “(1) __In general.—__ 
+
+>     The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\].
+
+>     “(2) __Treatment of certain existing series funds.—__ 
+
+>     In the case of a regulated investment company which has more than one fund on the date of the enactment of this act, and has before such date been treated for Federal income tax purposes as a single corporation—
+
+>         “(A) the amendment made by subsection (a), and the resulting treatment of each fund as a separate corporation, shall not give rise to the realization or recognition of income or loss by such regulated investment company, its funds, or its shareholders, and
+
+>         “(B) the tax attributes of such regulated investment company shall be appropriately allocated among its funds.”
+
+    Amendment by [section 1235(f)(3) of Pub. L. 99–514][/us/pl/99/514/s1235/f/3] applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see [section 1235(h) of Pub. L. 99–514][/us/pl/99/514/s1235/h], set out as an Effective Date note under [section 1291 of this title][/us/usc/t26/s1291].
+
+ __Effective Date of 1984 Amendment__ 
+
+    Amendment by [Pub. L. 98–369][/us/pl/98/369] applicable to taxable years beginning after Dec. 31, 1982, with certain exceptions, see [section 1071(a)(5) of Pub. L. 98–369][/us/pl/98/369/s1071/a/5], set out as a note under [section 852 of this title][/us/usc/t26/s852].
+
+ __Effective Date of 1978 Amendment__ 
+
+[Pub. L. 95–600, title VII, § 701(s)(3)][/us/pl/95/600/s701/s/3], Nov. 6, 1978, [92 Stat. 2911][/us/stat/92/2911], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 852 of this title][/us/usc/t26/s852]\] shall apply to taxable years beginning after December 31, 1975.”
+
+    Amendment by [Pub. L. 95–345][/us/pl/95/345] applicable with respect to amounts received after Dec. 31, 1976, as payments with respect to securities loans (as defined in [section 512(a)(5) of this title][/us/usc/t26/s512/a/5]), and transfers of securities, under agreements described in [section 1058 of this title][/us/usc/t26/s1058], occurring after such date, see [section 2(e) of Pub. L. 95–345][/us/pl/95/345/s2/e], set out as a note under [section 509 of this title][/us/usc/t26/s509].
+
+ __Effective Date of 1976 Amendment__ 
+
+    Amendment by [section 1901(a)(109) of Pub. L. 94–455][/us/pl/94/455/s1901/a/109] effective for taxable years beginning after Dec. 31, 1976, see [section 1901(d) of Pub. L. 94–455][/us/pl/94/455/s1901/d], set out as a note under [section 2 of this title][/us/usc/t26/s2].
+
+ __Effective Date of 1975 Amendment__ 
+
+    Amendment by [Pub. L. 94–12][/us/pl/94/12] applicable to taxable years of foreign corporations beginning after Dec. 31, 1975, and to taxable years of United States shareholders (within the meaning of [section 951(b) of this title][/us/usc/t26/s951/b]) within which or with which such taxable years of such foreign corporations end, see [section 602(f) of Pub. L. 94–12][/us/pl/94/12/s602/f], set out as an Effective Date note under [section 955 of this title][/us/usc/t26/s955].
+
+ __Effective Date of 1969 Amendment__ 
+
+[Pub. L. 91–172, title IX, § 908(b)][/us/pl/91/172/s908/b], Dec. 30, 1969, [83 Stat. 718][/us/stat/83/718], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years of unit investment trusts ending after December 31, 1968, and to taxable years of holders of interests in such trusts ending with or within such taxable years of such trusts. The enactment of this section shall not be construed to result in the realization of gain or loss by any unit investment trust or by any holder of an interest in a unit investment trust.”
+
+ __Effective Date of 1958 Amendment__ 
+
+    Amendment by [Pub. L. 85–866][/us/pl/85/866] applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see [section 1(c)(1) of Pub. L. 85–866][/us/pl/85/866/s1/c/1], set out as a note under [section 165 of this title][/us/usc/t26/s165].
+
+----------
+
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schM/ptI/m__us_usc_t26_stA_ch1_schM_ptI.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schM/ptI/m__us_usc_t26_s852.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs851)
+
+----------
+----------
+
+[/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
+[/us/usc/t15/s80a–3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933%2Fc
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/stat/68A/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F268
+[/us/pl/85/866/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs38
+[/us/stat/72/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1638
+[/us/pl/91/172/s908/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs908%2Fa
+[/us/stat/83/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F717
+[/us/pl/94/12/s602/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Fa%2F2
+[/us/stat/89/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F58
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
+[/us/stat/90/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1783
+[/us/pl/95/345/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345%2Fs2%2Fa%2F3
+[/us/stat/92/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F481
+[/us/pl/95/600/s701/s/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fs%2F1
+[/us/stat/92/2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2911
+[/us/pl/97/424/s547/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs547%2Fb%2F1
+[/us/stat/96/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2199
+[/us/pl/98/369/s1071/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1071%2Fa%2F1
+[/us/stat/98/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1049
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/stat/100/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2297
+[/us/pl/100/647/s1006/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fm
+[/us/stat/102/3415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3415
+[/us/pl/105/34/s1271/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fa
+[/us/stat/111/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1036
+[/us/pl/108/357/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs331%2Fa
+[/us/stat/118/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1476
+[/us/pl/111/325/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs201%2Fa
+[/us/stat/124/3539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3539
+[/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
+[/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
+[/us/usc/t15/s80a–2/a/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%932%2Fa%2F36
+[/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
+[/us/pl/111/325/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs201%2Fa
+[/us/pl/111/325/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs201%2Fb
+[/us/pl/108/357/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs331%2Fb
+[/us/pl/108/357/s331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs331%2Fa
+[/us/pl/108/357/s331/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs331%2Ff
+[/us/pl/108/357/s331/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs331%2Fc
+[/us/pl/108/357/s331/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs331%2Fd
+[/us/pl/105/34/s1271/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fb%2F1
+[/us/pl/105/34/s1271/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fa
+[/us/pl/105/34/s1271/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fa
+[/us/pl/105/34/s1271/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fb%2F2
+[/us/pl/105/34/s1271/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fb%2F3
+[/us/pl/105/34/s1271/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fb%2F4
+[/us/pl/105/34/s1271/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fb%2F5
+[/us/pl/105/34/s1271/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fb%2F6
+[/us/pl/105/34/s1271/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fb%2F7
+[/us/pl/105/34/s1271/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fb%2F6
+[/us/pl/100/647/s1006/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fm%2F1
+[/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
+[/us/pl/100/647/s1006/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fn%2F1
+[/us/pl/100/647/s1006/n/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fn%2F2%2FB
+[/us/pl/100/647/s1006/n/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fn%2F2%2FA
+[/us/pl/100/647/s1006/m/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fm%2F2
+[/us/pl/100/647/s1006/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fn%2F4
+[/us/pl/100/647/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006
+[/us/pl/100/647/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006
+[/us/pl/100/647/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006
+[/us/pl/99/514/s652/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs652%2Fa
+[/us/pl/99/514/s1235/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1235%2Ff%2F3
+[/us/pl/99/514/s653/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs653%2Fc
+[/us/pl/99/514/s653/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs653%2Fb
+[/us/pl/99/514/s652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs652%2Fb
+[/us/pl/99/514/s653/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs653%2Fa
+[/us/pl/99/514/s654/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs654%2Fa
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
+[/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
+[/us/pl/95/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345
+[/us/pl/94/455/s1901/a/109/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F109%2FA
+[/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
+[/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
+[/us/pl/94/455/s1901/a/109/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F109%2FB
+[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
+[/us/pl/91/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172
+[/us/pl/85/866/s38/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs38%2Fa
+[/us/pl/85/866/s38/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs38%2Fb
+[/us/pl/111/325/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F325%2Fs201%2Fd
+[/us/stat/124/3541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3541
+[/us/usc/t26/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs852
+[/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
+[/us/pl/108/357/s331/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs331%2Fh
+[/us/usc/t26/s469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs469
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/34/s1271/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1271%2Fc
+[/us/usc/t26/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs817
+[/us/pl/100/647/s1006/n/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1006%2Fn%2F2%2FC
+[/us/stat/102/3415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3415
+[/us/pl/100/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
+[/us/pl/100/647/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs1019%2Fa
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/99/514/s652/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs652%2Fc
+[/us/stat/100/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2297
+[/us/pl/99/514/s653/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs653%2Fd
+[/us/stat/100/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2298
+[/us/pl/99/514/s654/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs654%2Fb
+[/us/stat/100/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2298
+[/us/pl/99/514/s1235/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1235%2Ff%2F3
+[/us/pl/99/514/s1235/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1235%2Fh
+[/us/usc/t26/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1291
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369/s1071/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs1071%2Fa%2F5
+[/us/usc/t26/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs852
+[/us/pl/95/600/s701/s/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600%2Fs701%2Fs%2F3
+[/us/stat/92/2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2911
+[/us/usc/t26/s852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs852
+[/us/pl/95/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345
+[/us/usc/t26/s512/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs512%2Fa%2F5
+[/us/usc/t26/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1058
+[/us/pl/95/345/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F345%2Fs2%2Fe
+[/us/usc/t26/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs509
+[/us/pl/94/455/s1901/a/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F109
+[/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
+[/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2
+[/us/pl/94/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12
+[/us/usc/t26/s951/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs951%2Fb
+[/us/pl/94/12/s602/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F12%2Fs602%2Ff
+[/us/usc/t26/s955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs955
+[/us/pl/91/172/s908/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F172%2Fs908%2Fb
+[/us/stat/83/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F718
+[/us/pl/85/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866
+[/us/pl/85/866/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F866%2Fs1%2Fc%2F1
+[/us/usc/t26/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs165
+
+

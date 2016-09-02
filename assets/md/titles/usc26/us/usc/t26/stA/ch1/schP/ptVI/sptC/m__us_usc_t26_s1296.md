@@ -1,0 +1,263 @@
+---
+---
+
+# 26 U.S.C., USLM ref /us/usc/t26/s1296
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schP/ptVI/sptC/m__us_usc_t26_stA_ch1_schP_ptVI_sptC.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schP/ptVI/sptD/m__us_usc_t26_stA_ch1_schP_ptVI_sptD.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1296)
+
+## § 1296. Election of mark to market for marketable stock
+
+    (a) __General rule__ 
+
+    In the case of marketable stock in a passive foreign investment company which is owned (or treated under subsection (g) as owned) by a United States person at the close of any taxable year of such person, at the election of such person—
+
+        (1) If the fair market value of such stock as of the close of such taxable year exceeds its adjusted basis, such United States person shall include in gross income for such taxable year an amount equal to the amount of such excess.
+
+        (2)
+
+         If the adjusted basis of such stock exceeds the fair market value of such stock as of the close of such taxable year, such United States person shall be allowed a deduction for such taxable year equal to the lesser of—
+
+            (A) the amount of such excess, or
+
+            (B) the unreversed inclusions with respect to such stock.
+
+    (b) __Basis adjustments__ 
+
+        (1) __In general__ 
+
+        The adjusted basis of stock in a passive foreign investment company—
+
+            (A) shall be increased by the amount included in the gross income of the United States person under subsection (a)(1) with respect to such stock, and
+
+            (B) shall be decreased by the amount allowed as a deduction to the United States person under subsection (a)(2) with respect to such stock.
+
+        (2) __Special rule for stock constructively owned__ 
+
+        In the case of stock in a passive foreign investment company which the United States person is treated as owning under subsection (g)—
+
+            (A) the adjustments under paragraph (1) shall apply to such stock in the hands of the person actually holding such stock but only for purposes of determining the subsequent treatment under this chapter of the United States person with respect to such stock, and
+
+            (B) similar adjustments shall be made to the adjusted basis of the property by reason of which the United States person is treated as owning such stock.
+
+    (c) __Character and source rules__ 
+
+        (1) __Ordinary treatment__ 
+
+            (A) __Gain__ 
+
+                Any amount included in gross income under subsection (a)(1), and any gain on the sale or other disposition of marketable stock in a passive foreign investment company (with respect to which an election under this section is in effect), shall be treated as ordinary income.
+
+            (B) __Loss__ 
+
+            Any—
+
+                (i) amount allowed as a deduction under subsection (a)(2), and
+
+                (ii) loss on the sale or other disposition of marketable stock in a passive foreign investment company (with respect to which an election under this section is in effect) to the extent that the amount of such loss does not exceed the unreversed inclusions with respect to such stock,
+
+                shall be treated as an ordinary loss. The amount so treated shall be treated as a deduction allowable in computing adjusted gross income.
+
+        (2) __Source__ 
+
+            The source of any amount included in gross income under subsection (a)(1) (or allowed as a deduction under subsection (a)(2)) shall be determined in the same manner as if such amount were gain or loss (as the case may be) from the sale of stock in the passive foreign investment company.
+
+    (d) __Unreversed inclusions__ 
+
+    For purposes of this section, the term “unreversed inclusions” means, with respect to any stock in a passive foreign investment company, the excess (if any) of—
+
+        (1) the amount included in gross income of the taxpayer under subsection (a)(1) with respect to such stock for prior taxable years, over
+
+        (2) the amount allowed as a deduction under subsection (a)(2) with respect to such stock for prior taxable years.
+
+        The amount referred to in paragraph (1) shall include any amount which would have been included in gross income under subsection (a)(1) with respect to such stock for any prior taxable year but for section 1291. In the case of a regulated investment company which elected to mark to market the stock held by such company as of the last day of the taxable year preceding such company’s first taxable year for which such company elects the application of this section, the amount referred to in paragraph (1) shall include amounts included in gross income under such mark to market with respect to such stock for prior taxable years.
+
+    (e) __Marketable stock__ 
+
+    For purposes of this section—
+
+        (1) __In general__ 
+
+        The term “marketable stock” means—
+
+            (A)
+
+             any stock which is regularly traded on—
+
+                (i) a national securities exchange which is registered with the Securities and Exchange Commission or the national market system established pursuant to section 11A of the Securities and Exchange Act of 1934, or
+
+                (ii) any exchange or other market which the Secretary determines has rules adequate to carry out the purposes of this part,
+
+            (B) to the extent provided in regulations, stock in any foreign corporation which is comparable to a regulated investment company and which offers for sale or has outstanding any stock of which it is the issuer and which is redeemable at its net asset value, and
+
+            (C) to the extent provided in regulations, any option on stock described in subparagraph (A) or (B).
+
+        (2) __Special rule for regulated investment companies__ 
+
+            In the case of any regulated investment company which is offering for sale or has outstanding any stock of which it is the issuer and which is redeemable at its net asset value, all stock in a passive foreign investment company which it owns directly or indirectly shall be treated as marketable stock for purposes of this section. Except as provided in regulations, similar treatment as marketable stock shall apply in the case of any other regulated investment company which publishes net asset valuations at least annually.
+
+    (f) __Treatment of controlled foreign corporations which are shareholders in passive foreign investment companies__ 
+
+    In the case of a foreign corporation which is a controlled foreign corporation and which owns (or is treated under subsection (g) as owning) stock in a passive foreign investment company—
+
+        (1) this section (other than subsection (c)(2)) shall apply to such foreign corporation in the same manner as if such corporation were a United States person, and
+
+        (2)
+
+         for purposes of subpart F of part III of subchapter N—
+
+            (A) any amount included in gross income under subsection (a)(1) shall be treated as foreign personal holding company income described in section 954(c)(1)(A), and
+
+            (B) any amount allowed as a deduction under subsection (a)(2) shall be treated as a deduction allocable to foreign personal holding company income so described.
+
+    (g) __Stock owned through certain foreign entities__ 
+
+    Except as provided in regulations—
+
+        (1) __In general__ 
+
+            For purposes of this section, stock owned, directly or indirectly, by or for a foreign partnership or foreign trust or foreign estate shall be considered as being owned proportionately by its partners or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person.
+
+        (2) __Treatment of certain dispositions__ 
+
+        In any case in which a United States person is treated as owning stock in a passive foreign investment company by reason of paragraph (1)—
+
+            (A) any disposition by the United States person or by any other person which results in the United States person being treated as no longer owning such stock, and
+
+            (B) any disposition by the person owning such stock,
+
+            shall be treated as a disposition by the United States person of the stock in the passive foreign investment company.
+
+    (h) __Coordination with section 851(b)__ 
+
+        For purposes of section 851(b)(2), any amount included in gross income under subsection (a) shall be treated as a dividend.
+
+    (i) __Stock acquired from a decedent__ 
+
+        In the case of stock of a passive foreign investment company which is acquired by bequest, devise, or inheritance (or by the decedent’s estate) and with respect to which an election under this section was in effect as of the date of the decedent’s death, notwithstanding section 1014, the basis of such stock in the hands of the person so acquiring it shall be the adjusted basis of such stock in the hands of the decedent immediately before his death (or, if lesser, the basis which would have been determined under section 1014 without regard to this subsection).
+
+    (j) __Coordination with section 1291 for first year of election__ 
+
+        (1) __Taxpayers other than regulated investment companies__ 
+
+            (A) __In general__ 
+
+            If the taxpayer elects the application of this section with respect to any marketable stock in a corporation after the beginning of the taxpayer’s holding period in such stock, and if the requirements of subparagraph (B) are not satisfied, section 1291 shall apply to—
+
+                (i) any distributions with respect to, or disposition of, such stock in the first taxable year of the taxpayer for which such election is made, and
+
+                (ii) any amount which, but for section 1291, would have been included in gross income under subsection (a) with respect to such stock for such taxable year in the same manner as if such amount were gain on the disposition of such stock.
+
+            (B) __Requirements__ 
+
+                The requirements of this subparagraph are met if, with respect to each of such corporation’s taxable years for which such corporation was a passive foreign investment company and which begin after December 31, 1986, and included any portion of the taxpayer’s holding period in such stock, such corporation was treated as a qualified electing fund under this part with respect to the taxpayer.
+
+        (2) __Special rules for regulated investment companies__ 
+
+            (A) __In general__ 
+
+            If a regulated investment company elects the application of this section with respect to any marketable stock in a corporation after the beginning of the taxpayer’s holding period in such stock, then, with respect to such company’s first taxable year for which such company elects the application of this section with respect to such stock—
+
+                (i) section 1291 shall not apply to such stock with respect to any distribution or disposition during, or amount included in gross income under this section for, such first taxable year, but
+
+                (ii) such regulated investment company’s tax under this chapter for such first taxable year shall be increased by the aggregate amount of interest which would have been determined under section 1291(c)(3) if section 1291 were applied without regard to this subparagraph.
+
+                Clause (ii) shall not apply if for the preceding taxable year the company elected to mark to market the stock held by such company as of the last day of such preceding taxable year.
+
+            (B) __Disallowance of deduction__ 
+
+                No deduction shall be allowed to any regulated investment company for the increase in tax under subparagraph (A)(ii).
+
+    (k) __Election__ 
+
+    This section shall apply to marketable stock in a passive foreign investment company which is held by a United States person only if such person elects to apply this section with respect to such stock. Such an election shall apply to the taxable year for which made and all subsequent taxable years unless—
+
+        (1) such stock ceases to be marketable stock, or
+
+        (2) the Secretary consents to the revocation of such election.
+
+    (l) __Transition rule for individuals becoming subject to United States tax__ 
+
+        If any individual becomes a United States person in a taxable year beginning after December 31, 1997, solely for purposes of this section, the adjusted basis (before adjustments under subsection (b)) of any marketable stock in a passive foreign investment company owned by such individual on the first day of such taxable year shall be treated as being the greater of its fair market value on such first day or its adjusted basis on such first day.
+
+(Added [Pub. L. 105–34, title XI, § 1122(a)][/us/pl/105/34/s1122/a], Aug. 5, 1997, [111 Stat. 972][/us/stat/111/972]; amended [Pub. L. 105–206, title VI, § 6011(c)(3)][/us/pl/105/206/s6011/c/3], July 22, 1998, [112 Stat. 818][/us/stat/112/818]; [Pub. L. 107–16, title V, § 542(e)(5)(C)][/us/pl/107/16/s542/e/5/C], June 7, 2001, [115 Stat. 85][/us/stat/115/85]; [Pub. L. 108–311, title IV, § 408(a)(19)][/us/pl/108/311/s408/a/19], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192]; [Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
+
+ __References in Text__ 
+
+    Section 11A of the Securities and Exchange Act of 1934, referred to in subsec. (e)(1)(A)(i), is classified to [section 78k–1 of Title 15][/us/usc/t15/s78k–1], Commerce and Trade.
+
+ __Prior Provisions__ 
+
+    A prior section 1296 was renumbered [section 1297 of this title][/us/usc/t26/s1297].
+
+ __Amendments__ 
+
+    2010—Subsec. (i). [Pub. L. 111–312][/us/pl/111/312] amended subsec. (i) to read as if amendment by [Pub. L. 107–16, § 542(e)(5)(C)][/us/pl/107/16/s542/e/5/C], had never been enacted. See 2001 Amendment note below.
+
+    2004—Subsec. (h). [Pub. L. 108–311][/us/pl/108/311] substituted “section 851(b)(2)” for “paragraphs (2) and (3) of section 851(b)”.
+
+    2001—Subsec. (i). [Pub. L. 107–16, § 542(e)(5)(C)][/us/pl/107/16/s542/e/5/C], struck out subsec. (i). Text read as follows: “In the case of stock of a passive foreign investment company which is acquired by bequest, devise, or inheritance (or by the decedent’s estate) and with respect to which an election under this section was in effect as of the date of the decedent’s death, notwithstanding section 1014, the basis of such stock in the hands of the person so acquiring it shall be the adjusted basis of such stock in the hands of the decedent immediately before his death (or, if lesser, the basis which would have been determined under section 1014 without regard to this subsection).”
+
+    1998—Subsec. (d). [Pub. L. 105–206][/us/pl/105/206] inserted at end “In the case of a regulated investment company which elected to mark to market the stock held by such company as of the last day of the taxable year preceding such company’s first taxable year for which such company elects the application of this section, the amount referred to in paragraph (1) shall include amounts included in gross income under such mark to market with respect to such stock for prior taxable years.”
+
+ __Effective Date of 2010 Amendment__ 
+
+    Amendment by [Pub. L. 111–312][/us/pl/111/312] applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see [section 301(e) of Pub. L. 111–312][/us/pl/111/312/s301/e], set out as an Effective and Termination Dates of 2010 Amendment note under [section 121 of this title][/us/usc/t26/s121].
+
+ __Effective Date of 2001 Amendment__ 
+
+    Amendment by [Pub. L. 107–16][/us/pl/107/16] applicable to estates of decedents dying after Dec. 31, 2009, see [section 542(f)(1) of Pub. L. 107–16][/us/pl/107/16/s542/f/1], set out as a note under [section 121 of this title][/us/usc/t26/s121].
+
+ __Effective Date of 1998 Amendment__ 
+
+    Amendment by [Pub. L. 105–206][/us/pl/105/206] effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, [Pub. L. 105–34][/us/pl/105/34], to which such amendment relates, see [section 6024 of Pub. L. 105–206][/us/pl/105/206/s6024], set out as a note under [section 1 of this title][/us/usc/t26/s1].
+
+ __Effective Date__ 
+
+    Section applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see [section 1124 of Pub. L. 105–34][/us/pl/105/34/s1124], set out as an Effective Date of 1997 Amendment note under [section 532 of this title][/us/usc/t26/s532].
+
+----------
+
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schP/ptVI/sptC/m__us_usc_t26_stA_ch1_schP_ptVI_sptC.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schP/ptVI/sptD/m__us_usc_t26_stA_ch1_schP_ptVI_sptD.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1296)
+
+----------
+----------
+
+[/us/pl/105/34/s1122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1122%2Fa
+[/us/stat/111/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F972
+[/us/pl/105/206/s6011/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6011%2Fc%2F3
+[/us/stat/112/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F818
+[/us/pl/107/16/s542/e/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F5%2FC
+[/us/stat/115/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F85
+[/us/pl/108/311/s408/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311%2Fs408%2Fa%2F19
+[/us/stat/118/1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1192
+[/us/pl/111/312/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fa
+[/us/stat/124/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3300
+[/us/usc/t15/s78k–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78k%E2%80%931
+[/us/usc/t26/s1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1297
+[/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/107/16/s542/e/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F5%2FC
+[/us/pl/108/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F311
+[/us/pl/107/16/s542/e/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Fe%2F5%2FC
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312
+[/us/pl/111/312/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs301%2Fe
+[/us/usc/t26/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs121
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16/s542/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs542%2Ff%2F1
+[/us/usc/t26/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs121
+[/us/pl/105/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206
+[/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
+[/us/pl/105/206/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F206%2Fs6024
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/pl/105/34/s1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1124
+[/us/usc/t26/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs532
+
+

@@ -1,0 +1,102 @@
+---
+---
+
+# 26 U.S.C., USLM ref /us/usc/t26/stA/ch1/schB/ptIV/sptA
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schB/ptIV/m__us_usc_t26_stA_ch1_schB_ptIV.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schB/ptIV/sptA/m__us_usc_t26_s141.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptIV%2FsptA)
+
+###### Subpart A—Private Activity Bonds
+
+<table>
+
+  <tr>
+
+    <td> Sec.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 141.  </td>
+
+    <td> Private activity bond; qualified bond.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 142.  </td>
+
+    <td> Exempt facility bond.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 143.  </td>
+
+    <td> Mortgage revenue bonds: qualified mortgage and qualified veterans’ mortgage bond. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 144.  </td>
+
+    <td> Qualified small issue bond; qualified student loan bond; qualified redevelopment bond.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 145.  </td>
+
+    <td> Qualified 501(c)(3) bond.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 146.  </td>
+
+    <td> Volume cap.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 147.  </td>
+
+    <td> Other requirements applicable to certain private activity bonds.  </td>
+
+  </tr>
+
+</table>
+
+ __Amendments__ 
+
+    1986—[Pub. L. 99–514, title XIII, § 1301(b)][/us/pl/99/514/s1301/b], Oct. 22, 1986, [100 Stat. 2603][/us/stat/100/2603], in amending part IV generally, added subpart heading and analysis and struck out item 143 “Determination of marital status”.
+
+    1977—[Pub. L. 95–30, title I, § 101(e)(2)][/us/pl/95/30/s101/e/2], May 23, 1977, [91 Stat. 134][/us/stat/91/134], struck out items 141 “Standard deduction”, 142 “Individuals not eligible for standard deduction”, 144 “Election of standard deduction”, and 145 “Cross reference”.
+
+----------
+
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schB/ptIV/m__us_usc_t26_stA_ch1_schB_ptIV.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schB/ptIV/sptA/m__us_usc_t26_s141.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschB%2FptIV%2FsptA)
+
+----------
+----------
+
+[/us/pl/99/514/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fb
+[/us/stat/100/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2603
+[/us/pl/95/30/s101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs101%2Fe%2F2
+[/us/stat/91/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F134
+
+
