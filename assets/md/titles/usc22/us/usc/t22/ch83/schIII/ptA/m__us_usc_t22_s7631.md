@@ -115,6 +115,10 @@
 
     Section is comprised of [section 301 of Pub. L. 108–25][/us/pl/108/25/s301]. Subsec. (a) of [section 301 of Pub. L. 108–25][/us/pl/108/25/s301] amended [section 2151b of this title][/us/usc/t22/s2151b] and enacted [section 2151b–2 of this title][/us/usc/t22/s2151b–2].
 
+ __Constitutionality__ 
+
+For information regarding constitutionality of certain provisions of [section 301 of Pub. L. 108–25][/us/pl/108/25/s301], see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
  __Amendments__ 
 
     2008—Subsec. (b)(1), (3). [Pub. L. 110–293, § 301(f)][/us/pl/110/293/s301/f], substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
@@ -164,6 +168,7 @@
 [/us/pl/108/25/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs301
 [/us/usc/t22/s2151b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b
 [/us/usc/t22/s2151b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932
+[/us/pl/108/25/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F25%2Fs301
 [/us/pl/110/293/s301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Ff
 [/us/pl/110/293/s301/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fg
 [/us/pl/110/293/s301/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fh

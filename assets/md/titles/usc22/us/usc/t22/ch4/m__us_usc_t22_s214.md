@@ -69,9 +69,13 @@
 
  __Extension of Authority__ 
 
-[Pub. L. 112–74, div. I, title VII, § 7034(m)(1)][/us/pl/112/74/s7034/m/1], Dec. 23, 2011, [125 Stat. 1216][/us/stat/125/1216], provided that: 
+[Pub. L. 113–76, div. K, title VII, § 7034(m)(1)][/us/pl/113/76/s7034/m/1], Jan. 17, 2014, [128 Stat. 515][/us/stat/128/515], provided that: 
 
-> “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)][/us/usc/t22/s214/b/2]) shall be applied by substituting ‘September 30, 2012’ for ‘September 30, 2010’.”
+> “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)][/us/usc/t22/s214/b/2]) shall be applied by substituting ‘September 30, 2014’ for ‘September 30, 2010’.”
+
+Prior extensions were contained in the following prior acts:
+
+    [Pub. L. 112–74, div. I, title VII, § 7034(m)(1)][/us/pl/112/74/s7034/m/1], Dec. 23, 2011, [125 Stat. 1216][/us/stat/125/1216].
 
  __Deposit of Receipts From Expedited Passport Processing__ 
 
@@ -134,9 +138,11 @@
 [/us/pl/90/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428
 [/us/pl/90/428/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F428%2Fs4
 [/us/usc/t22/s217a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs217a
+[/us/pl/113/76/s7034/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034%2Fm%2F1
+[/us/stat/128/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F515
+[/us/usc/t22/s214/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs214%2Fb%2F2
 [/us/pl/112/74/s7034/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fm%2F1
 [/us/stat/125/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1216
-[/us/usc/t22/s214/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs214%2Fb%2F2
 [/us/pl/103/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317
 [/us/stat/108/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1760
 [/us/pl/101/604/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F604%2Fs203%2Fd

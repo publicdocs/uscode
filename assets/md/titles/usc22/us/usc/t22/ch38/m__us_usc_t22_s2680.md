@@ -51,6 +51,18 @@
 
     [Pub. L. 92–226][/us/pl/92/226] substituted provisions constituting subsecs. (a) and (b) and prohibiting any State Department appropriation on and after July 1, 1972, without a prior congressional legislative authorization, and requiring the State Department and Federal agencies to furnish information to congressional committees for former provisions constituting the entire section and authorizing and making appropriations available for the State Department.
 
+ __Funding__ 
+
+[Pub. L. 113–76, div. K, title VII, § 7082(d)(1)][/us/pl/113/76/s7082/d/1], (2), Jan. 17, 2014, [128 Stat. 567][/us/stat/128/567], provided that:
+
+>     “(1)  __Diplomatic and consular programs funds__  __.—__ 
+
+>     Amounts made available to the Department of State pursuant to the sixth proviso under the heading ‘Diplomatic and Consular Programs’ in title I of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2008 (division J of [Public Law 110–161][/us/pl/110/161]) are authorized to be used by the Department of State to pay benefits or payments made available pursuant to this Act \[div. K of [Pub. L. 113–76][/us/pl/113/76]\].
+
+>     “(2)  __Availability__  __.—__ 
+
+>     To pay benefits or payments made available pursuant to this Act, the Secretary of State may merge with the amounts described in paragraph (1) unobligated balances of funds appropriated under the ‘Diplomatic and Consular Programs’ heading for fiscal year 2014 and subsequent fiscal years, up until the end of the fifth fiscal year after the fiscal year for which such funds were appropriated or otherwise made available.”
+
  __Future Assistance Projections__ 
 
     [Pub. L. 101–513, title V, § 581][/us/pl/101/513/s581], Nov. 5, 1990, [104 Stat. 2046][/us/stat/104/2046], directed that the Congressional Presentation Documents of departments and agencies included within this Act should contain funding projections for each of its major program components for each of the three years following the year for which new budget or other authority was being requested and provided that the requirements of this section were effective for Congressional Presentation Documents submitted for fiscal year 1992.
@@ -106,6 +118,10 @@
 [/us/pl/93/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F475
 [/us/pl/92/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F352
 [/us/pl/92/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F226
+[/us/pl/113/76/s7082/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7082%2Fd%2F1
+[/us/stat/128/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F567
+[/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/101/513/s581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs581
 [/us/stat/104/2046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2046
 [/us/pl/100/204/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2Fs124

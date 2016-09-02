@@ -31,13 +31,7 @@
 
         (D) Assistance made available by the Fund is used exclusively to support the deployment of clean energy technologies in developing countries (including, where appropriate, through the provision of technical support or support for policy or institutional reforms) in a manner that achieves substantial net reductions in greenhouse gas emissions.
 
-    (3) __Reporting requirement__ 
-
-    Not later than 180 days after December 16, 2009, and annually thereafter, the Secretary of the Treasury shall submit to the Committees on Appropriations in the House and Senate, the Senate Foreign Relations Committee and the House Financial Services Committee, a report describing—
-
-        (A) the operations and governance of the Fund, and the purpose and progress of each project supported by the Fund, including the extent to which assistance made available by the Fund has reduced or will reduce greenhouse gas emissions in recipient countries; and
-
-        (B) how each project furthers the Fund’s investment plan of the country or countries in which the project is implemented.
+    (3) __Repealed.__  __[__  __Pub. L. 113–76, div. K, title VII, § 7034(i)__  __][/us/pl/113/76/s7034/i]__  __,__  __Jan. 17, 2014__  __,__  __[__  __128 Stat. 514__  __][/us/stat/128/514]__  __.__ 
 
     (4) __Definitions__ 
 
@@ -69,17 +63,25 @@
 
                 (III) substantially increases the energy efficiency of the transportation system or increases utilization of transportation fuels that have lifecycle greenhouse gas emissions that are substantially lower than those attributable to fossil fuel-based alternatives.
 
-([Pub. L. 111–117, div. F, title VII, § 7081(g)][/us/pl/111/117/s7081/g], Dec. 16, 2009, [123 Stat. 3398][/us/stat/123/3398].)
+([Pub. L. 111–117, div. F, title VII, § 7081(g)][/us/pl/111/117/s7081/g], Dec. 16, 2009, [123 Stat. 3398][/us/stat/123/3398]; [Pub. L. 113–76, div. K, title VII, § 7034(i)][/us/pl/113/76/s7034/i], Jan. 17, 2014, [128 Stat. 514][/us/stat/128/514].)
 
  __Codification__ 
 
     Section was enacted as part of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2010, and also as part of the Consolidated Appropriations Act, 2010, and not as part of part C of the Global Environmental Protection Assistance Act of 1989 which comprises this chapter.
 
+ __Amendments__ 
+
+    2014—Par. (3). [Pub. L. 113–76][/us/pl/113/76] struck out par. (3), which established a reporting requirement for operations and governance of the Fund.
+
  __Continuation of Prior Law__ 
 
-[Pub. L. 112–74, div. I, title VII, § 7062(c)(8)][/us/pl/112/74/s7062/c/8], Dec. 23, 2011, [125 Stat. 1250][/us/stat/125/1250], provided that: 
+[Pub. L. 113–76, div. K, title VII, § 7060(c)(9)][/us/pl/113/76/s7060/c/9], Jan. 17, 2014, [128 Stat. 554][/us/stat/128/554], provided that: 
 
-> “Section 7081(g)(2) and (4) of division F of [Public Law 111–117][/us/pl/111/117] \[[22 U.S.C. 7909(2)][/us/usc/t22/s7909/2], (4)\] shall continue in effect during fiscal year 2012 as if part of this Act \[div. I of [Pub. L. 112–74][/us/pl/112/74], [125 Stat. 1164][/us/stat/125/1164]\].”
+> “Section 7081(g)(2) and (4) of division F of [Public Law 111–117][/us/pl/111/117] \[[22 U.S.C. 7909(2)][/us/usc/t22/s7909/2], (4)\] shall continue in effect during fiscal year 2014 as if part of this Act \[div. K of [Pub. L. 113–76][/us/pl/113/76]\].”
+
+Prior continuations were contained in the following acts:
+
+    [Pub. L. 112–74, div. I, title VII, § 7062(c)(8)][/us/pl/112/74/s7062/c/8], Dec. 23, 2011, [125 Stat. 1250][/us/stat/125/1250].
 
 ----------
 
@@ -88,13 +90,19 @@
 ----------
 ----------
 
+[/us/pl/113/76/s7034/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034%2Fi
+[/us/stat/128/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F514
 [/us/pl/111/117/s7081/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7081%2Fg
 [/us/stat/123/3398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3398
-[/us/pl/112/74/s7062/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7062%2Fc%2F8
-[/us/stat/125/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1250
+[/us/pl/113/76/s7034/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034%2Fi
+[/us/stat/128/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F514
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/s7060/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7060%2Fc%2F9
+[/us/stat/128/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F554
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
 [/us/usc/t22/s7909/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs7909%2F2
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
-[/us/stat/125/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1164
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/112/74/s7062/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7062%2Fc%2F8
+[/us/stat/125/1250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1250
 
 

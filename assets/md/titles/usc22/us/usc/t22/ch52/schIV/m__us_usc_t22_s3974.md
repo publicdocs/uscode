@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch52/schIV/m__us_usc_t22_s3973.md) | [Next](./../../../../..//us/usc/t22/ch52/schV/m__us_usc_t22_ch52_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3974)
+[Previous](./../../../../..//us/usc/t22/ch52/schIV/m__us_usc_t22_s3973.md) | [Next](./../../../../..//us/usc/t22/ch52/schIV/m__us_usc_t22_s3975.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3974)
 
 ## § 3974. Border equalization pay adjustment
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t22/ch52/schIV/m__us_usc_t22_s3973.md) | [Next](./../../../../..//us/usc/t22/ch52/schV/m__us_usc_t22_ch52_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3974)
+[Previous](./../../../../..//us/usc/t22/ch52/schIV/m__us_usc_t22_s3973.md) | [Next](./../../../../..//us/usc/t22/ch52/schIV/m__us_usc_t22_s3975.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3974)
 
 ----------
 ----------

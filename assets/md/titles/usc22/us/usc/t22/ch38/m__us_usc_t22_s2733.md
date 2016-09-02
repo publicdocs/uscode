@@ -47,9 +47,13 @@
 
  __Extension of Authority__ 
 
-[Pub. L. 112–74, div. I, title VII, § 7034(m)(5)][/us/pl/112/74/s7034/m/5], Dec. 23, 2011, [125 Stat. 1216][/us/stat/125/1216], provided that: 
+[Pub. L. 113–76, div. K, title VII, § 7034(m)(5)][/us/pl/113/76/s7034/m/5], Jan. 17, 2014, [128 Stat. 515][/us/stat/128/515], provided that: 
 
-> “Section 61(a) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2733(a)][/us/usc/t22/s2733/a]) shall be applied by substituting ‘September 30, 2012’ for ‘October 1, 2010’ in paragraph (2).”
+> “Section 61(a) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2733(a)][/us/usc/t22/s2733/a]) shall be applied by substituting ‘September 30, 2014’ for ‘October 1, 2010’ in paragraph (2).”
+
+Prior extensions were contained in the following prior acts:
+
+    [Pub. L. 112–74, div. I, title VII, § 7034(m)(5)][/us/pl/112/74/s7034/m/5], Dec. 23, 2011, [125 Stat. 1216][/us/stat/125/1216].
 
 ----------
 
@@ -67,8 +71,10 @@
 [/us/stat/120/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F441
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
+[/us/pl/113/76/s7034/m/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034%2Fm%2F5
+[/us/stat/128/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F515
+[/us/usc/t22/s2733/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2733%2Fa
 [/us/pl/112/74/s7034/m/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7034%2Fm%2F5
 [/us/stat/125/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1216
-[/us/usc/t22/s2733/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2733%2Fa
 
 

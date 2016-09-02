@@ -4259,7 +4259,7 @@ SUBCHAPTER XXII—AFRICAN DEVELOPMENT FUND  </td>
 
     <td> 
 
-SUBCHAPTER XXIII—AFRICAN DEVELOPMENT FOUNDATION  </td>
+SUBCHAPTER XXIII—UNITED STATES AFRICAN DEVELOPMENT FOUNDATION  </td>
 
   </tr>
 
@@ -4275,7 +4275,7 @@ SUBCHAPTER XXIII—AFRICAN DEVELOPMENT FOUNDATION  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs290h%E2%80%931" data-uslm-ref="/us/usc/t22/s290h–1">290h–1.</a>  </td>
 
-    <td> African Development Foundation.  </td>
+    <td> United States African Development Foundation.  </td>
 
   </tr>
 

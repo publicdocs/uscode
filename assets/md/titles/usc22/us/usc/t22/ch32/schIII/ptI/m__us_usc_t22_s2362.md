@@ -75,7 +75,7 @@
 
  __Separate Accounts for Local Currencies and Cash Transfers__ 
 
-[Pub. L. 112–74, div. I, title VII, § 7026][/us/pl/112/74/s7026], Dec. 23, 2011, [125 Stat. 1206][/us/stat/125/1206], provided that:
+[Pub. L. 113–76, div. K, title VII, § 7026][/us/pl/113/76/s7026], Jan. 17, 2014, [128 Stat. 505][/us/stat/128/505], provided that:
 
 >     “(a) __Separate Accounts for Local Currencies.—__ 
 
@@ -138,6 +138,8 @@
 >         Nonproject sector assistance funds may be exempt from the requirements of subsection (b)(1) only through the regular notification procedures of the Committees on Appropriations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 112–74, div. I, title VII, § 7026][/us/pl/112/74/s7026], Dec. 23, 2011, [125 Stat. 1206][/us/stat/125/1206].
 
     [Pub. L. 111–117, div. F, title VII, § 7027][/us/pl/111/117/s7027], Dec. 16, 2009, [123 Stat. 3355][/us/stat/123/3355].
 
@@ -258,12 +260,14 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/110/246/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fb
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
+[/us/pl/113/76/s7026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7026
+[/us/stat/128/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F505
+[/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
+[/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
+[/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
+[/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/112/74/s7026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7026
 [/us/stat/125/1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1206
-[/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
-[/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
-[/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/111/117/s7027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7027
 [/us/stat/123/3355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3355
 [/us/pl/111/8/s7027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs7027

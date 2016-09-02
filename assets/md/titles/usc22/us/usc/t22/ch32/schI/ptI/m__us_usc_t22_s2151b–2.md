@@ -711,6 +711,12 @@
 
     For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title][/us/usc/t22/s2381].
 
+ __Submission of Annual Report__ 
+
+[Pub. L. 113–76, div. K, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 477][/us/stat/128/477], provided in part: 
+
+> “That the annual report required by section 104(A)(f) \[probably should be “104A(f)”\] of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2151b–2(f)][/us/usc/t22/s2151b–2/f]\] shall also be submitted hereafter to the Committees on Appropriations”.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151b–1.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151b–3.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932)
@@ -762,5 +768,8 @@
 [/us/pl/110/293/s301/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fe%2F2
 [/us/pl/110/293/s301/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F293%2Fs301%2Fd%2F1
 [/us/usc/t22/s2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2381
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F477
+[/us/usc/t22/s2151b–2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151b%E2%80%932%2Ff
 
 

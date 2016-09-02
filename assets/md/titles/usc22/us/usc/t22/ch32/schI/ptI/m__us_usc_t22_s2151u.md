@@ -179,6 +179,8 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     ”
 
+    \[African Development Foundation changed to United States African Development Foundation by [Pub. L. 113–76, div. K, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 482][/us/stat/128/482]. See [section 290h–1 of this title][/us/usc/t22/s290h–1].\]
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151t–1.md) | [Next](./../../../../../..//us/usc/t22/ch32/schI/ptI/m__us_usc_t22_s2151v.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151u)
@@ -290,5 +292,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
 [/us/pl/97/113/s734/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F113%2Fs734%2Fa%2F5
 [/us/stat/95/1560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1560
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F482
+[/us/usc/t22/s290h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290h%E2%80%931
 
 

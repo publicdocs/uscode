@@ -1907,6 +1907,8 @@ Provisions similar to section 582(a), (c) of div. E of [Pub. L. 108–7][/us/pl/
 
 Provisions similar to those contained in [section 4(c) of Pub. L. 107–99][/us/pl/107/99/s4/c], set out above, were contained in the following appropriation acts:
 
+    [Pub. L. 113–76, div. K, title VII, § 7042(n)(1)][/us/pl/113/76/s7042/n/1], Jan. 17, 2014, [128 Stat. 532][/us/stat/128/532].
+
     [Pub. L. 112–74, div. I, title VII, § 7043(j)(1)][/us/pl/112/74/s7043/j/1], Dec. 23, 2011, [125 Stat. 1230][/us/stat/125/1230].
 
     [Pub. L. 111–117, div. F, title VII, § 7070(i)(1)][/us/pl/111/117/s7070/i/1], Dec. 16, 2009, [123 Stat. 3388][/us/stat/123/3388].
@@ -3143,6 +3145,8 @@ Sec. 2. National Action Plan. A National Action Plan shall be created pursuant t
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2346
 [/us/pl/107/99/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F99%2Fs4%2Fc
+[/us/pl/113/76/s7042/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7042%2Fn%2F1
+[/us/stat/128/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F532
 [/us/pl/112/74/s7043/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7043%2Fj%2F1
 [/us/stat/125/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1230
 [/us/pl/111/117/s7070/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7070%2Fi%2F1

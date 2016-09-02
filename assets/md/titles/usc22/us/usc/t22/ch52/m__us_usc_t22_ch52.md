@@ -425,6 +425,22 @@ SUBCHAPTER IV—COMPENSATION  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3975" data-uslm-ref="/us/usc/t22/s3975">3975.</a>  </td>
+
+    <td> Group life insurance supplement applicable to those killed in terrorist attacks.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft22%2Fs3976" data-uslm-ref="/us/usc/t22/s3976">3976.</a>  </td>
+
+    <td> Survivors’ and dependents’ educational assistance.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER V—CLASSIFICATION OF POSITIONS AND ASSIGNMENTS  </td>

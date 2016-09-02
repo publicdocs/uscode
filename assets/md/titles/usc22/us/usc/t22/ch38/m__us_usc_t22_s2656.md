@@ -479,15 +479,7 @@
 
  __Report to Congress on Activities of North Korean Armed Forces__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 585\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–171, as amended by [Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(D)][/us/pl/107/228/s1308/g/1/D], (2), Sept. 30, 2002, [116 Stat. 1441][/us/stat/116/1441], provided that: 
-
-> “Ninety days after the date of enactment of this Act \[Sept. 30, 1996\], and every 180 days thereafter, the Secretary of State, in consultation with the Secretary of Defense, shall provide a report in a classified or unclassified form to the Committee on Appropriations including the following information:
-
->     “(a) a best estimate on fuel used by the military forces of the Democratic People’s Republic of Korea (DPRK);
-
->     “(b) the deployment position and military training and activities of the DPRK forces and best estimate of the associated costs of these activities; and
-
->     “(c) steps taken to reduce the DPRK level of forces.”
+    [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 585\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–171, as amended by [Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(D)][/us/pl/107/228/s1308/g/1/D], (2), Sept. 30, 2002, [116 Stat. 1441][/us/stat/116/1441], which required the Secretary of State, in consultation with the Secretary of Defense, to provide semiannual reports relating to the military forces of the Democratic People’s Republic of Korea, was repealed by [Pub. L. 113–76, div. K, title VII, § 7034(i)][/us/pl/113/76/s7034/i], Jan. 17, 2014, [128 Stat. 514][/us/stat/128/514].
 
  __Reports to War Crimes Tribunal for Former Yugoslavia__ 
 
@@ -891,6 +883,8 @@ Similar provisions were contained in the following appropriation acts:
 [/us/stat/110/3009-121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-121
 [/us/pl/107/228/s1308/g/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F228%2Fs1308%2Fg%2F1%2FD
 [/us/stat/116/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1441
+[/us/pl/113/76/s7034/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7034%2Fi
+[/us/stat/128/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F514
 [/us/pl/106/113/s1000/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F2
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/106/429/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F429%2Fs101%2Fa
