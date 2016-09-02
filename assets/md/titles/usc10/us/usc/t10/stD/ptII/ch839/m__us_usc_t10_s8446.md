@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8444, 8445.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8447.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8446)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8443.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8447.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8446)
 
 ## § 8446. Retention on active duty
 
-The President may retain on active duty a disabled officer until—
+    The President may retain on active duty a disabled officer until—
 
     (1) the physical condition of the officer is such that the officer will not be further benefited by retention in a military hospital or a medical facility of the Department of Veterans Affairs; or
 
@@ -133,7 +133,7 @@ June 15, 1956, ch. 388, 70 Stat. 282.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8444, 8445.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8447.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8446)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8443.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8447.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8446)
 
 ----------
 ----------

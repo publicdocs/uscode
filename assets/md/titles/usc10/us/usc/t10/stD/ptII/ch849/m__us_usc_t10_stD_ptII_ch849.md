@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch847/m__us_usc_t10_s8611, 8612.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch849/m__us_usc_t10_s8631.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch849)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch847/m__us_usc_t10_stD_ptII_ch847.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch849/m__us_usc_t10_s8631.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch849)
 
 #### CHAPTER 849—MISCELLANEOUS PROHIBITIONS AND PENALTIES
 
@@ -53,7 +53,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch847/m__us_usc_t10_s8611, 8612.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch849/m__us_usc_t10_s8631.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch849)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch847/m__us_usc_t10_stD_ptII_ch847.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch849/m__us_usc_t10_s8631.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch849)
 
 ----------
 ----------

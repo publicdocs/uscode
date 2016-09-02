@@ -15,7 +15,7 @@
 
 ## § 801. Article 1. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “Judge Advocate General” means, severally, the Judge Advocates General of the Army, Navy, and Air Force and, except when the Coast Guard is operating as a service in the Navy, an official designated to serve as Judge Advocate General of the Coast Guard by the Secretary of Homeland Security.
 
@@ -349,7 +349,11 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >                 “(ii) in the case of a waiver of \[sub\]paragraph (D) or (E) of subsection (b)(1), an explanation why it is not possible to certify that the risks addressed in the \[sub\]paragraph to be waived have been completely eliminated; and
 
->                 “(iii) a classified summary of—         “(I) the individual’s record of cooperation while in the custody of or under the effective control of the Department of Defense; and
+>                 “(iii)
+
+>                  a classified summary of—
+
+>                          “(I) the individual’s record of cooperation while in the custody of or under the effective control of the Department of Defense; and
 
 >                          “(II) the agreements and mechanisms in place to provide for continuing cooperation.
 

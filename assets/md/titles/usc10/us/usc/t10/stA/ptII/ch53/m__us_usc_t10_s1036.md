@@ -15,7 +15,7 @@
 
 ## § 1036. Escorts for dependents of members: transportation and travel allowances
 
-Under regulations to be prescribed by the Secretary concerned, round trip transportation and travel allowances may be paid to any person for travel performed or to be performed under competent orders as an escort for dependents of a member of the armed forces, if the travel is performed not later than one year after the member—
+    Under regulations to be prescribed by the Secretary concerned, round trip transportation and travel allowances may be paid to any person for travel performed or to be performed under competent orders as an escort for dependents of a member of the armed forces, if the travel is performed not later than one year after the member—
 
     (1) dies;
 
@@ -23,7 +23,7 @@ Under regulations to be prescribed by the Secretary concerned, round trip transp
 
     (3) is otherwise unable to accompany his dependents;
 
-        and it has been determined that travel by the dependents is necessary and that they are incapable of traveling alone because of age, mental or physical incapacity, or other extraordinary circumstances. Such allowances may be paid in advance.
+    and it has been determined that travel by the dependents is necessary and that they are incapable of traveling alone because of age, mental or physical incapacity, or other extraordinary circumstances. Such allowances may be paid in advance.
 
 (Added [Pub. L. 86–160, § 1(1)][/us/pl/86/160/s1/1], Aug. 14, 1959, [73 Stat. 358][/us/stat/73/358]; amended [Pub. L. 98–94, title IX, § 913(a)][/us/pl/98/94/s913/a], Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640].)
 

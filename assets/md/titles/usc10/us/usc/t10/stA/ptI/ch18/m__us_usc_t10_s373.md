@@ -15,7 +15,7 @@
 
 ## § 373. Training and advising civilian law enforcement officials
 
-The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available—
+    The Secretary of Defense may, in accordance with other applicable law, make Department of Defense personnel available—
 
     (1) to train Federal, State, and local civilian law enforcement officials in the operation and maintenance of equipment, including equipment made available under [section 372 of this title][/us/usc/t10/s372]; and
 

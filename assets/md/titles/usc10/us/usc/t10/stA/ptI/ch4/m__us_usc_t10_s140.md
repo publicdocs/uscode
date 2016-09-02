@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139d, 139e.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s140a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs140)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s140a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs140)
 
 ## § 140. General Counsel
 
@@ -115,7 +115,7 @@ Source (Statutes at Large)  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139d, 139e.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s140a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs140)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s140a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs140)
 
 ----------
 ----------

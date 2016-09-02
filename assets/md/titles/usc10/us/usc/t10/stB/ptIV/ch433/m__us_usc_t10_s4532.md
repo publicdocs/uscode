@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4531.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4533 to 4535.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4532)
+[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4531.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4536.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4532)
 
 ## § 4532. Factories and arsenals: manufacture at; abolition of
 
@@ -77,9 +77,17 @@ R.S. 1666.  </td>
 
     [Act Mar. 3, 1875, ch. 174][/us/act/1875-03-03/ch174], [18 Stat. 510][/us/stat/18/510], authorized the sale of the arsenal at Detroit, Michigan.
 
+\[§§ 4533 to 4535. __Repealed.__  __[__  __Pub. L. 103–160, div. A, title VIII, § 823(3)__  __][/us/pl/103/160/s823/3]__  __–(5),__  __Nov. 30, 1993__  __,__  __[__  __107 Stat. 1707__  __][/us/stat/107/1707]__  __\]__ 
+
+    Section 4533, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 254][/us/stat/70A/254], related to purchases of army rations.
+
+    Section 4534, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 254][/us/stat/70A/254], related to subsistence supplies, contract stipulations, and place of delivery on inspection.
+
+    Section 4535, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 254][/us/stat/70A/254], provided that exceptional subsistence supplies could be purchased without advertising.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4531.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4533 to 4535.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4532)
+[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4531.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4536.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4532)
 
 ----------
 ----------
@@ -88,5 +96,13 @@ R.S. 1666.  </td>
 [/us/stat/70A/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F254
 [/us/act/1875-03-03/ch174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1875-03-03%2Fch174
 [/us/stat/18/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F18%2F510
+[/us/pl/103/160/s823/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs823%2F3
+[/us/stat/107/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1707
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F254
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F254
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F254
 
 

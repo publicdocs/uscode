@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1741.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1743, 1744.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1742)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1741.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1745.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1742)
 
 ## § 1742. Internship, cooperative education, and scholarship programs
 
@@ -43,9 +43,15 @@
 
     [Pub. L. 108–375, div. A, title X, § 1084(f)][/us/pl/108/375/s1084/f], Oct. 28, 2004, [118 Stat. 2064][/us/stat/118/2064], provided that the amendment made by section 1084(f)(1) is effective as of Nov. 24, 2003, and as if included in [Pub. L. 108–136][/us/pl/108/136] as enacted.
 
+\[§§ 1743, 1744. __Repealed.__  __[__  __Pub. L. 108–136, div. A, title VIII, § 834(b)__  __][/us/pl/108/136/s834/b]__  __,__  __Nov. 24, 2003__  __,__  __[__  __117 Stat. 1551__  __][/us/stat/117/1551]__  __\]__ 
+
+    Section 1743, added [Pub. L. 101–510, div. A, title XII, § 1202(a)][/us/pl/101/510/s1202/a], Nov. 5, 1990, [104 Stat. 1651][/us/stat/104/1651], related to cooperative education program.
+
+    Section 1744, added [Pub. L. 101–510, div. A, title XII, § 1202(a)][/us/pl/101/510/s1202/a], Nov. 5, 1990, [104 Stat. 1652][/us/stat/104/1652]; amended [Pub. L. 102–484, div. A, title VIII, § 812(f)][/us/pl/102/484/s812/f], Oct. 23, 1992, [106 Stat. 2451][/us/stat/106/2451]; [Pub. L. 108–136, div. A, title VIII, § 832(c)][/us/pl/108/136/s832/c], Nov. 24, 2003, [117 Stat. 1550][/us/stat/117/1550], related to scholarship program.
+
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1741.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1743, 1744.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1742)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1741.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1745.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1742)
 
 ----------
 ----------
@@ -64,5 +70,15 @@
 [/us/pl/108/375/s1084/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Ff
 [/us/stat/118/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2064
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
+[/us/pl/108/136/s834/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs834%2Fb
+[/us/stat/117/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1551
+[/us/pl/101/510/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1202%2Fa
+[/us/stat/104/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1651
+[/us/pl/101/510/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1202%2Fa
+[/us/stat/104/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1652
+[/us/pl/102/484/s812/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs812%2Ff
+[/us/stat/106/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2451
+[/us/pl/108/136/s832/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs832%2Fc
+[/us/stat/117/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1550
 
 

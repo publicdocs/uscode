@@ -67,7 +67,7 @@
 
             (D) The recommendation of the Under Secretary as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
-            \[(f) Repealed. [Pub. L. 108–136, div. A, title X, § 1031(a)(17)][/us/pl/108/136/s1031/a/17], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597].\]
+    \[(f) Repealed. [Pub. L. 108–136, div. A, title X, § 1031(a)(17)][/us/pl/108/136/s1031/a/17], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597].\]
 
     (g) __Side-by-Side Testing.—__ 
 

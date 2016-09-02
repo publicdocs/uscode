@@ -79,7 +79,9 @@
 
             (D) Training commitments and deployments.
 
-        (5) __Logistics—equipment fill.—__ 
+        (5) __Logistics—__ 
+
+        equipment fill.—
 
             (A) Deployed equipment.
 
@@ -91,11 +93,15 @@
 
             (E) Condition of nonpacing items.
 
-        (6) __Logistics—equipment maintenance.—__ 
+        (6) __Logistics—__ 
+
+        equipment maintenance.—
 
             (A) Maintenance backlog.
 
-        (7) __Logistics—supply.—__ 
+        (7) __Logistics—__ 
+
+        supply.—
 
             (A) Availability of ordnance and spares.
 

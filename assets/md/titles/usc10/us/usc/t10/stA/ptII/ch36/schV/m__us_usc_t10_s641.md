@@ -15,7 +15,7 @@
 
 ## § 641. Applicability of chapter
 
-Officers in the following categories are not subject to this chapter (other than section 640 and, in the case of warrant officers, section 628):
+    Officers in the following categories are not subject to this chapter (other than section 640 and, in the case of warrant officers, section 628):
 
     (1)
 

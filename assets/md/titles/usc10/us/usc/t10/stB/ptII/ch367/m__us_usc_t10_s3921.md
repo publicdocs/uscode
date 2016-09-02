@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3920.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3922, 3923.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3921)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3920.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3924.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3921)
 
 ## § 3921. Mandatory retirement: Superintendent of the United States Military Academy; waiver authority
 
@@ -39,9 +39,19 @@
 
 > “The amendments made by this subsection \[enacting this section and sections 4333a, 6371, 6951a, 8921, and 9333a of this title\] shall not apply to an officer serving on the date of the enactment of this Act \[Oct. 5, 1999\] in the position of Superintendent of the United States Military Academy, Superintendent of the United States Naval Academy, or Superintendent of the United States Air Force Academy for so long as that officer continues on and after that date to serve in that position without a break in service.”
 
+\[§§ 3922, 3923. __Repealed.__  __[__  __Pub. L. 96–513, title II, § 217(a)__  __][/us/pl/96/513/s217/a]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2886__  __][/us/stat/94/2886]__  __\]__ 
+
+    Section 3922, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 227][/us/stat/70A/227]; Nov. 2, 1966, [Pub. L. 89–718, § 3][/us/pl/89/718/s3], [80 Stat. 1115][/us/stat/80/1115], provided for retirement of a regular grade brigadier general, other than a professor of the United States Military Academy, except as provided by [section 8301 of title 5][/us/usc/t5/s8301], on the 30th day after he completes 30 years of service or the 5th anniversary of the date of his appointment in that regular grade, whichever is later, with authority for the Secretary of the Army to defer retirement in certain cases. See [section 635 of this title][/us/usc/t10/s635].
+
+    Section 3923, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 227][/us/stat/70A/227]; Nov. 2, 1966, [Pub. L. 89–718, § 3][/us/pl/89/718/s3], [80 Stat. 1115][/us/stat/80/1115], provided for retirement of a regular grade major general, except as provided by [section 8301 of title 5][/us/usc/t5/s8301], on the 30th day after he completes 35 years of service or the 5th anniversary of his appointment in that regular grade, whichever is later, with authority for the Secretary of the Army to defer retirement in certain cases. See [section 636 of this title][/us/usc/t10/s636].
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3920.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3922, 3923.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3921)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3920.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3924.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3921)
 
 ----------
 ----------
@@ -61,5 +71,21 @@
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/106/65/s532/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs532%2Fa%2F5
 [/us/stat/113/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F604
+[/us/pl/96/513/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs217%2Fa
+[/us/stat/94/2886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2886
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F227
+[/us/pl/89/718/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs3
+[/us/stat/80/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1115
+[/us/usc/t5/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8301
+[/us/usc/t10/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs635
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F227
+[/us/pl/89/718/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs3
+[/us/stat/80/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1115
+[/us/usc/t5/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8301
+[/us/usc/t10/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs636
+[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
+[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 
 

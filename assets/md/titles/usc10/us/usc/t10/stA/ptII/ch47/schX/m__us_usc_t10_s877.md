@@ -15,13 +15,13 @@
 
 ## § 877. Art. 77. Principals
 
-Any person punishable under this chapter who—
+    Any person punishable under this chapter who—
 
     (1) commits an offense punishable by this chapter, or aids, abets, counsels, commands, or procures its commission; or
 
     (2) causes an act to be done which if directly performed by him would be punishable by this chapter;
 
-        is a principal.
+    is a principal.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 65][/us/stat/70A/65].)
 

@@ -15,7 +15,7 @@
 
 ## § 7041. Function
 
-There is a United States Naval Postgraduate School, the primary function of which is to provide advanced instruction and professional and technical education and research opportunities for commissioned officers of the naval service in—
+    There is a United States Naval Postgraduate School, the primary function of which is to provide advanced instruction and professional and technical education and research opportunities for commissioned officers of the naval service in—
 
     (1) their practical and theoretical duties;
 

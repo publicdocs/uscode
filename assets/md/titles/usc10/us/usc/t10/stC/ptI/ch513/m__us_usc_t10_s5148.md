@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5145 to 5147.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5149.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5148)
+[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5144.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5149.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5148)
 
 ## § 5148. Judge Advocate General’s Corps: Office of the Judge Advocate General; Judge Advocate General; appointment, term, emoluments, duties
 
@@ -191,7 +191,7 @@ June 22, 1938, ch. 567 (as applicable to JAG), 52 Stat. 839.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5145 to 5147.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5149.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5148)
+[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5144.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5149.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5148)
 
 ----------
 ----------

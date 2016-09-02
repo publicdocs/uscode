@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch351/m__us_usc_t10_s3661 to 3663.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch353/m__us_usc_t10_s3681.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch353)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch351/m__us_usc_t10_stB_ptII_ch351.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch353/m__us_usc_t10_s3681.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch353)
 
 #### CHAPTER 353—MISCELLANEOUS RIGHTS AND BENEFITS
 
@@ -93,7 +93,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch351/m__us_usc_t10_s3661 to 3663.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch353/m__us_usc_t10_s3681.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch353)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch351/m__us_usc_t10_stB_ptII_ch351.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch353/m__us_usc_t10_s3681.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch353)
 
 ----------
 ----------

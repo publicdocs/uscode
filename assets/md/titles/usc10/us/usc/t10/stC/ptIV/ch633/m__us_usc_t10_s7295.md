@@ -15,7 +15,7 @@
 
 ## § 7295. Vessels: under-age
 
-Vessels of the following types are considered under-age for the period after completion indicated below:
+    Vessels of the following types are considered under-age for the period after completion indicated below:
 
     (1) Battleships—26 years.
 

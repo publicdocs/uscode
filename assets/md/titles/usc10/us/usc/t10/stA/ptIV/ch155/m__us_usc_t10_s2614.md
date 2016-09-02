@@ -17,13 +17,11 @@
 
     (a) __Authority to Accept Equipment.—__ 
 
-        (1)
+        (1) Subject to subsection (c), the Secretary concerned—
 
-         Subject to subsection (c), the Secretary concerned—
+        (1) may accept communications equipment for use in coordinating joint response and recovery operations with public safety agencies in the event of a disaster; and
 
-            (1) may accept communications equipment for use in coordinating joint response and recovery operations with public safety agencies in the event of a disaster; and
-
-            (2) may accept services related to the operation and maintenance of such equipment.
+        (2) may accept services related to the operation and maintenance of such equipment.
 
     (b) __Regulations.—__ 
 

@@ -15,7 +15,7 @@
 
 ## § 7226. Navy Reserve yacht pennant
 
-The Secretary of the Navy shall prescribe a suitable pennant to be known as the Navy Reserve yacht pennant. This pennant may be flown by a yacht or similar vessel if—
+    The Secretary of the Navy shall prescribe a suitable pennant to be known as the Navy Reserve yacht pennant. This pennant may be flown by a yacht or similar vessel if—
 
     (1) the vessel is documented under the laws of the United States;
 

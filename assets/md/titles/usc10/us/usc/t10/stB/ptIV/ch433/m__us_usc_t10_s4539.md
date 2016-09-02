@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4537, 4538.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4540.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4539)
+[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4536.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4540.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4539)
 
 ## \[§ 4539. Repealed. [Pub. L. 91–482, § 1(a)][/us/pl/91/482/s1/a], Oct. 21, 1970, [84 Stat. 1082][/us/stat/84/1082]\]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4537, 4538.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4540.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4539)
+[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4536.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch433/m__us_usc_t10_s4540.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4539)
 
 ----------
 ----------

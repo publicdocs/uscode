@@ -15,7 +15,7 @@
 
 ## § 2650. Civilian personnel in Alaska
 
-Persons residing in Alaska who are and have been employed there by the United States for at least two years, and their families, may be transported on vessels or airplanes operated by the Department of Defense, if—
+    Persons residing in Alaska who are and have been employed there by the United States for at least two years, and their families, may be transported on vessels or airplanes operated by the Department of Defense, if—
 
     (1) the Secretary of Defense considers that accommodations are available;
 

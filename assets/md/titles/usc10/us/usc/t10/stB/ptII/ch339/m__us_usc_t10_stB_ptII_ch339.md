@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch337/m__us_usc_t10_s3392 to 3396.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3441, 3442.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch339)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch337/m__us_usc_t10_s3391.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3443.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch339)
 
 #### CHAPTER 339—TEMPORARY APPOINTMENTS
 
@@ -57,9 +57,19 @@
 
     1958—[Pub. L. 85–861, § 1(81)(F)][/us/pl/85/861/s1/81/F], (G), Sept. 2, 1958, [72 Stat. 1480][/us/stat/72/1480], struck out item 3443 “Commissioned officers; Reserves; appointment in higher or lower grade” and added item 3452.
 
+\[§§ 3441, 3442. __Repealed.__  __[__  __Pub. L. 96–513, title II, § 207__  __][/us/pl/96/513/s207]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2884__  __][/us/stat/94/2884]__  __\]__ 
+
+    Section 3441, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 195][/us/stat/70A/195], provided that temporary appointments be made only in the Army without specification of component.
+
+    Section 3442, [act Aug. 10, 1056, ch. 1041][/us/act/1056-08-10/ch1041], [70A Stat. 195][/us/stat/70A/195], provided that a regular commissioned officer, or a reserve commissioned officer who is serving on active duty, may be appointed, based upon ability and efficiency with regard being given to seniority and age, in a temporary grade that is equal to or higher than his regular or reserve grade, without vacating any other grade held by him. See [section 601 of this title][/us/usc/t10/s601].
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch337/m__us_usc_t10_s3392 to 3396.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3441, 3442.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch339)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch337/m__us_usc_t10_s3391.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3443.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch339)
 
 ----------
 ----------
@@ -70,5 +80,14 @@
 [/us/stat/81/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F758
 [/us/pl/85/861/s1/81/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F81%2FF
 [/us/stat/72/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1480
+[/us/pl/96/513/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs207
+[/us/stat/94/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2884
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F195
+[/us/act/1056-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1056-08-10%2Fch1041
+[/us/stat/70A/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F195
+[/us/usc/t10/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs601
+[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
+[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 
 

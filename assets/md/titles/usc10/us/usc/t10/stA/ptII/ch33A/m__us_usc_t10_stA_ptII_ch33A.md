@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch33/m__us_usc_t10_s555 to 565.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch33A/m__us_usc_t10_s571.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch33A)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch33/m__us_usc_t10_s541.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch33A/m__us_usc_t10_s571.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch33A)
 
 #### CHAPTER 33A—APPOINTMENT, PROMOTION, AND INVOLUNTARY SEPARATION AND RETIREMENT FOR MEMBERS ON THE WARRANT OFFICER ACTIVE-DUTY LIST
 
@@ -145,7 +145,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch33/m__us_usc_t10_s555 to 565.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch33A/m__us_usc_t10_s571.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch33A)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch33/m__us_usc_t10_s541.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch33A/m__us_usc_t10_s571.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch33A)
 
 ----------
 ----------

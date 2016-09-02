@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch447/m__us_usc_t10_s4744 to 4747.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch447/m__us_usc_t10_s4749.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4748)
+[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch447/m__us_usc_t10_s4743.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch447/m__us_usc_t10_s4749.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4748)
 
 ## \[§ 4748. Repealed. [Pub. L. 87–651, title I, § 119(1)][/us/pl/87/651/s119/1], Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]\]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch447/m__us_usc_t10_s4744 to 4747.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch447/m__us_usc_t10_s4749.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4748)
+[Previous](./../../../../../..//us/usc/t10/stB/ptIV/ch447/m__us_usc_t10_s4743.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIV/ch447/m__us_usc_t10_s4749.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4748)
 
 ----------
 ----------

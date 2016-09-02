@@ -15,7 +15,7 @@
 
 ## § 10101. Reserve components named
 
-The reserve components of the armed forces are:
+    The reserve components of the armed forces are:
 
     (1) The Army National Guard of the United States.
 

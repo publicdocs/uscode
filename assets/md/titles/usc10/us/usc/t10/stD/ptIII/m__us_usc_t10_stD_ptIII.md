@@ -77,9 +77,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1993—[Pub. L. 103–160, div. A, title XI, § 1178(c)][/us/pl/103/160/s1178/c], Nov. 30, 1993, [107 Stat. 1769][/us/stat/107/1769], added item for chapter 905.
 

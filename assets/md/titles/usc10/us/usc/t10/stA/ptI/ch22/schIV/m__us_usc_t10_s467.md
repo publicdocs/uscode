@@ -15,7 +15,7 @@
 
 ## § 467. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “function” means any duty, obligation, responsibility, privilege, activity, or program.
 

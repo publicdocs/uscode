@@ -15,7 +15,7 @@
 
 ## § 7660. Duties of prize commissioners
 
-One or more of the prize commissioners shall—
+    One or more of the prize commissioners shall—
 
     (1) receive from the prize master the documents and papers of the captured vessel and the inventory thereof;
 

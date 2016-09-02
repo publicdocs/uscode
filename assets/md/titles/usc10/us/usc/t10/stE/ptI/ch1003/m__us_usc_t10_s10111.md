@@ -15,7 +15,7 @@
 
 ## § 10111. Air National Guard of the United States: composition
 
-The Air National Guard of the United States is the reserve component of the Air Force that consists of—
+    The Air National Guard of the United States is the reserve component of the Air Force that consists of—
 
     (1) federally recognized units and organizations of the Air National Guard; and
 

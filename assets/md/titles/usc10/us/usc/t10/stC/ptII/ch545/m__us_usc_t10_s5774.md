@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch545/m__us_usc_t10_s5760 to 5773.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch545/m__us_usc_t10_s5775.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5774)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch545/m__us_usc_t10_s5759.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch545/m__us_usc_t10_s5775.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5774)
 
 ## \[§ 5774. Repealed. [Pub. L. 90–130, § 1(19)(T)][/us/pl/90/130/s1/19/T], Nov. 8, 1967, [81 Stat. 379][/us/stat/81/379]\]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch545/m__us_usc_t10_s5760 to 5773.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch545/m__us_usc_t10_s5775.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5774)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch545/m__us_usc_t10_s5759.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch545/m__us_usc_t10_s5775.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5774)
 
 ----------
 ----------

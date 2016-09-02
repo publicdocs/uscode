@@ -235,7 +235,7 @@ Aug. 8, 1953, ch. 393, §§ 2 (less (e) and (f)), 3(a) (less 5th sentence), (b
 
 >     “(2) hereafter retires for physical disability before completing 18 years of service for which he is entitled to credit in the computation of his basic pay—
 
->         shall be considered as having applicable to him all of the provisions of chapter 73 of title 10, United States Code \[this chapter\], existing on the date preceding the date of enactment of this Act \[Oct. 4, 1961\], except that any revocation or change of an election is not effective until three years after the date of filing such revocation or change, or the date of enactment of this Act \[Oct. 4, 1961\], whichever is later.”
+>     shall be considered as having applicable to him all of the provisions of chapter 73 of title 10, United States Code \[this chapter\], existing on the date preceding the date of enactment of this Act \[Oct. 4, 1961\], except that any revocation or change of an election is not effective until three years after the date of filing such revocation or change, or the date of enactment of this Act \[Oct. 4, 1961\], whichever is later.”
 
  __Change or Revocation of Election by Certain Colonels and Lieutenant Colonels__ 
 

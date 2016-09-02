@@ -15,7 +15,7 @@
 
 ## § 4551. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “ARMS Initiative” means the Armament Retooling and Manufacturing Support Initiative authorized by this chapter.
 

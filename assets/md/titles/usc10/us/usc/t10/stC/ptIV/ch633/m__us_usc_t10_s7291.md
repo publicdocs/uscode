@@ -407,9 +407,9 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 [Pub. L. 102–484, div. A, title X, § 1021][/us/pl/102/484/s1021], Oct. 23, 1992, [106 Stat. 2485][/us/stat/106/2485], provided that:
 
->     “(a) __Acquisition and Conversion of U.S. Built Vessels.—__ 
+>     “(a) __Acquisition and Conversion of U.__ 
 
->     Notwithstanding any other provision of law, the Secretary of the Navy may use funds available for the Fast Sealift Program—
+>     S. Built Vessels.—Notwithstanding any other provision of law, the Secretary of the Navy may use funds available for the Fast Sealift Program—
 
 >         “(1) to acquire vessels for the program from among available vessels built in United States shipyards; and
 

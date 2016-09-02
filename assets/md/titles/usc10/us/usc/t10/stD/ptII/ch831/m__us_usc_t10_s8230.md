@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8217 to 8225.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_stD_ptII_ch833.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8230)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8212.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_stD_ptII_ch833.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8230)
 
 ## \[§ 8230. Repealed. [Pub. L. 96–513, title II, § 232][/us/pl/96/513/s232], Dec. 12, 1980, [94 Stat. 2886][/us/stat/94/2886]\]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8217 to 8225.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_stD_ptII_ch833.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8230)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8212.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_stD_ptII_ch833.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8230)
 
 ----------
 ----------

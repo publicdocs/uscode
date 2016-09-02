@@ -15,7 +15,7 @@
 
 ## § 18234. Location and use
 
-No expenditures or contribution may be made for a facility under [section 18233 of this title][/us/usc/t10/s18233], unless the Secretary of Defense determines that—
+    No expenditures or contribution may be made for a facility under [section 18233 of this title][/us/usc/t10/s18233], unless the Secretary of Defense determines that—
 
     (1) the number of units of the reserve components of the armed forces located or to be located in the area within which the facility is to be provided is not and will not be larger than the number that can reasonably be expected to be maintained at authorized strength, considering the number of persons living in the area who are qualified for membership in those reserve units; and
 

@@ -15,7 +15,7 @@
 
 ## § 1479. Death gratuity: delegation of determinations, payments
 
-For the purpose of making immediate payments under [section 1475 of this title][/us/usc/t10/s1475], the Secretary concerned shall—
+    For the purpose of making immediate payments under [section 1475 of this title][/us/usc/t10/s1475], the Secretary concerned shall—
 
     (1) authorize the commanding officer of a territorial command, installation, or district in which a survivor of a person covered by that section is residing to determine the beneficiary eligible for the death gratuity; and
 

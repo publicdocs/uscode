@@ -15,7 +15,7 @@
 
 ## § 520c. Recruiting functions: provision of meals and refreshments
 
-Under regulations prescribed by the Secretary concerned, funds appropriated to the Department of Defense for recruitment of military personnel may be expended for small meals and refreshments during recruiting functions for the following persons:
+    Under regulations prescribed by the Secretary concerned, funds appropriated to the Department of Defense for recruitment of military personnel may be expended for small meals and refreshments during recruiting functions for the following persons:
 
     (1) Persons who have enlisted under the Delayed Entry Program authorized by [section 513 of this title][/us/usc/t10/s513].
 

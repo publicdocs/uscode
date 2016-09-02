@@ -15,7 +15,7 @@
 
 ## § 1031. Administration of oath
 
-The President, the Vice-President, the Secretary of Defense, any commissioned officer, and any other person designated under regulations prescribed by the Secretary of Defense may administer any oath—
+    The President, the Vice-President, the Secretary of Defense, any commissioned officer, and any other person designated under regulations prescribed by the Secretary of Defense may administer any oath—
 
     (1) required for the enlistment or appointment of any person in the armed forces; or
 

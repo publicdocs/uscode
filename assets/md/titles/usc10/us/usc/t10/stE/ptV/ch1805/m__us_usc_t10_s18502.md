@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stE/ptV/ch1805/m__us_usc_t10_s18501.md) | [Next](./../../../../../..//us/usc/t10/stE/ptV/ch1805/m__us_usc_t10_s18505.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18502)
+[Previous](./../../../../../..//us/usc/t10/stE/ptV/ch1805/m__us_usc_t10_s18501.md) | [Next](./../../../../../..//us/usc/t10/stE/ptV/ch1805/m__us_usc_t10_s18505.1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18502)
 
 ## § 18502. Reserve components: supplies, services, and facilities
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stE/ptV/ch1805/m__us_usc_t10_s18501.md) | [Next](./../../../../../..//us/usc/t10/stE/ptV/ch1805/m__us_usc_t10_s18505.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18502)
+[Previous](./../../../../../..//us/usc/t10/stE/ptV/ch1805/m__us_usc_t10_s18501.md) | [Next](./../../../../../..//us/usc/t10/stE/ptV/ch1805/m__us_usc_t10_s18505.1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18502)
 
 ----------
 ----------

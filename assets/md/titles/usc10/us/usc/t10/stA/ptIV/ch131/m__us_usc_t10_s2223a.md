@@ -115,7 +115,11 @@
 
 >                 “(i) A Department-wide performance plan for achieving the matters specified in paragraph (1)(A), including performance standards and measures for data centers and information systems technologies, goals and schedules for achieving such matters, and an estimate of cost savings anticipated through implementation of the plan.
 
->                 “(ii) A Department-wide strategy for each of the following:         “(I) Desktop, laptop, and mobile device virtualization.
+>                 “(ii)
+
+>                  A Department-wide strategy for each of the following:
+
+>                          “(I) Desktop, laptop, and mobile device virtualization.
 
 >                          “(II) Transitioning to cloud computing.
 

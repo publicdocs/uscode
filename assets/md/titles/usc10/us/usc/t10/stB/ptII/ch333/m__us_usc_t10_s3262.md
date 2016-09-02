@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3259 to 3261.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3263.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3262)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3258.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3263.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3262)
 
 ## § 3262. Army: percentage of high-school graduates
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3259 to 3261.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3263.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3262)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3258.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3263.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3262)
 
 ----------
 ----------

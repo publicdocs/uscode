@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8353, 8354.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8356.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8355)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8352.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8356.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8355)
 
 ## \[§ 8355. Repealed. [Pub. L. 88–647, title III, § 301(21)][/us/pl/88/647/s301/21], Oct. 13, 1964, [78 Stat. 1073][/us/stat/78/1073]\]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8353, 8354.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8356.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8355)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8352.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8356.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8355)
 
 ----------
 ----------

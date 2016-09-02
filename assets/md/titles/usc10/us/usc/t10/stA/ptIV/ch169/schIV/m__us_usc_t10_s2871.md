@@ -15,7 +15,7 @@
 
 ## § 2871. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) The term “ancillary supporting facilities” means facilities related to military housing units, including facilities to provide or support elementary or secondary education, child care centers, day care centers, child development centers, tot lots, community centers, housing offices, dining facilities, unit offices, and other similar facilities for the support of military housing.
 

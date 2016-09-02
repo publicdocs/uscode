@@ -15,7 +15,7 @@
 
 ## § 2341. Authority to acquire logistic support, supplies, and services for elements of the armed forces deployed outside the United States
 
-Subject to [section 2343 of this title][/us/usc/t10/s2343] and subject to the availability of appropriations, the Secretary of Defense may—
+    Subject to [section 2343 of this title][/us/usc/t10/s2343] and subject to the availability of appropriations, the Secretary of Defense may—
 
     (1) acquire from the Governments of North Atlantic Treaty Organization countries, from North Atlantic Treaty Organization subsidiary bodies, and from the United Nations Organization or any regional international organization logistic support, supplies, and services for elements of the armed forces deployed outside the United States; and
 

@@ -15,7 +15,7 @@
 
 ## § 3072. Judge Advocate General’s Corps
 
-There is a Judge Advocate General’s Corps in the Army. The Judge Advocate General’s Corps consists of—
+    There is a Judge Advocate General’s Corps in the Army. The Judge Advocate General’s Corps consists of—
 
     (1) the Judge Advocate General;
 

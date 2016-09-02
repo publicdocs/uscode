@@ -15,7 +15,7 @@
 
 ## § 5501. Navy: grades above chief warrant officer, W–5
 
-The commissioned grades in the Navy above the grade of chief warrant officer, W–5, are the following:
+    The commissioned grades in the Navy above the grade of chief warrant officer, W–5, are the following:
 
     (1) Admiral.
 

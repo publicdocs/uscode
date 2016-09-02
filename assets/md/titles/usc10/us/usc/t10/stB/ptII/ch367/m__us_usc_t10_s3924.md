@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3922, 3923.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3925.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3924)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3921.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3925.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3924)
 
 ## § 3924. Forty years or more: Army officers
 
@@ -85,7 +85,7 @@ June 30, 1882, ch. 254 (last 21 words of 3d proviso under “Pay Department”),
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3922, 3923.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3925.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3924)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3921.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch367/m__us_usc_t10_s3925.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3924)
 
 ----------
 ----------

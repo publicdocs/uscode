@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch50/m__us_usc_t10_s992.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch50/m__us_usc_t10_s994.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs993)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch50/m__us_usc_t10_s14.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch50/m__us_usc_t10_s994.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs993)
 
 ## § 993. Notification of permanent reduction of sizable numbers of members of the armed forces
 
@@ -69,7 +69,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch50/m__us_usc_t10_s992.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch50/m__us_usc_t10_s994.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs993)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch50/m__us_usc_t10_s14.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch50/m__us_usc_t10_s994.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs993)
 
 ----------
 ----------

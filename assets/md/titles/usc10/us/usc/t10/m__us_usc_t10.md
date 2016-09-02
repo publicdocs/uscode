@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t10/stA/m__us_usc_t10_stA.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10)
 
-# 
-
-Title 10—ARMED FORCES
+# Title 10—ARMED FORCES
 
 This title was enacted by [act Aug. 10, 1956, ch. 1041, § 1][/us/act/1956-08-10/ch1041/s1], [70A Stat. 1][/us/stat/70A/1]
+
+Current through 113–44
 
 <table>
 

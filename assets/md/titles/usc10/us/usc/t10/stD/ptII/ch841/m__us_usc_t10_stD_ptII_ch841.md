@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8451, 8452.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch841/m__us_usc_t10_s8491.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch841)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8450.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch841/m__us_usc_t10_s8491.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch841)
 
 #### CHAPTER 841—ACTIVE DUTY
 
@@ -71,7 +71,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8451, 8452.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch841/m__us_usc_t10_s8491.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch841)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8450.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch841/m__us_usc_t10_s8491.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch841)
 
 ----------
 ----------

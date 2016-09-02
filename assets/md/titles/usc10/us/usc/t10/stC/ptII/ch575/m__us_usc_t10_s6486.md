@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch575/m__us_usc_t10_s6485.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch575/m__us_usc_t10_s6487, 6488.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6486)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch575/m__us_usc_t10_s6485.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch577/m__us_usc_t10_stC_ptII_ch577.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6486)
 
 ## § 6486. Members of the Fleet Reserve and Fleet Marine Corps Reserve: release from active duty
 
@@ -95,9 +95,19 @@ July 9, 1952, ch. 608, § 803 (3d sentence), 66 Stat. 505.  </td>
 
     In subsection (b) the words “other than from active duty for training” are inserted since the term “active duty” as used in [34 U.S.C. 854d][/us/usc/t34/s854d] (3d proviso) does not include active duty for training. Clause (3) is inserted, since other provisions of law are necessarily exceptions to the general rule here stated. The words “or the Marine Corps” are inserted in the last sentence of subsection (b) to reflect the applicability of the section to the Fleet Marine Corps Reserve.
 
+\[§§ 6487, 6488. __Repealed.__  __[__  __Pub. L. 96–513, title III, § 362(b)__  __][/us/pl/96/513/s362/b]__  __, (c),__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2903__  __][/us/stat/94/2903]__  __\]__ 
+
+    Section 6487, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 418][/us/stat/70A/418], related to retirement pay of certain rear admirals who retire after serving two years on active duty in time of war or national emergency.
+
+    Section 6488, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 418][/us/stat/70A/418], related to retention of certain wartime appointments or promotions upon release from active duty. See [section 1370 of this title][/us/usc/t10/s1370].
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch575/m__us_usc_t10_s6485.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch575/m__us_usc_t10_s6487, 6488.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6486)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch575/m__us_usc_t10_s6485.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch577/m__us_usc_t10_stC_ptII_ch577.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6486)
 
 ----------
 ----------
@@ -105,5 +115,14 @@ July 9, 1952, ch. 608, § 803 (3d sentence), 66 Stat. 505.  </td>
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F417
 [/us/usc/t34/s854d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft34%2Fs854d
+[/us/pl/96/513/s362/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs362%2Fb
+[/us/stat/94/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2903
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F418
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F418
+[/us/usc/t10/s1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1370
+[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
+[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 
 

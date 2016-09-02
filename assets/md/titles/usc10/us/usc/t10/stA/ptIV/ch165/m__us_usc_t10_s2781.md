@@ -15,7 +15,7 @@
 
 ## § 2781. Availability of appropriations: exchange fees; losses in accounts
 
-Amounts appropriated to the Department of Defense may be used for—
+    Amounts appropriated to the Department of Defense may be used for—
 
     (1) exchange fees; and
 

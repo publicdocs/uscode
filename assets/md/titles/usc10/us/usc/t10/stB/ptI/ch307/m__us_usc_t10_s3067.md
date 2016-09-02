@@ -15,7 +15,7 @@
 
 ## § 3067. Army Medical Department
 
-There is an Army Medical Department in the Army. The Army Medical Department consists of—
+    There is an Army Medical Department in the Army. The Army Medical Department consists of—
 
     (1) the Surgeon General;
 

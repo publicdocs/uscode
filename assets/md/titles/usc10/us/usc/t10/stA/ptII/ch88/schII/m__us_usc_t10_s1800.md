@@ -15,7 +15,7 @@
 
 ## § 1800. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) The term “military child development center” means a facility on a military installation (or on property under the jurisdiction of the commander of a military installation) at which child care services are provided for members of the armed forces or any other facility at which such child care services are provided that is operated by the Secretary of a military department.
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_s3495 to 3502.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_s3504.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3503)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_s3494.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_s3504.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3503)
 
 ## § 3503. Retired commissioned officers: status
 
@@ -67,7 +67,7 @@ July 9, 1918, ch. 143, subch. XX (2d par.), 40 Stat. 893.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_s3495 to 3502.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_s3504.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3503)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_s3494.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_s3504.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3503)
 
 ----------
 ----------

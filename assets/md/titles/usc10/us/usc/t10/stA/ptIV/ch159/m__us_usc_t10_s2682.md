@@ -31,15 +31,15 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–81, div. A, title IX, § 926(b)][/us/pl/112/81/s926/b], Dec. 31, 2011, [125 Stat. 1541][/us/stat/125/1541], provided that, effective on Sept. 30, 2015, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2016, whichever is later, this section is amended as follows:
+    [Pub. L. 112–81, div. A, title IX, § 926(b)][/us/pl/112/81/s926/b], Dec. 31, 2011, [125 Stat. 1541][/us/stat/125/1541], provided that, effective on Sept. 30, 2015, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2016, whichever is later, this section is amended as follows:
 
-(1) in subsec. (a), by substituting “The maintenance and repair” for “Subject to subsection (c), the maintenance and repair”;
+    (1) in subsec. (a), by substituting “The maintenance and repair” for “Subject to subsection (c), the maintenance and repair”;
 
-(2) in subsec. (b), by substituting “A real property” for “Subject to subsection (c), a real property”; and
+    (2) in subsec. (b), by substituting “A real property” for “Subject to subsection (c), a real property”; and
 
-(3) by striking out subsec. (c).
+    (3) by striking out subsec. (c).
 
-See 2011 Amendment notes below.
+    See 2011 Amendment notes below.
 
  __Amendments__ 
 

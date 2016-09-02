@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t10/stC/ptI/ch519/m__us_usc_t10_s5251, 5252.md) | [Next](./../../../../..//us/usc/t10/stC/ptII/ch531/m__us_usc_t10_stC_ptII_ch531.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII)
+[Previous](./../../../../..//us/usc/t10/stC/ptI/ch519/m__us_usc_t10_stC_ptI_ch519.md) | [Next](./../../../../..//us/usc/t10/stC/ptII/ch531/m__us_usc_t10_stC_ptII_ch531.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII)
 
 ### PART II—PERSONNEL
 
@@ -307,11 +307,13 @@
 
 >         “(4) Officers of the Navy Reserve ordered to temporary active duty for the purpose of prosecuting special work.
 
->     “(c) Title IV of the Officer Personnel Act of 1947 ([61 Stat. 869][/us/stat/61/869]), as amended, is amended by adding the following new section at the end thereof:    “\[Sec. 437. Repealed. [Pub. L. 104–106, div. A, title XV, § 1505(a)][/us/pl/104/106/s1505/a], Feb. 10, 1996, [110 Stat. 514][/us/stat/110/514].\]”
+>     “(c) Title IV of the Officer Personnel Act of 1947 ([61 Stat. 869][/us/stat/61/869]), as amended, is amended by adding the following new section at the end thereof:
+
+> “\[Sec. 437. Repealed. [Pub. L. 104–106, div. A, title XV, § 1505(a)][/us/pl/104/106/s1505/a], Feb. 10, 1996, [110 Stat. 514][/us/stat/110/514].\]”
 
 ----------
 
-[Previous](./../../../../..//us/usc/t10/stC/ptI/ch519/m__us_usc_t10_s5251, 5252.md) | [Next](./../../../../..//us/usc/t10/stC/ptII/ch531/m__us_usc_t10_stC_ptII_ch531.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII)
+[Previous](./../../../../..//us/usc/t10/stC/ptI/ch519/m__us_usc_t10_stC_ptI_ch519.md) | [Next](./../../../../..//us/usc/t10/stC/ptII/ch531/m__us_usc_t10_stC_ptII_ch531.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 950t. Crimes triable by military commission
 
-The following offenses shall be triable by military commission under this chapter at any time without limitation:
+    The following offenses shall be triable by military commission under this chapter at any time without limitation:
 
     (1) __Murder of protected persons.—__ 
 

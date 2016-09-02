@@ -15,7 +15,7 @@
 
 ## § 2199. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “defense laboratory” means a laboratory operated by the Department of Defense or owned by the Department of Defense and operated by a contractor or a facility of a Defense Agency at which research and development activities are conducted.
 

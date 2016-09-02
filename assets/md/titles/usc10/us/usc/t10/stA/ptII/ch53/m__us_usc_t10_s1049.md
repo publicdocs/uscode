@@ -15,7 +15,7 @@
 
 ## § 1049. Subsistence: miscellaneous persons
 
-The following persons may be provided subsistence at the expense of the United States:
+    The following persons may be provided subsistence at the expense of the United States:
 
     (1) Enlisted members while sick in hospitals.
 

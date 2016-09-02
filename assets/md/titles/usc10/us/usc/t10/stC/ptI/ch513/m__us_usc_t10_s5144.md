@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5143.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5145 to 5147.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5144)
+[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5143.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5148.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5144)
 
 ## § 5144. Office of Marine Forces Reserve: appointment of Commander
 
@@ -89,9 +89,17 @@
 
     Amendment by [Pub. L. 106–65][/us/pl/106/65] effective 60 days after Oct. 5, 1999, with special provision for an officer who is a covered position incumbent who is appointed under that amendment to the grade of lieutenant general or vice admiral, see section 554(g), (h) of [Pub. L. 106–65][/us/pl/106/65], set out as a note under [section 3038 of this title][/us/usc/t10/s3038].
 
+\[§§ 5145 to 5147. __Repealed.__  __[__  __Pub. L. 89–718, § 35(5)__  __][/us/pl/89/718/s35/5]__  __,__  __Nov. 2, 1966__  __,__  __[__  __80 Stat. 1120__  __][/us/stat/80/1120]__  __\]__ 
+
+    Section 5145, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 289][/us/stat/70A/289]; May 13, 1960, [Pub. L. 86–454][/us/pl/86/454], [74 Stat. 103][/us/stat/74/103]; Sept. 7, 1962, [Pub. L. 87–649, § 14(c)(19)][/us/pl/87/649/s14/c/19], [76 Stat. 501][/us/stat/76/501], provided for appointment of Chief of Bureau of Ships, detailing and rank of Deputy Chief, and detailing of heads of major divisions of Bureau of Ships.
+
+    Section 5146, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 289][/us/stat/70A/289], provided for appointment of Chief of Bureau of Supplies and Accounts and detailing of Deputy Chief.
+
+    Section 5147, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 289][/us/stat/70A/289], provided for appointment of Chief of Bureau of Yards and Docks and detailing of Deputy Chief.
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5143.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5145 to 5147.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5144)
+[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5143.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5148.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5144)
 
 ----------
 ----------
@@ -122,5 +130,17 @@
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t10/s3038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3038
+[/us/pl/89/718/s35/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718%2Fs35%2F5
+[/us/stat/80/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1120
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F289
+[/us/pl/86/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F454
+[/us/stat/74/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F103
+[/us/pl/87/649/s14/c/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs14%2Fc%2F19
+[/us/stat/76/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F501
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F289
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F289
 
 

@@ -15,7 +15,7 @@
 
 ## § 1462. Assets of Fund
 
-There shall be deposited into the Fund the following, which shall constitute the assets of the Fund:
+    There shall be deposited into the Fund the following, which shall constitute the assets of the Fund:
 
     (1) Amounts paid into the Fund under [section 1466 of this title][/us/usc/t10/s1466].
 

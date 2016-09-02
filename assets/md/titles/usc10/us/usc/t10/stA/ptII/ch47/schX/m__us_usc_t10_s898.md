@@ -15,13 +15,13 @@
 
 ## § 898. Art. 98. Noncompliance with procedural rules
 
-Any person subject to this chapter who—
+    Any person subject to this chapter who—
 
     (1) is responsible for unnecessary delay in the disposition of any case of a person accused of an offense under this chapter; or
 
     (2) knowingly and intentionally fails to enforce or comply with any provision of this chapter regulating the proceedings before, during, or after trial of an accused;
 
-        shall be punished as a court-martial may direct.
+    shall be punished as a court-martial may direct.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 69][/us/stat/70A/69].)
 

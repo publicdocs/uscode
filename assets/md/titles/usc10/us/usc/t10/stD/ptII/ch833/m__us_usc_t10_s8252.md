@@ -15,7 +15,7 @@
 
 ## § 8252. Regular Air Force: gender-free basis for acceptance of original enlistments
 
-In accepting persons for original enlistment in the Regular Air Force, the Secretary of the Air Force may not—
+    In accepting persons for original enlistment in the Regular Air Force, the Secretary of the Air Force may not—
 
     (1) set a minimum or maximum percentage of persons who may be accepted for such an enlistment according to gender for skill categories or jobs; or
 

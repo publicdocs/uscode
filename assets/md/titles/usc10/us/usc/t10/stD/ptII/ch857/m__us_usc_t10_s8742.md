@@ -15,7 +15,7 @@
 
 ## § 8742. Air Force cross: award
 
-The President may award an Air Force cross of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Air Force, distinguishes himself by extraordinary heroism not justifying the award of a medal of honor—
+    The President may award an Air Force cross of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Air Force, distinguishes himself by extraordinary heroism not justifying the award of a medal of honor—
 
     (1) while engaged in an action against an enemy of the United States;
 

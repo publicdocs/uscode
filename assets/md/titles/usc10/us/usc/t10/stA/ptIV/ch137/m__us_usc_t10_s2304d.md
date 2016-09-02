@@ -15,7 +15,7 @@
 
 ## § 2304d. Task and delivery order contracts: definitions
 
-In sections 2304a, 2304b, and 2304c of this title:
+    In sections 2304a, 2304b, and 2304c of this title:
 
     (1) The term “task order contract” means a contract for services that does not procure or specify a firm quantity of services (other than a minimum or maximum quantity) and that provides for the issuance of orders for the performance of tasks during the period of the contract.
 

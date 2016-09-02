@@ -15,7 +15,7 @@
 
 ## § 8583. Requirement of exemplary conduct
 
-All commanding officers and others in authority in the Air Force are required—
+    All commanding officers and others in authority in the Air Force are required—
 
     (1) to show in themselves a good example of virtue, honor, patriotism, and subordination;
 

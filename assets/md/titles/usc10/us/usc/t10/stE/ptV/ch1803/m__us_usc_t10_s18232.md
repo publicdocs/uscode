@@ -15,7 +15,7 @@
 
 ## § 18232. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “State” means any of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and each territory and possession of the United States and includes political subdivisions and military units thereof and tax-supported agencies therein.
 

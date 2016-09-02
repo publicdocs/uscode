@@ -15,7 +15,7 @@
 
 ## § 891. Art. 91. Insubordinate conduct toward warrant officer, noncommissioned officer, or petty officer
 
-Any warrant officer or enlisted member who—
+    Any warrant officer or enlisted member who—
 
     (1) strikes or assaults a warrant officer, noncommissioned officer, or petty officer, while that officer is in the execution of his office;
 
@@ -23,7 +23,7 @@ Any warrant officer or enlisted member who—
 
     (3) treats with contempt or is disrespectful in language or deportment toward a warrant officer, noncommissioned officer, or petty officer, while that officer is in the execution of his office;
 
-        shall be punished as a court-martial may direct.
+    shall be punished as a court-martial may direct.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 68][/us/stat/70A/68].)
 

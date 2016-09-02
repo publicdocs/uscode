@@ -15,7 +15,7 @@
 
 ## § 2302. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “head of an agency” means the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of Homeland Security, and the Administrator of the National Aeronautics and Space Administration.
 
@@ -1857,7 +1857,11 @@ Source (Statutes at Large)  </td>
 
 >                 “(iii) registration and identification of armored vehicles, helicopters, and other military vehicles operated by contractors and subcontractors performing private security functions in an area of combat operations or other significant military operations; and
 
->                 “(iv) the reporting of incidents in which—         “(I) a weapon is discharged by personnel performing private security functions in an area of combat operations or other significant military operations;
+>                 “(iv)
+
+>                  the reporting of incidents in which—
+
+>                          “(I) a weapon is discharged by personnel performing private security functions in an area of combat operations or other significant military operations;
 
 >                          “(II) personnel performing private security functions in an area of combat operations or other significant military operations are killed or injured; or
 

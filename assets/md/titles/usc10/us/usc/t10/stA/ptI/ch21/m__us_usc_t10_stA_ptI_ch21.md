@@ -47,9 +47,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1991—[Pub. L. 102–88, title V, § 504(a)(1)][/us/pl/102/88/s504/a/1], Aug. 14, 1991, [105 Stat. 437][/us/stat/105/437], added items for subchapters I and II.
 

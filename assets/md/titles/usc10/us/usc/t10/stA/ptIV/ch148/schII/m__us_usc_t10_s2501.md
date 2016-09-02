@@ -223,7 +223,9 @@
 
 >     “(e) __Applicability.—__ 
 
->     This section shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as set forth in or designated under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\].    “\[SEC. 813. Repealed. [Pub. L. 111–84, div. A, title VIII, § 846][/us/pl/111/84/s846], Oct. 28, 2009, [123 Stat. 2420][/us/stat/123/2420].\]
+>     This section shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as set forth in or designated under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\].
+
+> “\[SEC. 813. Repealed. [Pub. L. 111–84, div. A, title VIII, § 846][/us/pl/111/84/s846], Oct. 28, 2009, [123 Stat. 2420][/us/stat/123/2420].\]
 
 > “SEC. 814. __PRODUCTION CAPABILITIES IMPROVEMENT FOR CERTAIN ESSENTIAL ITEMS USING DEFENSE INDUSTRIAL BASE CAPABILITIES FUND.__ 
 

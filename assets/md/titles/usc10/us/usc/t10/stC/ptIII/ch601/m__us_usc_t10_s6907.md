@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6901 to 6906.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6908.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6907)
+[Previous](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_stC_ptIII_ch601.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6908.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6907)
 
 ## \[§ 6907. Repealed. [Pub. L. 87–100, § 1(1)][/us/pl/87/100/s1/1], July 21, 1961, [75 Stat. 218][/us/stat/75/218]\]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6901 to 6906.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6908.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6907)
+[Previous](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_stC_ptIII_ch601.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIII/ch601/m__us_usc_t10_s6908.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6907)
 
 ----------
 ----------

@@ -1285,7 +1285,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >                 “(i) upon request of a recovering service member being considered by a medical evaluation board, a physician or other appropriate health care professional who is independent of the medical evaluation board is assigned to the service member; and
 
->                 “(ii) the physician or other health care professional assigned to a recovering service member under clause (i)—         “(I) serves as an independent source for review of the findings and recommendations of the medical evaluation board;
+>                 “(ii)
+
+>                  the physician or other health care professional assigned to a recovering service member under clause (i)—
+
+>                          “(I) serves as an independent source for review of the findings and recommendations of the medical evaluation board;
 
 >                          “(II) provides the service member with advice and counsel regarding the findings and recommendations of the medical evaluation board; and
 

@@ -15,7 +15,7 @@
 
 ## § 8084. Officer career field for space
 
-The Secretary of the Air Force shall establish and implement policies and procedures to develop a career field for officers in the Air Force with technical competence in space-related matters to have the capability to—
+    The Secretary of the Air Force shall establish and implement policies and procedures to develop a career field for officers in the Air Force with technical competence in space-related matters to have the capability to—
 
     (1) develop space doctrine and concepts of space operations;
 

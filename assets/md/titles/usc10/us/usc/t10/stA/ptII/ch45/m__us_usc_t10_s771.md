@@ -15,7 +15,7 @@
 
 ## § 771. Unauthorized wearing prohibited
 
-Except as otherwise provided by law, no person except a member of the Army, Navy, Air Force, or Marine Corps, as the case may be, may wear—
+    Except as otherwise provided by law, no person except a member of the Army, Navy, Air Force, or Marine Corps, as the case may be, may wear—
 
     (1) the uniform, or a distinctive part of the uniform, of the Army, Navy, Air Force, or Marine Corps; or
 

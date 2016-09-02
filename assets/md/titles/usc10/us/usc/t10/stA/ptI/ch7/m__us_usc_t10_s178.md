@@ -91,7 +91,9 @@
 
 [Pub. L. 98–132, § 1][/us/pl/98/132/s1], Oct. 17, 1983, [97 Stat. 849][/us/stat/97/849], provided: 
 
-> “That (a) the Foundation for the Advancement of Military Medicine established pursuant to [section 178 of title 10][/us/usc/t10/s178], United States Code, shall be designated and hereafter known as the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’, in honor of the late Henry M. Jackson, United States Senator from the State of Washington. Any reference to the Foundation for the Advancement of Military Medicine in any law, regulation, document, record, or other paper of the United States shall be held and considered to be a reference to the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’.
+>     “That 
+
+>     (a) the Foundation for the Advancement of Military Medicine established pursuant to [section 178 of title 10][/us/usc/t10/s178], United States Code, shall be designated and hereafter known as the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’, in honor of the late Henry M. Jackson, United States Senator from the State of Washington. Any reference to the Foundation for the Advancement of Military Medicine in any law, regulation, document, record, or other paper of the United States shall be held and considered to be a reference to the ‘Henry M. Jackson Foundation for the Advancement of Military Medicine’.
 
 >     “(b) The Council of Directors referred to in subsection (c) of section 178 of such title shall take such action as is necessary under the Corporations and Associations Articles of the State of Maryland to amend the corporate name of the Foundation for the Advancement of Military Medicine established under such section to reflect the designation made by the first sentence of subsection (a).”
 

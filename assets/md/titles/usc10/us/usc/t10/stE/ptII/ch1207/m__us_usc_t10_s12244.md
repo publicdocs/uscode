@@ -15,7 +15,7 @@
 
 ## § 12244. Warrant officers: discharge or retirement for years of service or for age
 
-Each reserve warrant officer of the Army, Navy, Air Force, or Marine Corps who is in an active status and has reached the maximum years of service or age prescribed by the Secretary concerned shall—
+    Each reserve warrant officer of the Army, Navy, Air Force, or Marine Corps who is in an active status and has reached the maximum years of service or age prescribed by the Secretary concerned shall—
 
     (1) be transferred to the Retired Reserve if the warrant officer is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve; or
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptIII/ch401/m__us_usc_t10_s4312, 4313.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIII/ch401/m__us_usc_t10_s4315.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4314)
+[Previous](./../../../../../..//us/usc/t10/stB/ptIII/ch401/m__us_usc_t10_s4309.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIII/ch401/m__us_usc_t10_s4315.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4314)
 
 ## § 4314. Degree granting authority for United States Army Command and General Staff College
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptIII/ch401/m__us_usc_t10_s4312, 4313.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIII/ch401/m__us_usc_t10_s4315.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4314)
+[Previous](./../../../../../..//us/usc/t10/stB/ptIII/ch401/m__us_usc_t10_s4309.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIII/ch401/m__us_usc_t10_s4315.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4314)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 918. Art. 118. Murder
 
-Any person subject to this chapter who, without justification or excuse, unlawfully kills a human being, when he—
+    Any person subject to this chapter who, without justification or excuse, unlawfully kills a human being, when he—
 
     (1) has a premeditated design to kill;
 
@@ -25,7 +25,7 @@ Any person subject to this chapter who, without justification or excuse, unlawfu
 
     (4) is engaged in the perpetration or attempted perpetration of burglary, sodomy, rape, rape of a child, sexual assault, sexual assault of a child, aggravated sexual contact, sexual abuse of a child, robbery, or aggravated arson;
 
-        is guilty of murder, and shall suffer such punishment as a court-martial may direct, except that if found guilty under clause (1) or (4), he shall suffer death or imprisonment for life as a court-martial may direct.
+    is guilty of murder, and shall suffer such punishment as a court-martial may direct, except that if found guilty under clause (1) or (4), he shall suffer death or imprisonment for life as a court-martial may direct.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 72][/us/stat/70A/72]; [Pub. L. 102–484, div. A, title X, § 1066(b)][/us/pl/102/484/s1066/b], Oct. 23, 1992, [106 Stat. 2506][/us/stat/106/2506]; [Pub. L. 109–163, div. A, title V, § 552(d)][/us/pl/109/163/s552/d], Jan. 6, 2006, [119 Stat. 3263][/us/stat/119/3263]; [Pub. L. 112–81, div. A, title V, § 541(d)(2)][/us/pl/112/81/s541/d/2], Dec. 31, 2011, [125 Stat. 1410][/us/stat/125/1410].)
 

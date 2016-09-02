@@ -15,7 +15,7 @@
 
 ## § 8691. Flying officer rating: qualifications
 
-Only officers of the Air Force in the following categories may be rated as flying officers:
+    Only officers of the Air Force in the following categories may be rated as flying officers:
 
     (1) Officers who have aeronautical ratings as pilots of service types of aircraft or as aircraft observers.
 

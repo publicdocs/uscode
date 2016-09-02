@@ -15,7 +15,7 @@
 
 ## § 1072. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “uniformed services” means the armed forces and the Commissioned Corps of the National Oceanic and Atmospheric Administration and of the Public Health Service.
 

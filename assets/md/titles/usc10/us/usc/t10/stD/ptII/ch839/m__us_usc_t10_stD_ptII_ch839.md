@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8380 to 8396.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8441, 8442.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch839)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8379.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8443.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch839)
 
 #### CHAPTER 839—TEMPORARY APPOINTMENTS
 
@@ -57,9 +57,19 @@
 
     1958—[Pub. L. 85–861, § 1(180)(F)][/us/pl/85/861/s1/180/F], (G), Sept. 2, 1958, [72 Stat. 1532][/us/stat/72/1532], struck out item 8443 “Commissioned officers; Reserves; appointment in higher or lower grade”, and added item 8452.
 
+\[§§ 8441, 8442. __Repealed.__  __[__  __Pub. L. 96–513, title II, § 207__  __][/us/pl/96/513/s207]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2884__  __][/us/stat/94/2884]__  __\]__ 
+
+    Section 8441, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 521][/us/stat/70A/521], provided that temporary appointments be made only in the Air Force without specification of component.
+
+    Section 8442, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 521][/us/stat/70A/521], provided that a regular commissioned officer, or a reserve commissioned officer who is serving on active duty, may be appointed, based upon ability and efficiency with regard being given to seniority and age, in a temporary grade that is equal to or higher than his regular or reserve grade, without vacating any other grade held by him. See [section 601 of this title][/us/usc/t10/s601].
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8380 to 8396.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8441, 8442.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch839)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch837/m__us_usc_t10_s8379.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8443.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch839)
 
 ----------
 ----------
@@ -70,5 +80,14 @@
 [/us/stat/81/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F758
 [/us/pl/85/861/s1/180/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F180%2FF
 [/us/stat/72/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1532
+[/us/pl/96/513/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs207
+[/us/stat/94/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2884
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F521
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F521
+[/us/usc/t10/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs601
+[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
+[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 
 

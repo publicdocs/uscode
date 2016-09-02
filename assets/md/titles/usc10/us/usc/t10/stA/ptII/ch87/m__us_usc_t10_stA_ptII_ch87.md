@@ -77,9 +77,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1991—[Pub. L. 102–25, title VII, § 704(b)(1)][/us/pl/102/25/s704/b/1], Apr. 6, 1991, [105 Stat. 119][/us/stat/105/119], made technical amendment to directory language of [Pub. L. 101–510, div. A, title XII, § 1202(a)][/us/pl/101/510/s1202/a], Nov. 5, 1990, [104 Stat. 1638][/us/stat/104/1638], which enacted this chapter.
 

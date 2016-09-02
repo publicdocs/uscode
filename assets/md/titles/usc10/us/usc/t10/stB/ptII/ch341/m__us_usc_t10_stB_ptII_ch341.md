@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3451, 3452.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_s3491.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch341)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3450.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_s3491.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch341)
 
 #### CHAPTER 341—ACTIVE DUTY
 
@@ -69,7 +69,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3451, 3452.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_s3491.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch341)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch339/m__us_usc_t10_s3450.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch341/m__us_usc_t10_s3491.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch341)
 
 ----------
 ----------

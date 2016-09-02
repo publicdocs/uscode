@@ -11,15 +11,35 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8201.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8203 to 8209.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8202)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8201.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8210.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8202)
 
 ## \[§ 8202. Repealed. [Pub. L. 101–510, div. A, title IV, § 403(b)(3)(A)][/us/pl/101/510/s403/b/3/A], Nov. 5, 1990, [104 Stat. 1545][/us/stat/104/1545]\]
 
     Section, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 498][/us/stat/70A/498]; Sept. 2, 1958, [Pub. L. 85–861, § 1(158)][/us/pl/85/861/s1/158], [72 Stat. 1514][/us/stat/72/1514]; Dec. 28, 1967, [Pub. L. 90–228, § 1(4)][/us/pl/90/228/s1/4], (5), [81 Stat. 745][/us/stat/81/745]; Dec. 12, 1980, [Pub. L. 96–513, title II, § 203(b)][/us/pl/96/513/s203/b], [94 Stat. 2879][/us/stat/94/2879], related to authorized strength of Air Force in general officers on active duty.
 
+\[§§ 8203 to 8209. __Repealed.__  __[__  __Pub. L. 96–513, title II, § 202__  __][/us/pl/96/513/s202]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2878__  __][/us/stat/94/2878]__  __\]__ 
+
+    Section 8203, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 498][/us/stat/70A/498]; Sept. 2, 1958, [Pub. L. 85–861, § 1(159)][/us/pl/85/861/s1/159], [72 Stat. 1514][/us/stat/72/1514], prescribed authorized strength of Regular Air Force in members on active duty, exclusive of officer candidates and aviation cadets.
+
+    Section 8204, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 499][/us/stat/70A/499]; Aug. 6, 1958, [Pub. L. 85–600, § 1(14)][/us/pl/85/600/s1/14], [72 Stat. 523][/us/stat/72/523], prescribed authorized strength of Regular Air Force in commissioned officers on active list.
+
+    Section 8205, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 499][/us/stat/70A/499]; Aug. 6, 1958, [Pub. L. 85–600, § 1(15)][/us/pl/85/600/s1/15], [72 Stat. 523][/us/stat/72/523]; Sept. 2, 1958, [Pub. L. 85–861, § 1(160)][/us/pl/85/861/s1/160], [72 Stat. 1514][/us/stat/72/1514], prescribed authorized strength of Regular Air Force in commissioned officers on active list, exclusive of certain categories.
+
+    Section 8206, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 499][/us/stat/70A/499]; Aug. 21, 1957, [Pub. L. 85–155, title III, § 301(1)][/us/pl/85/155/s301/1], [71 Stat. 386][/us/stat/71/386]; Nov. 8, 1967, [Pub. L. 90–130, § 1(26)(A)][/us/pl/90/130/s1/26/A], [81 Stat. 382][/us/stat/81/382], prescribed authorized strength of Air Force nurses in commissioned officers on active list of Regular Air Force.
+
+    Section 8207, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 499][/us/stat/70A/499]; Aug. 21, 1957, [Pub. L. 85–155, title III, § 301(2)][/us/pl/85/155/s301/2], [71 Stat. 386][/us/stat/71/386]; Nov. 8, 1967, [Pub. L. 90–130, § 1(26)(B)][/us/pl/90/130/s1/26/B], [81 Stat. 382][/us/stat/81/382], prescribed authorized strength of Air Force medical specialists in commissioned officers on active list of Regular Air Force.
+
+    Section 8208, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 499][/us/stat/70A/499]; Nov. 8, 1967, [Pub. L. 90–130, § 1(26)(C)][/us/pl/90/130/s1/26/C], [81 Stat. 382][/us/stat/81/382], authorized prescribed strength in female commissioned officers on active list of Regular Air Force, other than those designated under [section 8067 of this title][/us/usc/t10/s8067] to perform professional services.
+
+    Section 8209, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 500][/us/stat/70A/500]; Sept. 2, 1958, [Pub. L. 85–861, § 1(156)][/us/pl/85/861/s1/156], [72 Stat. 1513][/us/stat/72/1513]; Nov. 8, 1967, [Pub. L. 90–130, § 1(26)(D)][/us/pl/90/130/s1/26/D], [81 Stat. 382][/us/stat/81/382], prescribed authorized strength of Regular Air Force in commissioned officers on active list in each of categories of officers designated under [section 8067 of this title][/us/usc/t10/s8067].
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8201.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8203 to 8209.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8202)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8201.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8210.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8202)
 
 ----------
 ----------
@@ -34,5 +54,47 @@
 [/us/stat/81/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F745
 [/us/pl/96/513/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs203%2Fb
 [/us/stat/94/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2879
+[/us/pl/96/513/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs202
+[/us/stat/94/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2878
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F498
+[/us/pl/85/861/s1/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F159
+[/us/stat/72/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1514
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F499
+[/us/pl/85/600/s1/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600%2Fs1%2F14
+[/us/stat/72/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F523
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F499
+[/us/pl/85/600/s1/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F600%2Fs1%2F15
+[/us/stat/72/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F523
+[/us/pl/85/861/s1/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F160
+[/us/stat/72/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1514
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F499
+[/us/pl/85/155/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155%2Fs301%2F1
+[/us/stat/71/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F386
+[/us/pl/90/130/s1/26/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F26%2FA
+[/us/stat/81/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F382
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F499
+[/us/pl/85/155/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F155%2Fs301%2F2
+[/us/stat/71/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F386
+[/us/pl/90/130/s1/26/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F26%2FB
+[/us/stat/81/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F382
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F499
+[/us/pl/90/130/s1/26/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F26%2FC
+[/us/stat/81/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F382
+[/us/usc/t10/s8067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8067
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F500
+[/us/pl/85/861/s1/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F156
+[/us/stat/72/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1513
+[/us/pl/90/130/s1/26/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F130%2Fs1%2F26%2FD
+[/us/stat/81/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F382
+[/us/usc/t10/s8067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8067
+[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
+[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 
 

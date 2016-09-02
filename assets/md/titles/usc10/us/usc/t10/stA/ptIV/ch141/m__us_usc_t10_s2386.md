@@ -15,7 +15,7 @@
 
 ## § 2386. Copyrights, patents, designs, etc.; acquisition
 
-Funds appropriated for a military department available for making or procuring supplies may be used to acquire any of the following if the acquisition relates to supplies or processes produced or used by or for, or useful to, that department:
+    Funds appropriated for a military department available for making or procuring supplies may be used to acquire any of the following if the acquisition relates to supplies or processes produced or used by or for, or useful to, that department:
 
     (1) Copyrights, patents, and applications for patents.
 

@@ -15,7 +15,7 @@
 
 ## § 2833. Family housing support
 
-Amounts authorized by law for support of military family housing include amounts for—
+    Amounts authorized by law for support of military family housing include amounts for—
 
     (1) operating expenses;
 

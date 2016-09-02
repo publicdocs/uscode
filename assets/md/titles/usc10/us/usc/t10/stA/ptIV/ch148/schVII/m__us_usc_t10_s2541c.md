@@ -15,7 +15,7 @@
 
 ## § 2541c. Transferability, additional limitations, and definition
 
-The following provisions of subchapter VI of this chapter apply to guarantees issued under this subchapter:
+    The following provisions of subchapter VI of this chapter apply to guarantees issued under this subchapter:
 
     (1) Section 2540a, relating to transferability of guarantees.
 

@@ -15,7 +15,7 @@
 
 ## § 4838. Settlement of accounts: affidavit of company commander
 
-In the settlement of the accounts of the commanding officer of a company for clothing and other military supplies, his affidavit may be received to show—
+    In the settlement of the accounts of the commanding officer of a company for clothing and other military supplies, his affidavit may be received to show—
 
     (1) that vouchers or company books were lost;
 
@@ -23,7 +23,7 @@ In the settlement of the accounts of the commanding officer of a company for clo
 
     (3) that all or part of the clothing and supplies was properly used.
 
-        The affidavit may be used as evidence of the facts set forth, with or without other evidence, as determined by the Secretary of the Army to be just and proper under the circumstances.
+    The affidavit may be used as evidence of the facts set forth, with or without other evidence, as determined by the Secretary of the Army to be just and proper under the circumstances.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 274][/us/stat/70A/274].)
 

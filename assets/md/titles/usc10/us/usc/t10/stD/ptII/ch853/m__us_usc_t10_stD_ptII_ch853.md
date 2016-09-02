@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch851/m__us_usc_t10_s8662, 8663.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch853/m__us_usc_t10_s8681.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch853)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch851/m__us_usc_t10_stD_ptII_ch851.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch853/m__us_usc_t10_s8681.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch853)
 
 #### CHAPTER 853—MISCELLANEOUS RIGHTS AND BENEFITS
 
@@ -93,7 +93,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch851/m__us_usc_t10_s8662, 8663.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch853/m__us_usc_t10_s8681.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch853)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch851/m__us_usc_t10_stD_ptII_ch851.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch853/m__us_usc_t10_s8681.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch853)
 
 ----------
 ----------

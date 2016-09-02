@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5583, 5584.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5586.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5585)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5582.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5586.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5585)
 
 ## § 5585. Regular Marine Corps: order of filling vacancies in grade of second lieutenant
 
@@ -75,7 +75,7 @@ Mar. 3, 1899, ch. 413, § 19, 30 Stat. 1008; Mar. 3, 1903, ch. 1010, 32 Stat. 
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5583, 5584.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5586.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5585)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5582.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5586.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5585)
 
 ----------
 ----------

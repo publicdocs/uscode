@@ -15,13 +15,13 @@
 
 ## § 923. Art. 123. Forgery
 
-Any person subject to this chapter who, with intent to defraud—
+    Any person subject to this chapter who, with intent to defraud—
 
     (1) falsely makes or alters any signature to, or any part of, any writing which would, if genuine, apparently impose a legal liability on another or change his legal right or liability to his prejudice; or
 
     (2) utters, offers, issues, or transfers such a writing, known by him to be so made or altered;
 
-        is guilty of forgery and shall be punished as a court-martial may direct.
+    is guilty of forgery and shall be punished as a court-martial may direct.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 74][/us/stat/70A/74].)
 

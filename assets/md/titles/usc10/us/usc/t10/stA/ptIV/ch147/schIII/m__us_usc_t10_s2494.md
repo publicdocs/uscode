@@ -15,7 +15,7 @@
 
 ## § 2494. Nonappropriated fund instrumentalities: furnishing utility services for morale, welfare, and recreation purposes
 
-Appropriations for the Department of Defense may be used to provide utility services for—
+    Appropriations for the Department of Defense may be used to provide utility services for—
 
     (1) buildings on military installations authorized by regulation to be used for morale, welfare, and recreation purposes; and
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_s5951.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_s5953, 5954.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5952)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_s5951.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_s5955.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5952)
 
 ## § 5952. Marine Corps organizations on vessels: authority of officers
 
@@ -65,14 +65,27 @@ May 5, 1950, ch. 169, § 7(b), 64 Stat. 145.  </td>
 
     The words “organization of the Marine Corps” are substituted for “force of marines” for clarity. The words “or vessels”, “and powers”, “on shore”, and “under his command” are omitted as surplusage.
 
+\[§§ 5953, 5954. __Repealed.__  __[__  __Pub. L. 90–235, § 5(a)(2)__  __][/us/pl/90/235/s5/a/2]__  __, (b)(1),__  __Jan. 2, 1968__  __,__  __[__  __81 Stat. 761__  __][/us/stat/81/761]__  __\]__ 
+
+    Section 5953, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 372][/us/stat/70A/372], provided for the assignment and authority of executive officers of vessels or naval stations.
+
+    Section 5954, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 373][/us/stat/70A/373], provided for command when different commands of the Marine Corps and the Army or the Marine Corps and the Air Force joined or served together. See [section 747 of this title][/us/usc/t10/s747].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_s5951.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_s5953, 5954.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5952)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_s5951.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch551/m__us_usc_t10_s5955.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5952)
 
 ----------
 ----------
 
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F372
+[/us/pl/90/235/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs5%2Fa%2F2
+[/us/stat/81/761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F761
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F372
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F373
+[/us/usc/t10/s747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs747
 
 

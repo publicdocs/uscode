@@ -15,7 +15,7 @@
 
 ## § 9303. Aviation cadets and aviation students: schools
 
-The Secretary of the Air Force shall establish and maintain—
+    The Secretary of the Air Force shall establish and maintain—
 
     (1) one or more schools for the training and instruction of aviation cadets; and
 

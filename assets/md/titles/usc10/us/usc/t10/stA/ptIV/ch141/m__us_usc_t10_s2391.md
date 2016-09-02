@@ -273,7 +273,11 @@
 
 >             “(i) which has within its administrative and political jurisdiction one or more military installations or defense facilities or which is economically affected by proximity to a military installation or defense facility;
 
->             “(ii) in which the actual or threatened curtailment, completion, elimination, or realignment of a defense contract results in a workforce reduction of—         “(I) 2,500 or more employee positions, in the case of a Metropolitan Statistical Area or similar area (as defined by the Director of the Office of Management and Budget);
+>             “(ii)
+
+>              in which the actual or threatened curtailment, completion, elimination, or realignment of a defense contract results in a workforce reduction of—
+
+>                      “(I) 2,500 or more employee positions, in the case of a Metropolitan Statistical Area or similar area (as defined by the Director of the Office of Management and Budget);
 
 >                      “(II) 1,000 or more employee positions, in the case of a labor market area outside of a Metropolitan Statistical Area; or
 
@@ -287,7 +291,11 @@
 
 >             “(i) holds a major defense contract or subcontract (or held such contract or subcontract before a reduction in the defense budget);
 
->             “(ii) experiences a reduction, or the threat of a reduction, of—         “(I) 25 percent or more in sales or production; or
+>             “(ii)
+
+>              experiences a reduction, or the threat of a reduction, of—
+
+>                      “(I) 25 percent or more in sales or production; or
 
 >                      “(II) 80 percent or more of the workforce of such business in any division of such business or at any plant or other facility of such business; and
 
@@ -327,85 +335,115 @@
 
 >             “(C) specifies the number of communities, businesses, and workers affected by defense budget reductions during the preceding fiscal year and such number assisted by Federal economic adjustment programs during that fiscal year.
 
- __“TITLE XLI—ECONOMIC ADJUSTMENT PLANNING__ 
+> “TITLE XLI— __ECONOMIC ADJUSTMENT PLANNING__ 
 
-    “\[SEC. 4101. Repealed. [Pub. L. 104–201, div. A, title VIII, § 825][/us/pl/104/201/s825], Sept. 23, 1996, [110 Stat. 2611][/us/stat/110/2611].\]
+> “\[SEC. 4101. Repealed. [Pub. L. 104–201, div. A, title VIII, § 825][/us/pl/104/201/s825], Sept. 23, 1996, [110 Stat. 2611][/us/stat/110/2611].\]
 
-    “SEC. 4102. ECONOMIC ADJUSTMENT PLANNING ASSISTANCE THROUGH THE DEPARTMENT OF DEFENSE
+> “SEC. 4102. __ECONOMIC ADJUSTMENT PLANNING ASSISTANCE THROUGH THE DEPARTMENT OF DEFENSE__ 
 
-    “(a) In General.—Any substantially and seriously affected community shall be eligible for economic adjustment planning assistance through the Office of Economic Adjustment in the Department of Defense under subsection (b) of [section 2391 of title 10][/us/usc/t10/s2391], United States Code, subject to subsection (e) of such section. Such assistance shall be provided in accordance with the standards, procedures, and priorities established by the Committee under this division.
+>     “(a) __In General.—__ 
 
-    “(b) \[Amended [section 2391(b) of this title][/us/usc/t10/s2391/b].\]
+>     Any substantially and seriously affected community shall be eligible for economic adjustment planning assistance through the Office of Economic Adjustment in the Department of Defense under subsection (b) of [section 2391 of title 10][/us/usc/t10/s2391], United States Code, subject to subsection (e) of such section. Such assistance shall be provided in accordance with the standards, procedures, and priorities established by the Committee under this division.
 
-    “SEC. 4103. COMMUNITY ECONOMIC ADJUSTMENT ASSISTANCE THROUGH THE ECONOMIC DEVELOPMENT ADMINISTRATION
+>     “(b) __\[Amended__  __[__  __section 2391(b) of this title__  __][/us/usc/t10/s2391/b]__  __.\]__ 
 
-    “(a) In General.—A community that has been determined by the Economic Development Administration of the Department of Commerce or the Office of Economic Adjustment of the Department of Defense, in accordance with the standards and procedures established by the Economic Adjustment Committee, to be a substantially and seriously affected community shall be eligible for economic adjustment assistance authorized under title IX of the Public Works and Economic Development Act of 1965 \[[42 U.S.C. 3241][/us/usc/t42/s3241] et seq.\], subject to the availability of appropriations for such purpose and subject to meeting the eligibility requirements of such title.
+> “SEC. 4103. __COMMUNITY ECONOMIC ADJUSTMENT ASSISTANCE THROUGH THE ECONOMIC DEVELOPMENT ADMINISTRATION__ 
 
-    “(b) Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Defense for fiscal year 1991 $50,000,000 for purposes of carrying out subsection (a). Any amount appropriated pursuant to this subsection shall remain available until expended.
+>     “(a) __In General.—__ 
 
- __“TITLE XLII—ADJUSTMENT ASSISTANCE FOR EMPLOYEES__ 
+>     A community that has been determined by the Economic Development Administration of the Department of Commerce or the Office of Economic Adjustment of the Department of Defense, in accordance with the standards and procedures established by the Economic Adjustment Committee, to be a substantially and seriously affected community shall be eligible for economic adjustment assistance authorized under title IX of the Public Works and Economic Development Act of 1965 \[[42 U.S.C. 3241][/us/usc/t42/s3241] et seq.\], subject to the availability of appropriations for such purpose and subject to meeting the eligibility requirements of such title.
 
-    “\[SEC. 4201. Repealed. [Pub. L. 104–201, div. A, title VIII, § 825][/us/pl/104/201/s825], Sept. 23, 1996, [110 Stat. 2611][/us/stat/110/2611].\]
+>     “(b) __Authorization of Appropriations.—__ 
 
-    “SEC. 4202. DEFENSE CONVERSION ADJUSTMENT PROGRAM
+>     There are authorized to be appropriated to the Secretary of Defense for fiscal year 1991 $50,000,000 for purposes of carrying out subsection (a). Any amount appropriated pursuant to this subsection shall remain available until expended.
 
-    “\[Enacted [section 1662d of Title 29][/us/usc/t29/s1662d], Labor.\]
+> “TITLE XLII— __ADJUSTMENT ASSISTANCE FOR EMPLOYEES__ 
 
-    “SEC. 4203. AUTHORIZATION OF APPROPRIATIONS
+> “\[SEC. 4201. Repealed. [Pub. L. 104–201, div. A, title VIII, § 825][/us/pl/104/201/s825], Sept. 23, 1996, [110 Stat. 2611][/us/stat/110/2611].\]
 
-    “(a) Authorization.—There are authorized to be appropriated to the Secretary of Defense $150,000,000 for fiscal year 1991 to carry out section 4201 and the amendment made by section 4202. Amounts appropriated pursuant to this subsection shall remain available until expended.
+> “SEC. 4202. __DEFENSE CONVERSION ADJUSTMENT PROGRAM__ 
 
-    “(b) Administrative Expenses.—Of amounts appropriated pursuant to this section, not more than five percent may be retained by the Secretary of Labor for the administration of the activities authorized by the amendment made by section 4202.
+>     “\[Enacted [section 1662d of Title 29][/us/usc/t29/s1662d], Labor.\]
 
- __“TITLE XLIII—EXPANSION OF BUSINESS CAPITAL ASSISTANCE PROGRAMS__ 
+> “SEC. 4203. __AUTHORIZATION OF APPROPRIATIONS__ 
 
-    “SEC. 4301. EXPANSION OF SMALL BUSINESS LOAN PROGRAM
+>     “(a) __Authorization.—__ 
 
-    “Not later than 180 days after the date of the enactment of this Act \[Nov. 5, 1990\], the President, acting with the assistance of the Committee and after consulting experts in government and the private sector, shall transmit to the Congress recommendations regarding ways that assistance provided pursuant to the business loan program under section 7(a) of the Small Business Act of 1958 \[[15 U.S.C. 636(a)][/us/usc/t15/s636/a]\] may be used to respond to the consequences of defense budget reductions.
+>     There are authorized to be appropriated to the Secretary of Defense $150,000,000 for fiscal year 1991 to carry out section 4201 and the amendment made by section 4202. Amounts appropriated pursuant to this subsection shall remain available until expended.
 
-    “SEC. 4302. ECONOMIC PLANNING ASSISTANCE FOR EXCEPTIONAL PROJECTS
+>     “(b) __Administrative Expenses.—__ 
 
-    “(a) Assistance Authorized.—The Economic Development Administration, in the case of assistance under title IX of the Public Works and Economic Development Act of 1965 \[[42 U.S.C. 3241][/us/usc/t42/s3241] et seq.\], and the Office of Economic Adjustment, in the case of planning assistance under [section 2391(b) of title 10][/us/usc/t10/s2391/b], United States Code, may award planning assistance under those programs to any substantially and seriously affected community, on behalf of a business, group of businesses, or group of workers, if such planning funds are determined by the agency concerned to be necessary and appropriate as a catalyst for projects which the agency determines, on a case-by-case basis, have exceptional promise for achieving the objectives of this division.
+>     Of amounts appropriated pursuant to this section, not more than five percent may be retained by the Secretary of Labor for the administration of the activities authorized by the amendment made by section 4202.
 
-    “(b) Conditions on Assistance.—Awards under this section shall be subject to the availability of appropriations for such purpose and shall be made in accordance with any other applicable provisions of law.
+> “TITLE XLIII— __EXPANSION OF BUSINESS CAPITAL ASSISTANCE PROGRAMS__ 
 
-    “SEC. 4303. EXPANSION OF EXPORT FINANCING FOR GOODS AND SERVICES PRODUCED BY FIRMS AND EMPLOYEES FORMERLY ENGAGED IN DEFENSE PRODUCTION
+> “SEC. 4301. __EXPANSION OF SMALL BUSINESS LOAN PROGRAM__ 
 
-    “(a) Export-Import Bank.—
+>     “Not later than 180 days after the date of the enactment of this Act \[Nov. 5, 1990\], the President, acting with the assistance of the Committee and after consulting experts in government and the private sector, shall transmit to the Congress recommendations regarding ways that assistance provided pursuant to the business loan program under section 7(a) of the Small Business Act of 1958 \[[15 U.S.C. 636(a)][/us/usc/t15/s636/a]\] may be used to respond to the consequences of defense budget reductions.
 
-    “(1) Sense of congress on plan for expansion.—It is the sense of Congress that the United States businesses undergoing transition from defense production to nondefense production will need assistance in seizing export markets overseas. Therefore, in order to provide financial support for such businesses, as well as meeting other normal demands on its resources, the annual direct lending authority of the Export-Import Bank of the United States should be increased by at least 150 percent from the fiscal year 1990 level over the five-year period beginning October 1, 1990.
+> “SEC. 4302. __ECONOMIC PLANNING ASSISTANCE FOR EXCEPTIONAL PROJECTS__ 
 
-    “(2) Report of feasibility.—Before September 30, 1990, the President, acting with the assistance of the Committee and after consulting the Board of Directors of the Export-Import Bank of the United States and other experts in government and the private sector, shall transmit to the Congress a report assessing the feasibility and desirability of a program for increasing the amount of direct loan authority in the manner described in paragraph (1) and the factors considered in making such assessment.
+>     “(a) __Assistance Authorized.—__ 
 
-    “(3) Transition to nondefense production required to be considered.—In determining whether to provide financial support for an export transaction, the Export-Import Bank of the United States shall take into account, to the extent feasible and in accordance with applicable standards and procedures established by the bank in consultation with the Committee, the fact that the product or service is produced or provided by any business or group of workers which—
+>     The Economic Development Administration, in the case of assistance under title IX of the Public Works and Economic Development Act of 1965 \[[42 U.S.C. 3241][/us/usc/t42/s3241] et seq.\], and the Office of Economic Adjustment, in the case of planning assistance under [section 2391(b) of title 10][/us/usc/t10/s2391/b], United States Code, may award planning assistance under those programs to any substantially and seriously affected community, on behalf of a business, group of businesses, or group of workers, if such planning funds are determined by the agency concerned to be necessary and appropriate as a catalyst for projects which the agency determines, on a case-by-case basis, have exceptional promise for achieving the objectives of this division.
 
-    “(A) was substantially and seriously affected by defense budget reductions; and
+>     “(b) __Conditions on Assistance.—__ 
 
-    “(B) is in transition from defense to nondefense production.
+>     Awards under this section shall be subject to the availability of appropriations for such purpose and shall be made in accordance with any other applicable provisions of law.
 
-    “(b) SBA Use of Authority for Export Financing Assistance.—In determining whether to provide financial or other assistance under the Small Business Act \[[15 U.S.C. 631][/us/usc/t15/s631] et seq.\], title VIII of the Omnibus Trade and Competitiveness Act of 1988 \[[Pub. L. 100–418][/us/pl/100/418], see Short Title of 1988 Amendments note set out under [section 631 of Title 15][/us/usc/t15/s631], Commerce and Trade\], or any program referred to in section 4301 to any small business involved in, or attempting to become involved in, the export of any product or service, the Administrator of the Small Business Administration shall take into account the fact that such product or service is produced or provided by any business or group of workers which—
+> “SEC. 4303. __EXPANSION OF EXPORT FINANCING FOR GOODS AND SERVICES PRODUCED BY FIRMS AND EMPLOYEES FORMERLY ENGAGED IN DEFENSE PRODUCTION__ 
 
-    “(1) has been substantially and seriously affected by defense budget reductions; and
+>     “(a) __Export-Import Bank.—__ 
 
-    “(2) is in transition from defense to nondefense production.
+>         “(1) __Sense of congress on plan for expansion.—__ 
 
-    “(c) Coordination and Integration of Activities and Assistance with Other Agencies.—In providing additional financial assistance pursuant to any increase in loan authority under this division—
+>         It is the sense of Congress that the United States businesses undergoing transition from defense production to nondefense production will need assistance in seizing export markets overseas. Therefore, in order to provide financial support for such businesses, as well as meeting other normal demands on its resources, the annual direct lending authority of the Export-Import Bank of the United States should be increased by at least 150 percent from the fiscal year 1990 level over the five-year period beginning October 1, 1990.
 
-    “(1) Federal agencies concerned with international trade shall participate in the process of coordination conducted by the Committee pursuant to section 4004(c)(1); and
+>         “(2) __Report of feasibility.—__ 
 
-    “(2) such Federal agencies shall attempt, to the maximum extent practicable, to coordinate and integrate the activities and assistance of the agencies in support of exports, including financial assistance in the form of direct loans, loan guarantees, and insurance, general trade promotion, marketing assistance, and marketing and commercial information, in a manner consistent with the purposes of this division (and the amendments made by this division to other provisions of law).
+>         Before September 30, 1990, the President, acting with the assistance of the Committee and after consulting the Board of Directors of the Export-Import Bank of the United States and other experts in government and the private sector, shall transmit to the Congress a report assessing the feasibility and desirability of a program for increasing the amount of direct loan authority in the manner described in paragraph (1) and the factors considered in making such assessment.
 
-    “(d) Reporting.—The annual reports made by the Export-Import Bank of the United States and the Administrator of the Small Business Administration and the annual economic stabilization and adjustment report under section 4004(c)(3) of this division shall include a description of the extent to which the bank and the Administrator are—
+>         “(3) __Transition to nondefense production required to be considered.—__ 
 
-    “(1) providing financing described in subsections (a)(2) and (b), respectively, to businesses or groups of workers which were substantially and seriously affected by defense budget reductions; and
+>         In determining whether to provide financial support for an export transaction, the Export-Import Bank of the United States shall take into account, to the extent feasible and in accordance with applicable standards and procedures established by the bank in consultation with the Committee, the fact that the product or service is produced or provided by any business or group of workers which—
 
-    “(2) coordinating and integrating export support and financing activities with other Federal agencies.
+>             “(A) was substantially and seriously affected by defense budget reductions; and
 
-    “SEC. 4304. BENEFIT INFORMATION FOR BUSINESSES
+>             “(B) is in transition from defense to nondefense production.
 
-    “(a) Information Required To Be Provided.—The Secretary of Commerce and the Administrator of the Small Business Administration shall provide any business affected by defense budget reductions with a complete description of available programs which provide any business, whether on an industrywide or an individual basis, with any planning assistance, financial, technical, or managerial assistance, worker retraining assistance, or other assistance authorized under this division.
+>     “(b) __SBA Use of Authority for Export Financing Assistance.—__ 
 
-    “(b) Effective Notification System.—The Secretary of Commerce and the Administrator of the Small Business Administration shall take such action as may be appropriate to ensure, to the maximum extent practicable, that each business affected by defense budget reductions receives the information required to be provided under subsection (a) on a timely basis.”
+>     In determining whether to provide financial or other assistance under the Small Business Act \[[15 U.S.C. 631][/us/usc/t15/s631] et seq.\], title VIII of the Omnibus Trade and Competitiveness Act of 1988 \[[Pub. L. 100–418][/us/pl/100/418], see Short Title of 1988 Amendments note set out under [section 631 of Title 15][/us/usc/t15/s631], Commerce and Trade\], or any program referred to in section 4301 to any small business involved in, or attempting to become involved in, the export of any product or service, the Administrator of the Small Business Administration shall take into account the fact that such product or service is produced or provided by any business or group of workers which—
+
+>         “(1) has been substantially and seriously affected by defense budget reductions; and
+
+>         “(2) is in transition from defense to nondefense production.
+
+>     “(c) __Coordination and Integration of Activities and Assistance with Other Agencies.—__ 
+
+>     In providing additional financial assistance pursuant to any increase in loan authority under this division—
+
+>         “(1) Federal agencies concerned with international trade shall participate in the process of coordination conducted by the Committee pursuant to section 4004(c)(1); and
+
+>         “(2) such Federal agencies shall attempt, to the maximum extent practicable, to coordinate and integrate the activities and assistance of the agencies in support of exports, including financial assistance in the form of direct loans, loan guarantees, and insurance, general trade promotion, marketing assistance, and marketing and commercial information, in a manner consistent with the purposes of this division (and the amendments made by this division to other provisions of law).
+
+>     “(d) __Reporting.—__ 
+
+>     The annual reports made by the Export-Import Bank of the United States and the Administrator of the Small Business Administration and the annual economic stabilization and adjustment report under section 4004(c)(3) of this division shall include a description of the extent to which the bank and the Administrator are—
+
+>         “(1) providing financing described in subsections (a)(2) and (b), respectively, to businesses or groups of workers which were substantially and seriously affected by defense budget reductions; and
+
+>         “(2) coordinating and integrating export support and financing activities with other Federal agencies.
+
+> “SEC. 4304. __BENEFIT INFORMATION FOR BUSINESSES__ 
+
+>     “(a) __Information Required To Be Provided.—__ 
+
+>     The Secretary of Commerce and the Administrator of the Small Business Administration shall provide any business affected by defense budget reductions with a complete description of available programs which provide any business, whether on an industrywide or an individual basis, with any planning assistance, financial, technical, or managerial assistance, worker retraining assistance, or other assistance authorized under this division.
+
+>     “(b) __Effective Notification System.—__ 
+
+>     The Secretary of Commerce and the Administrator of the Small Business Administration shall take such action as may be appropriate to ensure, to the maximum extent practicable, that each business affected by defense budget reductions receives the information required to be provided under subsection (a) on a timely basis.”
 
  __Commission on Alternative Utilization of Military Facilities__ 
 

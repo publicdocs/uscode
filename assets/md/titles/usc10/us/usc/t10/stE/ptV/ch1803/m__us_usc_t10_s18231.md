@@ -15,7 +15,7 @@
 
 ## § 18231. Purpose
 
-The purpose of this chapter is to provide for—
+    The purpose of this chapter is to provide for—
 
     (1) the acquisition, by purchase, lease, transfer, construction, expansion, rehabilitation, or conversion of facilities necessary for the proper development, training, operation, and maintenance of the reserve components of the armed forces, including troop housing and messing facilities;
 

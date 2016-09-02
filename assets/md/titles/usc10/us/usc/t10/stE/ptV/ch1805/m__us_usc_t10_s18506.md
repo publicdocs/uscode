@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stE/ptV/ch1805/m__us_usc_t10_s18505.md) | ~~Next~~ | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18506)
+[Previous](./../../../../../..//us/usc/t10/stE/ptV/ch1805/m__us_usc_t10_s18505.1.md) | ~~Next~~ | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18506)
 
 ## \[§ 18506. Repealed. [Pub. L. 109–163, div. A, title V, § 589(b)(1)][/us/pl/109/163/s589/b/1], Jan. 6, 2006, [119 Stat. 3279][/us/stat/119/3279]\]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stE/ptV/ch1805/m__us_usc_t10_s18505.md) | ~~Next~~ | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18506)
+[Previous](./../../../../../..//us/usc/t10/stE/ptV/ch1805/m__us_usc_t10_s18505.1.md) | ~~Next~~ | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18506)
 
 ----------
 ----------

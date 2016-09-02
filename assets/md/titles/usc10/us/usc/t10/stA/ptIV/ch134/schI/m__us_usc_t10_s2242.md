@@ -15,7 +15,7 @@
 
 ## § 2242. Authority to use appropriated funds for certain investigations and security services
 
-The Secretary of Defense and the Secretary of each military department may—
+    The Secretary of Defense and the Secretary of each military department may—
 
     (1) pay in advance for the expenses of conducting investigations in foreign countries incident to matters relating to the Department of Defense, to the extent such expenses are determined by the investigating officer to be necessary and in accord with local custom;
 

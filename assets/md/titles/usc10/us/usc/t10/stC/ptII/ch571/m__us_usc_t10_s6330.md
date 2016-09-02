@@ -213,7 +213,7 @@ June 25, 1938, ch. 690, § 202 (less provisos), 52 Stat. 1178.  </td>
 
 >     “(2) who, at the time of his discharge, had at least twenty years’ active Federal service,
 
->         the Secretary of the Navy shall appoint such former member in the Fleet Reserve or Fleet Marine Corps Reserve, as may be appropriate, in the rank held by him at the time of such discharge.
+>     the Secretary of the Navy shall appoint such former member in the Fleet Reserve or Fleet Marine Corps Reserve, as may be appropriate, in the rank held by him at the time of such discharge.
 
 > “Sec. 2. Each person appointed to the Fleet Reserve or Fleet Marine Corps Reserve under the first section of this Act shall be transferred to the appropriate retired list (1) on the first day of the first calendar month beginning after such appointment, if his last discharge occurred ten or more years prior to the date of such appointment, and (2) in the case of individuals appointed under such section before the expiration of ten years from their last discharge, on the first day of the first calendar month, beginning after the expiration of ten years from the date of such discharge.
 

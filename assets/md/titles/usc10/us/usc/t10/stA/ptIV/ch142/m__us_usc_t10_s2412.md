@@ -15,7 +15,7 @@
 
 ## § 2412. Purposes
 
-The purposes of the program authorized by this chapter are—
+    The purposes of the program authorized by this chapter are—
 
     (1) to increase assistance by the Department of Defense to eligible entities furnishing procurement technical assistance to business entities; and
 

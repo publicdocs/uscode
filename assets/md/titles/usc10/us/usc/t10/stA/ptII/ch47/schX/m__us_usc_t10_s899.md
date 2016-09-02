@@ -15,7 +15,7 @@
 
 ## § 899. Art. 99. Misbehavior before the enemy
 
-Any member of the armed forces who before or in the presence of the enemy—
+    Any member of the armed forces who before or in the presence of the enemy—
 
     (1) runs away;
 
@@ -35,7 +35,7 @@ Any member of the armed forces who before or in the presence of the enemy—
 
     (9) does not afford all practicable relief and assistance to any troops, combatants, vessels, or aircraft of the armed forces belonging to the United States or their allies when engaged in battle;
 
-        shall be punished by death or such other punishment as a court-martial may direct.
+    shall be punished by death or such other punishment as a court-martial may direct.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 69][/us/stat/70A/69].)
 

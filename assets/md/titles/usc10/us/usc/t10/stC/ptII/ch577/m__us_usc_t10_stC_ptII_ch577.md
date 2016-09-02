@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch575/m__us_usc_t10_s6487, 6488.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch577/m__us_usc_t10_s6521.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch577)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch575/m__us_usc_t10_s6486.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch577/m__us_usc_t10_s6521.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch577)
 
 #### CHAPTER 577—DEATH BENEFITS; CARE OF THE DEAD
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch575/m__us_usc_t10_s6487, 6488.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch577/m__us_usc_t10_s6521.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch577)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch575/m__us_usc_t10_s6486.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch577/m__us_usc_t10_s6521.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch577)
 
 ----------
 ----------

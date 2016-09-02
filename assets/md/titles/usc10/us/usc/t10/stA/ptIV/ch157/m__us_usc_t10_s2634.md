@@ -205,7 +205,7 @@
 
 >     “(2) would have been entitled to the transportation of such motor vehicle at Government expense under the provisions of this Act;
 
->         shall be reimbursed for the allowable transportation cost actually expended by him. Appropriations available for permanent change of station travel shall be available for the reimbursements authorized by this Act.”
+>     shall be reimbursed for the allowable transportation cost actually expended by him. Appropriations available for permanent change of station travel shall be available for the reimbursements authorized by this Act.”
 
  __Public Health Service__ 
 

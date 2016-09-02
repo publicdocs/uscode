@@ -15,7 +15,7 @@
 
 ## § 2545. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “acquisition” has the meaning provided in section 4(16)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(16)][/us/usc/t41/s403/16]).
 

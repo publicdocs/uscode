@@ -15,7 +15,7 @@
 
 ## § 3281. Commissioned officer grades
 
-The commissioned grades in the Regular Army are:
+    The commissioned grades in the Regular Army are:
 
     (1) Major general.
 

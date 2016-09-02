@@ -15,7 +15,7 @@
 
 ## § 956. Deserters, prisoners, members absent without leave: expenses and rewards
 
-Funds appropriated to the Department of Defense may be used for the following purposes:
+    Funds appropriated to the Department of Defense may be used for the following purposes:
 
     (1) Expenses for the apprehension and delivery of deserters, prisoners, and members absent without leave, including the payment of rewards, in an amount not to exceed $75, for the apprehension of any such person.
 

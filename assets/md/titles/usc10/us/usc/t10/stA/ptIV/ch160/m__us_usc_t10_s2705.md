@@ -99,7 +99,7 @@
 
  __Amendment of Subsection (g)(2)__ 
 
-[Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(C)][/us/pl/112/239/s2711/c/4/C], (d), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144], provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, subsection (g)(2) of this section is amended by striking “Closure Account 1990” and inserting “Closure Account”. See 2013 Amendment note below.
+    [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(C)][/us/pl/112/239/s2711/c/4/C], (d), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144], provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, subsection (g)(2) of this section is amended by striking “Closure Account 1990” and inserting “Closure Account”. See 2013 Amendment note below.
 
  __References in Text__ 
 

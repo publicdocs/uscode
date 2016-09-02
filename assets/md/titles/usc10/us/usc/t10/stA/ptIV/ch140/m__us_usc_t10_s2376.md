@@ -15,7 +15,7 @@
 
 ## § 2376. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The terms “commercial item”, “nondevelopmental item”, “component”, and “commercial component” have the meanings provided in chapter 1 of title 41.
 

@@ -15,7 +15,7 @@
 
 ## § 4684. Surplus obsolete ordnance: sale to patriotic organizations
 
-Subject to regulations under [section 121 of title 40][/us/usc/t40/s121], any branch, office, or officer designated by the Secretary of the Army may sell, without advertisement and at prices that he considers reasonable—
+    Subject to regulations under [section 121 of title 40][/us/usc/t40/s121], any branch, office, or officer designated by the Secretary of the Army may sell, without advertisement and at prices that he considers reasonable—
 
     (1) surplus obsolete small arms and ammunition and equipment for them, to any patriotic organization for military purposes; and
 

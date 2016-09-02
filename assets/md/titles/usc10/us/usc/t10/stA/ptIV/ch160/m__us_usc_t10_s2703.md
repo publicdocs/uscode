@@ -71,11 +71,11 @@
 
 [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(B)][/us/pl/112/239/s2711/c/4/B], (d), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144], provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, subsection (h) of this section is amended:
 
-(i) by striking “the applicable Department of Defense base closure account” and inserting “the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note)”; and
+    (i) by striking “the applicable Department of Defense base closure account” and inserting “the Department of Defense Base Closure Account established under section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note)”; and
 
-(ii) by striking “the applicable base closure account” and inserting “such base closure account”.
+    (ii) by striking “the applicable base closure account” and inserting “such base closure account”.
 
-See 2013 Amendment note below.
+    See 2013 Amendment note below.
 
  __Amendments__ 
 

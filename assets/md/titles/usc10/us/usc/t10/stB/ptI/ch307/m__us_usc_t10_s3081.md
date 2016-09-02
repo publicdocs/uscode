@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3076 to 3080.md) | [Next](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3082.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3081)
+[Previous](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3075.md) | [Next](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3082.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3081)
 
 ## § 3081. Dental Corps: Chief, functions
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3076 to 3080.md) | [Next](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3082.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3081)
+[Previous](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3075.md) | [Next](./../../../../../..//us/usc/t10/stB/ptI/ch307/m__us_usc_t10_s3082.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3081)
 
 ----------
 ----------

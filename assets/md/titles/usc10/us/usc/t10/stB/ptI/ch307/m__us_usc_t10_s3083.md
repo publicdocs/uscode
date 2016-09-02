@@ -15,7 +15,7 @@
 
 ## § 3083. Public Affairs Specialty
 
-There is a career field in the Army known as the Public Affairs Specialty. Members of the Army with the Public Affairs Specialty are—
+    There is a career field in the Army known as the Public Affairs Specialty. Members of the Army with the Public Affairs Specialty are—
 
     (1) the Chief of Public Affairs;
 

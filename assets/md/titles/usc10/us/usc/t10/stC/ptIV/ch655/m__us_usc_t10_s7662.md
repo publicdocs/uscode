@@ -15,7 +15,7 @@
 
 ## § 7662. Duties of marshal
 
-The marshal shall—
+    The marshal shall—
 
     (1) keep in his custody all persons found on board a prize and sent in as witnesses, until they are released by the prize commissioners or the court;
 

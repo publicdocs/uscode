@@ -15,7 +15,7 @@
 
 ## § 4412. Operation
 
-In maintaining schools and camps established under [section 4411 of this title][/us/usc/t10/s4411], the Secretary of the Army may—
+    In maintaining schools and camps established under [section 4411 of this title][/us/usc/t10/s4411], the Secretary of the Army may—
 
     (1) prescribe the periods during which they will be operated;
 

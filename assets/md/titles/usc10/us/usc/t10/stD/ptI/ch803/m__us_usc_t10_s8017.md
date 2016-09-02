@@ -15,7 +15,7 @@
 
 ## § 8017. Secretary of the Air Force: successors to duties
 
-If the Secretary of the Air Force dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 5, directs another person to perform those duties or until the absence or disability ceases:
+    If the Secretary of the Air Force dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 5, directs another person to perform those duties or until the absence or disability ceases:
 
     (1) The Under Secretary of the Air Force.
 

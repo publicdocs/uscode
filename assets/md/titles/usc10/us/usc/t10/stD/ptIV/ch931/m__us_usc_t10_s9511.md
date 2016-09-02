@@ -15,7 +15,7 @@
 
 ## § 9511. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The terms “aircraft”, “citizen of the United States”, “civil aircraft”, “person”, and “public aircraft” have the meanings given those terms by [section 40102(a) of title 49][/us/usc/t49/s40102/a].
 

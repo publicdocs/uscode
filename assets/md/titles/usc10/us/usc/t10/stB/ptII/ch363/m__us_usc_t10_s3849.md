@@ -11,15 +11,33 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch363/m__us_usc_t10_s3848.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch363/m__us_usc_t10_s3850 to 3855.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3849)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch363/m__us_usc_t10_s3848.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch365/m__us_usc_t10_stB_ptII_ch365.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3849)
 
 ## \[§ 3849. Repealed. [Pub. L. 86–559, § 1(27)][/us/pl/86/559/s1/27], June 30, 1960, [74 Stat. 272][/us/stat/74/272]\]
 
     Section, added [Pub. L. 85–861, § 1(94)][/us/pl/85/861/s1/94], Sept. 2, 1958, [72 Stat. 1485][/us/stat/72/1485], related to separation or transfer to retired reserve of officers in the reserve grade of lieutenant colonel assigned to the Women’s Army Corps upon completion of 28 years of service.
 
+\[§§ 3850 to 3855. __Repealed.__  __[__  __Pub. L. 103–337, div. A, title XVI, § 1629(a)(3)__  __][/us/pl/103/337/s1629/a/3]__  __,__  __Oct. 5, 1994__  __,__  __[__  __108 Stat. 2963__  __][/us/stat/108/2963]__  __\]__ 
+
+    Section 3850, added [Pub. L. 85–861, § 1(94)][/us/pl/85/861/s1/94], Sept. 2, 1958, [72 Stat. 1485][/us/stat/72/1485]; amended [Pub. L. 104–106, div. A, title XV, § 1501(c)(25)][/us/pl/104/106/s1501/c/25], Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499], related to transfer or discharge of excessive reserve commissioned officers in active status with thirty or more years of service. See sections 14514 and 14704 of this title.
+
+    Section 3851, added [Pub. L. 85–861, § 1(94)][/us/pl/85/861/s1/94], Sept. 2, 1958, [72 Stat. 1486][/us/stat/72/1486]; amended [Pub. L. 86–559, § 1(28)][/us/pl/86/559/s1/28], June 30, 1960, [74 Stat. 272][/us/stat/74/272]; [Pub. L. 90–486, § 9(1)][/us/pl/90/486/s9/1], Aug. 13, 1968, [82 Stat. 760][/us/stat/82/760]; [Pub. L. 96–513, title V, § 512(8)][/us/pl/96/513/s512/8], Dec. 12, 1980, [94 Stat. 2929][/us/stat/94/2929]; [Pub. L. 98–525, title V, § 513][/us/pl/98/525/s513], Oct. 19, 1984, [98 Stat. 2522][/us/stat/98/2522]; [Pub. L. 99–145, title V, § 522(a)(2)][/us/pl/99/145/s522/a/2], title XIII, § 1303(a)(20)(B), Nov. 8, 1985, [99 Stat. 631][/us/stat/99/631], 739; [Pub. L. 99–661, div. A, title XIII, § 1342(g)][/us/pl/99/661/s1342/g], Nov. 14, 1986, [100 Stat. 3992][/us/stat/100/3992]; [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)][/us/pl/100/456/s1234/a/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059], related to transfer or discharge of reserve colonels and brigadier generals with 30 years of service or five years in grade. See section 14508(a), (e) of this title.
+
+    Section 3852, added [Pub. L. 85–861, § 1(94)][/us/pl/85/861/s1/94], Sept. 2, 1958, [72 Stat. 1486][/us/stat/72/1486]; amended [Pub. L. 86–559, § 1(29)][/us/pl/86/559/s1/29], June 30, 1960, [74 Stat. 272][/us/stat/74/272]; [Pub. L. 99–145, title V, § 523][/us/pl/99/145/s523], title XIII, § 1303(a)(20)(B), Nov. 8, 1985, [99 Stat. 632][/us/stat/99/632], 739; [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)][/us/pl/100/456/s1234/a/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059], related to transfer or discharge of reserve major generals with 35 years of service or five years in grade. See section 14508(b), (f) of this title.
+
+    Section 3853, added [Pub. L. 85–861, § 1(94)][/us/pl/85/861/s1/94], Sept. 2, 1958, [72 Stat. 1486][/us/stat/72/1486]; amended [Pub. L. 86–559, § 1(30)][/us/pl/86/559/s1/30], June 30, 1960, [74 Stat. 273][/us/stat/74/273]; [Pub. L. 86–651, title I, § 115][/us/pl/86/651/s115], Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]; [Pub. L. 96–513, title V, § 512(9)][/us/pl/96/513/s512/9], Dec. 12, 1980, [94 Stat. 2929][/us/stat/94/2929]; [Pub. L. 98–94, title X, § 1016(a)][/us/pl/98/94/s1016/a], Sept. 24, 1983, [97 Stat. 668][/us/stat/97/668]; [Pub. L. 103–337, div. A, title XVI, § 1635(a)][/us/pl/103/337/s1635/a], Oct. 5, 1994, [108 Stat. 2968][/us/stat/108/2968], related to computation of years of service. See [section 14706 of this title][/us/usc/t10/s14706].
+
+    Section 3854, added [Pub. L. 85–861, § 1(94)][/us/pl/85/861/s1/94], Sept. 2, 1958, [72 Stat. 1486][/us/stat/72/1486], authorized Secretary of the Army to prescribe regulations to carry out this chapter.
+
+    Section 3855, added [Pub. L. 86–559, § 1(31)][/us/pl/86/559/s1/31], June 30, 1960, [74 Stat. 273][/us/stat/74/273]; amended [Pub. L. 96–107, title IV, § 403(a)][/us/pl/96/107/s403/a], Nov. 9, 1979, [93 Stat. 808][/us/stat/93/808]; [Pub. L. 96–513, title II, § 215(a)][/us/pl/96/513/s215/a], Dec. 12, 1980, [94 Stat. 2885][/us/stat/94/2885]; [Pub. L. 100–180, div. A, title VII, § 717(a)][/us/pl/100/180/s717/a], (d)(1)(A), Dec. 4, 1987, [101 Stat. 1113][/us/stat/101/1113], 1114; [Pub. L. 101–189, div. A, title VII][/us/pl/101/189], §§ 710(a), 711(a), Nov. 29, 1989, [103 Stat. 1476][/us/stat/103/1476], 1477, related to retention in active status of certain reserve officers. See section 14703(a)(1), (b) of this title.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Oct. 1, 1996, see [section 1691(b)(1) of Pub. L. 103–337][/us/pl/103/337/s1691/b/1], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch363/m__us_usc_t10_s3848.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch363/m__us_usc_t10_s3850 to 3855.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3849)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch363/m__us_usc_t10_s3848.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch365/m__us_usc_t10_stB_ptII_ch365.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3849)
 
 ----------
 ----------
@@ -28,5 +46,62 @@
 [/us/stat/74/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F272
 [/us/pl/85/861/s1/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F94
 [/us/stat/72/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1485
+[/us/pl/103/337/s1629/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F3
+[/us/stat/108/2963]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2963
+[/us/pl/85/861/s1/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F94
+[/us/stat/72/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1485
+[/us/pl/104/106/s1501/c/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1501%2Fc%2F25
+[/us/stat/110/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F499
+[/us/pl/85/861/s1/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F94
+[/us/stat/72/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1486
+[/us/pl/86/559/s1/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F28
+[/us/stat/74/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F272
+[/us/pl/90/486/s9/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F486%2Fs9%2F1
+[/us/stat/82/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F760
+[/us/pl/96/513/s512/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs512%2F8
+[/us/stat/94/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2929
+[/us/pl/98/525/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs513
+[/us/stat/98/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2522
+[/us/pl/99/145/s522/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs522%2Fa%2F2
+[/us/stat/99/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F631
+[/us/pl/99/661/s1342/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1342%2Fg
+[/us/stat/100/3992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3992
+[/us/pl/100/456/s1234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fa%2F1
+[/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
+[/us/pl/85/861/s1/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F94
+[/us/stat/72/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1486
+[/us/pl/86/559/s1/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F29
+[/us/stat/74/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F272
+[/us/pl/99/145/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs523
+[/us/stat/99/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F632
+[/us/pl/100/456/s1234/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs1234%2Fa%2F1
+[/us/stat/102/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2059
+[/us/pl/85/861/s1/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F94
+[/us/stat/72/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1486
+[/us/pl/86/559/s1/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F30
+[/us/stat/74/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F273
+[/us/pl/86/651/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F651%2Fs115
+[/us/stat/76/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F513
+[/us/pl/96/513/s512/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs512%2F9
+[/us/stat/94/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2929
+[/us/pl/98/94/s1016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1016%2Fa
+[/us/stat/97/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F668
+[/us/pl/103/337/s1635/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1635%2Fa
+[/us/stat/108/2968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2968
+[/us/usc/t10/s14706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14706
+[/us/pl/85/861/s1/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F94
+[/us/stat/72/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1486
+[/us/pl/86/559/s1/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F559%2Fs1%2F31
+[/us/stat/74/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F273
+[/us/pl/96/107/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F107%2Fs403%2Fa
+[/us/stat/93/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F808
+[/us/pl/96/513/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs215%2Fa
+[/us/stat/94/2885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2885
+[/us/pl/100/180/s717/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs717%2Fa
+[/us/stat/101/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1113
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/stat/103/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1476
+[/us/pl/103/337/s1691/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691%2Fb%2F1
+[/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
 
 

@@ -15,7 +15,7 @@
 
 ## § 630. Discharge of commissioned officers with less then six years of active commissioned service or found not qualified for promotion for first lieutenant or lieutenant (junior grade)
 
-The Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense—
+    The Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense—
 
     (1)
 

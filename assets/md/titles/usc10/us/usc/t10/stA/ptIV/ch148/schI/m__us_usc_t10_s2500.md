@@ -15,7 +15,7 @@
 
 ## § 2500. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “national technology and industrial base” means the persons and organizations that are engaged in research, development, production, integration, services, or information technology activities conducted within the United States and Canada.
 

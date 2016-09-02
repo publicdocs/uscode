@@ -11,15 +11,29 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3252.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3254 to 3256.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3253)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3252.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3258.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3253)
 
 ## \[§ 3253. Repealed. [Pub. L. 109–163, div. A, title V, § 542(b)(1)][/us/pl/109/163/s542/b/1], Jan. 6, 2006, [119 Stat. 3253][/us/stat/119/3253]\]
 
     Section, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 177][/us/stat/70A/177]; [Pub. L. 87–143, § 1(1)][/us/pl/87/143/s1/1], Aug. 17, 1961, [75 Stat. 364][/us/stat/75/364]; [Pub. L. 90–235, § 2(a)(2)(A)][/us/pl/90/235/s2/a/2/A], Jan. 2, 1968, [81 Stat. 756][/us/stat/81/756]; [Pub. L. 96–513, title V, § 512(3)][/us/pl/96/513/s512/3], Dec. 12, 1980, [94 Stat. 2929][/us/stat/94/2929], provided that, in peace time, Army enlistment was available only to citizens and persons lawfully admitted to the United States for permanent residence.
 
+\[§§ 3254 to 3256. __Repealed.__  __[__  __Pub. L. 90–235, § 2(a)(2)(B)__  __][/us/pl/90/235/s2/a/2/B]__  __,__  __Jan. 2, 1968__  __,__  __[__  __81 Stat. 756__  __][/us/stat/81/756]__  __\]__ 
+
+    Section 3254, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 178][/us/stat/70A/178], provided for temporary enlistments in the Army during war or emergency.
+
+    Section 3255, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 178][/us/stat/70A/178], provided for recruiting campaigns to obtain enlistments in the Regular Army.
+
+    Section 3256, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 178][/us/stat/70A/178], set forth qualifications for and term of enlistments in the Regular Army and the grade in which such enlistments were made.
+
+ __Members of Army and Air Force Serving Under Enlistments for Unspecified Periods on__  __Jan. 2, 1968__  __; Continuance in Status; Discharge__ 
+
+[Pub. L. 90–235, § 3(c)][/us/pl/90/235/s3/c], Jan. 2, 1968, [81 Stat. 758][/us/stat/81/758], provided that: 
+
+> “Members of the Army or the Air Force who, on the effective date of this Act \[Jan. 2, 1968\], are serving under enlistments for unspecified periods under sections 3256(b) and 8256(b) of title 10, United States Code, shall continue in that status and shall be discharged therefrom in accordance with laws applicable to such discharges on the day before the effective date of this Act.”
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3252.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3254 to 3256.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3253)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3252.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch333/m__us_usc_t10_s3258.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3253)
 
 ----------
 ----------
@@ -34,5 +48,15 @@
 [/us/stat/81/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F756
 [/us/pl/96/513/s512/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs512%2F3
 [/us/stat/94/2929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2929
+[/us/pl/90/235/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs2%2Fa%2F2%2FB
+[/us/stat/81/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F756
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F178
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F178
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F178
+[/us/pl/90/235/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F235%2Fs3%2Fc
+[/us/stat/81/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F758
 
 

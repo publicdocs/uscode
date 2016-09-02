@@ -15,7 +15,7 @@
 
 ## § 932. Art. 132. Frauds against the United States
 
-Any person subject to this chapter—
+    Any person subject to this chapter—
 
     (1)
 
@@ -39,7 +39,7 @@ Any person subject to this chapter—
 
     (4) who, being authorized to make or deliver any paper certifying the receipt of any property of the United States furnished or intended for the armed forces thereof, makes or delivers to any person such writing without having full knowledge of the truth of the statements therein contained and with intent to defraud the United States;
 
-        shall, upon conviction, be punished as a court-martial may direct.
+    shall, upon conviction, be punished as a court-martial may direct.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 75][/us/stat/70A/75].)
 

@@ -67,9 +67,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1996—[Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(2)][/us/pl/104/106/s2801/a/2], Feb. 10, 1996, [110 Stat. 551][/us/stat/110/551], added item for subchapter IV.
 

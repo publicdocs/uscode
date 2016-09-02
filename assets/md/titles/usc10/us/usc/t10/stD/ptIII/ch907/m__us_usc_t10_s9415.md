@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptIII/ch907/m__us_usc_t10_s9414.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIII/ch907/m__us_usc_t10_s9417.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9415)
+[Previous](./../../../../../..//us/usc/t10/stD/ptIII/ch907/m__us_usc_t10_s9414.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIII/ch907/m__us_usc_t10_s9417.1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9415)
 
 ## § 9415. Inter-American Air Forces Academy
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptIII/ch907/m__us_usc_t10_s9414.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIII/ch907/m__us_usc_t10_s9417.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9415)
+[Previous](./../../../../../..//us/usc/t10/stD/ptIII/ch907/m__us_usc_t10_s9414.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIII/ch907/m__us_usc_t10_s9417.1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9415)
 
 ----------
 ----------

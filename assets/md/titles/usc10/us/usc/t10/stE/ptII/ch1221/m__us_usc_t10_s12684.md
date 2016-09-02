@@ -15,7 +15,7 @@
 
 ## § 12684. Reserves: separation for absence without authority or sentence to imprisonment
 
-The President or the Secretary concerned may drop from the rolls of the armed force concerned any Reserve—
+    The President or the Secretary concerned may drop from the rolls of the armed force concerned any Reserve—
 
     (1) who has been absent without authority for at least three months;
 

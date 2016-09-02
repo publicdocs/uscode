@@ -15,7 +15,7 @@
 
 ## § 582. Warrant officer active-duty list: exclusions
 
-Warrant officers in the following categories are not subject to this chapter:
+    Warrant officers in the following categories are not subject to this chapter:
 
     (1)
 

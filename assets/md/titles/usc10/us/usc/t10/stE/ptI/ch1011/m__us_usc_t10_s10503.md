@@ -15,7 +15,7 @@
 
 ## § 10503. Functions of National Guard Bureau: charter
 
-The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, the Secretary of the Army, and the Secretary of the Air Force, shall develop and prescribe a charter for the National Guard Bureau. The charter shall reflect the full scope of the duties and activities of the Bureau, including the following matters:
+    The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, the Secretary of the Army, and the Secretary of the Air Force, shall develop and prescribe a charter for the National Guard Bureau. The charter shall reflect the full scope of the duties and activities of the Bureau, including the following matters:
 
     (1) Allocating unit structure, strength authorizations, and other resources to the Army National Guard of the United States and the Air National Guard of the United States.
 

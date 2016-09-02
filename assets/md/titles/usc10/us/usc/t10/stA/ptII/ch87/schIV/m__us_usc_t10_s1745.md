@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1743, 1744.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1746.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1745)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1742.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1746.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1745)
 
 ## § 1745. Additional education and training programs available to acquisition personnel
 
@@ -45,7 +45,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1743, 1744.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1746.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1745)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1742.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch87/schIV/m__us_usc_t10_s1746.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1745)
 
 ----------
 ----------

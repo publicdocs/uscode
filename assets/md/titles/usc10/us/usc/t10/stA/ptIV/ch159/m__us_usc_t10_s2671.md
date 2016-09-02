@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch159/m__us_usc_t10_s2670.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch159/m__us_usc_t10_s2672, 2672a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2671)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch159/m__us_usc_t10_s2670.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch159/m__us_usc_t10_s2673.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2671)
 
 ## § 2671. Military reservations and facilities: hunting, fishing, and trapping
 
@@ -67,9 +67,15 @@
 
 > “Consistent with [section 2671 of title 10][/us/usc/t10/s2671], United States Code, and using such funds as are made available for this purpose, the Secretary of Defense shall ensure that members of the Armed Forces, retired members, disabled veterans, and persons assisting disabled veterans are able to utilize lands under the jurisdiction of the Department of Defense that are available for hunting or fishing.”
 
+\[§§ 2672, 2672a. __Repealed.__  __[__  __Pub. L. 109–163, div. B, title XXVIII, § 2821(f)__  __][/us/pl/109/163/s2821/f]__  __,__  __Jan. 6, 2006__  __,__  __[__  __119 Stat. 3513__  __][/us/stat/119/3513]__  __\]__ 
+
+    Section 2672, added [Pub. L. 85–861, § 1(51)][/us/pl/85/861/s1/51], Sept. 2, 1958, [72 Stat. 1459][/us/stat/72/1459]; amended [Pub. L. 87–651, title I, § 112(a)][/us/pl/87/651/s112/a], Sept. 7, 1962, [76 Stat. 511][/us/stat/76/511]; [Pub. L. 92–145, title VII, § 707(2)][/us/pl/92/145/s707/2], (3), Oct. 27, 1971, [85 Stat. 411][/us/stat/85/411]; [Pub. L. 96–418, title VIII, § 806(a)][/us/pl/96/418/s806/a], Oct. 10, 1980, [94 Stat. 1777][/us/stat/94/1777]; [Pub. L. 99–167, title VIII, § 810(a)][/us/pl/99/167/s810/a], (b)(1), Dec. 3, 1985, [99 Stat. 989][/us/stat/99/989], 990; [Pub. L. 99–661, div. A, title XIII, § 1343(a)(16)][/us/pl/99/661/s1343/a/16], Nov. 14, 1986, [100 Stat. 3993][/us/stat/100/3993]; [Pub. L. 100–456, div. B, title XXVIII, § 2804][/us/pl/100/456/s2804], Sept. 29, 1988, [102 Stat. 2115][/us/stat/102/2115]; [Pub. L. 105–85, div. B, title XXVIII, § 2811(a)][/us/pl/105/85/s2811/a], (b)(1), Nov. 18, 1997, [111 Stat. 1991][/us/stat/111/1991]; [Pub. L. 108–136, div. B, title XXVIII, § 2811(a)][/us/pl/108/136/s2811/a]–(b)(2), Nov. 24, 2003, [117 Stat. 1724][/us/stat/117/1724], 1725; [Pub. L. 108–375, div. B, title XXVIII, § 2821(d)(1)][/us/pl/108/375/s2821/d/1], Oct. 28, 2004, [118 Stat. 2130][/us/stat/118/2130]; [Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(2)][/us/pl/109/163/s2821/a/2], Jan. 6, 2006, [119 Stat. 3511][/us/stat/119/3511], related to authority to acquire low-cost interests in land. See [section 2663(c) of this title][/us/usc/t10/s2663/c].
+
+    Section 2672a, added [Pub. L. 94–107, title VI, § 607(8)][/us/pl/94/107/s607/8], Oct. 7, 1975, [89 Stat. 566][/us/stat/89/566]; amended [Pub. L. 98–525, title XIV, § 1405(39)][/us/pl/98/525/s1405/39], Oct. 19, 1984, [98 Stat. 2624][/us/stat/98/2624]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X, § 1031(a)(29)][/us/pl/108/136/s1031/a/29], Nov. 24, 2003, [117 Stat. 1599][/us/stat/117/1599]; [Pub. L. 108–375, div. A, title X, § 1084(d)(23)][/us/pl/108/375/s1084/d/23], Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 109–163, div. B, title XXVIII, § 2821(a)(6)][/us/pl/109/163/s2821/a/6], Jan. 6, 2006, [119 Stat. 3511][/us/stat/119/3511], related to acquisition of interests in land when need is urgent. See [section 2663(d) of this title][/us/usc/t10/s2663/d].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch159/m__us_usc_t10_s2670.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch159/m__us_usc_t10_s2672, 2672a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2671)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch159/m__us_usc_t10_s2670.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch159/m__us_usc_t10_s2673.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2671)
 
 ----------
 ----------
@@ -92,5 +98,45 @@
 [/us/pl/109/364/s1077/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1077%2Fa
 [/us/stat/120/2406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2406
 [/us/usc/t10/s2671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2671
+[/us/pl/109/163/s2821/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2821%2Ff
+[/us/stat/119/3513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3513
+[/us/pl/85/861/s1/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F51
+[/us/stat/72/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1459
+[/us/pl/87/651/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs112%2Fa
+[/us/stat/76/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F511
+[/us/pl/92/145/s707/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F145%2Fs707%2F2
+[/us/stat/85/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F411
+[/us/pl/96/418/s806/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F418%2Fs806%2Fa
+[/us/stat/94/1777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1777
+[/us/pl/99/167/s810/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F167%2Fs810%2Fa
+[/us/stat/99/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F989
+[/us/pl/99/661/s1343/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs1343%2Fa%2F16
+[/us/stat/100/3993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3993
+[/us/pl/100/456/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs2804
+[/us/stat/102/2115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2115
+[/us/pl/105/85/s2811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2811%2Fa
+[/us/stat/111/1991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1991
+[/us/pl/108/136/s2811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs2811%2Fa
+[/us/stat/117/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1724
+[/us/pl/108/375/s2821/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs2821%2Fd%2F1
+[/us/stat/118/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2130
+[/us/pl/109/163/s2821/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2821%2Fa%2F2
+[/us/stat/119/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3511
+[/us/usc/t10/s2663/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2663%2Fc
+[/us/pl/94/107/s607/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F107%2Fs607%2F8
+[/us/stat/89/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F566
+[/us/pl/98/525/s1405/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1405%2F39
+[/us/stat/98/2624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2624
+[/us/pl/104/106/s1502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1502%2Fa%2F1
+[/us/stat/110/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F502
+[/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
+[/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
+[/us/pl/108/136/s1031/a/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F29
+[/us/stat/117/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1599
+[/us/pl/108/375/s1084/d/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F23
+[/us/stat/118/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2062
+[/us/pl/109/163/s2821/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2821%2Fa%2F6
+[/us/stat/119/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3511
+[/us/usc/t10/s2663/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2663%2Fd
 
 

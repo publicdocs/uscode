@@ -79,7 +79,7 @@
 
             (B) the name of any officer whose promotion the Senate failed to confirm, if dissemination is under the authority of subparagraph (C) of such paragraph.
 
-            \[(f) Repealed. [Pub. L. 109–364, div. A, title V, § 547(a)(2)][/us/pl/109/364/s547/a/2], Oct. 17, 2006, [120 Stat. 2216][/us/stat/120/2216].\]
+    \[(f) Repealed. [Pub. L. 109–364, div. A, title V, § 547(a)(2)][/us/pl/109/364/s547/a/2], Oct. 17, 2006, [120 Stat. 2216][/us/stat/120/2216].\]
 
     (g) If the Secretary of a military department or the Secretary of Defense makes a recommendation under this section that the name of an officer be removed from a report of a selection board and the recommendation is accompanied by information that was not presented to that selection board, that information shall be made available to that officer. The officer shall then be afforded a reasonable opportunity to submit comments on that information to the officials making the recommendation and the officials reviewing the recommendation. If an eligible officer cannot be given access to such information because of its classification status, the officer shall, to the maximum extent practicable, be provided with an appropriate summary of the information.
 

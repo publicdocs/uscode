@@ -15,7 +15,7 @@
 
 ## § 451. Maps, charts, and books
 
-The Secretary of Defense may—
+    The Secretary of Defense may—
 
     (1) have the National Geospatial-Intelligence Agency prepare maps, charts, and nautical books required in navigation and have those materials published and furnished to navigators; and
 

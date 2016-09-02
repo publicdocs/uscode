@@ -15,7 +15,7 @@
 
 ## § 5061. Department of the Navy: composition
 
-The Department of the Navy is composed of the following:
+    The Department of the Navy is composed of the following:
 
     (1) The Office of the Secretary of the Navy.
 

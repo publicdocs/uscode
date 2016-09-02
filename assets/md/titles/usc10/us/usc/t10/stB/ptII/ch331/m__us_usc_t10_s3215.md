@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3213, 3214.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3216.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3215)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3212.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3216.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3215)
 
 ## \[§ 3215. Repealed. [Pub. L. 95–485, title VIII, § 820(c)(3)][/us/pl/95/485/s820/c/3], Oct. 20, 1978, [92 Stat. 1627][/us/stat/92/1627]\]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3213, 3214.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3216.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3215)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3212.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3216.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3215)
 
 ----------
 ----------

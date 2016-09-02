@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t10/stA/ptII/ch89/m__us_usc_t10_s1801 to 1805.md) | [Next](./../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_stA_ptIII_ch101.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII)
+[Previous](./../../../../..//us/usc/t10/stA/ptII/ch89/m__us_usc_t10_stA_ptII_ch89.md) | [Next](./../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_stA_ptIII_ch101.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII)
 
 ### PART III—TRAINING AND EDUCATION
 
@@ -193,7 +193,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t10/stA/ptII/ch89/m__us_usc_t10_s1801 to 1805.md) | [Next](./../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_stA_ptIII_ch101.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII)
+[Previous](./../../../../..//us/usc/t10/stA/ptII/ch89/m__us_usc_t10_stA_ptII_ch89.md) | [Next](./../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_stA_ptIII_ch101.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIII)
 
 ----------
 ----------

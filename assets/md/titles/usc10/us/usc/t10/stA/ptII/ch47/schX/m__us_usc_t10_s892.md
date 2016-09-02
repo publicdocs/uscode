@@ -15,7 +15,7 @@
 
 ## § 892. Art. 92. Failure to obey order or regulation
 
-Any person subject to this chapter who—
+    Any person subject to this chapter who—
 
     (1) violates or fails to obey any lawful general order or regulation;
 
@@ -23,7 +23,7 @@ Any person subject to this chapter who—
 
     (3) is derelict in the performance of his duties;
 
-        shall be punished as a court-martial may direct.
+    shall be punished as a court-martial may direct.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 68][/us/stat/70A/68].)
 

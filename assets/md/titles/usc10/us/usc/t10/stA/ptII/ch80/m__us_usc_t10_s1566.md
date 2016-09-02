@@ -47,7 +47,7 @@
 
             (B) the level of compliance during the preceding calendar year with voting assistance programs of each of the Army, Navy, Air Force, and Marine Corps.
 
-            \[(d) Repealed. [Pub. L. 109–364, div. A, title V, § 596(a)][/us/pl/109/364/s596/a], Oct. 17, 2006, [120 Stat. 2235][/us/stat/120/2235].\]
+    \[(d) Repealed. [Pub. L. 109–364, div. A, title V, § 596(a)][/us/pl/109/364/s596/a], Oct. 17, 2006, [120 Stat. 2235][/us/stat/120/2235].\]
 
     (e) __Regular Military Department Assessments.—__ 
 

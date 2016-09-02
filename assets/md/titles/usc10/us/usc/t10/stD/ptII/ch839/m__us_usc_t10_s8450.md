@@ -11,15 +11,25 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8448, 8449.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8451, 8452.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8450)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8447.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch841/m__us_usc_t10_stD_ptII_ch841.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8450)
 
 ## \[§ 8450. Repealed. [Pub. L. 90–235, § 3(b)(1)][/us/pl/90/235/s3/b/1], Jan. 2, 1968, [81 Stat. 758][/us/stat/81/758]\]
 
     Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 523][/us/stat/70A/523], provided for suspension of laws for promotion or mandatory retirement or separation during war or emergency of temporary warrant officers of Air Force.
 
+\[§§ 8451, 8452. __Repealed.__  __[__  __Pub. L. 96–513, title II, § 207__  __][/us/pl/96/513/s207]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2884__  __][/us/stat/94/2884]__  __\]__ 
+
+    Section 8451, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 524][/us/stat/70A/524], provided that an officer who is promoted to a temporary grade is considered to have accepted his promotion on date of order announcing it, unless he expressly declines promotion.
+
+    Section 8452, added [Pub. L. 85–861, § 1(180)(E)][/us/pl/85/861/s1/180/E], Sept. 2, 1958, [72 Stat. 1532][/us/stat/72/1532], provided that, notwithstanding any other provision of law, a medical or dental officer may be promoted to temporary grade of captain at any time after first anniversary of date upon which he graduated from a medical, osteopathic, or dental school.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8448, 8449.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8451, 8452.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8450)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch839/m__us_usc_t10_s8447.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch841/m__us_usc_t10_stD_ptII_ch841.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8450)
 
 ----------
 ----------
@@ -28,5 +38,13 @@
 [/us/stat/81/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F758
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F523
+[/us/pl/96/513/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs207
+[/us/stat/94/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2884
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F524
+[/us/pl/85/861/s1/180/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F180%2FE
+[/us/stat/72/1532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1532
+[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
+[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 
 

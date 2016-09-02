@@ -15,7 +15,7 @@
 
 ## § 950q. Principals
 
-Any person punishable under this chapter who—
+    Any person punishable under this chapter who—
 
     (1) commits an offense punishable by this chapter, or aids, abets, counsels, commands, or procures its commission;
 
@@ -23,7 +23,7 @@ Any person punishable under this chapter who—
 
     (3) is a superior commander who, with regard to acts punishable by this chapter, knew, had reason to know, or should have known, that a subordinate was about to commit such acts or had done so and who failed to take the necessary and reasonable measures to prevent such acts or to punish the perpetrators thereof,
 
-        is a principal.
+    is a principal.
 
 (Added [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2606][/us/stat/123/2606].)
 

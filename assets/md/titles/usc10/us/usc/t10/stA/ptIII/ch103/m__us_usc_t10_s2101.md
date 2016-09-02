@@ -15,7 +15,7 @@
 
 ## § 2101. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “program” means the Senior Reserve Officers’ Training Corps of an armed force.
 

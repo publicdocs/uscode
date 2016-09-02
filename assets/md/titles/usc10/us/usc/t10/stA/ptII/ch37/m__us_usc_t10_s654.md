@@ -31,7 +31,9 @@
 
 > “SEC. 2. __DEPARTMENT OF DEFENSE POLICY CONCERNING HOMOSEXUALITY IN THE ARMED FORCES.__ 
 
->     “(a) __Comprehensive Review on the Implementation of a Repeal of__  __[__  __10 U.S.C. 654__  __][/us/usc/t10/s654]__  __.—__ 
+>     “(a) __Comprehensive Review on the Implementation of a Repeal of 10 U.__ 
+
+>     S.C. 654.—
 
 >         “(1) __In general.—__ 
 
@@ -117,7 +119,6 @@
 [/us/pl/111/321/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F321%2Fs2%2Fb
 [/us/pl/111/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F321
 [/us/stat/124/3515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3515
-[/us/usc/t10/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs654
 [/us/usc/t10/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs654
 [/us/usc/t10/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs654
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801

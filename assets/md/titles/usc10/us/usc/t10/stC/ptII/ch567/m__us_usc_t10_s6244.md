@@ -15,7 +15,7 @@
 
 ## § 6244. Silver star medal
 
-The President may award a silver star medal of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Navy or Marine Corps, is cited for gallantry in action that does not warrant a medal of honor or Navy cross—
+    The President may award a silver star medal of appropriate design, with ribbons and appurtenances, to a person who, while serving in any capacity with the Navy or Marine Corps, is cited for gallantry in action that does not warrant a medal of honor or Navy cross—
 
     (1) while engaged in an action against an enemy of the United States;
 

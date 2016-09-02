@@ -647,7 +647,7 @@
 
 >     “(2) is included in the closure and realignment recommendation as submitted to Congress in 1995 in accordance with the Defense Base Closure and Realignment Act of 1990, as amended ([Public Law 101–510][/us/pl/101/510]) \[part A of title XXIX of div. B of [Pub. L. 101–510][/us/pl/101/510], set out below\]:
 
->         Provided, That the prohibition on obligation of funds for projects located on an installation cited for realignment are only to be in effect if the function or activity with which the project is associated will be transferred from the installation as a result of the realignment: Provided further, That this provision will remain in effect unless the Congress enacts a Joint Resolution of Disapproval in accordance with the Defense Base Closure and Realignment Act of 1990, as amended ([Public Law 101–510][/us/pl/101/510]).”
+>     Provided, That the prohibition on obligation of funds for projects located on an installation cited for realignment are only to be in effect if the function or activity with which the project is associated will be transferred from the installation as a result of the realignment: Provided further, That this provision will remain in effect unless the Congress enacts a Joint Resolution of Disapproval in accordance with the Defense Base Closure and Realignment Act of 1990, as amended ([Public Law 101–510][/us/pl/101/510]).”
 
  __Applicability to Installations Approved for Closure Before Enactment of__  __[__  __Pub. L. 103–421__  __][/us/pl/103/421]__ 
 

@@ -15,7 +15,7 @@
 
 ## § 7658. Duties of prize master
 
-The prize master shall take the captured vessel to the selected port. On arrival he shall—
+    The prize master shall take the captured vessel to the selected port. On arrival he shall—
 
     (1) deliver immediately to a prize commissioner the documents and papers and the inventory thereof;
 

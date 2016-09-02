@@ -15,13 +15,13 @@
 
 ## § 931. Art. 131. Perjury
 
-Any person subject to this chapter who in a judicial proceeding or in a course of justice willfully and corruptly—
+    Any person subject to this chapter who in a judicial proceeding or in a course of justice willfully and corruptly—
 
     (1) upon a lawful oath or in any form allowed by law to be substituted for an oath, gives any false testimony material to the issue or matter of inquiry; or
 
     (2) in any declaration, certificate, verification, or statement under penalty of perjury as permitted under [section 1746 of title 28][/us/usc/t28/s1746], subscribes any false statement material to the issue or matter of inquiry;
 
-        is guilty of perjury and shall be punished as a court-martial may direct.
+    is guilty of perjury and shall be punished as a court-martial may direct.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 75][/us/stat/70A/75]; [Pub. L. 94–550, § 3][/us/pl/94/550/s3], Oct. 18, 1976, [90 Stat. 2535][/us/stat/90/2535]; [Pub. L. 97–295, § 1(13)][/us/pl/97/295/s1/13], Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289].)
 

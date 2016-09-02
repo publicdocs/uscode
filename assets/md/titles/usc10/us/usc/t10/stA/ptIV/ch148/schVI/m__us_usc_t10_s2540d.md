@@ -15,7 +15,7 @@
 
 ## § 2540d. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) The terms “defense article”, “defense services”, and “design and construction services” have the meanings given those terms in section 47 of the Arms Export Control Act ([22 U.S.C. 2794][/us/usc/t22/s2794]).
 

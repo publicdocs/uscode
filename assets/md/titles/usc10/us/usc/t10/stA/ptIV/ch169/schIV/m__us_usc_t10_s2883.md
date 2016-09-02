@@ -91,21 +91,21 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–239, div. B, title XXVII, § 2711(c)(5)][/us/pl/112/239/s2711/c/5], (d), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144], provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, this section is amended:
+    [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(5)][/us/pl/112/239/s2711/c/5], (d), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144], provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, this section is amended:
 
-(A) in subsection (c)—
+    (A) in subsection (c)—
 
-(i) by striking subparagraph (G) of paragraph (1); and
+    (i) by striking subparagraph (G) of paragraph (1); and
 
-(ii) by striking subparagraph (G) of paragraph (2); and
+    (ii) by striking subparagraph (G) of paragraph (2); and
 
-(B) in subsection (f)—
+    (B) in subsection (f)—
 
-(i) in the first sentence, by striking “or (G)” both places it appears; and
+    (i) in the first sentence, by striking “or (G)” both places it appears; and
 
-(ii) by striking the second sentence.
+    (ii) by striking the second sentence.
 
-See 2013 Amendment notes below.
+    See 2013 Amendment notes below.
 
  __Amendments__ 
 

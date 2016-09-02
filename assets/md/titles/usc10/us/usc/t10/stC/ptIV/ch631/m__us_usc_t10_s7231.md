@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7230.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7233.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7231)
+[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7230.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7233.1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7231)
 
 ## § 7231. Accounting for expenditures for obtaining information
 
@@ -67,7 +67,7 @@ Aug. 29, 1916, ch. 417 (2d proviso under heading “Pay, Miscellaneous”), 39 S
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7230.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7233.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7231)
+[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7230.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7233.1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7231)
 
 ----------
 ----------

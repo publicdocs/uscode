@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_s2512, 2513.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_s2515.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2514)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_s2511.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_s2515.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2514)
 
 ## § 2514. Encouragement of technology transfer
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_s2512, 2513.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_s2515.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2514)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_s2511.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIII/m__us_usc_t10_s2515.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2514)
 
 ----------
 ----------

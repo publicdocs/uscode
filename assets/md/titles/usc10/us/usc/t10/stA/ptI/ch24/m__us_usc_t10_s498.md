@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s497.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/m__us_usc_t10_stA_ptII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs498)
 
-## § 498.  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>  Unilateral change in nuclear weapons stockpile of the United States
+## § 498  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>  Unilateral change in nuclear weapons stockpile of the United States
 
     (a) __In General.—__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch335/m__us_usc_t10_s3305 to 3309.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch335/m__us_usc_t10_s3311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3310)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch335/m__us_usc_t10_s3304.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch335/m__us_usc_t10_s3311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3310)
 
 ## § 3310. Warrant officers: original appointment; qualifications
 
@@ -71,7 +71,7 @@ The first sentence of [section 4a of the Act of June 3, 1916][/us/act/1916-06-03
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch335/m__us_usc_t10_s3305 to 3309.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch335/m__us_usc_t10_s3311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3310)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch335/m__us_usc_t10_s3304.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch335/m__us_usc_t10_s3311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3310)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 12406. National Guard in Federal service: call
 
-Whenever—
+    Whenever—
 
     (1) the United States, or any of the Commonwealths or possessions, is invaded or is in danger of invasion by a foreign nation;
 
@@ -23,7 +23,7 @@ Whenever—
 
     (3) the President is unable with the regular forces to execute the laws of the United States;
 
-        the President may call into Federal service members and units of the National Guard of any State in such numbers as he considers necessary to repel the invasion, suppress the rebellion, or execute those laws. Orders for these purposes shall be issued through the governors of the States or, in the case of the District of Columbia, through the commanding general of the National Guard of the District of Columbia.
+    the President may call into Federal service members and units of the National Guard of any State in such numbers as he considers necessary to repel the invasion, suppress the rebellion, or execute those laws. Orders for these purposes shall be issued through the governors of the States or, in the case of the District of Columbia, through the commanding general of the National Guard of the District of Columbia.
 
 (Added [Pub. L. 103–337, div. A, title XVI, § 1662(f)(1)][/us/pl/103/337/s1662/f/1], Oct. 5, 1994, [108 Stat. 2994][/us/stat/108/2994]; amended [Pub. L. 109–163, div. A, title X, § 1057(a)(5)][/us/pl/109/163/s1057/a/5], Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440].)
 

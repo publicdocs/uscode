@@ -15,7 +15,7 @@
 
 ## § 4552. Policy
 
-It is the policy of the United States—
+    It is the policy of the United States—
 
     (1) to encourage, to the maximum extent practicable, commercial firms to use Government-owned, contractor-operated ammunition manufacturing, storage, maintenance, renovation, and demilitarization facilities of the Department of the Army;
 

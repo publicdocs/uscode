@@ -15,7 +15,7 @@
 
 ## § 10209. Regular and reserve components: discrimination prohibited
 
-Laws applying to both Regulars and Reserves shall be administered without discrimination—
+    Laws applying to both Regulars and Reserves shall be administered without discrimination—
 
     (1) among Regulars;
 

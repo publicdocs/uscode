@@ -107,9 +107,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1996—[Pub. L. 104–201, div. A, title XII, § 1211(a)(2)][/us/pl/104/201/s1211/a/2], Sept. 23, 1996, [110 Stat. 2691][/us/stat/110/2691], added item for chapter 1006.
 

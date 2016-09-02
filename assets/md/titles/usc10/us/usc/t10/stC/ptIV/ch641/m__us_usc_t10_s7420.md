@@ -15,7 +15,7 @@
 
 ## § 7420. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “national defense” includes the needs of, and the planning and preparedness to meet, essential defense, industrial, and military emergency energy requirements relative to the national safety, welfare, and economy, particularly resulting from foreign military or economic actions.
 

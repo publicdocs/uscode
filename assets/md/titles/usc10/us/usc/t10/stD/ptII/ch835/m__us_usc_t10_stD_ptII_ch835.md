@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_s8262, 8263.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch835/m__us_usc_t10_s8281.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch835)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_s8258.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch835/m__us_usc_t10_s8281.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch835)
 
 #### CHAPTER 835—APPOINTMENTS IN THE REGULAR AIR FORCE
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_s8262, 8263.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch835/m__us_usc_t10_s8281.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch835)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch833/m__us_usc_t10_s8258.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch835/m__us_usc_t10_s8281.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptII%2Fch835)
 
 ----------
 ----------

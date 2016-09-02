@@ -15,7 +15,7 @@
 
 ## § 1141. Involuntary separation defined
 
-A member of the armed forces shall be considered to be involuntarily separated for purposes of this chapter if the member was on active duty or full-time National Guard duty on September 30, 1990, or after November 29, 1993, or, with respect to a member of the Coast Guard, if the member was on active duty in the Coast Guard after September 30, 1994, and—
+    A member of the armed forces shall be considered to be involuntarily separated for purposes of this chapter if the member was on active duty or full-time National Guard duty on September 30, 1990, or after November 29, 1993, or, with respect to a member of the Coast Guard, if the member was on active duty in the Coast Guard after September 30, 1994, and—
 
     (1) in the case of a regular officer (other than a retired officer), the officer is involuntarily discharged under other than adverse conditions, as characterized by the Secretary concerned;
 

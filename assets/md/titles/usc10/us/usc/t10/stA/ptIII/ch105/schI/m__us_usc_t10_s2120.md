@@ -15,7 +15,7 @@
 
 ## § 2120. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) The term “program” means the Armed Forces Health Professions Scholarship and Financial Assistance program provided for in this subchapter.
 

@@ -15,7 +15,7 @@
 
 ## § 10154. Retired Reserve
 
-The Retired Reserve consists of the following Reserves:
+    The Retired Reserve consists of the following Reserves:
 
     (1) Reserves who are or have been retired under section 3911, 6323, or 8911 of this title or under [section 291 of title 14][/us/usc/t14/s291].
 

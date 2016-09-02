@@ -151,7 +151,7 @@
 
  __Amendment of Subsection (d)(2)__ 
 
-[Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(A)][/us/pl/112/239/s2711/c/4/A], (d), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144], provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, subsection (d)(2) of this section is amended by striking “Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A” and inserting “Department of Defense Base Closure Account established by section 2906”. See 2013 Amendment note below.
+    [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(A)][/us/pl/112/239/s2711/c/4/A], (d), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144], provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, subsection (d)(2) of this section is amended by striking “Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A” and inserting “Department of Defense Base Closure Account established by section 2906”. See 2013 Amendment note below.
 
  __References in Text__ 
 

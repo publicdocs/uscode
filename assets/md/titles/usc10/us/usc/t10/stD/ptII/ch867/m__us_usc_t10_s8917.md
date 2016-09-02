@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch867/m__us_usc_t10_s8915, 8916.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch867/m__us_usc_t10_s8918.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8917)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch867/m__us_usc_t10_s8914.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch867/m__us_usc_t10_s8918.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8917)
 
 ## § 8917. Thirty years or more: regular enlisted members
 
@@ -85,7 +85,7 @@ The word “regular” is inserted to conform to an opinion of the Judge Advocat
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch867/m__us_usc_t10_s8915, 8916.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch867/m__us_usc_t10_s8918.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8917)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch867/m__us_usc_t10_s8914.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch867/m__us_usc_t10_s8918.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8917)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 3068. Medical Service Corps: organization; Chief and assistant chiefs
 
-There is a Medical Service Corps in the Army. The Medical Service Corps consists of—
+    There is a Medical Service Corps in the Army. The Medical Service Corps consists of—
 
     (1) the Chief of the Medical Service Corps, who shall be appointed by the Secretary of the Army from among the officers of the Medical Service Corps whose regular grade is above captain;
 

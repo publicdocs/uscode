@@ -15,7 +15,7 @@
 
 ## § 2700. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “CERCLA” means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601][/us/usc/t42/s9601] et seq.).
 

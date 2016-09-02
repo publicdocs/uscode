@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch345/m__us_usc_t10_s3573, 3574.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch345/m__us_usc_t10_s3576.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3575)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch345/m__us_usc_t10_s3572.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch345/m__us_usc_t10_s3576.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3575)
 
 ## § 3575. Rank: warrant officers
 
@@ -67,7 +67,7 @@ Aug. 21, 1941, ch. 384, § 4 (less 1st sentence), 55 Stat. 653; May 29, 1954, 
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch345/m__us_usc_t10_s3573, 3574.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch345/m__us_usc_t10_s3576.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3575)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch345/m__us_usc_t10_s3572.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch345/m__us_usc_t10_s3576.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3575)
 
 ----------
 ----------

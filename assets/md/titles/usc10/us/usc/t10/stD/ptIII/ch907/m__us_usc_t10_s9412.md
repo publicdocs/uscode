@@ -15,7 +15,7 @@
 
 ## § 9412. Operation
 
-In maintaining camps established under [section 9411 of this title][/us/usc/t10/s9411], the Secretary of the Air Force may—
+    In maintaining camps established under [section 9411 of this title][/us/usc/t10/s9411], the Secretary of the Air Force may—
 
     (1) prescribe the periods during which they will be operated;
 

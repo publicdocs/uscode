@@ -15,7 +15,7 @@
 
 ## § 1436a. Coverage paid up at 30 years and age 70
 
-Effective October 1, 2008, a reduction under this subchapter in the retired or retainer pay of a person electing an annuity under this subchapter may not be made for any month after the later of—
+    Effective October 1, 2008, a reduction under this subchapter in the retired or retainer pay of a person electing an annuity under this subchapter may not be made for any month after the later of—
 
     (1) the month that is the 360th month for which that person’s retired or retainer pay is reduced pursuant to such an election; and
 

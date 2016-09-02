@@ -15,7 +15,7 @@
 
 ## § 2876. Rental guarantees
 
-The Secretary concerned may enter into agreements with eligible entities that acquire or construct military family housing units or military unaccompanied housing units under this subchapter in order to assure—
+    The Secretary concerned may enter into agreements with eligible entities that acquire or construct military family housing units or military unaccompanied housing units under this subchapter in order to assure—
 
     (1) the occupancy of such units at levels specified in the agreements; or
 

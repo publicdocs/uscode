@@ -219,13 +219,13 @@
 
  __Amendment of Subsection (d)(2)__ 
 
-[Pub. L. 112–239, div. A, title VI, § 661(a)][/us/pl/112/239/s661/a], (c), Jan. 2, 2013, [126 Stat. 1785][/us/stat/126/1785], provided that, one year after Jan. 2, 2013, or such earlier date as the Secretary of Defense shall specify in the modification of regulations required by [§ 661(c)(1) of Pub. L. 112–239][/us/pl/112/239/s661/c/1], subsection (d)(2) of this section is amended—
+    [Pub. L. 112–239, div. A, title VI, § 661(a)][/us/pl/112/239/s661/a], (c), Jan. 2, 2013, [126 Stat. 1785][/us/stat/126/1785], provided that, one year after Jan. 2, 2013, or such earlier date as the Secretary of Defense shall specify in the modification of regulations required by [§ 661(c)(1) of Pub. L. 112–239][/us/pl/112/239/s661/c/1], subsection (d)(2) of this section is amended—
 
-(1) in subparagraph (A), by inserting “any consumer credit or” before “loans”; and
+    (1) in subparagraph (A), by inserting “any consumer credit or” before “loans”; and
 
-(2) in subparagraph (B), by inserting “covering consumer credit” after “State consumer lending protections”.
+    (2) in subparagraph (B), by inserting “covering consumer credit” after “State consumer lending protections”.
 
-See 2011 Amendment notes below.
+    See 2011 Amendment notes below.
 
  __References in Text__ 
 

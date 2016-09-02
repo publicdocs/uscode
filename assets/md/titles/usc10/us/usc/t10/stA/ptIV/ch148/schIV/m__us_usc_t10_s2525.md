@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIV/m__us_usc_t10_s2523, 2524.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schV/m__us_usc_t10_stA_ptIV_ch148_schV.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2525)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIV/m__us_usc_t10_s2522.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schV/m__us_usc_t10_stA_ptIV_ch148_schV.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2525)
 
 ## \[§ 2525. Renumbered § 2521\]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIV/m__us_usc_t10_s2523, 2524.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schV/m__us_usc_t10_stA_ptIV_ch148_schV.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2525)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schIV/m__us_usc_t10_s2522.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch148/schV/m__us_usc_t10_stA_ptIV_ch148_schV.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2525)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1162, 1163.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1165.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1164)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1161.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1165.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1164)
 
 ## § 1164. Warrant officers: separation for age
 
@@ -161,7 +161,7 @@ May 29, 1954, ch. 249, §§ 14(c), (e) (as applicable to (c)), 21(c) (as appli
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1162, 1163.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1165.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1164)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1161.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1165.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1164)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139d, 139e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139c)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s140.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139c)
 
 ## § 139c. Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy
 
@@ -125,9 +125,11 @@
 
     Amendment by [section 901(f) of Pub. L. 111–383][/us/pl/111/383/s901/f] effective Jan. 1, 2011, see [section 901(p) of Pub. L. 111–383][/us/pl/111/383/s901/p], set out as a note under [section 131 of this title][/us/usc/t10/s131].
 
+\[§§ 139d, 139e. __Renumbered §§ 139b, 139c\]__ 
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139d, 139e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139c)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s139b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_s140.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139c)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 2452. Duties of Secretary of Defense
 
-The Secretary of Defense shall—
+    The Secretary of Defense shall—
 
     (1) develop and maintain the supply catalog, and the standardization program, described in [section 2451 of this title][/us/usc/t10/s2451];
 

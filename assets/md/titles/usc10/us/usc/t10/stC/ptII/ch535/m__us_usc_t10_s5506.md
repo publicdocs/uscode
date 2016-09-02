@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5504, 5505.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5507.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5506)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5503.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5507.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5506)
 
 ## \[§ 5506. Repealed. [Pub. L. 103–337, div. A, title XVI, § 1673(d)(1)][/us/pl/103/337/s1673/d/1], Oct. 5, 1994, [108 Stat. 3016][/us/stat/108/3016]\]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5504, 5505.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5507.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5506)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5503.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch535/m__us_usc_t10_s5507.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5506)
 
 ----------
 ----------

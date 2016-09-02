@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch511/m__us_usc_t10_s5111, 5112.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5131.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch513)
+[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch511/m__us_usc_t10_stC_ptI_ch511.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5131.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch513)
 
 #### CHAPTER 513—BUREAUS; OFFICE OF THE JUDGE ADVOCATE GENERAL
 
@@ -227,7 +227,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch511/m__us_usc_t10_s5111, 5112.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5131.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch513)
+[Previous](./../../../../../..//us/usc/t10/stC/ptI/ch511/m__us_usc_t10_stC_ptI_ch511.md) | [Next](./../../../../../..//us/usc/t10/stC/ptI/ch513/m__us_usc_t10_s5131.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptI%2Fch513)
 
 ----------
 ----------

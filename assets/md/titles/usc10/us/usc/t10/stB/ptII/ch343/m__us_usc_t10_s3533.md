@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch343/m__us_usc_t10_s3531, 3532.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch343/m__us_usc_t10_s3534.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3533)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch343/m__us_usc_t10_stB_ptII_ch343.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch343/m__us_usc_t10_s3534.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3533)
 
 ## § 3533. Corps of Engineers: assignment or transfer of officers to duties involving civil functions
 
@@ -71,7 +71,7 @@ Aug. 7, 1947, ch. 512, § 502(c) (proviso), 61 Stat. 883.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch343/m__us_usc_t10_s3531, 3532.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch343/m__us_usc_t10_s3534.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3533)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch343/m__us_usc_t10_stB_ptII_ch343.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch343/m__us_usc_t10_s3534.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3533)
 
 ----------
 ----------

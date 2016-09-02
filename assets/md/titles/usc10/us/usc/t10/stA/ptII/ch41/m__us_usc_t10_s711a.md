@@ -15,7 +15,7 @@
 
 ## § 711a. American National Red Cross: detail of commissioned officers
 
-Commissioned officers of the Army, Navy, and Air Force may be detailed for duty with the American National Red Cross, by the Secretary of the military department concerned, as follows:
+    Commissioned officers of the Army, Navy, and Air Force may be detailed for duty with the American National Red Cross, by the Secretary of the military department concerned, as follows:
 
     (1)
 

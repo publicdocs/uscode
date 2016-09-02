@@ -27,7 +27,7 @@
 
         on sea duty or assigned to duty in connection with commissioning or fitting out of a ship who is deprived of his quarters on board ship because of repairs, because the ship is under construction and is not yet habitable, or because of other conditions that make his quarters uninhabitable. Lodging accommodations so provided may not be occupied by the member’s dependents.
 
-        \[(b) Repealed. [Pub. L. 105–261, div. A, title X, § 1069(a)(7)][/us/pl/105/261/s1069/a/7], Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].\]
+    \[(b) Repealed. [Pub. L. 105–261, div. A, title X, § 1069(a)(7)][/us/pl/105/261/s1069/a/7], Oct. 17, 1998, [112 Stat. 2136][/us/stat/112/2136].\]
 
     (c) The Secretary, to the extent he considers proper, may delegate the authority conferred by subsection (a) to any person in the Department of the Navy, with or without the authority to make successive redelegations.
 

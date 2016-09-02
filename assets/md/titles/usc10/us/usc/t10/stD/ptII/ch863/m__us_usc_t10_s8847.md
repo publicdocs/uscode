@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch863/m__us_usc_t10_s8843 to 8846.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch863/m__us_usc_t10_s8848.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8847)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch863/m__us_usc_t10_stD_ptII_ch863.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch863/m__us_usc_t10_s8848.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8847)
 
 ## \[§ 8847. Repealed. [Pub. L. 90–130, § 1(31)(A)][/us/pl/90/130/s1/31/A], Nov. 8, 1967, [81 Stat. 382][/us/stat/81/382]\]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch863/m__us_usc_t10_s8843 to 8846.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch863/m__us_usc_t10_s8848.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8847)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch863/m__us_usc_t10_stD_ptII_ch863.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch863/m__us_usc_t10_s8848.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8847)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_stA_ptII_ch59.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1162, 1163.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1161)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_stA_ptII_ch59.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1164.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1161)
 
 ## § 1161.  Commissioned  officers:  limitations  on dismissal
 
@@ -107,9 +107,19 @@ May 5, 1950, ch. 169, § 10 (less applicability to Navy and Marine Corps warra
 
 > “Sec. 3. Appropriations available for the payment of retired pay to members of the Armed Forces are available for payments under this Act.”
 
+\[§§ 1162, 1163. __Repealed.__  __[__  __Pub. L. 103–337, div. A, title XVI, § 1662(i)(2)__  __][/us/pl/103/337/s1662/i/2]__  __,__  __Oct. 5, 1994__  __,__  __[__  __108 Stat. 2998__  __][/us/stat/108/2998]__  __\]__ 
+
+    Section 1162, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 89][/us/stat/70A/89]; Sept. 2, 1958, [Pub. L. 85–861, § 1(27)][/us/pl/85/861/s1/27], [72 Stat. 1450][/us/stat/72/1450], related to discharge of Reserves. See sections 12681 and 12682 of this title.
+
+    Section 1163, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 89][/us/stat/70A/89]; Sept. 7, 1962, [Pub. L. 87–651, title I, § 106(a)][/us/pl/87/651/s106/a], [76 Stat. 508][/us/stat/76/508]; Dec. 30, 1987, [Pub. L. 100–224, § 4][/us/pl/100/224/s4], [101 Stat. 1538][/us/stat/101/1538], related to limitations on separation of Reserve members from their reserve components. See sections 12683 to 12686 of this title.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Dec. 1, 1994, except as otherwise provided, see [section 1691 of Pub. L. 103–337][/us/pl/103/337/s1691], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_stA_ptII_ch59.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1162, 1163.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1161)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_stA_ptII_ch59.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1164.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1161)
 
 ----------
 ----------
@@ -129,5 +139,19 @@ May 5, 1950, ch. 169, § 10 (less applicability to Navy and Marine Corps warra
 [/us/act/1950-05-05/ch169/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-05%2Fch169%2Fs10
 [/us/stat/64/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F146
 [/us/usc/t10/s1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1161
+[/us/pl/103/337/s1662/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1662%2Fi%2F2
+[/us/stat/108/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2998
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F89
+[/us/pl/85/861/s1/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F27
+[/us/stat/72/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1450
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F89
+[/us/pl/87/651/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F651%2Fs106%2Fa
+[/us/stat/76/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F508
+[/us/pl/100/224/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F224%2Fs4
+[/us/stat/101/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1538
+[/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
+[/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
 
 

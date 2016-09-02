@@ -15,7 +15,7 @@
 
 ## § 2648. Persons and supplies: sea, land, and air transportation
 
-Whenever the Secretary of Defense considers that space is available, the following persons and supplies may be transported on vessels, vehicles, or aircraft operated by the Department of Defense:
+    Whenever the Secretary of Defense considers that space is available, the following persons and supplies may be transported on vessels, vehicles, or aircraft operated by the Department of Defense:
 
     (1) Members of Congress.
 
@@ -27,7 +27,7 @@ Whenever the Secretary of Defense considers that space is available, the followi
 
     (5) The families of members of the armed forces, officers and employees of the Department of Defense or the Coast Guard, and persons described in paragraphs (1), (2), and (4).
 
-        However, a person described in paragraph (4) or (5) may be so transported only if the transportation is without expense to the United States.
+    However, a person described in paragraph (4) or (5) may be so transported only if the transportation is without expense to the United States.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 266][/us/stat/70A/266], § 4744; [Pub. L. 86–624, § 4(d)][/us/pl/86/624/s4/d], July 12, 1960, [74 Stat. 411][/us/stat/74/411]; renumbered § 2648 and amended [Pub. L. 108–375, div. A, title X, § 1072(a)][/us/pl/108/375/s1072/a], (b)(1), Oct. 28, 2004, [118 Stat. 2057][/us/stat/118/2057]; [Pub. L. 111–383, div. A, title III, § 352(d)][/us/pl/111/383/s352/d], (e)(1), Jan. 7, 2011, [124 Stat. 4193][/us/stat/124/4193].)
 

@@ -15,7 +15,7 @@
 
 ## § 1206. Members on active duty for 30 days or less or on inactive-duty training: separation
 
-Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title is unfit to perform the duties of his office, grade, rank, or rating because of physical disability, the member may be separated from his armed force, with severance pay computed under [section 1212 of this title][/us/usc/t10/s1212], if the Secretary also determines that—
+    Upon a determination by the Secretary concerned that a member of the armed forces not covered by section 1201, 1202, or 1203 of this title is unfit to perform the duties of his office, grade, rank, or rating because of physical disability, the member may be separated from his armed force, with severance pay computed under [section 1212 of this title][/us/usc/t10/s1212], if the Secretary also determines that—
 
     (1) the member has less than 20 years of service computed under [section 1208 of this title][/us/usc/t10/s1208];
 
@@ -49,7 +49,7 @@ Upon a determination by the Secretary concerned that a member of the armed force
 
     (5) the disability is less than 30 percent under the standard schedule of rating disabilities in use by the Department of Veterans Affairs at the time of the determination, and, in the case of a disability incurred before October 5, 1999, was the proximate result of performing active duty or inactive-duty training or of traveling directly to or from the place at which such duty is performed.
 
-        However, if the member is eligible for transfer to the inactive status list under [section 1209 of this title][/us/usc/t10/s1209], and so elects, he shall be transferred to that list instead of being separated.
+    However, if the member is eligible for transfer to the inactive status list under [section 1209 of this title][/us/usc/t10/s1209], and so elects, he shall be transferred to that list instead of being separated.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 94][/us/stat/70A/94]; [Pub. L. 99–661, div. A, title VI, § 604(d)(1)][/us/pl/99/661/s604/d/1], (3), Nov. 14, 1986, [100 Stat. 3876][/us/stat/100/3876]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 102–484, div. A, title V, § 516(a)][/us/pl/102/484/s516/a], Oct. 23, 1992, [106 Stat. 2407][/us/stat/106/2407]; [Pub. L. 105–85, div. A, title V, § 513(c)(2)][/us/pl/105/85/s513/c/2], (d)(2), Nov. 18, 1997, [111 Stat. 1731][/us/stat/111/1731]; [Pub. L. 106–65, div. A, title V, § 578(i)(4)][/us/pl/106/65/s578/i/4], title VI, § 653(c), Oct. 5, 1999, [113 Stat. 629][/us/stat/113/629], 667; [Pub. L. 107–107, div. A, title V, § 513(b)][/us/pl/107/107/s513/b], title X, § 1048(c)(6), Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093], 1226.)
 

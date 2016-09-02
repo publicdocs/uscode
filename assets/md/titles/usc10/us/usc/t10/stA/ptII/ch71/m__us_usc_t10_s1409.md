@@ -51,11 +51,11 @@
 
         (3) __30 years of service.—__ 
 
-            (A) __Retirement before january 1, 2007.—__ 
+            (A) __Retirement before__  __january 1, 2007__  __.—__ 
 
             In the case of a member who retires before January 1, 2007, with more than 30 years of creditable service, the percentage to be used under subsection (a) is 75 percent.
 
-            (B) __Retirement after december 31, 2006.—__ 
+            (B) __Retirement after__  __december 31, 2006__  __.—__ 
 
             In the case of a member who retires after December 31, 2006, with more than 30 years of creditable service, the percentage to be used under subsection (a) is the sum of—
 

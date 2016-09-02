@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch537/m__us_usc_t10_s5540.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5571, 5572.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch539)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch537/m__us_usc_t10_s5540.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5573.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch539)
 
 #### CHAPTER 539—ORIGINAL APPOINTMENTS
 
@@ -137,9 +137,19 @@
 
     1958—[Pub. L. 85–861, § 1(118)(B)][/us/pl/85/861/s1/118/B], (121)(B), Sept. 2, 1958, [72 Stat. 1493][/us/stat/72/1493], 1495, added items 5573a, 5600, and 5601.
 
+\[§§ 5571, 5572. __Repealed.__  __[__  __Pub. L. 96–513, title III, § 321__  __][/us/pl/96/513/s321]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2892__  __][/us/stat/94/2892]__  __\]__ 
+
+    Section 5571, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 321][/us/stat/70A/321], prescribed a citizenship requirement for appointment as an officer in the Regular Navy or the Regular Marine Corps. See [section 532 of this title][/us/usc/t10/s532].
+
+    Section 5572, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 321][/us/stat/70A/321]; Sept. 2, 1958, [Pub. L. 85–861, § 1(117)][/us/pl/85/861/s1/117], [72 Stat. 1493][/us/stat/72/1493], required that each appointment to the active list of the Navy or to the active list of the Marine Corps be made by the President, by and with the advice and consent of the Senate. See [section 531 of this title][/us/usc/t10/s531].
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch537/m__us_usc_t10_s5540.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5571, 5572.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch539)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch537/m__us_usc_t10_s5540.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch539/m__us_usc_t10_s5573.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstC%2FptII%2Fch539)
 
 ----------
 ----------
@@ -158,5 +168,17 @@
 [/us/stat/75/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F265
 [/us/pl/85/861/s1/118/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F118%2FB
 [/us/stat/72/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1493
+[/us/pl/96/513/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs321
+[/us/stat/94/2892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2892
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F321
+[/us/usc/t10/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs532
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F321
+[/us/pl/85/861/s1/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F117
+[/us/stat/72/1493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1493
+[/us/usc/t10/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs531
+[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
+[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 
 

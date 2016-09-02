@@ -15,7 +15,7 @@
 
 ## § 816. Art. 16. Courts-martial classified
 
-The three kinds of courts-martial in each of the armed forces are—
+    The three kinds of courts-martial in each of the armed forces are—
 
     (1)
 

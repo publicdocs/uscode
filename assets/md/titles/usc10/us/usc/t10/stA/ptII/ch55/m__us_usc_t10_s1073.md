@@ -393,7 +393,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >                 “(ii) consistent performance standards for private sector companies providing health care staffing services to military treatment facilities and clinics, including, at a minimum, those standards established for accreditation of health care staffing firms by the Joint Commission on the Accreditation of Health Care Organizations Health Care Staffing Standards; and
 
->                 “(iii) additional standards covering—         “(I) financial stability;
+>                 “(iii)
+
+>                  additional standards covering—
+
+>                          “(I) financial stability;
 
 >                          “(II) medical management;
 

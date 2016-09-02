@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_s3632, 3633.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_s3635.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3634)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_s3631.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_s3635.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3634)
 
 ## \[§ 3634. Repealed. [Pub. L. 110–181, div. A, title V, § 590(b)(1)][/us/pl/110/181/s590/b/1], Jan. 28, 2008, [122 Stat. 138][/us/stat/122/138]\]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_s3632, 3633.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_s3635.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3634)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_s3631.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch349/m__us_usc_t10_s3635.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3634)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6384 to 6388.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6390.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6389)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6383.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6390.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6389)
 
 ## § 6389. Navy Reserve and Marine Corps Reserve; officers: elimination from active status; computation of total commissioned service
 
@@ -283,7 +283,7 @@ Subsection (e) is added to avoid conflict with 50:1311(d) and (e), codified in s
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6384 to 6388.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6390.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6389)
+[Previous](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6383.md) | [Next](./../../../../../..//us/usc/t10/stC/ptII/ch573/m__us_usc_t10_s6390.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6389)
 
 ----------
 ----------

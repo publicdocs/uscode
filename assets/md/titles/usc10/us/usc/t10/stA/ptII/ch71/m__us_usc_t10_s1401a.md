@@ -33,7 +33,7 @@
 
             (B) the base index.
 
-        (3) __Reduced percentage for certain post-august 1, 1986 members.—__ 
+        (3) __Reduced percentage for certain post-__  __august 1, 1986__  __members.—__ 
 
         If the percent determined under paragraph (2) is greater than 1 percent, the Secretary shall increase the retired pay of each member and former member who first became a member on or after August 1, 1986, and has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or [section 354 of title 37][/us/usc/t37/s354], by the difference between—
 
@@ -495,7 +495,9 @@
 
 [Pub. L. 95–581][/us/pl/95/581], Nov. 2, 1978, [92 Stat. 2478][/us/stat/92/2478], provided: 
 
-> “That (a) the retired pay of any individual who served as sergeant major of the Marine Corps and who completed such service before December 16, 1967, shall be computed based upon a rate of basic pay of the sum of (1) the highest rate of basic pay to which such individual was entitled while so serving, and (2) $150.
+>     “That 
+
+>     (a) the retired pay of any individual who served as sergeant major of the Marine Corps and who completed such service before December 16, 1967, shall be computed based upon a rate of basic pay of the sum of (1) the highest rate of basic pay to which such individual was entitled while so serving, and (2) $150.
 
 >     “(b) For the purpose of computing any adjustment under [section 1401a of title 10][/us/usc/t10/s1401a], United States Code, in the retired pay of any individual whose retired pay is affected by subsection (a), the rate of basic pay provided under such subsection for the purpose of computing the retired pay of such individual shall be considered to have been the rate of basic pay applicable to such individual at the time of his retirement, and any adjustment under such section 1401a in the retired pay of such individual before September 30, 1978, shall be readjusted to reflect such rate of basic pay.
 

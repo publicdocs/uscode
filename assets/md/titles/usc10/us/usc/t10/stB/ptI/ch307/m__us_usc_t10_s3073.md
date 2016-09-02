@@ -15,7 +15,7 @@
 
 ## § 3073. Chaplains
 
-There are chaplains in the Army. The Chaplains include—
+    There are chaplains in the Army. The Chaplains include—
 
     (1) the Chief of Chaplains;
 

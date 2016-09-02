@@ -15,13 +15,13 @@
 
 ## § 915. Art. 115. Malingering
 
-Any person subject to this chapter who for the purpose of avoiding work, duty, or service—
+    Any person subject to this chapter who for the purpose of avoiding work, duty, or service—
 
     (1) feigns illness, physical disablement, mental lapse or derangement; or
 
     (2) intentionally inflicts self-injury;
 
-        shall be punished as a court-martial may direct.
+    shall be punished as a court-martial may direct.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 72][/us/stat/70A/72].)
 

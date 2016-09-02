@@ -15,7 +15,7 @@
 
 ## § 1042. Copy of certificate of service
 
-A fee for a copy of a certificate showing service in the armed forces may not be charged to—
+    A fee for a copy of a certificate showing service in the armed forces may not be charged to—
 
     (1) a person discharged or released from the armed forces honorably or under honorable conditions;
 

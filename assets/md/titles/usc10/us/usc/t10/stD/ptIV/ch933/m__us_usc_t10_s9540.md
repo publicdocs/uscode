@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9537, 9538.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9541.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9540)
+[Previous](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9536.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9541.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9540)
 
 ## § 9540. Architectural and engineering services
 
@@ -121,7 +121,7 @@ Aug. 7, 1939, ch. 511, § 2, 53 Stat. 1240.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9537, 9538.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9541.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9540)
+[Previous](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9536.md) | [Next](./../../../../../..//us/usc/t10/stD/ptIV/ch933/m__us_usc_t10_s9541.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs9540)
 
 ----------
 ----------

@@ -15,13 +15,13 @@
 
 ## § 7541. Obsolete and other material: gift or sale to Boy Scouts of America, Naval Sea Cadet Corps and Young Marines of the Marine Corps League
 
-Subject to regulations under [section 121 of title 40][/us/usc/t40/s121], the Secretary of the Navy may—
+    Subject to regulations under [section 121 of title 40][/us/usc/t40/s121], the Secretary of the Navy may—
 
     (1) give obsolete material not needed for naval purposes; and
 
     (2) sell other material that may be spared at a price representing its fair value;
 
-        to the Boy Scouts of America for the sea scouts, to the Naval Sea Cadet Corps for the sea cadets, and to the Young Marines of the Marine Corps League for the young marines. The cost of transportation and delivery of material given or sold under this section shall be charged to the Boy Scouts of America, to the Naval Sea Cadets, or to the Young Marines of the Marine Corps League, as the case may be.
+    to the Boy Scouts of America for the sea scouts, to the Naval Sea Cadet Corps for the sea cadets, and to the Young Marines of the Marine Corps League for the young marines. The cost of transportation and delivery of material given or sold under this section shall be charged to the Boy Scouts of America, to the Naval Sea Cadets, or to the Young Marines of the Marine Corps League, as the case may be.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 465][/us/stat/70A/465]; [Pub. L. 93–628, § 1][/us/pl/93/628/s1], Jan. 3, 1975, [88 Stat. 2147][/us/stat/88/2147]; [Pub. L. 96–513, title V, § 513(39)][/us/pl/96/513/s513/39], Dec. 12, 1980, [94 Stat. 2934][/us/stat/94/2934]; [Pub. L. 107–217, § 3(b)(31)][/us/pl/107/217/s3/b/31], Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297].)
 

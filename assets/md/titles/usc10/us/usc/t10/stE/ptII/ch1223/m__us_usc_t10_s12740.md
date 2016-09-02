@@ -15,13 +15,13 @@
 
 ## § 12740. Eligibility: denial upon certain punitive discharges or dismissals
 
-A person who—
+    A person who—
 
     (1) is convicted of an offense under the Uniform Code of Military Justice (chapter 47 of this title) and whose sentence includes death; or
 
     (2) is separated pursuant to sentence of a court-martial with a dishonorable discharge, a bad conduct discharge, or (in the case of an officer) a dismissal,
 
-        is not eligible for retired pay under this chapter.
+    is not eligible for retired pay under this chapter.
 
 (Added [Pub. L. 104–106, div. A, title VI, § 632(a)(1)][/us/pl/104/106/s632/a/1], Feb. 10, 1996, [110 Stat. 365][/us/stat/110/365].)
 

@@ -47,7 +47,7 @@
 
                 (iii) remaining overnight at or in the vicinity of that place before so serving, if the place is outside reasonable commuting distance from the member’s residence.
 
-            \[(3) Repealed. [Pub. L. 99–661, div. A, title VI, § 604(e)(3)(B)][/us/pl/99/661/s604/e/3/B], Nov. 14, 1986, [100 Stat. 3877][/us/stat/100/3877].\]
+        \[(3) Repealed. [Pub. L. 99–661, div. A, title VI, § 604(e)(3)(B)][/us/pl/99/661/s604/e/3/B], Nov. 14, 1986, [100 Stat. 3877][/us/stat/100/3877].\]
 
         (4) Any member of, or applicant for membership in, a reserve officers’ training corps who dies while (A) attending a training camp, (B) on an authorized practice cruise, (C) performing authorized travel to or from such a camp or cruise, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while attending such a camp, while on such a cruise, or while performing that travel.
 

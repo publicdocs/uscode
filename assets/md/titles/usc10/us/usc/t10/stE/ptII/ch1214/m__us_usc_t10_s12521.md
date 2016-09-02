@@ -15,7 +15,7 @@
 
 ## § 12521. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “insurance program” means the Ready Reserve Mobilization Income Insurance Program established under [section 12522 of this title][/us/usc/t10/s12522].
 

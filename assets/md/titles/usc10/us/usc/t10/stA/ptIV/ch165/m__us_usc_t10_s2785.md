@@ -15,7 +15,7 @@
 
 ## § 2785. Remittance addresses: regulation of alterations
 
-The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall prescribe regulations setting forth controls on alteration of remittance addresses. Those regulations shall ensure that—
+    The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall prescribe regulations setting forth controls on alteration of remittance addresses. Those regulations shall ensure that—
 
     (1) a remittance address for a disbursement that is provided by an officer or employee of the Department of Defense authorizing or requesting the disbursement is not altered by any officer or employee of the department authorized to prepare the disbursement; and
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptIII/ch405/m__us_usc_t10_s4381 to 4387.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIII/ch407/m__us_usc_t10_s4411.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIII%2Fch407)
+[Previous](./../../../../../..//us/usc/t10/stB/ptIII/ch405/m__us_usc_t10_stB_ptIII_ch405.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIII/ch407/m__us_usc_t10_s4411.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIII%2Fch407)
 
 #### CHAPTER 407—SCHOOLS AND CAMPS
 
@@ -93,7 +93,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptIII/ch405/m__us_usc_t10_s4381 to 4387.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIII/ch407/m__us_usc_t10_s4411.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIII%2Fch407)
+[Previous](./../../../../../..//us/usc/t10/stB/ptIII/ch405/m__us_usc_t10_stB_ptIII_ch405.md) | [Next](./../../../../../..//us/usc/t10/stB/ptIII/ch407/m__us_usc_t10_s4411.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptIII%2Fch407)
 
 ----------
 ----------

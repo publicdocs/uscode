@@ -35,7 +35,7 @@
 
         (6) Any other educational institution of the Department of Defense that the Secretary considers appropriate and designates as an institution of the university.
 
-        \[(c) Repealed. [Pub. L. 109–364, div. A, title IX, § 904(b)(2)(B)][/us/pl/109/364/s904/b/2/B], Oct. 17, 2006, [120 Stat. 2353][/us/stat/120/2353].\]
+    \[(c) Repealed. [Pub. L. 109–364, div. A, title IX, § 904(b)(2)(B)][/us/pl/109/364/s904/b/2/B], Oct. 17, 2006, [120 Stat. 2353][/us/stat/120/2353].\]
 
     (d) __Source of Funds for Professional Development Education Operations.—__ 
 

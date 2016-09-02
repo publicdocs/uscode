@@ -219,7 +219,9 @@
 
 >                 “(i) __Limitation at time of return to active duty.—__ 
 
->                 Subparagraph (A) shall not apply to any special or incentive pay or bonus otherwise covered by that subparagraph with respect to a member if, at the time of the return of the member to active duty as described in that subparagraph—         “(I) such pay or bonus is no longer authorized by law; or
+>                 Subparagraph (A) shall not apply to any special or incentive pay or bonus otherwise covered by that subparagraph with respect to a member if, at the time of the return of the member to active duty as described in that subparagraph—
+
+>                          “(I) such pay or bonus is no longer authorized by law; or
 
 >                          “(II) the member does not satisfy eligibility criteria for such pay or bonus as in effect at the time of the return of the member to active duty.
 

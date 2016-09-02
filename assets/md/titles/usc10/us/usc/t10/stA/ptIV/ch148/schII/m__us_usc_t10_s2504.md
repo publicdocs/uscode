@@ -15,7 +15,7 @@
 
 ## § 2504. Annual report to Congress
 
-The Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives by March 1 of each year a report which shall include the following information:
+    The Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives by March 1 of each year a report which shall include the following information:
 
     (1) A description of the departmental guidance prepared pursuant to [section 2506 of this title][/us/usc/t10/s2506].
 

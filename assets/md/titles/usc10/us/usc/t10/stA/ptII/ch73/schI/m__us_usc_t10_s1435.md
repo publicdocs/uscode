@@ -15,7 +15,7 @@
 
 ## § 1435. Eligible beneficiaries
 
-Only the following persons are eligible to be made the beneficiaries of, or to receive payments under, an annuity elected under this subchapter by a member of the armed forces:
+    Only the following persons are eligible to be made the beneficiaries of, or to receive payments under, an annuity elected under this subchapter by a member of the armed forces:
 
     (1) The spouse of the member on the date when the member is retired or becomes entitled to retired or retainer pay or, if the member was already retired or entitled to retired or retainer pay on November 1, 1953, the spouse on that date.
 
@@ -33,7 +33,7 @@ Only the following persons are eligible to be made the beneficiaries of, or to r
 
         (E) born on or before the date prescribed in clause (D).
 
-        For the purposes of clause (2)(B), a child is considered to be pursuing a full-time course of study or training during an interval between school years that does not exceed one hundred and fifty days if he has demonstrated to the satisfaction of the Secretary concerned that he has a bonafide intention of commencing, resuming, or continuing to pursue a full-time course of study or training in a recognized educational institution immediately after that interval.
+    For the purposes of clause (2)(B), a child is considered to be pursuing a full-time course of study or training during an interval between school years that does not exceed one hundred and fifty days if he has demonstrated to the satisfaction of the Secretary concerned that he has a bonafide intention of commencing, resuming, or continuing to pursue a full-time course of study or training in a recognized educational institution immediately after that interval.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 110][/us/stat/70A/110]; [Pub. L. 90–485, § 1(4)][/us/pl/90/485/s1/4], (5), Aug. 13, 1968, [82 Stat. 752][/us/stat/82/752]; [Pub. L. 92–425, § 1(2)(A)][/us/pl/92/425/s1/2/A], Sept. 21, 1972, [86 Stat. 706][/us/stat/86/706].)
 

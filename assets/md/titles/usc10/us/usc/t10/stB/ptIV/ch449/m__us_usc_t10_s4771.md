@@ -15,7 +15,7 @@
 
 ## § 4771. Acceptance of donations: land for mobilization, training, supply base, or aviation field
 
-The Secretary of the Army may accept for the United States a gift of—
+    The Secretary of the Army may accept for the United States a gift of—
 
     (1) land that he considers suitable and desirable for a permanent mobilization, training, or supply station; and
 

@@ -15,7 +15,7 @@
 
 ## § 895. Art. 95. Resistance, flight, breach of arrest, and escape
 
-Any person subject to this chapter who—
+    Any person subject to this chapter who—
 
     (1) resists apprehension;
 
@@ -25,7 +25,7 @@ Any person subject to this chapter who—
 
     (4) escapes from custody or confinement;
 
-        shall be punished as a court-martial may direct.
+    shall be punished as a court-martial may direct.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 69][/us/stat/70A/69]; [Pub. L. 104–106, div. A, title XI, § 1112(a)][/us/pl/104/106/s1112/a], Feb. 10, 1996, [110 Stat. 461][/us/stat/110/461].)
 

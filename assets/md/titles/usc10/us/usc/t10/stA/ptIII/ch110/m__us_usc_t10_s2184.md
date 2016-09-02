@@ -15,7 +15,7 @@
 
 ## § 2184. Termination of assistance
 
-Assistance under this chapter—
+    Assistance under this chapter—
 
     (1) shall be discontinued for any person whose conduct or progress is unsatisfactory under standards consistent with those established under [section 3524 of title 38][/us/usc/t38/s3524]; and
 

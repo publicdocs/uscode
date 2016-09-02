@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch843/m__us_usc_t10_s8544, 8545.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch843/m__us_usc_t10_s8547.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8546)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch843/m__us_usc_t10_s8543.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch843/m__us_usc_t10_s8547.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8546)
 
 ## \[§ 8546. Repealed. [Pub. L. 85–861, § 36B(26)][/us/pl/85/861/s36B/26], Sept. 2, 1958, [72 Stat. 1571][/us/stat/72/1571]\]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch843/m__us_usc_t10_s8544, 8545.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch843/m__us_usc_t10_s8547.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8546)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch843/m__us_usc_t10_s8543.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch843/m__us_usc_t10_s8547.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8546)
 
 ----------
 ----------

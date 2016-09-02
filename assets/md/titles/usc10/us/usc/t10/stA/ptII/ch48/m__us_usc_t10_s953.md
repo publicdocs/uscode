@@ -15,7 +15,7 @@
 
 ## § 953. Remission or suspension of sentence; restoration to duty; reenlistment
 
-For offenders who were at the time of commission of their offenses subject to his authority and who merit such action, the Secretary concerned shall establish—
+    For offenders who were at the time of commission of their offenses subject to his authority and who merit such action, the Secretary concerned shall establish—
 
     (1) a system for the remission or suspension of the unexecuted part of the sentences of selected offenders;
 

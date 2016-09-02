@@ -15,7 +15,7 @@
 
 ## § 7225. Navy Reserve flag
 
-The Secretary of the Navy shall prescribe a suitable flag to be known as the Navy Reserve flag. This flag may be flown by a seagoing merchant vessel if—
+    The Secretary of the Navy shall prescribe a suitable flag to be known as the Navy Reserve flag. This flag may be flown by a seagoing merchant vessel if—
 
     (1) the vessel is documented under the laws of the United States;
 

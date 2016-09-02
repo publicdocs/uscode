@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3211.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3213, 3214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3212)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3211.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3215.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3212)
 
 ## \[§ 3212. Repealed. [Pub. L. 103–337, div. A, title XVI, § 1662(a)(3)][/us/pl/103/337/s1662/a/3], Oct. 5, 1994, [108 Stat. 2988][/us/stat/108/2988]\]
 
@@ -21,9 +21,19 @@
 
     Repeal effective Dec. 1, 1994, except as otherwise provided, see [section 1691 of Pub. L. 103–337][/us/pl/103/337/s1691], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001].
 
+\[§§ 3213, 3214. __Repealed.__  __[__  __Pub. L. 96–513, title II, § 202__  __][/us/pl/96/513/s202]__  __,__  __Dec. 12, 1980__  __,__  __[__  __94 Stat. 2878__  __][/us/stat/94/2878]__  __\]__ 
+
+    Section 3213, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 176][/us/stat/70A/176], prescribed authorized strength of Regular Army in warrant officers on active list.
+
+    Section 3214, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 176][/us/stat/70A/176]; Sept. 2, 1958, [Pub. L. 85–861, § 1(64)][/us/pl/85/861/s1/64], [72 Stat. 1463][/us/stat/72/1463], prescribed authorized strength of Regular Army in enlisted members on active duty, exclusive of officer candidates.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Sept. 15, 1981, see [section 701 of Pub. L. 96–513][/us/pl/96/513/s701], set out as an Effective Date of 1980 Amendment note under [section 101 of this title][/us/usc/t10/s101].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3211.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3213, 3214.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3212)
+[Previous](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3211.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch331/m__us_usc_t10_s3215.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3212)
 
 ----------
 ----------
@@ -43,5 +53,15 @@
 [/us/usc/t10/s12009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12009
 [/us/pl/103/337/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1691
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001
+[/us/pl/96/513/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs202
+[/us/stat/94/2878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2878
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F176
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F176
+[/us/pl/85/861/s1/64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F64
+[/us/stat/72/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1463
+[/us/pl/96/513/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701
+[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 
 

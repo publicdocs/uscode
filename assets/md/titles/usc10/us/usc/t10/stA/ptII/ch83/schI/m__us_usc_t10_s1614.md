@@ -15,7 +15,7 @@
 
 ## § 1614. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) The term “defense intelligence position” means a civilian position as an intelligence officer or intelligence employee of the Department of Defense.
 

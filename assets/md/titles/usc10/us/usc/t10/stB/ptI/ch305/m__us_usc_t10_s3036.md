@@ -399,9 +399,9 @@ By virtue of the authority vested in me by section 202(c) of the National Securi
 
                               J. C. Lambert,  
 
-    Major General, U.S. Army, 
+Major General, U.S. Army, 
 
-    The Adjutant General.
+The Adjutant General.
 
 ----------
 

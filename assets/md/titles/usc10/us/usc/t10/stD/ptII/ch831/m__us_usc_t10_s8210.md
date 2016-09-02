@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8203 to 8209.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8211.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8210)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8202.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8211.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8210)
 
 ## § 8210. Regular Air Force: strength in grade; general officers
 
@@ -447,7 +447,7 @@ July 20, 1956, ch. 646, § 302 (less 1st par.), 70 Stat. 587.  </td>
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8203 to 8209.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8211.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8210)
+[Previous](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8202.md) | [Next](./../../../../../..//us/usc/t10/stD/ptII/ch831/m__us_usc_t10_s8211.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8210)
 
 ----------
 ----------
