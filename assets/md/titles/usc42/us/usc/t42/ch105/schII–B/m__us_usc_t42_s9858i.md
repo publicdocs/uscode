@@ -25,7 +25,7 @@
 
             (B) __Required information__ 
 
-            The information required under this subparagraph shall include, with respect to a family unit receiving assistance under this subchapter information concerning—
+            The information required under this subparagraph shall include, with respect to a family unit receiving assistance under this subchapter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a a comma. </sup></sup>  information concerning—
 
                 (i) family income;
 
@@ -61,9 +61,11 @@
 
                 (viii) whether the child care provider involved was a relative;
 
-                (ix) the cost of child care for such families; and
+                (ix) the cost of child care for such families;
 
-                (x) the average hours per month of such care;
+                (x) the average hours per month of such care; and
+
+                (xi) whether the children receiving assistance under this subchapter are homeless children;
 
                 during the period for which such information is required to be submitted.
 
@@ -81,11 +83,15 @@
 
                     The Secretary shall provide the States with such case sampling plans and data collection procedures as the Secretary deems necessary to produce statistically valid samples of the information described in subparagraph (B). The Secretary may develop and implement procedures for verifying the quality of data submitted by the States.
 
+            (E) __Prohibition__ 
+
+                Reports submitted to the Secretary under subparagraph (C) shall not contain personally identifiable information.
+
         (2) __Annual reports__ 
 
-        Not later than December 31, 1997, and every 12 months thereafter, a State described in paragraph (1)(A) shall prepare and submit to the Secretary a report that includes aggregate data concerning—
+        Not later than 1 year after November 19, 2014, and annually thereafter,, <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  a State described in paragraph (1)(A) shall prepare and submit to the Secretary a report that includes aggregate data concerning—
 
-            (A) the number of child care providers that received funding under this subchapter as separately identified based on the types of providers listed in [section 9858n(5) of this title][/us/usc/t42/s9858n/5];
+            (A) the number of child care providers that received funding under this subchapter as separately identified based on the types of providers listed in [section 9858n(6) of this title][/us/usc/t42/s9858n/6];
 
             (B) the monthly cost of child care services, and the portion of such cost that is paid for with assistance provided under this subchapter, listed by the type of child care services provided;
 
@@ -93,7 +99,9 @@
 
             (D) the manner in which consumer education information was provided to parents and the number of parents to whom such information was provided; and
 
-            (E) the total number (without duplication) of children and families served under this subchapter;
+            (E) the total number (without duplication) of children and families served under this subchapter; and
+
+            (F) the number of child fatalities occurring among children while in the care and facility of child care providers receiving assistance under this subchapter, listed by type of child care provider and indicating whether the providers (excluding child care providers described in [section 9858n(6)(B) of this title][/us/usc/t42/s9858n/6/B]) are licensed or license-exempt. <sup>\[3\]</sup>  <sup><sup> 3 So in original. The period should probably be a semicolon. </sup></sup> 
 
             during the period for which such report is required to be submitted.
 
@@ -115,7 +123,7 @@
 
             Each State shall repay to the United States any amounts determined through an audit under this subsection not to have been expended in accordance with this subchapter, or the Secretary may offset such amounts against any other amount to which the State is or may be entitled under this subchapter.
 
-([Pub. L. 97–35, title VI, § 658K][/us/pl/97/35/s658K], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–243][/us/stat/104/1388-243]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 611][/us/pl/104/193/s611], Aug. 22, 1996, [110 Stat. 2284][/us/stat/110/2284]; [Pub. L. 105–33, title V, § 5602(2)][/us/pl/105/33/s5602/2], Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(FF), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1098; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(FF), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859.)
+([Pub. L. 97–35, title VI, § 658K][/us/pl/97/35/s658K], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–243][/us/stat/104/1388-243]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 611][/us/pl/104/193/s611], Aug. 22, 1996, [110 Stat. 2284][/us/stat/110/2284]; [Pub. L. 105–33, title V, § 5602(2)][/us/pl/105/33/s5602/2], Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646]; [Pub. L. 110–234, title IV, § 4002(b)(1)(B)][/us/pl/110/234/s4002/b/1/B], (2)(FF), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1098; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(B), (2)(FF), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1859; [Pub. L. 113–186, § 8(c)][/us/pl/113/186/s8/c], (e), Nov. 19, 2014, [128 Stat. 1996][/us/stat/128/1996], 1998.)
 
  __References in Text__ 
 
@@ -128,6 +136,18 @@
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1)(B)(xi). [Pub. L. 113–186, § 8(c)(1)][/us/pl/113/186/s8/c/1], which directed amendment of par. (1)(B) by adding cl. (xi) “at the end”, was executed by adding cl. (xi) after cl. (x), to reflect the probable intent of Congress and the presence of concluding provisions in par. (1)(B).
+
+    Subsec. (a)(1)(E). [Pub. L. 113–186, § 8(e)][/us/pl/113/186/s8/e], added subpar. (E).
+
+    Subsec. (a)(2). [Pub. L. 113–186, § 8(c)(2)(A)][/us/pl/113/186/s8/c/2/A], substituted “1 year after November 19, 2014, and annually thereafter,” for “December 31, 1997, and every 12 months thereafter” in introductory provisions.
+
+    Subsec. (a)(2)(A). [Pub. L. 113–186, § 8(c)(2)(B)][/us/pl/113/186/s8/c/2/B], substituted “section 9858n(6)” for “section 9858n(5)”.
+
+    Subsec. (a)(2)(E). [Pub. L. 113–186, § 8(c)(2)(C)][/us/pl/113/186/s8/c/2/C], which directed substitution of “; and” for period at end, was executed by making the substitution for semicolon at end, to reflect the probable intent of Congress.
+
+    Subsec. (a)(2)(F). [Pub. L. 113–186, § 8(c)(2)(D)][/us/pl/113/186/s8/c/2/D], which directed amendment of par. (2) by adding subpar. (F) “at the end”, was executed by adding subpar. (F) after subpar. (E), to reflect the probable intent of Congress and the presence of concluding provisions in par. (2).
 
     2008—Subsec. (a)(1)(B)(v)(IV). [Pub. L. 110–246, § 4002(b)(1)(B)][/us/pl/110/246/s4002/b/1/B], (2)(FF), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
 
@@ -179,7 +199,8 @@
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t42/s609/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs609%2Fa%2F7
 [/us/usc/t7/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2011
-[/us/usc/t42/s9858n/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858n%2F5
+[/us/usc/t42/s9858n/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858n%2F6
+[/us/usc/t42/s9858n/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858n%2F6%2FB
 [/us/usc/t42/s9858c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fd
 [/us/pl/97/35/s658K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658K
 [/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
@@ -196,6 +217,8 @@
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/pl/113/186/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fc
+[/us/stat/128/1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1996
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
@@ -206,6 +229,12 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/113/186/s8/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fc%2F1
+[/us/pl/113/186/s8/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fe
+[/us/pl/113/186/s8/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fc%2F2%2FA
+[/us/pl/113/186/s8/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fc%2F2%2FB
+[/us/pl/113/186/s8/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fc%2F2%2FC
+[/us/pl/113/186/s8/c/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fc%2F2%2FD
 [/us/pl/110/246/s4002/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FB
 [/us/pl/105/33/s5602/2/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5602%2F2%2FA%2Fi%2FI
 [/us/pl/105/33/s5602/2/A/i/II/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5602%2F2%2FA%2Fi%2FII%2Faa

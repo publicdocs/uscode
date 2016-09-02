@@ -19,6 +19,12 @@
 
 ([Pub. L. 97–35, title VI, § 612][/us/pl/97/35/s612], Aug. 13, 1981, [95 Stat. 489][/us/stat/95/489].)
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–186, § 1][/us/pl/113/186/s1], Nov. 19, 2014, [128 Stat. 1971][/us/stat/128/1971], provided that: 
+
+> “This Act \[enacting sections 9858f and 9858r of this title and amending sections 9858, 9858b to 9858e, 9858g, 9858i, 9858j, and 9858m to 9858o of this title and provisions set out as notes under this section and [section 9858 of this title][/us/usc/t42/s9858]\] may be cited as the ‘Child Care and Development Block Grant Act of 2014’.”
+
  __Short Title of 2007 Amendment__ 
 
 [Pub. L. 110–134, § 1(a)][/us/pl/110/134/s1/a], Dec. 12, 2007, [121 Stat. 1363][/us/stat/121/1363], provided that: 
@@ -101,9 +107,7 @@
 
 > “This subchapter \[subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], enacting subchapter II of this chapter\] may be cited as the ‘Head Start Act’.”
 
-[Pub. L. 97–35, title VI, § 658A(a)][/us/pl/97/35/s658A/a], as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], and amended by [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 602(2)][/us/pl/104/193/s602/2], Aug. 22, 1996, [110 Stat. 2279][/us/stat/110/2279], provided that: 
-
-> “This subchapter \[subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], enacting subchapter II–B of this chapter\] may be cited as the ‘Child Care and Development Block Grant Act of 1990’.”
+    [Pub. L. 97–35, title VI][/us/pl/97/35], subtitle A, ch. 8, subch. C, § 658A(a), as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], and amended by [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 602(2)][/us/pl/104/193/s602/2], Aug. 22, 1996, [110 Stat. 2279][/us/stat/110/2279]; [Pub. L. 113–186, § 2][/us/pl/113/186/s2], Nov. 19, 2014, [128 Stat. 1971][/us/stat/128/1971], which provided that subchapter II–B of this chapter could be cited as the “Child Care and Development Block Grant Act of 1990” and was formerly set out as a note under this section, was transferred to [section 9857(a) of this title][/us/usc/t42/s9857/a].
 
     [Pub. L. 97–35, title VI][/us/pl/97/35], subtitle A, ch. 8, subch. D, § 661, formerly subch. C, § 661, Aug. 13, 1981, [95 Stat. 508][/us/stat/95/508], as renumbered by [Pub. L. 101–508, title V, § 5082(1)][/us/pl/101/508/s5082/1], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], and amended by [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036], provided that former subchapter III of this chapter could be cited as the “Follow Through Act”, prior to repeal by [Pub. L. 103–382, title III, § 391(w)][/us/pl/103/382/s391/w], Oct. 20, 1994, [108 Stat. 4025][/us/stat/108/4025].
 
@@ -130,6 +134,9 @@
 
 [/us/pl/97/35/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs612
 [/us/stat/95/489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F489
+[/us/pl/113/186/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs1
+[/us/stat/128/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1971
+[/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
 [/us/pl/110/134/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F134%2Fs1%2Fa
 [/us/stat/121/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1363
 [/us/pl/105/285/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285%2Fs1
@@ -185,7 +192,7 @@
 [/us/pl/97/35/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs635
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/97/35/s658A/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658A%2Fa
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
 [/us/stat/104/1388-236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-236
 [/us/pl/102/401/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401%2Fs3%2Fa
@@ -194,7 +201,9 @@
 [/us/stat/106/5036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5036
 [/us/pl/104/193/s602/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs602%2F2
 [/us/stat/110/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2279
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/113/186/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs2
+[/us/stat/128/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1971
+[/us/usc/t42/s9857/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857%2Fa
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F508
 [/us/pl/101/508/s5082/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F1

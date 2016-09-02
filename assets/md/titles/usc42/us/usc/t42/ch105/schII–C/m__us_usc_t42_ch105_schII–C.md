@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858q.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–C/m__us_usc_t42_s9859.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschII%E2%80%93C)
+[Previous](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858r.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–C/m__us_usc_t42_s9859.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschII%E2%80%93C)
 
 ### SUBCHAPTER II–C—CHILD CARE SAFETY AND HEALTH GRANTS
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858q.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–C/m__us_usc_t42_s9859.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschII%E2%80%93C)
+[Previous](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858r.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–C/m__us_usc_t42_s9859.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch105%2FschII%E2%80%93C)
 
 ----------
 ----------

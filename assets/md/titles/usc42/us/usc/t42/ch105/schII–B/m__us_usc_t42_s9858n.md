@@ -25,7 +25,17 @@
 
         The term “child care certificate” means a certificate (that may be a check or other disbursement) that is issued by a State or local government under this subchapter directly to a parent who may use such certificate only as payment for child care services or as a deposit for child care services if such a deposit is required of other children being cared for by the provider. Nothing in this subchapter shall preclude the use of such certificates for sectarian child care services if freely chosen by the parent. For purposes of this subchapter, child care certificates shall not be considered to be grants or contracts.
 
-    (3) __Repealed.__  __[__  __Pub. L. 104–193, title VI, § 614(2)__  __][/us/pl/104/193/s614/2]__  __,__  __Aug. 22, 1996__  __,__  __[__  __110 Stat. 2287__  __][/us/stat/110/2287]__ 
+    (3) __Child with a disability__ 
+
+    The term “child with a disability” means—
+
+        (A) a child with a disability, as defined in section 602 of the Individuals with Disabilities Education Act ([20 U.S.C. 1401][/us/usc/t20/s1401]);
+
+        (B) a child who is eligible for early intervention services under part C of the Individuals with Disabilities Education Act ([20 U.S.C. 1431][/us/usc/t20/s1431] et seq.);
+
+        (C) a child who is less than 13 years of age and who is eligible for services under [section 794 of title 29][/us/usc/t29/s794]; and
+
+        (D) a child with a disability, as defined by the State involved.
 
     (4) __Eligible child__ 
 
@@ -33,7 +43,7 @@
 
         (A) who is less than 13 years of age;
 
-        (B) whose family income does not exceed 85 percent of the State median income for a family of the same size; and
+        (B) whose family income does not exceed 85 percent of the State median income for a family of the same size, and whose family assets do not exceed $1,000,000 (as certified by a member of such family); and
 
         (C)
 
@@ -43,7 +53,11 @@
 
             (ii) is receiving, or needs to receive, protective services and resides with a parent or parents not described in clause (i).
 
-    (5) __Eligible child care provider__ 
+    (5) __English learner__ 
+
+        The term “English learner” means an individual who is limited English proficient, as defined in [section 7801 of title 20][/us/usc/t20/s7801] or [section 9832 of this title][/us/usc/t42/s9832].
+
+    (6) __Eligible child care provider__ 
 
     The term “eligible child care provider” means—
 
@@ -51,45 +65,47 @@
 
          a center-based child care provider, a group home child care provider, a family child care provider, or other provider of child care services for compensation that—
 
-            (i) is licensed, regulated, or registered under State law as described in [section 9858c(c)(2)(E) of this title][/us/usc/t42/s9858c/c/2/E]; and
+            (i) is licensed, regulated, or registered under State law as described in [section 9858c(c)(2)(F) of this title][/us/usc/t42/s9858c/c/2/F]; and
 
-            (ii) satisfies the State and local requirements, including those referred to in [section 9858c(c)(2)(F) of this title][/us/usc/t42/s9858c/c/2/F];
+            (ii) satisfies the State and local requirements, including those referred to in [section 9858c(c)(2)(I) of this title][/us/usc/t42/s9858c/c/2/I];
 
             applicable to the child care services it provides; or
 
         (B) a child care provider that is 18 years of age or older who provides child care services only to eligible children who are, by affinity or consanguinity, or by court decree, the grandchild, great grandchild, sibling (if such provider lives in a separate residence), niece, or nephew of such provider, if such provider complies with any applicable requirements that govern child care provided by the relative involved.
 
-    (6) __Family child care provider__ 
+    (7) __Family child care provider__ 
 
         The term “family child care provider” means one individual who provides child care services for fewer than 24 hours per day, as the sole caregiver, and in a private residence.
 
-    (7) __Indian tribe__ 
+    (8) __Indian tribe__ 
 
         The term “Indian tribe” has the meaning given it in [section 450b(e) of title 25][/us/usc/t25/s450b/e].
 
-    (8) __Lead agency__ 
+    (9) __Lead agency__ 
 
-        The term “lead agency” means the agency designated under section 9858(a)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
+        The term “lead agency” means the agency designated or established under [section 9858b(a) of this title][/us/usc/t42/s9858b/a].
 
-    (9) __Parent__ 
+    (10) __Parent__ 
 
-        The term “parent” includes a legal guardian or other person standing in loco parentis.
+        The term “parent” includes a legal guardian, foster parent, or other person standing in loco parentis.
 
-    (10) __Repealed.__  __[__  __Pub. L. 104–193, title VI, § 614(5)__  __][/us/pl/104/193/s614/5]__  __,__  __Aug. 22, 1996__  __,__  __[__  __110 Stat. 2287__  __][/us/stat/110/2287]__ 
+    (11) __Scientifically valid research__ 
 
-    (11) __Secretary__ 
+        The term “scientifically valid research” includes applied research, basic research, and field-initiated research, for which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
+
+    (12) __Secretary__ 
 
         The term “Secretary” means the Secretary of Health and Human Services unless the context specifies otherwise.
 
-    (12) __Sliding fee scale__ 
+    (13) __Sliding fee scale__ 
 
         The term “sliding fee scale” means a system of cost sharing by a family based on income and size of the family.
 
-    (13) __State__ 
+    (14) __State__ 
 
         The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-    (14) __Tribal organization__ 
+    (15) __Tribal organization__ 
 
         (A) __In general__ 
 
@@ -97,17 +113,31 @@
 
         (B) __Other organizations__ 
 
-            Such term includes a Native Hawaiian Organization, as defined in section 4909(4) 1 of title 20 and a private nonprofit organization established for the purpose of serving youth who are Indians or Native Hawaiians.
+            Such term includes a Native Hawaiian Organization, as defined in section 4909(4)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 20 and a private nonprofit organization established for the purpose of serving youth who are Indians or Native Hawaiians.
 
-([Pub. L. 97–35, title VI, § 658P][/us/pl/97/35/s658P], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–248][/us/stat/104/1388-248]; amended [Pub. L. 102–401, § 3][/us/pl/102/401/s3], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)][/us/pl/102/586/s8/c], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 103–171, § 8][/us/pl/103/171/s8], Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994]; [Pub. L. 104–193, title VI, § 614][/us/pl/104/193/s614], Aug. 22, 1996, [110 Stat. 2287][/us/stat/110/2287]; [Pub. L. 105–33, title V, § 5602(5)][/us/pl/105/33/s5602/5], Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646].)
+([Pub. L. 97–35, title VI, § 658P][/us/pl/97/35/s658P], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–248][/us/stat/104/1388-248]; amended [Pub. L. 102–401, § 3][/us/pl/102/401/s3], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)][/us/pl/102/586/s8/c], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 103–171, § 8][/us/pl/103/171/s8], Dec. 2, 1993, [107 Stat. 1994][/us/stat/107/1994]; [Pub. L. 104–193, title VI, § 614][/us/pl/104/193/s614], Aug. 22, 1996, [110 Stat. 2287][/us/stat/110/2287]; [Pub. L. 105–33, title V, § 5602(5)][/us/pl/105/33/s5602/5], Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646]; [Pub. L. 113–186, § 10][/us/pl/113/186/s10], Nov. 19, 2014, [128 Stat. 2000][/us/stat/128/2000].)
 
  __References in Text__ 
 
-    [Section 9858 of this title][/us/usc/t42/s9858], referred to in par. (8), does not contain a subsec. (a) and does not relate to designation of lead agencies. For provisions relating to designation of a State agency to act as a lead agency, see [section 9858b(a) of this title][/us/usc/t42/s9858b/a].
+    The Individuals with Disabilities Education Act, referred to in par. (3)(B), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175]. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
 
-    [Section 4909 of title 20][/us/usc/t20/s4909], referred to in par. (14)(B), was repealed by [Pub. L. 103–382, title III, § 363][/us/pl/103/382/s363], Oct. 20, 1994, [108 Stat. 3975][/us/stat/108/3975].
+    [Section 4909 of title 20][/us/usc/t20/s4909], referred to in par. (15)(B), was repealed by [Pub. L. 103–382, title III, § 363][/us/pl/103/382/s363], Oct. 20, 1994, [108 Stat. 3975][/us/stat/108/3975].
 
  __Amendments__ 
+
+    2014—Pars. (3), (4). [Pub. L. 113–186, § 10(1)][/us/pl/113/186/s10/1], added pars. (3) and (4) and struck out former par. (4) which defined “eligible child”.
+
+    Par. (5). [Pub. L. 113–186, § 10(3)][/us/pl/113/186/s10/3], added par. (5). Former par. (5) redesignated (6).
+
+    Par. (6). [Pub. L. 113–186, § 10(2)][/us/pl/113/186/s10/2], (4), redesignated par. (5) as (6) and substituted “9858c(c)(2)(F)” for “9858c(c)(2)(E)” in subpar. (A)(i) and “9858c(c)(2)(I)” for “9858c(c)(2)(F)” in subpar. (A)(ii). Former par. (6) redesignated (7).
+
+    Pars. (7), (8). [Pub. L. 113–186, § 10(2)][/us/pl/113/186/s10/2], redesignated pars. (6) and (7) as (7) and (8), respectively. Former pars. (7) and (8) redesignated (8) and (9), respectively.
+
+    Par. (9). [Pub. L. 113–186, § 10(2)][/us/pl/113/186/s10/2], (5), redesignated par. (8) as (9) and substituted “designated or established under section 9858b(a)” for “designated under section 9858(a)”. Former par. (9) redesignated (10).
+
+    Par. (10). [Pub. L. 113–186, § 10(2)][/us/pl/113/186/s10/2], (6), redesignated par. (9) as (10) and inserted “, foster parent,” after “guardian”.
+
+    Pars. (11) to (15). [Pub. L. 113–186, § 10(7)][/us/pl/113/186/s10/7], (8), added par. (11) and redesignated former pars. (11) to (14) as (12) to (15), respectively.
 
     1997—Par. (13). [Pub. L. 105–33][/us/pl/105/33] substituted “and” for “or” after “American Samoa,”.
 
@@ -158,13 +188,15 @@
 ----------
 ----------
 
-[/us/pl/104/193/s614/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs614%2F2
-[/us/stat/110/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2287
-[/us/usc/t42/s9858c/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fc%2F2%2FE
+[/us/usc/t20/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1401
+[/us/usc/t20/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1431
+[/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t42/s9832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9832
 [/us/usc/t42/s9858c/c/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fc%2F2%2FF
+[/us/usc/t42/s9858c/c/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fc%2F2%2FI
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
-[/us/pl/104/193/s614/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs614%2F5
-[/us/stat/110/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2287
+[/us/usc/t42/s9858b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858b%2Fa
 [/us/pl/97/35/s658P]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658P
 [/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
 [/us/stat/104/1388-248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-248
@@ -178,11 +210,21 @@
 [/us/stat/110/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2287
 [/us/pl/105/33/s5602/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5602%2F5
 [/us/stat/111/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F646
-[/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
-[/us/usc/t42/s9858b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858b%2Fa
+[/us/pl/113/186/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs10
+[/us/stat/128/2000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2000
+[/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
+[/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
+[/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t20/s4909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4909
 [/us/pl/103/382/s363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs363
 [/us/stat/108/3975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3975
+[/us/pl/113/186/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs10%2F1
+[/us/pl/113/186/s10/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs10%2F3
+[/us/pl/113/186/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs10%2F2
+[/us/pl/113/186/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs10%2F2
+[/us/pl/113/186/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs10%2F2
+[/us/pl/113/186/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs10%2F2
+[/us/pl/113/186/s10/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs10%2F7
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193/s614/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs614%2F1
 [/us/pl/104/193/s614/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs614%2F2

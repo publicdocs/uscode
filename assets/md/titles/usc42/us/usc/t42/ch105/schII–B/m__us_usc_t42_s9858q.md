@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858p.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–C/m__us_usc_t42_ch105_schII–C.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858q)
+[Previous](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858p.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858r.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858q)
 
 ## § 9858q. Miscellaneous provisions
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858p.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–C/m__us_usc_t42_ch105_schII–C.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858q)
+[Previous](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858p.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858r.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858q)
 
 ----------
 ----------

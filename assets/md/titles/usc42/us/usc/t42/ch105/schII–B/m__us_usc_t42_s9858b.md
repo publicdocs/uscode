@@ -17,7 +17,7 @@
 
     (a) __Designation__ 
 
-        The chief executive officer of a State desiring to receive a grant under this subchapter shall designate, in an application submitted to the Secretary under [section 9858c of this title][/us/usc/t42/s9858c], an appropriate State agency that complies with the requirements of subsection (b) of this section to act as the lead agency.
+        The Governor of a State desiring to receive a grant under this subchapter shall designate an agency (which may be an appropriate collaborative agency), or establish a joint interagency office, that complies with the requirements of subsection (b) to serve as the lead agency for the State under this subchapter.
 
     (b) __Duties__ 
 
@@ -29,17 +29,23 @@
 
             (B) develop the State plan to be submitted to the Secretary under [section 9858c(a) of this title][/us/usc/t42/s9858c/a];
 
-            (C) in conjunction with the development of the State plan as required under subparagraph (B), hold at least one hearing in the State with sufficient time and Statewide distribution of the notice of such hearing, to provide to the public an opportunity to comment on the provision of child care services under the State plan; and
+            (C) in conjunction with the development of the State plan as required under subparagraph (B), hold at least one hearing in the State with sufficient time and Statewide distribution of the notice of such hearing, to provide to the public an opportunity to comment on the provision of child care services under the State plan;
 
-            (D) coordinate the provision of services under this subchapter with other Federal, State and local child care and early childhood development programs.
+            (D) coordinate the provision of services under this subchapter with other Federal, State and local child care and early childhood development programs; and
+
+            (E) at the option of an Indian tribe or tribal organization in the State, collaborate and coordinate with such Indian tribe or tribal organization in the development of the State plan in a timely manner.
 
         (2) __Development of plan__ 
 
             In the development of the State plan described in paragraph (1)(B), the lead agency shall consult with appropriate representatives of units of general purpose local government.
 
-([Pub. L. 97–35, title VI, § 658D][/us/pl/97/35/s658D], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 604][/us/pl/104/193/s604], Aug. 22, 1996, [110 Stat. 2281][/us/stat/110/2281].)
+([Pub. L. 97–35, title VI, § 658D][/us/pl/97/35/s658D], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 604][/us/pl/104/193/s604], Aug. 22, 1996, [110 Stat. 2281][/us/stat/110/2281]; [Pub. L. 113–186, § 4][/us/pl/113/186/s4], Nov. 19, 2014, [128 Stat. 1972][/us/stat/128/1972].)
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–186, § 4(a)][/us/pl/113/186/s4/a], substituted “Governor” for “chief executive officer” and “designate an agency (which may be an appropriate collaborative agency), or establish a joint interagency office, that complies with the requirements of subsection (b) to serve as the lead agency for the State under this subchapter” for “designate, in an application submitted to the Secretary under [section 9858c of this title][/us/usc/t42/s9858c], an appropriate State agency that complies with the requirements of subsection (b) of this section to act as the lead agency”.
+
+    Subsec. (b)(1)(E). [Pub. L. 113–186, § 4(b)][/us/pl/113/186/s4/b], added subpar. (E).
 
     1996—Subsec. (b)(1)(A). [Pub. L. 104–193, § 604(1)(A)][/us/pl/104/193/s604/1/A], substituted “governmental or nongovernmental agencies” for “State agencies”.
 
@@ -60,7 +66,6 @@
 ----------
 ----------
 
-[/us/usc/t42/s9858c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c
 [/us/usc/t42/s9858c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fa
 [/us/pl/97/35/s658D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658D
 [/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
@@ -71,6 +76,11 @@
 [/us/stat/106/5036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5036
 [/us/pl/104/193/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs604
 [/us/stat/110/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2281
+[/us/pl/113/186/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs4
+[/us/stat/128/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1972
+[/us/pl/113/186/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs4%2Fa
+[/us/usc/t42/s9858c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c
+[/us/pl/113/186/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs4%2Fb
 [/us/pl/104/193/s604/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs604%2F1%2FA
 [/us/pl/104/193/s604/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs604%2F1%2FB
 [/us/pl/104/193/s604/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs604%2F2

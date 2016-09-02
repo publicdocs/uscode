@@ -551,9 +551,7 @@
 
                         <td> 
 
-                      BASELINE GASOLINE FUEL
-
-                      PROPERTIES  </td>
+                      BASELINE GASOLINE FUEL PROPERTIES  </td>
 
                         <td> 
 

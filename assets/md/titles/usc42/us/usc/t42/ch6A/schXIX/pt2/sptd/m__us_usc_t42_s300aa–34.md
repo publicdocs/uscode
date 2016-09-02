@@ -49,9 +49,7 @@
 
             <td> 
 
-        Total
-
-        number of awards by the end of the period reviewed  </td>
+        Total number of awards by the end of the period reviewed  </td>
 
   </tr>
 

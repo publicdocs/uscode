@@ -23,7 +23,29 @@
 
         (2) __Indians__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “Indian”.__  __ </sup></sup> __  __tribes__ 
 
-            The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of the amount appropriated under [section 9858 of this title][/us/usc/t42/s9858] in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c) of this section.
+            (A) __In general__ 
+
+                The Secretary shall reserve not less than 2 percent of the amount appropriated under [section 9858 of this title][/us/usc/t42/s9858] in each fiscal year for payments to Indian tribes and tribal organizations with applications approved under subsection (c) of this section.
+
+            (B) __Limitations__ 
+
+            Notwithstanding subparagraph (A), the Secretary shall only reserve an amount that is greater than 2 percent of the amount appropriated under [section 9858 of this title][/us/usc/t42/s9858], for payments described in subparagraph (A), for a fiscal year (referred to in this subparagraph as the “reservation year”) if—
+
+                (i) the amount appropriated under [section 9858 of this title][/us/usc/t42/s9858] for the reservation year is greater than the amount appropriated under [section 9858 of this title][/us/usc/t42/s9858] for fiscal year 2014; and
+
+                (ii) the Secretary ensures that the amount allotted to States under subsection (b) for the reservation year is not less than the amount allotted to States under subsection (b) for fiscal year 2014.
+
+        (3) __National toll-free hotline and Web site__ 
+
+            The Secretary shall reserve up to $1,500,000 of the amount appropriated under this subchapter for each fiscal year for the operation of a national toll-free hotline and Web site, under [section 9858j(b) of this title][/us/usc/t42/s9858j/b].
+
+        (4) __Technical assistance__ 
+
+            The Secretary shall reserve up to ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to support technical assistance and dissemination activities under paragraphs (3) and (4) of [section 9858g(a) of this title][/us/usc/t42/s9858g/a].
+
+        (5) __Research, demonstration, and evaluation__ 
+
+            The Secretary may reserve ½ of 1 percent of the amount appropriated under this subchapter for each fiscal year to conduct research and demonstration activities, as well as periodic external, independent evaluations of the impact of the program described by this subchapter on increasing access to child care services and improving the safety and quality of child care services, using scientifically valid research methodologies, and to disseminate the key findings of those evaluations widely and on a timely basis.
 
     (b) __State allotment__ 
 
@@ -89,6 +111,10 @@
 
                 The applicant will make such reports on, and conduct such audits of, programs and activities under a grant or contract under this section as the Secretary may require.
 
+            (D) __Licensing and standards__ 
+
+                In lieu of any licensing and regulatory requirements applicable under State or local law, the Secretary, in consultation with Indian tribes and tribal organizations, shall develop minimum child care standards that shall be applicable to Indian tribes and tribal organizations receiving assistance under this subchapter. Such standards shall appropriately reflect Indian tribe and tribal organization needs and available resources, and shall include standards requiring a publicly available application, health and safety standards, and standards requiring a reservation of funds for activities to improve the quality of child care services provided to Indian children.
+
         (3) __Consideration of secretarial approval__ 
 
         In determining whether to approve an application for a grant or contract under this section, the Secretary shall take into consideration—
@@ -117,7 +143,23 @@
 
             (C) __Limitation__ 
 
-                The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.
+                (i) __In general__ 
+
+                    Except as provided in clause (ii), the Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if the use will result in a decrease in the level of child care services provided by the Indian tribe or tribal organization as compared to the level of child care services provided by the Indian tribe or tribal organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.
+
+                (ii) __Waiver__ 
+
+                The Secretary shall waive the limitation described in clause (i) if—
+
+                    (I) the Secretary determines that the decrease in the level of child care services provided by the Indian tribe or tribal organization is temporary; and
+
+                    (II)
+
+                     the Indian tribe or tribal organization submits to the Secretary a plan that demonstrates that after the date on which the construction or renovation is completed—
+
+                        (aa) the level of child care services will increase; or
+
+                        (bb) the quality of child care services will improve.
 
             (D) __Uniform procedures__ 
 
@@ -155,13 +197,21 @@
 
         For the purposes of this section, the term “State” includes only the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-([Pub. L. 97–35, title VI, § 658O][/us/pl/97/35/s658O], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–246][/us/stat/104/1388-246]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 613][/us/pl/104/193/s613], Aug. 22, 1996, [110 Stat. 2286][/us/stat/110/2286]; [Pub. L. 105–33, title V, § 5602(4)][/us/pl/105/33/s5602/4], Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646]; [Pub. L. 106–78, title VII, § 752(b)(17)][/us/pl/106/78/s752/b/17], Oct. 22, 1999, [113 Stat. 1170][/us/stat/113/1170].)
+([Pub. L. 97–35, title VI, § 658O][/us/pl/97/35/s658O], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–246][/us/stat/104/1388-246]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 613][/us/pl/104/193/s613], Aug. 22, 1996, [110 Stat. 2286][/us/stat/110/2286]; [Pub. L. 105–33, title V, § 5602(4)][/us/pl/105/33/s5602/4], Aug. 5, 1997, [111 Stat. 646][/us/stat/111/646]; [Pub. L. 106–78, title VII, § 752(b)(17)][/us/pl/106/78/s752/b/17], Oct. 22, 1999, [113 Stat. 1170][/us/stat/113/1170]; [Pub. L. 113–186, § 9][/us/pl/113/186/s9], Nov. 19, 2014, [128 Stat. 1998][/us/stat/128/1998].)
 
  __References in Text__ 
 
     The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], [60 Stat. 230][/us/stat/60/230], as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title][/us/usc/t42/s1751] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–186, § 9(1)(A)][/us/pl/113/186/s9/1/A], designated existing provisions as subpar. (A), inserted heading, substituted “2 percent” for “1 percent, and not more than 2 percent,”, and added subpar. (B).
+
+    Subsec. (a)(3) to (5). [Pub. L. 113–186, § 9(1)(B)][/us/pl/113/186/s9/1/B], added pars. (3) to (5).
+
+    Subsec. (c)(2)(D). [Pub. L. 113–186, § 9(2)(A)][/us/pl/113/186/s9/2/A], added subpar. (D).
+
+    Subsec. (c)(6)(C). [Pub. L. 113–186, § 9(2)(B)][/us/pl/113/186/s9/2/B], added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “The Secretary may not permit an Indian tribe or tribal organization to use amounts provided under this subsection for construction or renovation if such use will result in a decrease in the level of child care services provided by the tribe or organization as compared to the level of such services provided by the tribe or organization in the fiscal year preceding the year for which the determination under subparagraph (B) is being made.”
 
     1999—Subsec. (b)(3). [Pub. L. 106–78][/us/pl/106/78] substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
@@ -196,6 +246,11 @@
 
 [/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
 [/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
+[/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
+[/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
+[/us/usc/t42/s9858j/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858j%2Fb
+[/us/usc/t42/s9858g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858g%2Fa
+[/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
 [/us/usc/t42/s9858c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fd
 [/us/usc/t42/s9858c/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fd
@@ -212,9 +267,15 @@
 [/us/stat/111/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F646
 [/us/pl/106/78/s752/b/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F17
 [/us/stat/113/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1170
+[/us/pl/113/186/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs9
+[/us/stat/128/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1998
 [/us/act/1946-06-04/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-04%2Fch281
 [/us/stat/60/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F230
 [/us/usc/t42/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1751
+[/us/pl/113/186/s9/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs9%2F1%2FA
+[/us/pl/113/186/s9/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs9%2F1%2FB
+[/us/pl/113/186/s9/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs9%2F2%2FA
+[/us/pl/113/186/s9/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs9%2F2%2FB
 [/us/pl/106/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193/s613/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs613%2F1%2FA

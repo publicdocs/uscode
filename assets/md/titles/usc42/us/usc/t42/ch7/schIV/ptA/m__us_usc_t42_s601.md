@@ -313,7 +313,7 @@
 
 >         “(1) Part A of title IV of the Social Security Act \[[42 U.S.C. 601][/us/usc/t42/s601] et seq.\] (relating to block grants for temporary assistance for needy families).
 
->         “(2) The Child Care and Development Block Grant Act of 1990 \[[42 U.S.C. 9858][/us/usc/t42/s9858] et seq.\] (relating to block grants for child care).”
+>         “(2) The Child Care and Development Block Grant Act of 1990 \[[42 U.S.C. 9857][/us/usc/t42/s9857] et seq.\] (relating to block grants for child care).”
 
 ----------
 
@@ -379,6 +379,6 @@
 [/us/pl/104/193/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs901
 [/us/stat/110/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2347
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
+[/us/usc/t42/s9857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857
 
 

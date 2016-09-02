@@ -529,6 +529,14 @@ SUBCHAPTER II–B—CHILD CARE AND DEVELOPMENT BLOCK GRANT  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9857" data-uslm-ref="/us/usc/t42/s9857">9857.</a>  </td>
+
+    <td> Short title and purposes.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9858" data-uslm-ref="/us/usc/t42/s9858">9858.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
@@ -571,7 +579,7 @@ SUBCHAPTER II–B—CHILD CARE AND DEVELOPMENT BLOCK GRANT  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9858e" data-uslm-ref="/us/usc/t42/s9858e">9858e.</a>  </td>
 
-    <td> Activities to improve quality of child care.  </td>
+    <td> Activities to improve the quality of child care.  </td>
 
   </tr>
 
@@ -579,7 +587,7 @@ SUBCHAPTER II–B—CHILD CARE AND DEVELOPMENT BLOCK GRANT  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9858f" data-uslm-ref="/us/usc/t42/s9858f">9858f.</a>  </td>
 
-    <td> Repealed.  </td>
+    <td> Criminal background checks.  </td>
 
   </tr>
 
@@ -611,7 +619,7 @@ SUBCHAPTER II–B—CHILD CARE AND DEVELOPMENT BLOCK GRANT  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9858j" data-uslm-ref="/us/usc/t42/s9858j">9858j.</a>  </td>
 
-    <td> Report by Secretary.  </td>
+    <td> Reports, hotline, and Web site.  </td>
 
   </tr>
 
@@ -668,6 +676,14 @@ SUBCHAPTER II–B—CHILD CARE AND DEVELOPMENT BLOCK GRANT  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9858q" data-uslm-ref="/us/usc/t42/s9858q">9858q.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs9858r" data-uslm-ref="/us/usc/t42/s9858r">9858r.</a>  </td>
+
+    <td> Studies on waiting lists.  </td>
 
   </tr>
 

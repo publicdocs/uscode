@@ -21,9 +21,13 @@
 
         (1) coordinate all activities of the Department of Health and Human Services relating to child care, and, to the maximum extent practicable, coordinate such activities with similar activities of other Federal entities;
 
-        (2) collect, publish and make available to the public a listing of State child care standards at least once every 3 years; and
+        (2) collect, publish, and make available to the public a listing of State child care standards at least once every 3 years;
 
-        (3) provide technical assistance to assist States to carry out this subchapter, including assistance on a reimbursable basis.
+        (3) provide technical assistance, such as business technical assistance, as described in [section 9858c(c)(2)(V) of this title][/us/usc/t42/s9858c/c/2/V], to States (which may include providing assistance on a reimbursable basis) which shall be provided by qualified experts on practices grounded in scientifically valid research, where appropriate, to carry out this subchapter;
+
+        (4) disseminate, for voluntary informational purposes, information on practices that scientifically valid research indicates are most successful in improving the quality of programs that receive assistance with this subchapter; and
+
+        (5) after consultation with the heads of any other Federal agencies involved, issue guidance and disseminate information on best practices regarding the use of funding combined by States as described in [section 9858c(c)(2)(O)(ii) of this title][/us/usc/t42/s9858c/c/2/O/ii], consistent with laws other than this subchapter.
 
     (b) __Enforcement__ 
 
@@ -59,9 +63,65 @@
 
             (B) imposing sanctions under this section.
 
-([Pub. L. 97–35, title VI, § 658I][/us/pl/97/35/s658I], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–242][/us/stat/104/1388-242]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 609][/us/pl/104/193/s609], Aug. 22, 1996, [110 Stat. 2284][/us/stat/110/2284].)
+    (c) __Request for relief__ 
+
+        (1) __In general__ 
+
+        The Secretary may waive for a period of not more than three years any provision under this subchapter or sanctions imposed upon a State in accordance with subsection (b)(2) upon the State’s request for such a waiver if the Secretary finds that—
+
+            (A) the request describes one or more conflicting or duplicative requirements preventing the effective delivery of child care services to justify a waiver, extraordinary circumstances, such as natural disaster or financial crisis, or an extended period of time for a State legislature to enact legislation to implement the provisions of this subchapter;
+
+            (B) such circumstances included in the request prevent the State from complying with any statutory or regulatory requirements of this subchapter;
+
+            (C) the waiver will, by itself, contribute to or enhance the State’s ability to carry out the purposes of this subchapter; and, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup> 
+
+            (D) the waiver will not contribute to inconsistency with the objectives of this law.
+
+        (2) __Contents__ 
+
+        Such request shall be provided to the Secretary in writing and will—
+
+            (A) detail each sanction or provision within this subchapter that the State seeks relief from;
+
+            (B) describe how a waiver from that sanction or provision of this subchapter will, by itself, improve delivery of child care services for children in the State; and
+
+            (C) certify that the health, safety, and well-being of children served through assistance received under this subchapter will not be compromised as a result of the waiver.
+
+        (3) __Approval__ 
+
+            Within 90 days after the receipt of a State’s request under this subsection, the Secretary shall inform the State of approval or disapproval of the request. If the plan is disapproved, the Secretary shall, at this time, inform the State, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate of the reasons for the disapproval and give the State the opportunity to amend the request. In the case of approval, the Secretary shall, within 30 days of granting such waiver, notify and submit a report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the circumstances of the waiver including each specific sanction or provision waived, the reason as given by the State of the need for a waiver, and the expected impact of the waiver on children served under this program.
+
+        (4) __External conditions__ 
+
+            The Secretary shall not require or impose any new or additional requirements in exchange for receipt of a waiver if such requirements are not specified in this subchapter.
+
+        (5) __Duration__ 
+
+            The Secretary may approve a request under this subsection for a period not to exceed three years, unless a renewal is granted under paragraph (7).
+
+        (6) __Termination__ 
+
+            The Secretary shall terminate approval of a request for a waiver authorized under this subsection if the Secretary determines, after notice and opportunity for a hearing, that the performance of a State granted relief under this subsection has been inadequate, or if such relief is no longer necessary to achieve its original purposes.
+
+        (7) __Renewal__ 
+
+            The Secretary may approve or disapprove a request from a State for renewal of an existing waiver under this subchapter for a period no longer than one year. A State seeking to renew their waiver approval must inform the Secretary of this intent no later than 30 days prior to the expiration date of the waiver. The State shall re-certify in its extension request the provisions in paragraph (2) of this subchapter, and shall also explain the need for additional time of relief from such sanction(s) or provisions approved under this law as provided in this subchapter.
+
+        (8) __Restrictions__ 
+
+            Nothing in this subchapter shall be construed as providing the Secretary the authority to permit States to alter the eligibility requirements for eligible children, including work requirements, job training, or educational program participation, that apply to the parents of eligible children under this subchapter. Nothing in this subsection shall be construed to allow the Secretary to waive anything related to his or her authority under this subchapter.
+
+([Pub. L. 97–35, title VI, § 658I][/us/pl/97/35/s658I], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–242][/us/stat/104/1388-242]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 609][/us/pl/104/193/s609], Aug. 22, 1996, [110 Stat. 2284][/us/stat/110/2284]; [Pub. L. 113–186, § 8(a)][/us/pl/113/186/s8/a], (b), Nov. 19, 2014, [128 Stat. 1994][/us/stat/128/1994], 1995.)
 
  __Amendments__ 
+
+    2014—Subsec. (a)(2). [Pub. L. 113–186, § 8(a)(1)][/us/pl/113/186/s8/a/1], inserted a comma after “publish” and struck out “and” at end.
+
+    Subsec. (a)(3). [Pub. L. 113–186, § 8(a)(2)][/us/pl/113/186/s8/a/2], added par. (3) and struck out former par. (3) which read as follows: “provide technical assistance to assist States to carry out this subchapter, including assistance on a reimbursable basis.”
+
+    Subsec. (a)(4), (5). [Pub. L. 113–186, § 8(a)(3)][/us/pl/113/186/s8/a/3], added pars. (4) and (5).
+
+    Subsec. (c). [Pub. L. 113–186, § 8(b)][/us/pl/113/186/s8/b], added subsec. (c).
 
     1996—Subsec. (b)(1). [Pub. L. 104–193, § 609(1)][/us/pl/104/193/s609/1], struck out “, and shall have the power to terminate payments to the State in accordance with paragraph (2)” before period at end.
 
@@ -80,6 +140,8 @@
 ----------
 ----------
 
+[/us/usc/t42/s9858c/c/2/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fc%2F2%2FV
+[/us/usc/t42/s9858c/c/2/O/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fc%2F2%2FO%2Fii
 [/us/usc/t42/s9858c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fc
 [/us/usc/t42/s9858c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858c%2Fc
 [/us/pl/97/35/s658I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658I
@@ -91,6 +153,12 @@
 [/us/stat/106/5036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5036
 [/us/pl/104/193/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs609
 [/us/stat/110/2284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2284
+[/us/pl/113/186/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fa
+[/us/stat/128/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1994
+[/us/pl/113/186/s8/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fa%2F1
+[/us/pl/113/186/s8/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fa%2F2
+[/us/pl/113/186/s8/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fa%2F3
+[/us/pl/113/186/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs8%2Fb
 [/us/pl/104/193/s609/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs609%2F1
 [/us/pl/104/193/s609/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs609%2F2
 [/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401

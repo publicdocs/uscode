@@ -35,11 +35,7 @@
 
             <td> 
 
-        Maximum
-
-        allowable
-
-        increase (in micrograms per cubic meter)  </td>
+        Maximum allowable increase (in micrograms per cubic meter)  </td>
 
   </tr>
 
@@ -139,11 +135,7 @@
 
             <td> 
 
-        Maximum
-
-        allowable
-
-        increase (in micrograms per cubic meter)  </td>
+        Maximum allowable increase (in micrograms per cubic meter)  </td>
 
   </tr>
 
@@ -243,11 +235,7 @@
 
             <td> 
 
-        Maximum
-
-        allowable
-
-        increase (in micrograms per cubic meter)  </td>
+        Maximum allowable increase (in micrograms per cubic meter)  </td>
 
   </tr>
 

@@ -11,15 +11,17 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_ch105_schII–B.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858)
+[Previous](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9857.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858)
 
 ## § 9858. Authorization of appropriations
 
-    There is authorized to be appropriated to carry out this subchapter $1,000,000,000 for each of the fiscal years 1996 through 2002.
+    There is authorized to be appropriated to carry out this subchapter $2,360,000,000 for fiscal year 2015, $2,478,000,000 for fiscal year 2016, $2,539,950,000 for fiscal year 2017, $2,603,448,750 for fiscal year 2018, $2,668,534,969 for fiscal year 2019, and $2,748,591,018 for fiscal year 2020.
 
-([Pub. L. 97–35, title VI, § 658B][/us/pl/97/35/s658B], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 603(a)][/us/pl/104/193/s603/a], Aug. 22, 1996, [110 Stat. 2279][/us/stat/110/2279].)
+([Pub. L. 97–35, title VI, § 658B][/us/pl/97/35/s658B], as added [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236]; amended [Pub. L. 102–401, § 3(a)][/us/pl/102/401/s3/a], Oct. 7, 1992, [106 Stat. 1959][/us/stat/106/1959]; [Pub. L. 102–586, § 8(c)(1)][/us/pl/102/586/s8/c/1], Nov. 4, 1992, [106 Stat. 5036][/us/stat/106/5036]; [Pub. L. 104–193, title VI, § 603(a)][/us/pl/104/193/s603/a], Aug. 22, 1996, [110 Stat. 2279][/us/stat/110/2279]; [Pub. L. 113–186, § 3][/us/pl/113/186/s3], Nov. 19, 2014, [128 Stat. 1971][/us/stat/128/1971].)
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–186][/us/pl/113/186] substituted “subchapter $2,360,000,000 for fiscal year 2015, $2,478,000,000 for fiscal year 2016, $2,539,950,000 for fiscal year 2017, $2,603,448,750 for fiscal year 2018, $2,668,534,969 for fiscal year 2019, and $2,748,591,018 for fiscal year 2020” for “subchapter $1,000,000,000 for each of the fiscal years 1996 through 2002”.
 
     1996—[Pub. L. 104–193][/us/pl/104/193] reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter, $750,000,000 for fiscal year 1991, $825,000,000 for fiscal year 1992, $925,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 and 1995.”
 
@@ -36,10 +38,6 @@
 >     “(b)  __Exception__  __.—__ 
 
 >     The amendment made by section 603(a) \[amending this section\] shall take effect on the date of enactment of this Act \[Aug. 22, 1996\].”
-
- __Short Title__ 
-
-    For short title of this subchapter as the Child Care and Development Block Grant Act of 1990, see [section 658A(a) of Pub. L. 97–35][/us/pl/97/35/s658A/a], as amended, set out as a note under [section 9801 of this title][/us/usc/t42/s9801].
 
  __Small Business Child Care Grant Program__ 
 
@@ -225,23 +223,11 @@
 
  __Goals of Subchapter__ 
 
-[Pub. L. 97–35, title VI, § 658A(b)][/us/pl/97/35/s658A/b], as added by [Pub. L. 104–193, title VI, § 602(3)][/us/pl/104/193/s602/3], Aug. 22, 1996, [110 Stat. 2279][/us/stat/110/2279], provided that: 
-
-> “The goals of this subchapter \[subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], enacting this subchapter\] are—
-
->     “(1) to allow each State maximum flexibility in developing child care programs and policies that best suit the needs of children and parents within such State;
-
->     “(2) to promote parental choice to empower working parents to make their own decisions on the child care that best suits their family’s needs;
-
->     “(3) to encourage States to provide consumer education information to help parents make informed choices about child care;
-
->     “(4) to assist States to provide child care to parents trying to achieve independence from public assistance; and
-
->     “(5) to assist States in implementing the health, safety, licensing, and registration standards established in State regulations.”
+    [Pub. L. 97–35, title VI][/us/pl/97/35], subtitle A, ch. 8, subch. C, § 658A(b), as added by [Pub. L. 104–193, title VI, § 602(3)][/us/pl/104/193/s602/3], Aug. 22, 1996, [110 Stat. 2279][/us/stat/110/2279], and amended by [Pub. L. 113–186, § 2][/us/pl/113/186/s2], Nov. 19, 2014, [128 Stat. 1971][/us/stat/128/1971], which provided the goals of this subchapter and was formerly set out as a note under this section, was amended generally by [Pub. L. 113–186][/us/pl/113/186] and subsequently transferred to [section 9857(b) of this title][/us/usc/t42/s9857/b].
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_ch105_schII–B.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858)
+[Previous](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9857.md) | [Next](./../../../../..//us/usc/t42/ch105/schII–B/m__us_usc_t42_s9858a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858)
 
 ----------
 ----------
@@ -255,6 +241,9 @@
 [/us/stat/106/5036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5036
 [/us/pl/104/193/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs603%2Fa
 [/us/stat/110/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2279
+[/us/pl/113/186/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs3
+[/us/stat/128/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1971
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/102/401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F401
 [/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
@@ -262,15 +251,16 @@
 [/us/pl/104/193/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs615
 [/us/stat/110/2287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2287
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
-[/us/pl/97/35/s658A/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658A%2Fa
-[/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
 [/us/pl/110/28/s8303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8303
 [/us/stat/121/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F206
 [/us/usc/t42/s9858n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858n
 [/us/usc/t42/s9858n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858n
-[/us/pl/97/35/s658A/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs658A%2Fb
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/104/193/s602/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs602%2F3
 [/us/stat/110/2279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2279
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/113/186/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186%2Fs2
+[/us/stat/128/1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1971
+[/us/pl/113/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F186
+[/us/usc/t42/s9857/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857%2Fb
 
 
