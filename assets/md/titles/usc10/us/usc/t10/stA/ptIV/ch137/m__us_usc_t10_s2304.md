@@ -875,7 +875,7 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 
 >         “(5)  __Covered system__  __.—__ 
 
->         The term ‘covered system’ means a national security system, as that term is defined in [section 3542(b) of title 44][/us/usc/t44/s3542/b], United States Code.
+>         The term ‘covered system’ means a national security system, as that term is defined in \[former\] [section 3542(b) of title 44][/us/usc/t44/s3542/b], United States Code \[see now [44 U.S.C. 3552(b)][/us/usc/t44/s3552/b]\].
 
 >         “(6)  __Covered item of supply__  __.—__ 
 
@@ -2273,6 +2273,7 @@ In subsection (a), the words “The Secretary of Defense is hereby directed that
 [/us/usc/t10/s2305/a/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2305%2Fa%2F1%2FC%2Fii
 [/us/usc/t10/s2304c/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304c%2Fd%2F3
 [/us/usc/t44/s3542/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb
+[/us/usc/t44/s3552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb
 [/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
 [/us/pl/111/84/s820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs820
 [/us/stat/123/2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2410

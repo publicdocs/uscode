@@ -81,7 +81,7 @@
 
  __Effective Date of 2000 Amendment__ 
 
-    Amendment by [Pub. L. 106–398][/us/pl/106/398] effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, § 1065\] of [Pub. L. 106–398][/us/pl/106/398], set out as an Effective Date note under [section 3531 of Title 44][/us/usc/t44/s3531], Public Printing and Documents.
+    Amendment by [Pub. L. 106–398][/us/pl/106/398] effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, § 1065\] of [Pub. L. 106–398][/us/pl/106/398], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], formerly set out as an Effective Date note under former [section 3531 of Title 44][/us/usc/t44/s3531], Public Printing and Documents.
 
  __Authorities, Capabilities, and Oversight of the United States Cyber Command__ 
 
@@ -223,7 +223,7 @@
 
 >             “(A) a major system, as that term is defined in [section 2302(5) of title 10][/us/usc/t10/s2302/5], United States Code;
 
->             “(B) a national security system, as that term is defined in [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2], United States Code; or
+>             “(B) a national security system, as that term is defined in \[former\] [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2], United States Code \[see now [44 U.S.C. 3552(b)(6)][/us/usc/t44/s3552/b/6]\]; or
 
 >             “(C) a Department of Defense information system categorized as Mission Assurance Category I in Department of Defense Directive 8500.01E that is funded by the Department of Defense.
 
@@ -479,7 +479,7 @@
 
 >         “(1) A major system, as that term is defined in [section 2302(5) of title 10][/us/usc/t10/s2302/5], United States Code.
 
->         “(2) A national security system, as that term is defined in [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2], United States Code.
+>         “(2) A national security system, as that term is defined in \[former\] [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2], United States Code \[see now [44 U.S.C. 3552(b)(6)][/us/usc/t44/s3552/b/6]\].
 
 >         “(3) Any Department of Defense information system categorized as Mission Assurance Category I.
 
@@ -609,6 +609,7 @@
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t44/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3531
 [/us/pl/113/66/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs932
 [/us/stat/127/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F829
@@ -619,6 +620,7 @@
 [/us/stat/126/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1884
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
 [/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
+[/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
 [/us/pl/112/239/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs941
 [/us/stat/126/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1889
 [/us/pl/112/81/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs922
@@ -630,6 +632,7 @@
 [/us/stat/124/4335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4335
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
 [/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
+[/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654

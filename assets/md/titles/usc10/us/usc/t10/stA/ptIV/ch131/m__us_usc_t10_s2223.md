@@ -49,11 +49,13 @@
 
         (2) The term “information technology” has the meaning given that term by [section 11101 of title 40][/us/usc/t40/s11101].
 
-        (3) The term “national security system” has the meaning given that term by [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2].
+        (3) The term “national security system” has the meaning given that term by section 3552(b)(5)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “3552(b)(6)”. </sup></sup>  of title 44.
 
-(Added [Pub. L. 105–261, div. A, title III, § 331(a)(1)][/us/pl/105/261/s331/a/1], Oct. 17, 1998, [112 Stat. 1967][/us/stat/112/1967]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 811(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–210; [Pub. L. 107–217, § 3(b)(1)][/us/pl/107/217/s3/b/1], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 109–364, div. A, title IX, § 906(b)][/us/pl/109/364/s906/b], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354].)
+(Added [Pub. L. 105–261, div. A, title III, § 331(a)(1)][/us/pl/105/261/s331/a/1], Oct. 17, 1998, [112 Stat. 1967][/us/stat/112/1967]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 811(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–210; [Pub. L. 107–217, § 3(b)(1)][/us/pl/107/217/s3/b/1], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 109–364, div. A, title IX, § 906(b)][/us/pl/109/364/s906/b], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 113–283, § 2(e)(5)(B)][/us/pl/113/283/s2/e/5/B], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087].)
 
  __Amendments__ 
+
+    2014—Subsec. (c)(3). [Pub. L. 113–283][/us/pl/113/283] substituted “section 3552(b)(5)” for “section 3542(b)(2)”.
 
     2006—Subsec. (c)(3). [Pub. L. 109–364][/us/pl/109/364] substituted “[section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2]” for “[section 11103 of title 40][/us/usc/t40/s11103]”.
 
@@ -221,7 +223,7 @@
 
 >             “(A) management, operational, and technical controls of every information system identified in the inventory required under [section 3505(c) of title 44][/us/usc/t44/s3505/c], United States Code; and
 
->             “(B) management, operational, and technical controls relied on for evaluations under [section 3545 of title 44][/us/usc/t44/s3545], United States Code.
+>             “(B) management, operational, and technical controls relied on for evaluations under \[former\] [section 3545 of title 44][/us/usc/t44/s3545], United States Code \[see now [44 U.S.C. 3555][/us/usc/t44/s3555]\].
 
 >     “(b)  __Definitions__  __.—__ 
 
@@ -237,7 +239,7 @@
 
 >         “(2) The term ‘information infrastructure’ means the underlying framework, equipment, and software that an information system and related assets rely on to process, transmit, receive, or store information electronically.
 
->         “(3) The term ‘national security system’ has the meaning given that term in [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2], United States Code.”
+>         “(3) The term ‘national security system’ has the meaning given that term in \[former\] [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2], United States Code \[see now [44 U.S.C. 3552(b)(6)][/us/usc/t44/s3552/b/6]\].”
 
 ----------
 
@@ -250,7 +252,6 @@
 [/us/usc/t40/s11315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11315
 [/us/usc/t44/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3506
 [/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
-[/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
 [/us/pl/105/261/s331/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs331%2Fa%2F1
 [/us/stat/112/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1967
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
@@ -259,6 +260,9 @@
 [/us/stat/116/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1295
 [/us/pl/109/364/s906/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs906%2Fb
 [/us/stat/120/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2354
+[/us/pl/113/283/s2/e/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F5%2FB
+[/us/stat/128/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3087
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
 [/us/usc/t40/s11103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11103
@@ -292,6 +296,8 @@
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
 [/us/usc/t44/s3505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3505%2Fc
 [/us/usc/t44/s3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3545
+[/us/usc/t44/s3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3555
 [/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
+[/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
 
 

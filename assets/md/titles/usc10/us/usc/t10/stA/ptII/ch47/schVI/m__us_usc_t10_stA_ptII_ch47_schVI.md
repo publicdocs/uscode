@@ -77,7 +77,7 @@ Compulsory self-incrimination prohibited.  </td>
 
     <td> 
 
-Investigation.  </td>
+Preliminary hearing.  </td>
 
   </tr>
 
@@ -131,48 +131,6 @@ Service of charges.  </td>
 
 </table>
 
- __Amendment of Analysis__ 
-
-    [Pub. L. 113–66, div. A, title XVII, § 1702(a)(2)][/us/pl/113/66/s1702/a/2], (d)(1), Dec. 26, 2013, [127 Stat. 955][/us/stat/127/955], 958, provided that, effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, this analysis is amended by striking the item relating to section 832 and inserting the following new item:
-
-<table>
-
-  <tr>
-
-    <td> 
-
-   </td>
-
-    <td> 
-
-Art.  </td>
-
-    <td> 
-
-   </td>
-
-  </tr>
-
-  <tr>
-
-    <td> 
-
-832.  </td>
-
-    <td> 
-
-32.  </td>
-
-    <td> 
-
-Preliminary hearing.  </td>
-
-  </tr>
-
-</table>
-
-    See 2013 Amendment note below.
-
  __Amendments__ 
 
     2013—[Pub. L. 113–66, div. A, title XVII, § 1702(a)(2)][/us/pl/113/66/s1702/a/2], Dec. 26, 2013, [127 Stat. 955][/us/stat/127/955], substituted “Preliminary hearing” for “Investigation” in item 832.
@@ -184,8 +142,6 @@ Preliminary hearing.  </td>
 ----------
 ----------
 
-[/us/pl/113/66/s1702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fa%2F2
-[/us/stat/127/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F955
 [/us/pl/113/66/s1702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fa%2F2
 [/us/stat/127/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F955
 

@@ -129,6 +129,10 @@ Oct. 12, 1949, ch. 681, §§ 413 (1st 17 words), 414, 63 Stat. 824, 825.  </td
 
 > “The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to unfitness determinations made on or after the date of the enactment of this Act \[Mar. 4, 1976\] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code.”
 
+ __Applicability of Subsection (d)__ 
+
+    Subsec. (d) of this section inapplicable with respect to flag officers of the Coast Guard during any period in which the Coast Guard is not operating as a service in the Navy, see [section 296 of Title 14][/us/usc/t14/s296], Coast Guard.
+
  __Ex. Ord. No. 10122. Regulations Governing Disability Pay, Hospitalization and Reexamination__ 
 
     Ex. Ord. No. 10122, Apr. 14, 1950, 15 F.R. 2173, as amended by Ex. Ord. 10400, Sept. 27, 1952, 17 F.R. 8648; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; Ex. Ord. No. 11733, July 30, 1973, 38 F.R. 20431 provided:
@@ -190,6 +194,7 @@ Oct. 12, 1949, ch. 681, §§ 413 (1st 17 words), 414, 63 Stat. 824, 825.  </td
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/pl/94/225/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F225%2Fs2%2Fb
 [/us/stat/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F202
+[/us/usc/t14/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs296
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
 [/us/usc/t37/s284/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs284%2Fb
 [/us/act/1935-08-30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-30%2Fs1

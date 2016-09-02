@@ -209,15 +209,17 @@
 
         (4) The terms “information system” and “information technology” have the meanings given those terms in [section 11101 of title 40][/us/usc/t40/s11101].
 
-        (5) The term “national security system” has the meaning given that term in [section 3542(b)(2) of title 44][/us/usc/t44/s3542/b/2].
+        (5) The term “national security system” has the meaning given that term in section 3552(b)(5)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “3552(b)(6)”. </sup></sup>  of title 44.
 
-(Added [Pub. L. 108–375, div. A, title III, § 332(a)(1)][/us/pl/108/375/s332/a/1], Oct. 28, 2004, [118 Stat. 1851][/us/stat/118/1851]; amended [Pub. L. 109–364, div. A, title IX, § 906(a)][/us/pl/109/364/s906/a], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 351, Oct. 14, 2008, [122 Stat. 4425][/us/stat/122/4425]; [Pub. L. 111–84, div. A, title X, § 1072(a)][/us/pl/111/84/s1072/a], Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X, § 1075(b)(29)][/us/pl/111/383/s1075/b/29], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 112–81, div. A, title IX, § 901][/us/pl/112/81/s901], Dec. 31, 2011, [125 Stat. 1527][/us/stat/125/1527]; [Pub. L. 112–239, div. A, title IX, § 906][/us/pl/112/239/s906], Jan. 2, 2013, [126 Stat. 1869][/us/stat/126/1869]; [Pub. L. 113–66, div. A, title IX, § 901][/us/pl/113/66/s901], Dec. 26, 2013, [127 Stat. 815][/us/stat/127/815].)
+(Added [Pub. L. 108–375, div. A, title III, § 332(a)(1)][/us/pl/108/375/s332/a/1], Oct. 28, 2004, [118 Stat. 1851][/us/stat/118/1851]; amended [Pub. L. 109–364, div. A, title IX, § 906(a)][/us/pl/109/364/s906/a], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 351, Oct. 14, 2008, [122 Stat. 4425][/us/stat/122/4425]; [Pub. L. 111–84, div. A, title X, § 1072(a)][/us/pl/111/84/s1072/a], Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X, § 1075(b)(29)][/us/pl/111/383/s1075/b/29], Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370]; [Pub. L. 112–81, div. A, title IX, § 901][/us/pl/112/81/s901], Dec. 31, 2011, [125 Stat. 1527][/us/stat/125/1527]; [Pub. L. 112–239, div. A, title IX, § 906][/us/pl/112/239/s906], Jan. 2, 2013, [126 Stat. 1869][/us/stat/126/1869]; [Pub. L. 113–66, div. A, title IX, § 901][/us/pl/113/66/s901], Dec. 26, 2013, [127 Stat. 815][/us/stat/127/815]; [Pub. L. 113–283, § 2(e)(5)(A)][/us/pl/113/283/s2/e/5/A], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087].)
 
  __Prior Provisions__ 
 
     A prior section 2222, added [Pub. L. 105–85, div. A, title X, § 1008(a)(1)][/us/pl/105/85/s1008/a/1], Nov. 18, 1997, [111 Stat. 1870][/us/stat/111/1870]; amended [Pub. L. 107–107, div. A, title X, § 1009(b)(1)][/us/pl/107/107/s1009/b/1]–(3)(A), Dec. 28, 2001, [115 Stat. 1208][/us/stat/115/1208], 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by [Pub. L. 107–314, div. A, title X, § 1004(h)(1)][/us/pl/107/314/s1004/h/1], Dec. 2, 2002, [116 Stat. 2631][/us/stat/116/2631].
 
  __Amendments__ 
+
+    2014—Subsec. (j)(5). [Pub. L. 113–283][/us/pl/113/283] substituted “section 3552(b)(5)” for “section 3542(b)(2)”.
 
     2013—Subsec. (e)(1). [Pub. L. 113–66, § 901(1)][/us/pl/113/66/s901/1], substituted “target defense business systems computing environment described in subsection (d)(3)” for “defense business enterprise architecture”.
 
@@ -750,7 +752,6 @@
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/usc/t44/s3601/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601%2F4
 [/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
-[/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2
 [/us/pl/108/375/s332/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs332%2Fa%2F1
 [/us/stat/118/1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1851
 [/us/pl/109/364/s906/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs906%2Fa
@@ -767,12 +768,15 @@
 [/us/stat/126/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1869
 [/us/pl/113/66/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901
 [/us/stat/127/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F815
+[/us/pl/113/283/s2/e/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F5%2FA
+[/us/stat/128/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3087
 [/us/pl/105/85/s1008/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1008%2Fa%2F1
 [/us/stat/111/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1870
 [/us/pl/107/107/s1009/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1009%2Fb%2F1
 [/us/stat/115/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1208
 [/us/pl/107/314/s1004/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1004%2Fh%2F1
 [/us/stat/116/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2631
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/pl/113/66/s901/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901%2F1
 [/us/pl/113/66/s901/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901%2F2
 [/us/pl/113/66/s901/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs901%2F3

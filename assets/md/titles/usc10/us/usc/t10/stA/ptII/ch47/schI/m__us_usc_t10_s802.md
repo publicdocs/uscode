@@ -67,7 +67,7 @@
 
          A member of a reserve component who is not on active duty and who is made the subject of proceedings under section 815 (article 15) or section 830 (article 30) with respect to an offense against this chapter may be ordered to active duty involuntarily for the purpose of—
 
-            (A) investigation under [section 832 of this title][/us/usc/t10/s832] (article 32);
+            (A) a preliminary hearing under [section 832 of this title][/us/usc/t10/s832] (article 32);
 
             (B) trial by court-martial; or
 
@@ -96,10 +96,6 @@
     (e) The provisions of this section are subject to [section 876b(d)(2) of this title][/us/usc/t10/s876b/d/2] (article 76b(d)(2)).
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 37][/us/stat/70A/37]; [Pub. L. 86–70, § 6(b)][/us/pl/86/70/s6/b], June 25, 1959, [73 Stat. 142][/us/stat/73/142]; [Pub. L. 86–624, § 4(b)][/us/pl/86/624/s4/b], July 12, 1960, [74 Stat. 411][/us/stat/74/411]; [Pub. L. 87–651, title I, § 104][/us/pl/87/651/s104], Sept. 7, 1962, [76 Stat. 508][/us/stat/76/508]; [Pub. L. 89–718, § 8(a)][/us/pl/89/718/s8/a], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117]; [Pub. L. 96–107, title VIII, § 801(a)][/us/pl/96/107/s801/a], Nov. 9, 1979, [93 Stat. 810][/us/stat/93/810]; [Pub. L. 96–513, title V, § 511(24)][/us/pl/96/513/s511/24], Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922]; [Pub. L. 98–209, § 13(a)][/us/pl/98/209/s13/a], Dec. 6, 1983, [97 Stat. 1408][/us/stat/97/1408]; [Pub. L. 99–661, div. A, title VIII, § 804(a)][/us/pl/99/661/s804/a], Nov. 14, 1986, [100 Stat. 3906][/us/stat/100/3906]; [Pub. L. 100–456, div. A, title XII, § 1234(a)(1)][/us/pl/100/456/s1234/a/1], Sept. 29, 1988, [102 Stat. 2059][/us/stat/102/2059]; [Pub. L. 104–106, div. A, title XI, § 1133(b)][/us/pl/104/106/s1133/b], Feb. 10, 1996, [110 Stat. 466][/us/stat/110/466]; [Pub. L. 109–364, div. A, title V, § 552][/us/pl/109/364/s552], Oct. 17, 2006, [120 Stat. 2217][/us/stat/120/2217]; [Pub. L. 109–366, § 4(a)(1)][/us/pl/109/366/s4/a/1], Oct. 17, 2006, [120 Stat. 2631][/us/stat/120/2631]; [Pub. L. 111–84, div. A, title XVIII, § 1803(a)(1)][/us/pl/111/84/s1803/a/1], Oct. 28, 2009, [123 Stat. 2612][/us/stat/123/2612]; [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(A)][/us/pl/113/66/s1702/c/3/A], Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957].)
-
- __Amendment of Subsection (d)(1)(A)__ 
-
-    [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(A)][/us/pl/113/66/s1702/c/3/A], (d)(1), Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957], 958, provided that, effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, subsection (d)(1)(A) of this section is amended by striking “investigation under section 832” and inserting “a preliminary hearing under section 832”. See 2013 Amendment note below.
 
 <table>
 
@@ -375,8 +371,6 @@ For information regarding constitutionality of certain provisions of section 1 (
 [/us/stat/120/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2631
 [/us/pl/111/84/s1803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1803%2Fa%2F1
 [/us/stat/123/2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2612
-[/us/pl/113/66/s1702/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F3%2FA
-[/us/stat/127/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F957
 [/us/pl/113/66/s1702/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F3%2FA
 [/us/stat/127/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F957
 [/us/usc/t10/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F1

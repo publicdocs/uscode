@@ -37,7 +37,7 @@
 
             (B) Sections 831(a), (b), and (d) (articles 31(a), (b), and (d) of the Uniform Code of Military Justice), relating to compulsory self-incrimination.
 
-            (C) Section 832 (article 32 of the Uniform Code of Military Justice), relating to pretrial investigation.
+            (C) Section 832 (article 32 of the Uniform Code of Military Justice), relating to preliminary hearing.
 
         (2) Other provisions of chapter 47 of this title shall apply to trial by military commission under this chapter only to the extent provided by the terms of such provisions or by this chapter.
 
@@ -46,10 +46,6 @@
     No alien unprivileged enemy belligerent subject to trial by military commission under this chapter may invoke the Geneva Conventions as a basis for a private right of action.
 
 (Added [Pub. L. 111–84, div. A, title XVIII, § 1802][/us/pl/111/84/s1802], Oct. 28, 2009, [123 Stat. 2575][/us/stat/123/2575]; amended [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(E)][/us/pl/113/66/s1702/c/3/E], Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958].)
-
- __Amendment of Subsection (d)(1)(C)__ 
-
-    [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(E)][/us/pl/113/66/s1702/c/3/E], (d)(1), Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958], provided that, effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under chapter 47 of this title on or after that effective date, subsection (d)(1)(C) of this section is amended by striking “pretrial investigation” and inserting “preliminary hearing”. See 2013 Amendment note below.
 
  __Prior Provisions__ 
 
@@ -104,8 +100,6 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 [/us/pl/111/84/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1802
 [/us/stat/123/2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2575
-[/us/pl/113/66/s1702/c/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F3%2FE
-[/us/stat/127/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F958
 [/us/pl/113/66/s1702/c/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F3%2FE
 [/us/stat/127/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F958
 [/us/pl/109/366/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F366%2Fs3%2Fa%2F1

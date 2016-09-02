@@ -21,7 +21,7 @@
 
         (1) the specification alleges an offense under this chapter;
 
-        (2) the specification is warranted by the evidence indicated in the report of investigation under [section 832 of this title][/us/usc/t10/s832] (article 32) (if there is such a report); and
+        (2) the specification is warranted by the evidence indicated in the report of a preliminary hearing under [section 832 of this title][/us/usc/t10/s832] (article 32); and
 
         (3) a court-martial would have jurisdiction over the accused and the offense.
 
@@ -38,10 +38,6 @@
     (c) If the charges or specifications are not formally correct or do not conform to the substance of the evidence contained in the report of the investigating officer, formal corrections, and such changes in the charges and specifications as are needed to make them conform to the evidence, may be made.
 
 ([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 49][/us/stat/70A/49]; [Pub. L. 98–209, § 4][/us/pl/98/209/s4], Dec. 6, 1983, [97 Stat. 1395][/us/stat/97/1395]; [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(B)][/us/pl/113/66/s1702/c/3/B], Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957].)
-
- __Amendment of Subsection (a)(2)__ 
-
-    [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(B)][/us/pl/113/66/s1702/c/3/B], (d)(1), Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957], 958, provided that, effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, subsection (a)(2) of this section is amended by striking “investigation under [section 832 of this title][/us/usc/t10/s832] (article 32) (if there is such a report)” and inserting “a preliminary hearing under [section 832 of this title][/us/usc/t10/s832] (article 32)”. See 2013 Amendment note below.
 
 <table>
 
@@ -185,10 +181,6 @@ May 5, 1950, ch. 169, § 1 (Art. 34), 64 Stat. 119.  </td>
 [/us/stat/97/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1395
 [/us/pl/113/66/s1702/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F3%2FB
 [/us/stat/127/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F957
-[/us/pl/113/66/s1702/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F3%2FB
-[/us/stat/127/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F957
-[/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
-[/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
