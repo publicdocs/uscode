@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs331" data-uslm-ref="/us/usc/t18/s331">331.</a>  </td>
 
     <td> Mutilation, diminution, and falsification of coins.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs332" data-uslm-ref="/us/usc/t18/s332">332.</a>  </td>
 
     <td> Debasement of coins; alteration of official scales, or embezzlement of metals.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs333" data-uslm-ref="/us/usc/t18/s333">333.</a>  </td>
 
     <td> Mutilation of national bank obligations.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs334" data-uslm-ref="/us/usc/t18/s334">334.</a>  </td>
 
     <td> Issuance of Federal Reserve or national bank notes.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs335" data-uslm-ref="/us/usc/t18/s335">335.</a>  </td>
 
     <td> Circulation of obligations of expired corporations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs336" data-uslm-ref="/us/usc/t18/s336">336.</a>  </td>
 
     <td> Issuance of circulating obligations of less than $1.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 337.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs337" data-uslm-ref="/us/usc/t18/s337">337.</a>  </td>
 
     <td> Coins as security for loans.  </td>
 

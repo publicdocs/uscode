@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [281 to 284.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs281" data-uslm-ref="/us/usc/t18/s281">281</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs284" data-uslm-ref="/us/usc/t18/s284">284.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 285.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs285" data-uslm-ref="/us/usc/t18/s285">285.</a>  </td>
 
     <td> Taking or using papers relating to claims.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 286.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs286" data-uslm-ref="/us/usc/t18/s286">286.</a>  </td>
 
     <td> Conspiracy to defraud the Government with respect to claims.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 287.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs287" data-uslm-ref="/us/usc/t18/s287">287.</a>  </td>
 
     <td> False, fictitious or fraudulent claims.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 288.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs288" data-uslm-ref="/us/usc/t18/s288">288.</a>  </td>
 
     <td> False claims for postal losses.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 289.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs289" data-uslm-ref="/us/usc/t18/s289">289.</a>  </td>
 
     <td> False claims for pensions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 290.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs290" data-uslm-ref="/us/usc/t18/s290">290.</a>  </td>
 
     <td> Discharge papers withheld by claim agent.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs291" data-uslm-ref="/us/usc/t18/s291">291.</a>  </td>
 
     <td> Purchase of claims for fees by court officials.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs292" data-uslm-ref="/us/usc/t18/s292">292.</a>  </td>
 
     <td> Solicitation of employment and receipt of unapproved fees concerning Federal employees’ compensation.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [293.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs293" data-uslm-ref="/us/usc/t18/s293">293.</a>  </td>
 
     <td> Repealed.]  </td>
 

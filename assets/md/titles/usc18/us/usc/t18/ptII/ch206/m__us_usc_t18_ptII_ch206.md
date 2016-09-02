@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3121" data-uslm-ref="/us/usc/t18/s3121">3121.</a>  </td>
 
     <td> General prohibition on pen register and trap and trace device use; exception.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3122" data-uslm-ref="/us/usc/t18/s3122">3122.</a>  </td>
 
     <td> Application for an order for a pen register or a trap and trace device.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3123" data-uslm-ref="/us/usc/t18/s3123">3123.</a>  </td>
 
     <td> Issuance of an order for a pen register or a trap and trace device.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3124" data-uslm-ref="/us/usc/t18/s3124">3124.</a>  </td>
 
     <td> Assistance in installation and use of a pen register or a trap and trace device.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3125" data-uslm-ref="/us/usc/t18/s3125">3125.</a>  </td>
 
     <td> Emergency pen register and trap and trace device installation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3126" data-uslm-ref="/us/usc/t18/s3126">3126.</a>  </td>
 
     <td> Reports concerning pen registers and trap and trace devices.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3127.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3127" data-uslm-ref="/us/usc/t18/s3127">3127.</a>  </td>
 
     <td> Definitions for chapter.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs151" data-uslm-ref="/us/usc/t18/s151">151.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs152" data-uslm-ref="/us/usc/t18/s152">152.</a>  </td>
 
     <td> Concealment of assets; false oaths and claims; bribery.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs153" data-uslm-ref="/us/usc/t18/s153">153.</a>  </td>
 
     <td> Embezzlement against estate.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs154" data-uslm-ref="/us/usc/t18/s154">154.</a>  </td>
 
     <td> Adverse interest and conduct of officers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs155" data-uslm-ref="/us/usc/t18/s155">155.</a>  </td>
 
     <td> Fee agreements in cases under title 11 and receiverships.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs156" data-uslm-ref="/us/usc/t18/s156">156.</a>  </td>
 
     <td> Knowing disregard of bankruptcy law or rule.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs157" data-uslm-ref="/us/usc/t18/s157">157.</a>  </td>
 
     <td> Bankruptcy fraud.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 158.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs158" data-uslm-ref="/us/usc/t18/s158">158.</a>  </td>
 
     <td> Designation of United States attorneys and agents of the Federal Bureau of Investigation to address abusive reaffirmations of debt and materially fraudulent statements in bankruptcy schedules.  </td>
 

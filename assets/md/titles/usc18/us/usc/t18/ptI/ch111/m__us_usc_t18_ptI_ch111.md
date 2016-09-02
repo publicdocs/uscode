@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2271" data-uslm-ref="/us/usc/t18/s2271">2271.</a>  </td>
 
     <td> Conspiracy to destroy vessels.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2272" data-uslm-ref="/us/usc/t18/s2272">2272.</a>  </td>
 
     <td> Destruction of vessel by owner.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2273.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2273" data-uslm-ref="/us/usc/t18/s2273">2273.</a>  </td>
 
     <td> Destruction of vessel by nonowner.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2274.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2274" data-uslm-ref="/us/usc/t18/s2274">2274.</a>  </td>
 
     <td> Destruction or misuse of vessel by person in charge.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2275.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2275" data-uslm-ref="/us/usc/t18/s2275">2275.</a>  </td>
 
     <td> Firing or tampering with vessel. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2276.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2276" data-uslm-ref="/us/usc/t18/s2276">2276.</a>  </td>
 
     <td> Breaking and entering vessel.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2277.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2277" data-uslm-ref="/us/usc/t18/s2277">2277.</a>  </td>
 
     <td> Explosives or dangerous weapons aboard vessels.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2278.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2278" data-uslm-ref="/us/usc/t18/s2278">2278.</a>  </td>
 
     <td> Explosives on vessels carrying steerage passengers.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2279.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2279" data-uslm-ref="/us/usc/t18/s2279">2279.</a>  </td>
 
     <td> Boarding vessels before arrival.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2280.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2280" data-uslm-ref="/us/usc/t18/s2280">2280.</a>  </td>
 
     <td> Violence against maritime navigation.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2281" data-uslm-ref="/us/usc/t18/s2281">2281.</a>  </td>
 
     <td> Violence against maritime fixed platforms.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2282A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2282A" data-uslm-ref="/us/usc/t18/s2282A">2282A.</a>  </td>
 
     <td> Devices or dangerous substances in waters of the United States likely to destroy or damage ships or to interfere with maritime commerce.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2282B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2282B" data-uslm-ref="/us/usc/t18/s2282B">2282B.</a>  </td>
 
     <td> Violence against aids to maritime navigation.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2283.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2283" data-uslm-ref="/us/usc/t18/s2283">2283.</a>  </td>
 
     <td> Transportation of explosive, chemical, biological, or radioactive or nuclear materials. <sup>[1]</sup>   </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2284.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2284" data-uslm-ref="/us/usc/t18/s2284">2284.</a>  </td>
 
     <td> Transportation of terrorists.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2285.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2285" data-uslm-ref="/us/usc/t18/s2285">2285.</a>  </td>
 
     <td> Operation of submersible vessel or semi-submersible vessel without nationality  <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should be followed by a period. </sup></sup>   </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1091.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1091" data-uslm-ref="/us/usc/t18/s1091">1091.</a>  </td>
 
     <td> Genocide.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1092.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1092" data-uslm-ref="/us/usc/t18/s1092">1092.</a>  </td>
 
     <td> Exclusive remedies.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1093.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1093" data-uslm-ref="/us/usc/t18/s1093">1093.</a>  </td>
 
     <td> Definitions.  </td>
 

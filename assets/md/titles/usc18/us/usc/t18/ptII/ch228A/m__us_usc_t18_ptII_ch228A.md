@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3600.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3600" data-uslm-ref="/us/usc/t18/s3600">3600.</a>  </td>
 
     <td> DNA testing.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3600A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3600A" data-uslm-ref="/us/usc/t18/s3600A">3600A.</a>  </td>
 
     <td> Preservation of biological evidence.  </td>
 

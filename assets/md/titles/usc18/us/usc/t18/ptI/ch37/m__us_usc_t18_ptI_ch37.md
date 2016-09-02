@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [791.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs791" data-uslm-ref="/us/usc/t18/s791">791.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 792.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs792" data-uslm-ref="/us/usc/t18/s792">792.</a>  </td>
 
     <td> Harboring or concealing persons.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 793.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs793" data-uslm-ref="/us/usc/t18/s793">793.</a>  </td>
 
     <td> Gathering, transmitting or losing defense information.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 794.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs794" data-uslm-ref="/us/usc/t18/s794">794.</a>  </td>
 
     <td> Gathering or delivering defense information to aid foreign government.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 795.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs795" data-uslm-ref="/us/usc/t18/s795">795.</a>  </td>
 
     <td> Photographing and sketching defense installations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 796.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs796" data-uslm-ref="/us/usc/t18/s796">796.</a>  </td>
 
     <td> Use of aircraft for photographing defense installations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 797.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs797" data-uslm-ref="/us/usc/t18/s797">797.</a>  </td>
 
     <td> Publication and sale of photographs of defense installations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 798.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs798" data-uslm-ref="/us/usc/t18/s798">798.</a>  </td>
 
     <td> Disclosure of classified information.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 798A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs798A" data-uslm-ref="/us/usc/t18/s798A">798A.</a>  </td>
 
     <td> Temporary extension of section 794.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 799.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs799" data-uslm-ref="/us/usc/t18/s799">799.</a>  </td>
 
     <td> Violation of regulations of National Aeronautics and Space Administration.  </td>
 

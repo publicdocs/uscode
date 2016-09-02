@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3321" data-uslm-ref="/us/usc/t18/s3321">3321.</a>  </td>
 
     <td> Number of grand jurors; summoning additional jurors.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3322" data-uslm-ref="/us/usc/t18/s3322">3322.</a>  </td>
 
     <td> Disclosure of certain matters occurring before grand jury.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [3323 to 3328.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3323" data-uslm-ref="/us/usc/t18/s3323">3323</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3328" data-uslm-ref="/us/usc/t18/s3328">3328.</a>  </td>
 
     <td> Repealed.]  </td>
 

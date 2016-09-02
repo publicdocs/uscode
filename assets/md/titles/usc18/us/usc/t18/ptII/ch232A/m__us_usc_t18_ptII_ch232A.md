@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3681" data-uslm-ref="/us/usc/t18/s3681">3681.</a>  </td>
 
     <td> Order of special forfeiture.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3682.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3682" data-uslm-ref="/us/usc/t18/s3682">3682.</a>  </td>
 
     <td> Notice to victims of order of special forfeiture.  </td>
 

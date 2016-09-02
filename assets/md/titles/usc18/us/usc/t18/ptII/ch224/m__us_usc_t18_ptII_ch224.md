@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3521" data-uslm-ref="/us/usc/t18/s3521">3521.</a>  </td>
 
     <td> Witness relocation and protection.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3522" data-uslm-ref="/us/usc/t18/s3522">3522.</a>  </td>
 
     <td> Probationers and parolees.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3523" data-uslm-ref="/us/usc/t18/s3523">3523.</a>  </td>
 
     <td> Civil judgments.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3524" data-uslm-ref="/us/usc/t18/s3524">3524.</a>  </td>
 
     <td> Child custody arrangements.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3525" data-uslm-ref="/us/usc/t18/s3525">3525.</a>  </td>
 
     <td> Victims Compensation Fund.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3526" data-uslm-ref="/us/usc/t18/s3526">3526.</a>  </td>
 
     <td> Cooperation of other Federal agencies and State governments; reimbursement of expenses.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3527" data-uslm-ref="/us/usc/t18/s3527">3527.</a>  </td>
 
     <td> Additional authority of Attorney General.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3528" data-uslm-ref="/us/usc/t18/s3528">3528.</a>  </td>
 
     <td> Definition.  </td>
 

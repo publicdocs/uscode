@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3731" data-uslm-ref="/us/usc/t18/s3731">3731.</a>  </td>
 
     <td> Appeal by United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3732" data-uslm-ref="/us/usc/t18/s3732">3732.</a>  </td>
 
     <td> Taking of appeal; notice; time—Rule.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3733" data-uslm-ref="/us/usc/t18/s3733">3733.</a>  </td>
 
     <td> Assignment of errors—Rule.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3734" data-uslm-ref="/us/usc/t18/s3734">3734.</a>  </td>
 
     <td> Bill of exceptions abolished—Rule.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3735.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3735" data-uslm-ref="/us/usc/t18/s3735">3735.</a>  </td>
 
     <td> Bail on appeal or certiorari—Rule.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3736.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3736" data-uslm-ref="/us/usc/t18/s3736">3736.</a>  </td>
 
     <td> Certiorari—Rule.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3737.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3737" data-uslm-ref="/us/usc/t18/s3737">3737.</a>  </td>
 
     <td> Record—Rule.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3738.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3738" data-uslm-ref="/us/usc/t18/s3738">3738.</a>  </td>
 
     <td> Docketing appeal and record—Rule.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3739.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3739" data-uslm-ref="/us/usc/t18/s3739">3739.</a>  </td>
 
     <td> Supervision—Rule.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3740.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3740" data-uslm-ref="/us/usc/t18/s3740">3740.</a>  </td>
 
     <td> Argument—Rule.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3741" data-uslm-ref="/us/usc/t18/s3741">3741.</a>  </td>
 
     <td> Harmless error and plain error—Rule.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3742.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3742" data-uslm-ref="/us/usc/t18/s3742">3742.</a>  </td>
 
     <td> Review of a sentence.  </td>
 

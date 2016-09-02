@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3691.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3691" data-uslm-ref="/us/usc/t18/s3691">3691.</a>  </td>
 
     <td> Jury trial of criminal contempts.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3692.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3692" data-uslm-ref="/us/usc/t18/s3692">3692.</a>  </td>
 
     <td> Jury trial for contempt in labor dispute cases.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3693.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3693" data-uslm-ref="/us/usc/t18/s3693">3693.</a>  </td>
 
     <td> Summary disposition or jury trial; notice—Rule.  </td>
 

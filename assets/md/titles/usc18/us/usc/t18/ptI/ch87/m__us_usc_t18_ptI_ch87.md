@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1791.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1791" data-uslm-ref="/us/usc/t18/s1791">1791.</a>  </td>
 
     <td> Providing or possessing contraband in prison.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1792.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1792" data-uslm-ref="/us/usc/t18/s1792">1792.</a>  </td>
 
     <td> Mutiny and riot prohibited.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1793.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1793" data-uslm-ref="/us/usc/t18/s1793">1793.</a>  </td>
 
     <td> Trespass on Bureau of Prisons reservations and land.  </td>
 

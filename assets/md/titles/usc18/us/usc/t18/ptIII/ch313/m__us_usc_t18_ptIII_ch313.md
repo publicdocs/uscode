@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4241" data-uslm-ref="/us/usc/t18/s4241">4241.</a>  </td>
 
     <td> Determination of mental competency to stand trial or to undergo postrelease proceedings. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4242" data-uslm-ref="/us/usc/t18/s4242">4242.</a>  </td>
 
     <td> Determination of the existence of insanity at the time of the offense.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4243" data-uslm-ref="/us/usc/t18/s4243">4243.</a>  </td>
 
     <td> Hospitalization of a person found not guilty only by reason of insanity.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4244" data-uslm-ref="/us/usc/t18/s4244">4244.</a>  </td>
 
     <td> Hospitalization of a convicted person suffering from mental disease or defect.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4245.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4245" data-uslm-ref="/us/usc/t18/s4245">4245.</a>  </td>
 
     <td> Hospitalization of an imprisoned person suffering from mental disease or defect.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4246.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4246" data-uslm-ref="/us/usc/t18/s4246">4246.</a>  </td>
 
     <td> Hospitalization of a person due for release but suffering from mental disease or defect.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4247.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4247" data-uslm-ref="/us/usc/t18/s4247">4247.</a>  </td>
 
     <td> General provisions for chapter.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4248.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4248" data-uslm-ref="/us/usc/t18/s4248">4248.</a>  </td>
 
     <td> Civil commitment of a sexually dangerous person  <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should be followed by a period. </sup></sup>   </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4100.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4100" data-uslm-ref="/us/usc/t18/s4100">4100.</a>  </td>
 
     <td> Scope and limitation of chapter.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4101" data-uslm-ref="/us/usc/t18/s4101">4101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4102" data-uslm-ref="/us/usc/t18/s4102">4102.</a>  </td>
 
     <td> Authority of the Attorney General.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4103" data-uslm-ref="/us/usc/t18/s4103">4103.</a>  </td>
 
     <td> Applicability of United States laws.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4104" data-uslm-ref="/us/usc/t18/s4104">4104.</a>  </td>
 
     <td> Transfer of offenders on probation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4105" data-uslm-ref="/us/usc/t18/s4105">4105.</a>  </td>
 
     <td> Transfer of offenders serving sentence of imprisonment.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4106" data-uslm-ref="/us/usc/t18/s4106">4106.</a>  </td>
 
     <td> Transfer of offenders on parole; parole of offenders transferred.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4106A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4106A" data-uslm-ref="/us/usc/t18/s4106A">4106A.</a>  </td>
 
     <td> Transfer of offenders on parole; parole of offenders transferred.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4107" data-uslm-ref="/us/usc/t18/s4107">4107.</a>  </td>
 
     <td> Verification of consent of offender to transfer from the United States.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4108" data-uslm-ref="/us/usc/t18/s4108">4108.</a>  </td>
 
     <td> Verification of consent of offender to transfer to the United States.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 4109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4109" data-uslm-ref="/us/usc/t18/s4109">4109.</a>  </td>
 
     <td> Right to counsel, appointment of counsel.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 4110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4110" data-uslm-ref="/us/usc/t18/s4110">4110.</a>  </td>
 
     <td> Transfer of juveniles.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 4111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4111" data-uslm-ref="/us/usc/t18/s4111">4111.</a>  </td>
 
     <td> Prosecution barred by foreign conviction.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 4112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4112" data-uslm-ref="/us/usc/t18/s4112">4112.</a>  </td>
 
     <td> Loss of rights, disqualification.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 4113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4113" data-uslm-ref="/us/usc/t18/s4113">4113.</a>  </td>
 
     <td> Status of alien offender transferred to a foreign country.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 4114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4114" data-uslm-ref="/us/usc/t18/s4114">4114.</a>  </td>
 
     <td> Return of transferred offenders.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 4115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4115" data-uslm-ref="/us/usc/t18/s4115">4115.</a>  </td>
 
     <td> Execution of sentences imposing an obligation to make restitution or reparations.  </td>
 

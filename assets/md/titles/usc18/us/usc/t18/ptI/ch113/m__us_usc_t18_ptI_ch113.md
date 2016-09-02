@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2311.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2311" data-uslm-ref="/us/usc/t18/s2311">2311.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2312.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2312" data-uslm-ref="/us/usc/t18/s2312">2312.</a>  </td>
 
     <td> Transportation of stolen vehicles.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2313" data-uslm-ref="/us/usc/t18/s2313">2313.</a>  </td>
 
     <td> Sale or receipt of stolen vehicles.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2314.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2314" data-uslm-ref="/us/usc/t18/s2314">2314.</a>  </td>
 
     <td> Transportation of stolen goods, securities, moneys, fraudulent State tax stamps, or articles used in counterfeiting.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2315" data-uslm-ref="/us/usc/t18/s2315">2315.</a>  </td>
 
     <td> Sale or receipt of stolen goods, securities, moneys, or fraudulent State tax stamps.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2316.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2316" data-uslm-ref="/us/usc/t18/s2316">2316.</a>  </td>
 
     <td> Transportation of livestock.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2317" data-uslm-ref="/us/usc/t18/s2317">2317.</a>  </td>
 
     <td> Sale or receipt of livestock.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2318.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2318" data-uslm-ref="/us/usc/t18/s2318">2318.</a>  </td>
 
     <td> Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2319" data-uslm-ref="/us/usc/t18/s2319">2319.</a>  </td>
 
     <td> Criminal infringement of a copyright.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2319A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2319A" data-uslm-ref="/us/usc/t18/s2319A">2319A.</a>  </td>
 
     <td> Unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2319B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2319B" data-uslm-ref="/us/usc/t18/s2319B">2319B.</a>  </td>
 
     <td> Unauthorized recording of motion pictures in a motion picture exhibition facility. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2320.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2320" data-uslm-ref="/us/usc/t18/s2320">2320.</a>  </td>
 
     <td> Trafficking in counterfeit goods or services.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2321.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2321" data-uslm-ref="/us/usc/t18/s2321">2321.</a>  </td>
 
     <td> Trafficking in certain motor vehicles or motor vehicle parts.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2322.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2322" data-uslm-ref="/us/usc/t18/s2322">2322.</a>  </td>
 
     <td> Chop shops.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2323.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2323" data-uslm-ref="/us/usc/t18/s2323">2323.</a>  </td>
 
     <td> Forfeiture, destruction, and restitution.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5001" data-uslm-ref="/us/usc/t18/s5001">5001.</a>  </td>
 
     <td> Surrender to State authorities; expenses.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [5002.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5002" data-uslm-ref="/us/usc/t18/s5002">5002.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5003" data-uslm-ref="/us/usc/t18/s5003">5003.</a>  </td>
 
     <td> Custody of State offenders.  </td>
 

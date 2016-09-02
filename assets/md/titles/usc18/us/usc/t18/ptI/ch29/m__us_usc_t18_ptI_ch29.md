@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [591.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs591" data-uslm-ref="/us/usc/t18/s591">591.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs592" data-uslm-ref="/us/usc/t18/s592">592.</a>  </td>
 
     <td> Troops at polls.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs593" data-uslm-ref="/us/usc/t18/s593">593.</a>  </td>
 
     <td> Interference by armed forces.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs594" data-uslm-ref="/us/usc/t18/s594">594.</a>  </td>
 
     <td> Intimidation of voters.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 595.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs595" data-uslm-ref="/us/usc/t18/s595">595.</a>  </td>
 
     <td> Interference by administrative employees of Federal, State, or Territorial Governments.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 596.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs596" data-uslm-ref="/us/usc/t18/s596">596.</a>  </td>
 
     <td> Polling armed forces.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 597.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs597" data-uslm-ref="/us/usc/t18/s597">597.</a>  </td>
 
     <td> Expenditures to influence voting.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 598.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs598" data-uslm-ref="/us/usc/t18/s598">598.</a>  </td>
 
     <td> Coercion by means of relief appropriations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 599.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs599" data-uslm-ref="/us/usc/t18/s599">599.</a>  </td>
 
     <td> Promise of appointment by candidate.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 600.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs600" data-uslm-ref="/us/usc/t18/s600">600.</a>  </td>
 
     <td> Promise of employment or other benefit for political activity.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs601" data-uslm-ref="/us/usc/t18/s601">601.</a>  </td>
 
     <td> Deprivation of employment or other benefit for political contribution.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs602" data-uslm-ref="/us/usc/t18/s602">602.</a>  </td>
 
     <td> Solicitation of political contributions.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs603" data-uslm-ref="/us/usc/t18/s603">603.</a>  </td>
 
     <td> Making political contributions.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs604" data-uslm-ref="/us/usc/t18/s604">604.</a>  </td>
 
     <td> Solicitation from persons on relief.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs605" data-uslm-ref="/us/usc/t18/s605">605.</a>  </td>
 
     <td> Disclosure of names of persons on relief.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs606" data-uslm-ref="/us/usc/t18/s606">606.</a>  </td>
 
     <td> Intimidation to secure political contributions.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs607" data-uslm-ref="/us/usc/t18/s607">607.</a>  </td>
 
     <td> Place of solicitation.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs608" data-uslm-ref="/us/usc/t18/s608">608.</a>  </td>
 
     <td> Absent uniformed services voters and overseas voters.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 609.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs609" data-uslm-ref="/us/usc/t18/s609">609.</a>  </td>
 
     <td> Use of military authority to influence vote of member of Armed Forces.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 610.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs610" data-uslm-ref="/us/usc/t18/s610">610.</a>  </td>
 
     <td> Coercion of political activity.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs611" data-uslm-ref="/us/usc/t18/s611">611.</a>  </td>
 
     <td> Voting by aliens.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> [612 to 617.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs612" data-uslm-ref="/us/usc/t18/s612">612</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs617" data-uslm-ref="/us/usc/t18/s617">617.</a>  </td>
 
     <td> Repealed.]  </td>
 

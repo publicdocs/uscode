@@ -29,31 +29,31 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch229%2FschA" data-uslm-ref="/us/usc/t18/ptII/ch229/schA">A.</a>  </td>
 
     <td> Probation  </td>
 
-    <td> 3601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3601" data-uslm-ref="/us/usc/t18/s3601">3601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch229%2FschB" data-uslm-ref="/us/usc/t18/ptII/ch229/schB">B.</a>  </td>
 
     <td> Fines  </td>
 
-    <td> 3611  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3611" data-uslm-ref="/us/usc/t18/s3611">3611</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch229%2FschC" data-uslm-ref="/us/usc/t18/ptII/ch229/schC">C.</a>  </td>
 
     <td> Imprisonment  </td>
 
-    <td> 3621  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3621" data-uslm-ref="/us/usc/t18/s3621">3621</a>  </td>
 
   </tr>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs341" data-uslm-ref="/us/usc/t18/s341">341.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs342" data-uslm-ref="/us/usc/t18/s342">342.</a>  </td>
 
     <td> Operation of a common carrier under the influence of alcohol or drugs.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs343" data-uslm-ref="/us/usc/t18/s343">343.</a>  </td>
 
     <td> Presumptions.  </td>
 

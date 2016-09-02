@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2325.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2325" data-uslm-ref="/us/usc/t18/s2325">2325.</a>  </td>
 
     <td> Definition.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2326.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2326" data-uslm-ref="/us/usc/t18/s2326">2326.</a>  </td>
 
     <td> Enhanced penalties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2327.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2327" data-uslm-ref="/us/usc/t18/s2327">2327.</a>  </td>
 
     <td> Mandatory restitution.  </td>
 

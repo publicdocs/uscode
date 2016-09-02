@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs241" data-uslm-ref="/us/usc/t18/s241">241.</a>  </td>
 
     <td> Conspiracy against rights.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs242" data-uslm-ref="/us/usc/t18/s242">242.</a>  </td>
 
     <td> Deprivation of rights under color of law.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs243" data-uslm-ref="/us/usc/t18/s243">243.</a>  </td>
 
     <td> Exclusion of jurors on account of race or color.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs244" data-uslm-ref="/us/usc/t18/s244">244.</a>  </td>
 
     <td> Discrimination against person wearing uniform of armed forces.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 245.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs245" data-uslm-ref="/us/usc/t18/s245">245.</a>  </td>
 
     <td> Federally protected activities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 246.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs246" data-uslm-ref="/us/usc/t18/s246">246.</a>  </td>
 
     <td> Deprivation of relief benefits.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 247.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs247" data-uslm-ref="/us/usc/t18/s247">247.</a>  </td>
 
     <td> Damage to religious property; obstruction of persons in the free exercise of religious beliefs.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 248.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs248" data-uslm-ref="/us/usc/t18/s248">248.</a>  </td>
 
     <td> Freedom of access to clinic entrances.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 249.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs249" data-uslm-ref="/us/usc/t18/s249">249.</a>  </td>
 
     <td> Hate crime acts.  </td>
 

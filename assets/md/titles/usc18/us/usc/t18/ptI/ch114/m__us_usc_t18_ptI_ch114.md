@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2341" data-uslm-ref="/us/usc/t18/s2341">2341.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2342" data-uslm-ref="/us/usc/t18/s2342">2342.</a>  </td>
 
     <td> Unlawful acts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2343" data-uslm-ref="/us/usc/t18/s2343">2343.</a>  </td>
 
     <td> Recordkeeping, reporting, and inspection.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2344" data-uslm-ref="/us/usc/t18/s2344">2344.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2345" data-uslm-ref="/us/usc/t18/s2345">2345.</a>  </td>
 
     <td> Effect on State and local law.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2346" data-uslm-ref="/us/usc/t18/s2346">2346.</a>  </td>
 
     <td> Enforcement and regulations.  </td>
 

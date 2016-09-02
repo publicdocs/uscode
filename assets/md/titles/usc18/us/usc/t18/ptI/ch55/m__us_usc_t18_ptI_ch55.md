@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1201" data-uslm-ref="/us/usc/t18/s1201">1201.</a>  </td>
 
     <td> Kidnapping.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1202" data-uslm-ref="/us/usc/t18/s1202">1202.</a>  </td>
 
     <td> Ransom money.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1203" data-uslm-ref="/us/usc/t18/s1203">1203.</a>  </td>
 
     <td> Hostage taking.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1204" data-uslm-ref="/us/usc/t18/s1204">1204.</a>  </td>
 
     <td> International parental kidnapping.  </td>
 

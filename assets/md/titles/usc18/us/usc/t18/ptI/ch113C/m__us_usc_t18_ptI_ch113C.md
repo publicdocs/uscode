@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2340.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2340" data-uslm-ref="/us/usc/t18/s2340">2340.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2340A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2340A" data-uslm-ref="/us/usc/t18/s2340A">2340A.</a>  </td>
 
     <td> Torture.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2340B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2340B" data-uslm-ref="/us/usc/t18/s2340B">2340B.</a>  </td>
 
     <td> Exclusive remedies.  </td>
 

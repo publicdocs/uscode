@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3481" data-uslm-ref="/us/usc/t18/s3481">3481.</a>  </td>
 
     <td> Competency of accused.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3482" data-uslm-ref="/us/usc/t18/s3482">3482.</a>  </td>
 
     <td> Evidence and witnesses—Rule.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3483" data-uslm-ref="/us/usc/t18/s3483">3483.</a>  </td>
 
     <td> Indigent defendants, process to produce evidence—Rule.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3484" data-uslm-ref="/us/usc/t18/s3484">3484.</a>  </td>
 
     <td> Subpoenas—Rule.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3485" data-uslm-ref="/us/usc/t18/s3485">3485.</a>  </td>
 
     <td> Expert witnesses—Rule.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3486.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3486" data-uslm-ref="/us/usc/t18/s3486">3486.</a>  </td>
 
     <td> Administrative subpoenas.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [3486A.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3486A" data-uslm-ref="/us/usc/t18/s3486A">3486A.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3487.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3487" data-uslm-ref="/us/usc/t18/s3487">3487.</a>  </td>
 
     <td> Refusal to pay as evidence of embezzlement.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3488.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3488" data-uslm-ref="/us/usc/t18/s3488">3488.</a>  </td>
 
     <td> Intoxicating liquor in Indian country as evidence of unlawful introduction.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3489.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3489" data-uslm-ref="/us/usc/t18/s3489">3489.</a>  </td>
 
     <td> Discovery and inspection—Rule.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3490.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3490" data-uslm-ref="/us/usc/t18/s3490">3490.</a>  </td>
 
     <td> Official record or entry—Rule.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3491" data-uslm-ref="/us/usc/t18/s3491">3491.</a>  </td>
 
     <td> Foreign documents.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3492" data-uslm-ref="/us/usc/t18/s3492">3492.</a>  </td>
 
     <td> Commission to consular officers to authenticate foreign documents.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3493.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3493" data-uslm-ref="/us/usc/t18/s3493">3493.</a>  </td>
 
     <td> Deposition to authenticate foreign documents.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3494.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3494" data-uslm-ref="/us/usc/t18/s3494">3494.</a>  </td>
 
     <td> Certification of genuineness of foreign document.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3495.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3495" data-uslm-ref="/us/usc/t18/s3495">3495.</a>  </td>
 
     <td> Fees and expenses of consuls, counsel, interpreters and witnesses.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 3496.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3496" data-uslm-ref="/us/usc/t18/s3496">3496.</a>  </td>
 
     <td> Regulations by President as to commissions, fees of witnesses, counsel and interpreters.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 3497.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3497" data-uslm-ref="/us/usc/t18/s3497">3497.</a>  </td>
 
     <td> Account as evidence of embezzlement.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 3498.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3498" data-uslm-ref="/us/usc/t18/s3498">3498.</a>  </td>
 
     <td> Depositions—Rule.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 3499.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3499" data-uslm-ref="/us/usc/t18/s3499">3499.</a>  </td>
 
     <td> Contempt of court by witness—Rule.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 3500.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3500" data-uslm-ref="/us/usc/t18/s3500">3500.</a>  </td>
 
     <td> Demands for production of statements and reports of witnesses.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 3501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3501" data-uslm-ref="/us/usc/t18/s3501">3501.</a>  </td>
 
     <td> Admissibility of confessions.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 3502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3502" data-uslm-ref="/us/usc/t18/s3502">3502.</a>  </td>
 
     <td> Admissibility in evidence of eye witness testimony.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> [3503.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3503" data-uslm-ref="/us/usc/t18/s3503">3503.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 3504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3504" data-uslm-ref="/us/usc/t18/s3504">3504.</a>  </td>
 
     <td> Litigation concerning sources of evidence.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 3505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3505" data-uslm-ref="/us/usc/t18/s3505">3505.</a>  </td>
 
     <td> Foreign records of regularly conducted activity.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 3506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3506" data-uslm-ref="/us/usc/t18/s3506">3506.</a>  </td>
 
     <td> Service of papers filed in opposition to official request by United States to foreign government for criminal evidence.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 3507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3507" data-uslm-ref="/us/usc/t18/s3507">3507.</a>  </td>
 
     <td> Special master at foreign deposition.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 3508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3508" data-uslm-ref="/us/usc/t18/s3508">3508.</a>  </td>
 
     <td> Custody and return of foreign witnesses.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 3509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3509" data-uslm-ref="/us/usc/t18/s3509">3509.</a>  </td>
 
     <td> Child victims’ and child witnesses’ rights.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 3510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3510" data-uslm-ref="/us/usc/t18/s3510">3510.</a>  </td>
 
     <td> Rights of victims to attend and observe trial.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 3511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3511" data-uslm-ref="/us/usc/t18/s3511">3511.</a>  </td>
 
     <td> Judicial review of requests for information.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 3512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3512" data-uslm-ref="/us/usc/t18/s3512">3512.</a>  </td>
 
     <td> Foreign requests for assistance in criminal investigations and prosecutions.  </td>
 

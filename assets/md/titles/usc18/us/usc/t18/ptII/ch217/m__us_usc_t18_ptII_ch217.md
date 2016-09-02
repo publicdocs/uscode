@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3361" data-uslm-ref="/us/usc/t18/s3361">3361.</a>  </td>
 
     <td> Form and contents—Rule.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3362" data-uslm-ref="/us/usc/t18/s3362">3362.</a>  </td>
 
     <td> Waiver of indictment and prosecution on information—Rule.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3363" data-uslm-ref="/us/usc/t18/s3363">3363.</a>  </td>
 
     <td> Joinder of offenses—Rule.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3364" data-uslm-ref="/us/usc/t18/s3364">3364.</a>  </td>
 
     <td> Joinder of defendants—Rule.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3365" data-uslm-ref="/us/usc/t18/s3365">3365.</a>  </td>
 
     <td> Amendment of information—Rule.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3366" data-uslm-ref="/us/usc/t18/s3366">3366.</a>  </td>
 
     <td> Bill of particulars—Rule.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3367" data-uslm-ref="/us/usc/t18/s3367">3367.</a>  </td>
 
     <td> Dismissal—Rule.  </td>
 

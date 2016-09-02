@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs751" data-uslm-ref="/us/usc/t18/s751">751.</a>  </td>
 
     <td> Prisoners in custody of institution or officer.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs752" data-uslm-ref="/us/usc/t18/s752">752.</a>  </td>
 
     <td> Instigating or assisting escape.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs753" data-uslm-ref="/us/usc/t18/s753">753.</a>  </td>
 
     <td> Rescue to prevent execution.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [754.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs754" data-uslm-ref="/us/usc/t18/s754">754.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs755" data-uslm-ref="/us/usc/t18/s755">755.</a>  </td>
 
     <td> Officer permitting escape.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 756.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs756" data-uslm-ref="/us/usc/t18/s756">756.</a>  </td>
 
     <td> Internee of belligerent nation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 757.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs757" data-uslm-ref="/us/usc/t18/s757">757.</a>  </td>
 
     <td> Prisoners of war or enemy aliens.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 758.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs758" data-uslm-ref="/us/usc/t18/s758">758.</a>  </td>
 
     <td> High speed flight from immigration checkpoint.  </td>
 

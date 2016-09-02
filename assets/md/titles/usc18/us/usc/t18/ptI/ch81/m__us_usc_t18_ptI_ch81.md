@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1651" data-uslm-ref="/us/usc/t18/s1651">1651.</a>  </td>
 
     <td> Piracy under law of nations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1652" data-uslm-ref="/us/usc/t18/s1652">1652.</a>  </td>
 
     <td> Citizens as pirates.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1653" data-uslm-ref="/us/usc/t18/s1653">1653.</a>  </td>
 
     <td> Aliens as pirates.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1654" data-uslm-ref="/us/usc/t18/s1654">1654.</a>  </td>
 
     <td> Arming or serving on privateers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1655" data-uslm-ref="/us/usc/t18/s1655">1655.</a>  </td>
 
     <td> Assault on commander as piracy.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1656.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1656" data-uslm-ref="/us/usc/t18/s1656">1656.</a>  </td>
 
     <td> Conversion or surrender of vessel.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1657.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1657" data-uslm-ref="/us/usc/t18/s1657">1657.</a>  </td>
 
     <td> Corruption of seamen and confederating with pirates.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1658.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1658" data-uslm-ref="/us/usc/t18/s1658">1658.</a>  </td>
 
     <td> Plunder of distressed vessel.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1659.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1659" data-uslm-ref="/us/usc/t18/s1659">1659.</a>  </td>
 
     <td> Attack to plunder vessel.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1660.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1660" data-uslm-ref="/us/usc/t18/s1660">1660.</a>  </td>
 
     <td> Receipt of pirate property.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1661" data-uslm-ref="/us/usc/t18/s1661">1661.</a>  </td>
 
     <td> Robbery ashore.  </td>
 

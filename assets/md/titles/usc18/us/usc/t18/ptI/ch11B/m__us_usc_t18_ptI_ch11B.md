@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 229.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs229" data-uslm-ref="/us/usc/t18/s229">229.</a>  </td>
 
     <td> Prohibited activities.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 229A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs229A" data-uslm-ref="/us/usc/t18/s229A">229A.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 229B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs229B" data-uslm-ref="/us/usc/t18/s229B">229B.</a>  </td>
 
     <td> Criminal forfeitures; destruction of weapons.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 229C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs229C" data-uslm-ref="/us/usc/t18/s229C">229C.</a>  </td>
 
     <td> Individual self-defense devices.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 229D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs229D" data-uslm-ref="/us/usc/t18/s229D">229D.</a>  </td>
 
     <td> Injunctions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 229E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs229E" data-uslm-ref="/us/usc/t18/s229E">229E.</a>  </td>
 
     <td> Requests for military assistance to enforce prohibition in certain emergencies.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 229F.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs229F" data-uslm-ref="/us/usc/t18/s229F">229F.</a>  </td>
 
     <td> Definitions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2510" data-uslm-ref="/us/usc/t18/s2510">2510.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2511" data-uslm-ref="/us/usc/t18/s2511">2511.</a>  </td>
 
     <td> Interception and disclosure of wire, oral, or electronic communications prohibited.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2512" data-uslm-ref="/us/usc/t18/s2512">2512.</a>  </td>
 
     <td> Manufacture, distribution, possession, and advertising of wire, oral, or electronic communication intercepting devices prohibited.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2513" data-uslm-ref="/us/usc/t18/s2513">2513.</a>  </td>
 
     <td> Confiscation of wire, oral, or electronic communication intercepting devices.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [2514.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2514" data-uslm-ref="/us/usc/t18/s2514">2514.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2515" data-uslm-ref="/us/usc/t18/s2515">2515.</a>  </td>
 
     <td> Prohibition of use as evidence of intercepted wire or oral communications.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2516" data-uslm-ref="/us/usc/t18/s2516">2516.</a>  </td>
 
     <td> Authorization for interception of wire, oral, or electronic communications.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2517" data-uslm-ref="/us/usc/t18/s2517">2517.</a>  </td>
 
     <td> Authorization for disclosure and use of intercepted wire, oral, or electronic communications.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2518" data-uslm-ref="/us/usc/t18/s2518">2518.</a>  </td>
 
     <td> Procedure for interception of wire, oral, or electronic communications.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2519" data-uslm-ref="/us/usc/t18/s2519">2519.</a>  </td>
 
     <td> Reports concerning intercepted wire, oral, or electronic communications.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2520" data-uslm-ref="/us/usc/t18/s2520">2520.</a>  </td>
 
     <td> Recovery of civil damages authorized.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2521" data-uslm-ref="/us/usc/t18/s2521">2521.</a>  </td>
 
     <td> Injunction against illegal interception.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2522" data-uslm-ref="/us/usc/t18/s2522">2522.</a>  </td>
 
     <td> Enforcement of the Communications Assistance for Law Enforcement Act.  </td>
 

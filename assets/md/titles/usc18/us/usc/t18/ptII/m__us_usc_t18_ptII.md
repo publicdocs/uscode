@@ -29,247 +29,247 @@
 
   <tr>
 
-    <td> 201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch201" data-uslm-ref="/us/usc/t18/ptII/ch201">201.</a>  </td>
 
     <td> General provisions  </td>
 
-    <td> 3001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3001" data-uslm-ref="/us/usc/t18/s3001">3001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch203" data-uslm-ref="/us/usc/t18/ptII/ch203">203.</a>  </td>
 
     <td> Arrest and commitment  </td>
 
-    <td> 3041  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3041" data-uslm-ref="/us/usc/t18/s3041">3041</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch204" data-uslm-ref="/us/usc/t18/ptII/ch204">204.</a>  </td>
 
     <td> Rewards for information concerning terrorist acts and espionage  </td>
 
-    <td> 3071  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3071" data-uslm-ref="/us/usc/t18/s3071">3071</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch205" data-uslm-ref="/us/usc/t18/ptII/ch205">205.</a>  </td>
 
     <td> Searches and seizures  </td>
 
-    <td> 3101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3101" data-uslm-ref="/us/usc/t18/s3101">3101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch206" data-uslm-ref="/us/usc/t18/ptII/ch206">206.</a>  </td>
 
     <td> Pen Registers and Trap and Trace Devices  <sup>[1]</sup>  <sup><sup> 1 So in original. First word only of item should be capitalized. </sup></sup>   </td>
 
-    <td> 3121  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3121" data-uslm-ref="/us/usc/t18/s3121">3121</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch207" data-uslm-ref="/us/usc/t18/ptII/ch207">207.</a>  </td>
 
     <td> Release and detention pending judicial proceedings  </td>
 
-    <td> 3141  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3141" data-uslm-ref="/us/usc/t18/s3141">3141</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch208" data-uslm-ref="/us/usc/t18/ptII/ch208">208.</a>  </td>
 
     <td> Speedy trial  </td>
 
-    <td> 3161  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3161" data-uslm-ref="/us/usc/t18/s3161">3161</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch209" data-uslm-ref="/us/usc/t18/ptII/ch209">209.</a>  </td>
 
     <td> Extradition  </td>
 
-    <td> 3181  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3181" data-uslm-ref="/us/usc/t18/s3181">3181</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch211" data-uslm-ref="/us/usc/t18/ptII/ch211">211.</a>  </td>
 
     <td> Jurisdiction and venue  </td>
 
-    <td> 3231  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3231" data-uslm-ref="/us/usc/t18/s3231">3231</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch212" data-uslm-ref="/us/usc/t18/ptII/ch212">212.</a>  </td>
 
     <td> Military extraterritorial jurisdiction  </td>
 
-    <td> 3261  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3261" data-uslm-ref="/us/usc/t18/s3261">3261</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 212A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch212A" data-uslm-ref="/us/usc/t18/ptII/ch212A">212A.</a>  </td>
 
     <td> Extraterritorial jurisdiction over certain trafficking in persons offenses  </td>
 
-    <td> 3271  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3271" data-uslm-ref="/us/usc/t18/s3271">3271</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch213" data-uslm-ref="/us/usc/t18/ptII/ch213">213.</a>  </td>
 
     <td> Limitations  </td>
 
-    <td> 3281  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3281" data-uslm-ref="/us/usc/t18/s3281">3281</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch215" data-uslm-ref="/us/usc/t18/ptII/ch215">215.</a>  </td>
 
     <td> Grand jury  </td>
 
-    <td> 3321  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3321" data-uslm-ref="/us/usc/t18/s3321">3321</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch216" data-uslm-ref="/us/usc/t18/ptII/ch216">216.</a>  </td>
 
     <td> Special grand jury  </td>
 
-    <td> 3331  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3331" data-uslm-ref="/us/usc/t18/s3331">3331</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch217" data-uslm-ref="/us/usc/t18/ptII/ch217">217.</a>  </td>
 
     <td> Indictment and information  </td>
 
-    <td> 3361  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3361" data-uslm-ref="/us/usc/t18/s3361">3361</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 219.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch219" data-uslm-ref="/us/usc/t18/ptII/ch219">219.</a>  </td>
 
     <td> Trial by United States magistrate judges  </td>
 
-    <td> 3401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3401" data-uslm-ref="/us/usc/t18/s3401">3401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 221.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch221" data-uslm-ref="/us/usc/t18/ptII/ch221">221.</a>  </td>
 
     <td> Arraignment, pleas and trial  </td>
 
-    <td> 3431  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3431" data-uslm-ref="/us/usc/t18/s3431">3431</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 223.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch223" data-uslm-ref="/us/usc/t18/ptII/ch223">223.</a>  </td>
 
     <td> Witnesses and evidence  </td>
 
-    <td> 3481  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3481" data-uslm-ref="/us/usc/t18/s3481">3481</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 224.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch224" data-uslm-ref="/us/usc/t18/ptII/ch224">224.</a>  </td>
 
     <td> Protection of witnesses  </td>
 
-    <td> 3521  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3521" data-uslm-ref="/us/usc/t18/s3521">3521</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch225" data-uslm-ref="/us/usc/t18/ptII/ch225">225.</a>  </td>
 
     <td> Verdict  </td>
 
-    <td> 3531  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3531" data-uslm-ref="/us/usc/t18/s3531">3531</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 227.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch227" data-uslm-ref="/us/usc/t18/ptII/ch227">227.</a>  </td>
 
     <td> Sentences  </td>
 
-    <td> 3551  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3551" data-uslm-ref="/us/usc/t18/s3551">3551</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 228.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch228" data-uslm-ref="/us/usc/t18/ptII/ch228">228.</a>  </td>
 
     <td> Death sentence  </td>
 
-    <td> 3591  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3591" data-uslm-ref="/us/usc/t18/s3591">3591</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 228A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch228A" data-uslm-ref="/us/usc/t18/ptII/ch228A">228A.</a>  </td>
 
     <td> Post-conviction DNA testing  </td>
 
-    <td> 3600  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3600" data-uslm-ref="/us/usc/t18/s3600">3600</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 229.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch229" data-uslm-ref="/us/usc/t18/ptII/ch229">229.</a>  </td>
 
     <td> Post-Sentence Administration  <sup>[2]</sup>  <sup><sup> 2 So in original. Does not conform to chapter heading and first word only of item should be capitalized. </sup></sup>   </td>
 
-    <td> 3601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3601" data-uslm-ref="/us/usc/t18/s3601">3601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [231.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch231" data-uslm-ref="/us/usc/t18/ptII/ch231">231.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -279,51 +279,51 @@
 
   <tr>
 
-    <td> 232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch232" data-uslm-ref="/us/usc/t18/ptII/ch232">232.</a>  </td>
 
     <td> Miscellaneous Sentencing Provisions  <sup>[1]</sup>   </td>
 
-    <td> 3661  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3661" data-uslm-ref="/us/usc/t18/s3661">3661</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 232A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch232A" data-uslm-ref="/us/usc/t18/ptII/ch232A">232A.</a>  </td>
 
     <td> Special forfeiture of collateral profits of crime  </td>
 
-    <td> 3681  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3681" data-uslm-ref="/us/usc/t18/s3681">3681</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch233" data-uslm-ref="/us/usc/t18/ptII/ch233">233.</a>  </td>
 
     <td> Contempts  </td>
 
-    <td> 3691  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3691" data-uslm-ref="/us/usc/t18/s3691">3691</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 235.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch235" data-uslm-ref="/us/usc/t18/ptII/ch235">235.</a>  </td>
 
     <td> Appeal  </td>
 
-    <td> 3731  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3731" data-uslm-ref="/us/usc/t18/s3731">3731</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 237.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch237" data-uslm-ref="/us/usc/t18/ptII/ch237">237.</a>  </td>
 
     <td> Crime victims’ rights  </td>
 
-    <td> 3771  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3771" data-uslm-ref="/us/usc/t18/s3771">3771</a>  </td>
 
   </tr>
 

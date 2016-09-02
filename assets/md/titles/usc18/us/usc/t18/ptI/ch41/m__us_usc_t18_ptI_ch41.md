@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 871.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs871" data-uslm-ref="/us/usc/t18/s871">871.</a>  </td>
 
     <td> Threats against President and successors to the Presidency.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 872.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs872" data-uslm-ref="/us/usc/t18/s872">872.</a>  </td>
 
     <td> Extortion by officers or employees of the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 873.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs873" data-uslm-ref="/us/usc/t18/s873">873.</a>  </td>
 
     <td> Blackmail.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 874.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs874" data-uslm-ref="/us/usc/t18/s874">874.</a>  </td>
 
     <td> Kickbacks from public works employees.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 875.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs875" data-uslm-ref="/us/usc/t18/s875">875.</a>  </td>
 
     <td> Interstate communications.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 876.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs876" data-uslm-ref="/us/usc/t18/s876">876.</a>  </td>
 
     <td> Mailing threatening communications.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 877.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs877" data-uslm-ref="/us/usc/t18/s877">877.</a>  </td>
 
     <td> Mailing threatening communications from foreign country.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 878.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs878" data-uslm-ref="/us/usc/t18/s878">878.</a>  </td>
 
     <td> Threats and extortion against foreign officials, official guests, or internationally protected persons.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 879.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs879" data-uslm-ref="/us/usc/t18/s879">879.</a>  </td>
 
     <td> Threats against former Presidents and certain other persons.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 880.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs880" data-uslm-ref="/us/usc/t18/s880">880.</a>  </td>
 
     <td> Receiving the proceeds of extortion.  </td>
 

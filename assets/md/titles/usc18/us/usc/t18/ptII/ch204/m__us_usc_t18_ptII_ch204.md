@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3071.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3071" data-uslm-ref="/us/usc/t18/s3071">3071.</a>  </td>
 
     <td> Information for which rewards authorized.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3072.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3072" data-uslm-ref="/us/usc/t18/s3072">3072.</a>  </td>
 
     <td> Determination of entitlement; maximum amount; Presidential approval; conclusiveness.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3073.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3073" data-uslm-ref="/us/usc/t18/s3073">3073.</a>  </td>
 
     <td> Protection of identity.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3074.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3074" data-uslm-ref="/us/usc/t18/s3074">3074.</a>  </td>
 
     <td> Exception of governmental officials.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3075.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3075" data-uslm-ref="/us/usc/t18/s3075">3075.</a>  </td>
 
     <td> Authorization for appropriations. <sup>[1]</sup>  <sup><sup> 1 Section repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F107%2F273" data-uslm-ref="/us/pl/107/273">Pub. L. 107–273</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3076.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3076" data-uslm-ref="/us/usc/t18/s3076">3076.</a>  </td>
 
     <td> Eligibility for witness security program.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3077.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3077" data-uslm-ref="/us/usc/t18/s3077">3077.</a>  </td>
 
     <td> Definitions.  </td>
 

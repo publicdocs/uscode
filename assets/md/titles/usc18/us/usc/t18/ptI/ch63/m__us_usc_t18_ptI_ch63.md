@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1341" data-uslm-ref="/us/usc/t18/s1341">1341.</a>  </td>
 
     <td> Frauds and swindles.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1342" data-uslm-ref="/us/usc/t18/s1342">1342.</a>  </td>
 
     <td> Fictitious name or address.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1343" data-uslm-ref="/us/usc/t18/s1343">1343.</a>  </td>
 
     <td> Fraud by wire, radio, or television.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1344" data-uslm-ref="/us/usc/t18/s1344">1344.</a>  </td>
 
     <td> Bank fraud.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1345" data-uslm-ref="/us/usc/t18/s1345">1345.</a>  </td>
 
     <td> Injunctions against fraud.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1346" data-uslm-ref="/us/usc/t18/s1346">1346.</a>  </td>
 
     <td> Definition of “scheme or artifice to defraud”.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1347.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1347" data-uslm-ref="/us/usc/t18/s1347">1347.</a>  </td>
 
     <td> Health care fraud.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1348.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1348" data-uslm-ref="/us/usc/t18/s1348">1348.</a>  </td>
 
     <td> Securities and commodities fraud.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1349.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1349" data-uslm-ref="/us/usc/t18/s1349">1349.</a>  </td>
 
     <td> Attempt and conspiracy.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1350.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1350" data-uslm-ref="/us/usc/t18/s1350">1350.</a>  </td>
 
     <td> Failure of corporate officers to certify financial reports.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1351" data-uslm-ref="/us/usc/t18/s1351">1351.</a>  </td>
 
     <td> Fraud in foreign labor contracting.  </td>
 

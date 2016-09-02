@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1751" data-uslm-ref="/us/usc/t18/s1751">1751.</a>  </td>
 
     <td> Presidential and Presidential staff assassination, kidnapping, and assault; penalties.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1752" data-uslm-ref="/us/usc/t18/s1752">1752.</a>  </td>
 
     <td> Restricted building or grounds.  </td>
 

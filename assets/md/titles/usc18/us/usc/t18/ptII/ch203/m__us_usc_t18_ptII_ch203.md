@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3041" data-uslm-ref="/us/usc/t18/s3041">3041.</a>  </td>
 
     <td> Power of courts and magistrates.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3042.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3042" data-uslm-ref="/us/usc/t18/s3042">3042.</a>  </td>
 
     <td> Extraterritorial jurisdiction.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [3043.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3043" data-uslm-ref="/us/usc/t18/s3043">3043.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3044.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3044" data-uslm-ref="/us/usc/t18/s3044">3044.</a>  </td>
 
     <td> Complaint—Rule.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3045.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3045" data-uslm-ref="/us/usc/t18/s3045">3045.</a>  </td>
 
     <td> Internal revenue violations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3046.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3046" data-uslm-ref="/us/usc/t18/s3046">3046.</a>  </td>
 
     <td> Warrants or summons—Rule. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3047.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3047" data-uslm-ref="/us/usc/t18/s3047">3047.</a>  </td>
 
     <td> Multiple warrants unnecessary.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3048.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3048" data-uslm-ref="/us/usc/t18/s3048">3048.</a>  </td>
 
     <td> Commitment to another district; removal—Rule.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3049.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3049" data-uslm-ref="/us/usc/t18/s3049">3049.</a>  </td>
 
     <td> Warrant for removal.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3050.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3050" data-uslm-ref="/us/usc/t18/s3050">3050.</a>  </td>
 
     <td> Bureau of Prisons employees’ powers.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3051.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3051" data-uslm-ref="/us/usc/t18/s3051">3051.</a>  </td>
 
     <td> Powers of Special Agents of Bureau of Alcohol, Tobacco, Firearms, and Explosives  <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should be followed by a period. </sup></sup>   </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3052.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3052" data-uslm-ref="/us/usc/t18/s3052">3052.</a>  </td>
 
     <td> Powers of Federal Bureau of Investigation.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3053.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3053" data-uslm-ref="/us/usc/t18/s3053">3053.</a>  </td>
 
     <td> Powers of marshals and deputies.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [3054.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3054" data-uslm-ref="/us/usc/t18/s3054">3054.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3055.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3055" data-uslm-ref="/us/usc/t18/s3055">3055.</a>  </td>
 
     <td> Officers’ powers to suppress Indian liquor traffic.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3056.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3056" data-uslm-ref="/us/usc/t18/s3056">3056.</a>  </td>
 
     <td> Powers, authorities, and duties of United States Secret Service.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 3056A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3056A" data-uslm-ref="/us/usc/t18/s3056A">3056A.</a>  </td>
 
     <td> Powers, authorities, and duties of United States Secret Service Uniformed Division.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 3057.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3057" data-uslm-ref="/us/usc/t18/s3057">3057.</a>  </td>
 
     <td> Bankruptcy investigations.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 3058.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3058" data-uslm-ref="/us/usc/t18/s3058">3058.</a>  </td>
 
     <td> Interned belligerent nationals.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 3059.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3059" data-uslm-ref="/us/usc/t18/s3059">3059.</a>  </td>
 
     <td> Rewards and appropriations therefor. <sup>[3]</sup>  <sup><sup> 3 Section repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F107%2F273" data-uslm-ref="/us/pl/107/273">Pub. L. 107–273</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 3059A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3059A" data-uslm-ref="/us/usc/t18/s3059A">3059A.</a>  </td>
 
     <td> Special rewards for information relating to certain financial institution offenses. <sup>[3]</sup>   </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 3059B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3059B" data-uslm-ref="/us/usc/t18/s3059B">3059B.</a>  </td>
 
     <td> General reward authority. <sup>[3]</sup>   </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 3060.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3060" data-uslm-ref="/us/usc/t18/s3060">3060.</a>  </td>
 
     <td> Preliminary examination.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 3061.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3061" data-uslm-ref="/us/usc/t18/s3061">3061.</a>  </td>
 
     <td> Investigative powers of Postal Service personnel.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 3062.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3062" data-uslm-ref="/us/usc/t18/s3062">3062.</a>  </td>
 
     <td> General arrest authority for violation of release conditions.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 3063.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3063" data-uslm-ref="/us/usc/t18/s3063">3063.</a>  </td>
 
     <td> Powers of Environmental Protection Agency.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 3064.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3064" data-uslm-ref="/us/usc/t18/s3064">3064.</a>  </td>
 
     <td> Powers of Federal Motor Carrier Safety Administration.  </td>
 

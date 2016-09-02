@@ -33,7 +33,7 @@ SUBCHAPTER C—FINES  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably 
 
   <tr>
 
-    <td> 3571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3571" data-uslm-ref="/us/usc/t18/s3571">3571.</a>  </td>
 
     <td> Sentence of fine.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER C—FINES  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably 
 
   <tr>
 
-    <td> 3572.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3572" data-uslm-ref="/us/usc/t18/s3572">3572.</a>  </td>
 
     <td> Imposition of a sentence of fine and related matters.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER C—FINES  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably 
 
   <tr>
 
-    <td> 3573.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3573" data-uslm-ref="/us/usc/t18/s3573">3573.</a>  </td>
 
     <td> Petition of the Government for modification or remission.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER C—FINES  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably 
 
   <tr>
 
-    <td> 3574.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3574" data-uslm-ref="/us/usc/t18/s3574">3574.</a>  </td>
 
     <td> Implementation of a sentence of fine.  </td>
 

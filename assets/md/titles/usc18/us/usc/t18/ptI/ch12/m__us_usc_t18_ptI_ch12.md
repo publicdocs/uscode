@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs231" data-uslm-ref="/us/usc/t18/s231">231.</a>  </td>
 
     <td> Civil disorders.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs232" data-uslm-ref="/us/usc/t18/s232">232.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs233" data-uslm-ref="/us/usc/t18/s233">233.</a>  </td>
 
     <td> Preemption.  </td>
 

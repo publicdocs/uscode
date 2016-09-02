@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3431" data-uslm-ref="/us/usc/t18/s3431">3431.</a>  </td>
 
     <td> Term of court; power of court unaffected by expiration—Rule.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3432" data-uslm-ref="/us/usc/t18/s3432">3432.</a>  </td>
 
     <td> Indictment and list of jurors and witnesses for prisoner in capital cases.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3433" data-uslm-ref="/us/usc/t18/s3433">3433.</a>  </td>
 
     <td> Arraignment—Rule.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3434.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3434" data-uslm-ref="/us/usc/t18/s3434">3434.</a>  </td>
 
     <td> Presence of defendant—Rule.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3435" data-uslm-ref="/us/usc/t18/s3435">3435.</a>  </td>
 
     <td> Receiver of stolen property triable before or after principal.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3436" data-uslm-ref="/us/usc/t18/s3436">3436.</a>  </td>
 
     <td> Consolidation of indictments or informations—Rule.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3437.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3437" data-uslm-ref="/us/usc/t18/s3437">3437.</a>  </td>
 
     <td> Severance—Rule.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3438.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3438" data-uslm-ref="/us/usc/t18/s3438">3438.</a>  </td>
 
     <td> Pleas—Rule.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3439.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3439" data-uslm-ref="/us/usc/t18/s3439">3439.</a>  </td>
 
     <td> Demurrers and special pleas in bar or abatement abolished; relief on motion—Rule.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3440.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3440" data-uslm-ref="/us/usc/t18/s3440">3440.</a>  </td>
 
     <td> Defenses and objections determined on motion—Rule.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3441" data-uslm-ref="/us/usc/t18/s3441">3441.</a>  </td>
 
     <td> Jury; number of jurors; waiver—Rule.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3442" data-uslm-ref="/us/usc/t18/s3442">3442.</a>  </td>
 
     <td> Jurors, examination, peremptory challenges; alternates—Rule.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3443" data-uslm-ref="/us/usc/t18/s3443">3443.</a>  </td>
 
     <td> Instructions to jury—Rule.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3444" data-uslm-ref="/us/usc/t18/s3444">3444.</a>  </td>
 
     <td> Disability of judge—Rule.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3445.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3445" data-uslm-ref="/us/usc/t18/s3445">3445.</a>  </td>
 
     <td> Motion for judgment of acquittal—Rule.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3446.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3446" data-uslm-ref="/us/usc/t18/s3446">3446.</a>  </td>
 
     <td> New trial—Rule.  </td>
 

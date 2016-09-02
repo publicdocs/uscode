@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1261" data-uslm-ref="/us/usc/t18/s1261">1261.</a>  </td>
 
     <td> Enforcement, regulations, and scope.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1262" data-uslm-ref="/us/usc/t18/s1262">1262.</a>  </td>
 
     <td> Transportation into State prohibiting sale.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1263.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1263" data-uslm-ref="/us/usc/t18/s1263">1263.</a>  </td>
 
     <td> Marks and labels on packages.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1264.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1264" data-uslm-ref="/us/usc/t18/s1264">1264.</a>  </td>
 
     <td> Delivery to consignee.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1265.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1265" data-uslm-ref="/us/usc/t18/s1265">1265.</a>  </td>
 
     <td> C.O.D. shipments prohibited.  </td>
 

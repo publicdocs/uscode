@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs41" data-uslm-ref="/us/usc/t18/s41">41.</a>  </td>
 
     <td> Hunting, fishing, trapping; disturbance or injury on wildlife refuges.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs42" data-uslm-ref="/us/usc/t18/s42">42.</a>  </td>
 
     <td> Importation or shipment of injurious mammals, birds, fish (including mollusks and crustacea), amphibia, and reptiles; permits, specimens for museums; regulations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs43" data-uslm-ref="/us/usc/t18/s43">43.</a>  </td>
 
     <td> Force, violence, and threats involving animal enterprises.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [44, 45.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs44" data-uslm-ref="/us/usc/t18/s44">44</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs45" data-uslm-ref="/us/usc/t18/s45">45.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 46.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs46" data-uslm-ref="/us/usc/t18/s46">46.</a>  </td>
 
     <td> Transportation of water hyacinths.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 47.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs47" data-uslm-ref="/us/usc/t18/s47">47.</a>  </td>
 
     <td> Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 48.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs48" data-uslm-ref="/us/usc/t18/s48">48.</a>  </td>
 
     <td> Animal crush videos.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 49.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs49" data-uslm-ref="/us/usc/t18/s49">49.</a>  </td>
 
     <td> Enforcement of animal fighting prohibitions.  </td>
 

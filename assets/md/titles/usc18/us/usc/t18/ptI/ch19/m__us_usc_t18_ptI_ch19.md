@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs371" data-uslm-ref="/us/usc/t18/s371">371.</a>  </td>
 
     <td> Conspiracy to commit offense or to defraud United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs372" data-uslm-ref="/us/usc/t18/s372">372.</a>  </td>
 
     <td> Conspiracy to impede or injure officer.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs373" data-uslm-ref="/us/usc/t18/s373">373.</a>  </td>
 
     <td> Solicitation to commit a crime of violence.  </td>
 

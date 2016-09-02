@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2101" data-uslm-ref="/us/usc/t18/s2101">2101.</a>  </td>
 
     <td> Riots.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2102" data-uslm-ref="/us/usc/t18/s2102">2102.</a>  </td>
 
     <td> Definitions.  </td>
 

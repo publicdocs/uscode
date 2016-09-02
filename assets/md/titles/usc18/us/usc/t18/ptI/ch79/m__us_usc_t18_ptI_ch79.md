@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1621" data-uslm-ref="/us/usc/t18/s1621">1621.</a>  </td>
 
     <td> Perjury generally.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1622" data-uslm-ref="/us/usc/t18/s1622">1622.</a>  </td>
 
     <td> Subornation of perjury.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1623" data-uslm-ref="/us/usc/t18/s1623">1623.</a>  </td>
 
     <td> False declarations before grand jury or court.  </td>
 

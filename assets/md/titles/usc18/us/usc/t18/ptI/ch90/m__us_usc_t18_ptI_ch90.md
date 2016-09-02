@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1831" data-uslm-ref="/us/usc/t18/s1831">1831.</a>  </td>
 
     <td> Economic espionage.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1832.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1832" data-uslm-ref="/us/usc/t18/s1832">1832.</a>  </td>
 
     <td> Theft of trade secrets.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1833.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1833" data-uslm-ref="/us/usc/t18/s1833">1833.</a>  </td>
 
     <td> Exceptions to prohibitions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1834.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1834" data-uslm-ref="/us/usc/t18/s1834">1834.</a>  </td>
 
     <td> Criminal forfeiture.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1835.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1835" data-uslm-ref="/us/usc/t18/s1835">1835.</a>  </td>
 
     <td> Orders to preserve confidentiality.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1836.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1836" data-uslm-ref="/us/usc/t18/s1836">1836.</a>  </td>
 
     <td> Civil proceedings to enjoin violations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1837.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1837" data-uslm-ref="/us/usc/t18/s1837">1837.</a>  </td>
 
     <td> Applicability to conduct outside the United States.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1838.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1838" data-uslm-ref="/us/usc/t18/s1838">1838.</a>  </td>
 
     <td> Construction with other laws.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1839.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1839" data-uslm-ref="/us/usc/t18/s1839">1839.</a>  </td>
 
     <td> Definitions.  </td>
 

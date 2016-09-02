@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3261.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3261" data-uslm-ref="/us/usc/t18/s3261">3261.</a>  </td>
 
     <td> Criminal offenses committed by certain members of the Armed Forces and by persons employed by or accompanying the Armed Forces outside the United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3262.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3262" data-uslm-ref="/us/usc/t18/s3262">3262.</a>  </td>
 
     <td> Arrest and commitment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3263.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3263" data-uslm-ref="/us/usc/t18/s3263">3263.</a>  </td>
 
     <td> Delivery to authorities of foreign countries.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3264.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3264" data-uslm-ref="/us/usc/t18/s3264">3264.</a>  </td>
 
     <td> Limitation on removal.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3265.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3265" data-uslm-ref="/us/usc/t18/s3265">3265.</a>  </td>
 
     <td> Initial proceedings.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3266.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3266" data-uslm-ref="/us/usc/t18/s3266">3266.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3267.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3267" data-uslm-ref="/us/usc/t18/s3267">3267.</a>  </td>
 
     <td> Definitions.  </td>
 

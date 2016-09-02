@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4281" data-uslm-ref="/us/usc/t18/s4281">4281.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4282.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4282" data-uslm-ref="/us/usc/t18/s4282">4282.</a>  </td>
 
     <td> Arrested but unconvicted persons.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4283.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4283" data-uslm-ref="/us/usc/t18/s4283">4283.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4284.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4284" data-uslm-ref="/us/usc/t18/s4284">4284.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4285.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4285" data-uslm-ref="/us/usc/t18/s4285">4285.</a>  </td>
 
     <td> Persons released pending further judicial proceedings.  </td>
 

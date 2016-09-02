@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs201" data-uslm-ref="/us/usc/t18/s201">201.</a>  </td>
 
     <td> Bribery of public officials and witnesses.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs202" data-uslm-ref="/us/usc/t18/s202">202.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs203" data-uslm-ref="/us/usc/t18/s203">203.</a>  </td>
 
     <td> Compensation to Members of Congress, officers, and others in matters affecting the Government.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs204" data-uslm-ref="/us/usc/t18/s204">204.</a>  </td>
 
     <td> Practice in United States Court of Federal Claims or the United States Court of Appeals for the Federal Circuit by Members of Congress.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs205" data-uslm-ref="/us/usc/t18/s205">205.</a>  </td>
 
     <td> Activities of officers and employees in claims against and other matters affecting the Government.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs206" data-uslm-ref="/us/usc/t18/s206">206.</a>  </td>
 
     <td> Exemption of retired officers of the uniformed services.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs207" data-uslm-ref="/us/usc/t18/s207">207.</a>  </td>
 
     <td> Restrictions on former officers, employees, and elected officials of the executive and legislative branches.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs208" data-uslm-ref="/us/usc/t18/s208">208.</a>  </td>
 
     <td> Acts affecting a personal financial interest.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 209.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs209" data-uslm-ref="/us/usc/t18/s209">209.</a>  </td>
 
     <td> Salary of Government officials and employees payable only by United States.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 210.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs210" data-uslm-ref="/us/usc/t18/s210">210.</a>  </td>
 
     <td> Offer to procure appointive public office.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs211" data-uslm-ref="/us/usc/t18/s211">211.</a>  </td>
 
     <td> Acceptance or solicitation to obtain appointive public office.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs212" data-uslm-ref="/us/usc/t18/s212">212.</a>  </td>
 
     <td> Offer of loan or gratuity to financial institution examiner.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs213" data-uslm-ref="/us/usc/t18/s213">213.</a>  </td>
 
     <td> Acceptance of loan or gratuity by financial institution examiner.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs214" data-uslm-ref="/us/usc/t18/s214">214.</a>  </td>
 
     <td> Offer for procurement of Federal Reserve bank loan and discount of commercial paper.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs215" data-uslm-ref="/us/usc/t18/s215">215.</a>  </td>
 
     <td> Receipt of commissions or gifts for procuring loans.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs216" data-uslm-ref="/us/usc/t18/s216">216.</a>  </td>
 
     <td> Penalties and injunctions.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs217" data-uslm-ref="/us/usc/t18/s217">217.</a>  </td>
 
     <td> Acceptance of consideration for adjustment of farm indebtedness.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 218.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs218" data-uslm-ref="/us/usc/t18/s218">218.</a>  </td>
 
     <td> Voiding transactions in violation of chapter; recovery by the United States.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 219.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs219" data-uslm-ref="/us/usc/t18/s219">219.</a>  </td>
 
     <td> Officers and employees acting as agents of foreign principals.  </td>
 
@@ -177,15 +177,15 @@
 
   <tr>
 
-    <td> [220 to 222. Renumbered.]  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs220" data-uslm-ref="/us/usc/t18/s220">220</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs222" data-uslm-ref="/us/usc/t18/s222">222.</a>  </td>
 
-    <td>   </td>
+    <td> Renumbered.]  </td>
 
   </tr>
 
   <tr>
 
-    <td> [223.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs223" data-uslm-ref="/us/usc/t18/s223">223.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 224.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs224" data-uslm-ref="/us/usc/t18/s224">224.</a>  </td>
 
     <td> Bribery in sporting contests.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 225.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs225" data-uslm-ref="/us/usc/t18/s225">225.</a>  </td>
 
     <td> Continuing financial crimes enterprise.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 226.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs226" data-uslm-ref="/us/usc/t18/s226">226.</a>  </td>
 
     <td> Bribery affecting port security.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 227.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs227" data-uslm-ref="/us/usc/t18/s227">227.</a>  </td>
 
     <td> Wrongfully influencing a private entity’s employment decisions by a Member of Congress or an officer or employee of the legislative or executive branch.  </td>
 

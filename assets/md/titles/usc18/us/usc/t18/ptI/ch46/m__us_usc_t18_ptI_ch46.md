@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 981.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs981" data-uslm-ref="/us/usc/t18/s981">981.</a>  </td>
 
     <td> Civil forfeiture.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 982.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs982" data-uslm-ref="/us/usc/t18/s982">982.</a>  </td>
 
     <td> Criminal forfeiture.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 983.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs983" data-uslm-ref="/us/usc/t18/s983">983.</a>  </td>
 
     <td> General rules for civil forfeiture proceedings.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 984.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs984" data-uslm-ref="/us/usc/t18/s984">984.</a>  </td>
 
     <td> Civil forfeiture of fungible property.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 985.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs985" data-uslm-ref="/us/usc/t18/s985">985.</a>  </td>
 
     <td> Civil forfeiture of real property.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 986.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs986" data-uslm-ref="/us/usc/t18/s986">986.</a>  </td>
 
     <td> Subpoenas for bank records.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 987.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs987" data-uslm-ref="/us/usc/t18/s987">987.</a>  </td>
 
     <td> Anti-terrorist forfeiture protection.  </td>
 

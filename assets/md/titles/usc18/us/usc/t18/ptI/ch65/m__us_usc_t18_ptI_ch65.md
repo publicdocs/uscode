@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1361" data-uslm-ref="/us/usc/t18/s1361">1361.</a>  </td>
 
     <td> Government property or contracts.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1362" data-uslm-ref="/us/usc/t18/s1362">1362.</a>  </td>
 
     <td> Communication lines, stations or systems.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1363" data-uslm-ref="/us/usc/t18/s1363">1363.</a>  </td>
 
     <td> Buildings or property within special maritime and territorial jurisdiction.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1364" data-uslm-ref="/us/usc/t18/s1364">1364.</a>  </td>
 
     <td> Interference with foreign commerce by violence.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1365" data-uslm-ref="/us/usc/t18/s1365">1365.</a>  </td>
 
     <td> Tampering with consumer products.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1366" data-uslm-ref="/us/usc/t18/s1366">1366.</a>  </td>
 
     <td> Destruction of an energy facility.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1367" data-uslm-ref="/us/usc/t18/s1367">1367.</a>  </td>
 
     <td> Interference with the operation of a satellite.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1368.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1368" data-uslm-ref="/us/usc/t18/s1368">1368.</a>  </td>
 
     <td> Harming animals used in law enforcement.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1369.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1369" data-uslm-ref="/us/usc/t18/s1369">1369.</a>  </td>
 
     <td> Destruction of veterans’ memorials.  </td>
 

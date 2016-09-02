@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs921" data-uslm-ref="/us/usc/t18/s921">921.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs922" data-uslm-ref="/us/usc/t18/s922">922.</a>  </td>
 
     <td> Unlawful acts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs923" data-uslm-ref="/us/usc/t18/s923">923.</a>  </td>
 
     <td> Licensing.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs924" data-uslm-ref="/us/usc/t18/s924">924.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs925" data-uslm-ref="/us/usc/t18/s925">925.</a>  </td>
 
     <td> Exceptions: Relief from disabilities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 925A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs925A" data-uslm-ref="/us/usc/t18/s925A">925A.</a>  </td>
 
     <td> Remedy for erroneous denial of firearm.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs926" data-uslm-ref="/us/usc/t18/s926">926.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 926A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs926A" data-uslm-ref="/us/usc/t18/s926A">926A.</a>  </td>
 
     <td> Interstate transportation of firearms.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 926B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs926B" data-uslm-ref="/us/usc/t18/s926B">926B.</a>  </td>
 
     <td> Carrying of concealed firearms by qualified law enforcement officers.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 926C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs926C" data-uslm-ref="/us/usc/t18/s926C">926C.</a>  </td>
 
     <td> Carrying of concealed firearms by qualified retired law enforcement officers.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 927.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs927" data-uslm-ref="/us/usc/t18/s927">927.</a>  </td>
 
     <td> Effect on State law.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 928.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs928" data-uslm-ref="/us/usc/t18/s928">928.</a>  </td>
 
     <td> Separability.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 929.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs929" data-uslm-ref="/us/usc/t18/s929">929.</a>  </td>
 
     <td> Use of restricted ammunition.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 930.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs930" data-uslm-ref="/us/usc/t18/s930">930.</a>  </td>
 
     <td> Possession of firearms and dangerous weapons in Federal facilities.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs931" data-uslm-ref="/us/usc/t18/s931">931.</a>  </td>
 
     <td> Prohibition on purchase, ownership, or possession of body armor by violent felons.  </td>
 

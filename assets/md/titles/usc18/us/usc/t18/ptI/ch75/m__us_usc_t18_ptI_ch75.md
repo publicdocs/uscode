@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1541" data-uslm-ref="/us/usc/t18/s1541">1541.</a>  </td>
 
     <td> Issuance without authority.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1542" data-uslm-ref="/us/usc/t18/s1542">1542.</a>  </td>
 
     <td> False statement in application and use of passport.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1543" data-uslm-ref="/us/usc/t18/s1543">1543.</a>  </td>
 
     <td> Forgery or false use of passport.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1544" data-uslm-ref="/us/usc/t18/s1544">1544.</a>  </td>
 
     <td> Misuse of passport.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1545" data-uslm-ref="/us/usc/t18/s1545">1545.</a>  </td>
 
     <td> Safe conduct violation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1546.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1546" data-uslm-ref="/us/usc/t18/s1546">1546.</a>  </td>
 
     <td> Fraud and misuse of visas, permits, and other documents.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1547.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1547" data-uslm-ref="/us/usc/t18/s1547">1547.</a>  </td>
 
     <td> Alternative imprisonment maximum for certain offenses.  </td>
 

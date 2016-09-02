@@ -29,41 +29,41 @@
 
   <tr>
 
-    <td> A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch227%2FschA" data-uslm-ref="/us/usc/t18/ptII/ch227/schA">A.</a>  </td>
 
     <td> General Provisions  </td>
 
-    <td> 3551  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3551" data-uslm-ref="/us/usc/t18/s3551">3551</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch227%2FschB" data-uslm-ref="/us/usc/t18/ptII/ch227/schB">B.</a>  </td>
 
     <td> Probation  </td>
 
-    <td> 3561  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3561" data-uslm-ref="/us/usc/t18/s3561">3561</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch227%2FschC" data-uslm-ref="/us/usc/t18/ptII/ch227/schC">C.</a>  </td>
 
     <td> Fines  </td>
 
-    <td> 3571  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3571" data-uslm-ref="/us/usc/t18/s3571">3571</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII%2Fch227%2FschD" data-uslm-ref="/us/usc/t18/ptII/ch227/schD">D.</a>  </td>
 
     <td> Imprisonment  </td>
 
-    <td> 3581  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3581" data-uslm-ref="/us/usc/t18/s3581">3581</a>  </td>
 
   </tr>
 

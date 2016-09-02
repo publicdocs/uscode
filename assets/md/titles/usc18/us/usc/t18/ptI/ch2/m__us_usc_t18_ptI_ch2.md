@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs31" data-uslm-ref="/us/usc/t18/s31">31.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 32.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs32" data-uslm-ref="/us/usc/t18/s32">32.</a>  </td>
 
     <td> Destruction of aircraft or aircraft facilities.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs33" data-uslm-ref="/us/usc/t18/s33">33.</a>  </td>
 
     <td> Destruction of motor vehicles or motor vehicle facilities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 34.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs34" data-uslm-ref="/us/usc/t18/s34">34.</a>  </td>
 
     <td> Penalty when death results.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs35" data-uslm-ref="/us/usc/t18/s35">35.</a>  </td>
 
     <td> Imparting or conveying false information.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs36" data-uslm-ref="/us/usc/t18/s36">36.</a>  </td>
 
     <td> Drive-by shooting.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs37" data-uslm-ref="/us/usc/t18/s37">37.</a>  </td>
 
     <td> Violence at international airports.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 38.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs38" data-uslm-ref="/us/usc/t18/s38">38.</a>  </td>
 
     <td> Fraud involving aircraft or space vehicle parts in interstate or foreign commerce.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 39.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs39" data-uslm-ref="/us/usc/t18/s39">39.</a>  </td>
 
     <td> Traffic signal preemption transmitters.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 39A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs39A" data-uslm-ref="/us/usc/t18/s39A">39A.</a>  </td>
 
     <td> Aiming a laser pointer at an aircraft  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>   </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 40.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs40" data-uslm-ref="/us/usc/t18/s40">40.</a>  </td>
 
     <td> Commercial motor vehicles required to stop for inspections.  </td>
 

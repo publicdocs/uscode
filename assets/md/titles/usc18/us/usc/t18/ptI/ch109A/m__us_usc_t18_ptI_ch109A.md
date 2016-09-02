@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2241" data-uslm-ref="/us/usc/t18/s2241">2241.</a>  </td>
 
     <td> Aggravated sexual abuse.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2242" data-uslm-ref="/us/usc/t18/s2242">2242.</a>  </td>
 
     <td> Sexual abuse.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2243" data-uslm-ref="/us/usc/t18/s2243">2243.</a>  </td>
 
     <td> Sexual abuse of a minor or ward.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2244" data-uslm-ref="/us/usc/t18/s2244">2244.</a>  </td>
 
     <td> Abusive sexual contact.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2245.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2245" data-uslm-ref="/us/usc/t18/s2245">2245.</a>  </td>
 
     <td> Sexual abuse resulting in death. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F109%2F248" data-uslm-ref="/us/pl/109/248">Pub. L. 109–248</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2246.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2246" data-uslm-ref="/us/usc/t18/s2246">2246.</a>  </td>
 
     <td> Definitions for chapter.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2247.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2247" data-uslm-ref="/us/usc/t18/s2247">2247.</a>  </td>
 
     <td> Repeat offenders.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2248.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2248" data-uslm-ref="/us/usc/t18/s2248">2248.</a>  </td>
 
     <td> Mandatory restitution.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1691.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1691" data-uslm-ref="/us/usc/t18/s1691">1691.</a>  </td>
 
     <td> Laws governing postal savings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1692.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1692" data-uslm-ref="/us/usc/t18/s1692">1692.</a>  </td>
 
     <td> Foreign mail as United States mail.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1693.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1693" data-uslm-ref="/us/usc/t18/s1693">1693.</a>  </td>
 
     <td> Carriage of mail generally.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1694.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1694" data-uslm-ref="/us/usc/t18/s1694">1694.</a>  </td>
 
     <td> Carriage of matter out of mail over post routes.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1695.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1695" data-uslm-ref="/us/usc/t18/s1695">1695.</a>  </td>
 
     <td> Carriage of matter out of mail on vessels.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1696.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1696" data-uslm-ref="/us/usc/t18/s1696">1696.</a>  </td>
 
     <td> Private express for letters and packets.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1697.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1697" data-uslm-ref="/us/usc/t18/s1697">1697.</a>  </td>
 
     <td> Transportation of persons acting as private express.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1698.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1698" data-uslm-ref="/us/usc/t18/s1698">1698.</a>  </td>
 
     <td> Prompt delivery of mail from vessel.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1699.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1699" data-uslm-ref="/us/usc/t18/s1699">1699.</a>  </td>
 
     <td> Certification of delivery from vessel.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1700.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1700" data-uslm-ref="/us/usc/t18/s1700">1700.</a>  </td>
 
     <td> Desertion of mails.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1701" data-uslm-ref="/us/usc/t18/s1701">1701.</a>  </td>
 
     <td> Obstruction of mails generally.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1702" data-uslm-ref="/us/usc/t18/s1702">1702.</a>  </td>
 
     <td> Obstruction of correspondence.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1703" data-uslm-ref="/us/usc/t18/s1703">1703.</a>  </td>
 
     <td> Delay or destruction of mail or newspapers.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1704" data-uslm-ref="/us/usc/t18/s1704">1704.</a>  </td>
 
     <td> Keys or locks stolen or reproduced.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1705" data-uslm-ref="/us/usc/t18/s1705">1705.</a>  </td>
 
     <td> Destruction of letter boxes or mail.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1706" data-uslm-ref="/us/usc/t18/s1706">1706.</a>  </td>
 
     <td> Injury to mail bags.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1707" data-uslm-ref="/us/usc/t18/s1707">1707.</a>  </td>
 
     <td> Theft of property used by Postal Service.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1708" data-uslm-ref="/us/usc/t18/s1708">1708.</a>  </td>
 
     <td> Theft or receipt of stolen mail matter generally.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1709" data-uslm-ref="/us/usc/t18/s1709">1709.</a>  </td>
 
     <td> Theft of mail matter by officer or employee.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1710" data-uslm-ref="/us/usc/t18/s1710">1710.</a>  </td>
 
     <td> Theft of newspapers.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1711" data-uslm-ref="/us/usc/t18/s1711">1711.</a>  </td>
 
     <td> Misappropriation of postal funds.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 1712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1712" data-uslm-ref="/us/usc/t18/s1712">1712.</a>  </td>
 
     <td> Falsification of postal returns to increase compensation.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 1713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1713" data-uslm-ref="/us/usc/t18/s1713">1713.</a>  </td>
 
     <td> Issuance of money orders without payment.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> [1714.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1714" data-uslm-ref="/us/usc/t18/s1714">1714.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 1715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1715" data-uslm-ref="/us/usc/t18/s1715">1715.</a>  </td>
 
     <td> Firearms as nonmailable; regulations.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 1716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1716" data-uslm-ref="/us/usc/t18/s1716">1716.</a>  </td>
 
     <td> Injurious articles as nonmailable.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 1716A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1716A" data-uslm-ref="/us/usc/t18/s1716A">1716A.</a>  </td>
 
     <td> Nonmailable locksmithing devices and motor vehicle master keys.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 1716B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1716B" data-uslm-ref="/us/usc/t18/s1716B">1716B.</a>  </td>
 
     <td> Nonmailable plants.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 1716C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1716C" data-uslm-ref="/us/usc/t18/s1716C">1716C.</a>  </td>
 
     <td> Forged agricultural certifications.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 1716D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1716D" data-uslm-ref="/us/usc/t18/s1716D">1716D.</a>  </td>
 
     <td> Nonmailable injurious animals, plant pests, plants, and illegally taken fish, wildlife, and plants.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 1716E.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1716E" data-uslm-ref="/us/usc/t18/s1716E">1716E.</a>  </td>
 
     <td> Tobacco products as nonmailable.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 1717.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1717" data-uslm-ref="/us/usc/t18/s1717">1717.</a>  </td>
 
     <td> Letters and writings as nonmailable.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> [1718.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1718" data-uslm-ref="/us/usc/t18/s1718">1718.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 1719.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1719" data-uslm-ref="/us/usc/t18/s1719">1719.</a>  </td>
 
     <td> Franking privilege.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 1720.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1720" data-uslm-ref="/us/usc/t18/s1720">1720.</a>  </td>
 
     <td> Canceled stamps and envelopes.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 1721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1721" data-uslm-ref="/us/usc/t18/s1721">1721.</a>  </td>
 
     <td> Sale or pledge of stamps.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 1722.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1722" data-uslm-ref="/us/usc/t18/s1722">1722.</a>  </td>
 
     <td> False evidence to secure second-class rate.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 1723.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1723" data-uslm-ref="/us/usc/t18/s1723">1723.</a>  </td>
 
     <td> Avoidance of postage by using lower class matter.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 1724.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1724" data-uslm-ref="/us/usc/t18/s1724">1724.</a>  </td>
 
     <td> Postage on mail delivered by foreign vessels.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 1725.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1725" data-uslm-ref="/us/usc/t18/s1725">1725.</a>  </td>
 
     <td> Postage unpaid on deposited mail matter.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 1726.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1726" data-uslm-ref="/us/usc/t18/s1726">1726.</a>  </td>
 
     <td> Postage collected unlawfully.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> [1727.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1727" data-uslm-ref="/us/usc/t18/s1727">1727.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 1728.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1728" data-uslm-ref="/us/usc/t18/s1728">1728.</a>  </td>
 
     <td> Weight of mail increased fraudulently.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> 1729.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1729" data-uslm-ref="/us/usc/t18/s1729">1729.</a>  </td>
 
     <td> Post office conducted without authority.  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> 1730.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1730" data-uslm-ref="/us/usc/t18/s1730">1730.</a>  </td>
 
     <td> Uniforms of carriers.  </td>
 
@@ -385,7 +385,7 @@
 
   <tr>
 
-    <td> 1731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1731" data-uslm-ref="/us/usc/t18/s1731">1731.</a>  </td>
 
     <td> Vehicles falsely labeled as carriers.  </td>
 
@@ -393,7 +393,7 @@
 
   <tr>
 
-    <td> 1732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1732" data-uslm-ref="/us/usc/t18/s1732">1732.</a>  </td>
 
     <td> Approval of bond or sureties by postmaster.  </td>
 
@@ -401,7 +401,7 @@
 
   <tr>
 
-    <td> 1733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1733" data-uslm-ref="/us/usc/t18/s1733">1733.</a>  </td>
 
     <td> Mailing periodical publications without prepayment of postage.  </td>
 
@@ -409,7 +409,7 @@
 
   <tr>
 
-    <td> 1734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1734" data-uslm-ref="/us/usc/t18/s1734">1734.</a>  </td>
 
     <td> Editorials and other matter as “advertisements”.  </td>
 
@@ -417,7 +417,7 @@
 
   <tr>
 
-    <td> 1735.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1735" data-uslm-ref="/us/usc/t18/s1735">1735.</a>  </td>
 
     <td> Sexually oriented advertisements.  </td>
 
@@ -425,7 +425,7 @@
 
   <tr>
 
-    <td> 1736.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1736" data-uslm-ref="/us/usc/t18/s1736">1736.</a>  </td>
 
     <td> Restrictive use of information.  </td>
 
@@ -433,7 +433,7 @@
 
   <tr>
 
-    <td> 1737.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1737" data-uslm-ref="/us/usc/t18/s1737">1737.</a>  </td>
 
     <td> Manufacturer of sexually related mail matter.  </td>
 
@@ -441,7 +441,7 @@
 
   <tr>
 
-    <td> [1738.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1738" data-uslm-ref="/us/usc/t18/s1738">1738.</a>  </td>
 
     <td> Repealed.]  </td>
 

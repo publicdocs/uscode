@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2231" data-uslm-ref="/us/usc/t18/s2231">2231.</a>  </td>
 
     <td> Assault or resistance.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2232" data-uslm-ref="/us/usc/t18/s2232">2232.</a>  </td>
 
     <td> Destruction or removal of property to prevent seizure.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2233" data-uslm-ref="/us/usc/t18/s2233">2233.</a>  </td>
 
     <td> Rescue of seized property.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2234" data-uslm-ref="/us/usc/t18/s2234">2234.</a>  </td>
 
     <td> Authority exceeded in executing warrant.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2235.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2235" data-uslm-ref="/us/usc/t18/s2235">2235.</a>  </td>
 
     <td> Search warrant procured maliciously.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2236.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2236" data-uslm-ref="/us/usc/t18/s2236">2236.</a>  </td>
 
     <td> Searches without warrant.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2237.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2237" data-uslm-ref="/us/usc/t18/s2237">2237.</a>  </td>
 
     <td> Criminal sanctions for failure to heave to, obstruction of boarding, or providing false information.  </td>
 

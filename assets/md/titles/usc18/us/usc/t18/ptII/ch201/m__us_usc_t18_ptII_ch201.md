@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3001" data-uslm-ref="/us/usc/t18/s3001">3001.</a>  </td>
 
     <td> Procedure governed by rules; scope, purpose and effect; definition of terms; local rules; forms—Rule.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3002" data-uslm-ref="/us/usc/t18/s3002">3002.</a>  </td>
 
     <td> Courts always open—Rule.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3003" data-uslm-ref="/us/usc/t18/s3003">3003.</a>  </td>
 
     <td> Calendars—Rule.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3004" data-uslm-ref="/us/usc/t18/s3004">3004.</a>  </td>
 
     <td> Decorum in court room—Rule.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3005" data-uslm-ref="/us/usc/t18/s3005">3005.</a>  </td>
 
     <td> Counsel and witnesses in capital cases.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3006" data-uslm-ref="/us/usc/t18/s3006">3006.</a>  </td>
 
     <td> Assignment of counsel—Rule.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3006A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3006A" data-uslm-ref="/us/usc/t18/s3006A">3006A.</a>  </td>
 
     <td> Adequate representation of defendants.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3007" data-uslm-ref="/us/usc/t18/s3007">3007.</a>  </td>
 
     <td> Motions—Rule.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3008" data-uslm-ref="/us/usc/t18/s3008">3008.</a>  </td>
 
     <td> Service and filing of papers—Rule.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3009" data-uslm-ref="/us/usc/t18/s3009">3009.</a>  </td>
 
     <td> Records—Rule.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3010" data-uslm-ref="/us/usc/t18/s3010">3010.</a>  </td>
 
     <td> Exceptions unnecessary—Rule.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3011" data-uslm-ref="/us/usc/t18/s3011">3011.</a>  </td>
 
     <td> Computation of time—Rule.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3012" data-uslm-ref="/us/usc/t18/s3012">3012.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3013" data-uslm-ref="/us/usc/t18/s3013">3013.</a>  </td>
 
     <td> Special assessment on convicted persons.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1761.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1761" data-uslm-ref="/us/usc/t18/s1761">1761.</a>  </td>
 
     <td> Transportation or importation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1762.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1762" data-uslm-ref="/us/usc/t18/s1762">1762.</a>  </td>
 
     <td> Marking packages.  </td>
 

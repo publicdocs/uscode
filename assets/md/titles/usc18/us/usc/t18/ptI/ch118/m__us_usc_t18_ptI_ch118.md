@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2441" data-uslm-ref="/us/usc/t18/s2441">2441.</a>  </td>
 
     <td> War crimes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2442" data-uslm-ref="/us/usc/t18/s2442">2442.</a>  </td>
 
     <td> Recruitment or use of child soldiers.  </td>
 

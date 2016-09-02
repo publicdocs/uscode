@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2331" data-uslm-ref="/us/usc/t18/s2331">2331.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2332" data-uslm-ref="/us/usc/t18/s2332">2332.</a>  </td>
 
     <td> Criminal penalties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2332a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2332a" data-uslm-ref="/us/usc/t18/s2332a">2332a.</a>  </td>
 
     <td> Use of weapons of mass destruction.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2332b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2332b" data-uslm-ref="/us/usc/t18/s2332b">2332b.</a>  </td>
 
     <td> Acts of terrorism transcending national boundaries.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [2332c.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2332c" data-uslm-ref="/us/usc/t18/s2332c">2332c.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2332d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2332d" data-uslm-ref="/us/usc/t18/s2332d">2332d.</a>  </td>
 
     <td> Financial transactions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2332e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2332e" data-uslm-ref="/us/usc/t18/s2332e">2332e.</a>  </td>
 
     <td> Requests for military assistance to enforce prohibition in certain emergencies.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2332f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2332f" data-uslm-ref="/us/usc/t18/s2332f">2332f.</a>  </td>
 
     <td> Bombings of places of public use, government facilities, public transportation systems and infrastructure facilities.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2332g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2332g" data-uslm-ref="/us/usc/t18/s2332g">2332g.</a>  </td>
 
     <td> Missile systems designed to destroy aircraft.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2332h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2332h" data-uslm-ref="/us/usc/t18/s2332h">2332h.</a>  </td>
 
     <td> Radiological dispersal devices.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2333" data-uslm-ref="/us/usc/t18/s2333">2333.</a>  </td>
 
     <td> Civil remedies.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2334" data-uslm-ref="/us/usc/t18/s2334">2334.</a>  </td>
 
     <td> Jurisdiction and venue.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2335" data-uslm-ref="/us/usc/t18/s2335">2335.</a>  </td>
 
     <td> Limitation of actions.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2336" data-uslm-ref="/us/usc/t18/s2336">2336.</a>  </td>
 
     <td> Other limitations.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2337.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2337" data-uslm-ref="/us/usc/t18/s2337">2337.</a>  </td>
 
     <td> Suits against Government officials.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 2338.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2338" data-uslm-ref="/us/usc/t18/s2338">2338.</a>  </td>
 
     <td> Exclusive Federal jurisdiction.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 2339.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2339" data-uslm-ref="/us/usc/t18/s2339">2339.</a>  </td>
 
     <td> Harboring or concealing terrorists.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 2339A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2339A" data-uslm-ref="/us/usc/t18/s2339A">2339A.</a>  </td>
 
     <td> Providing material support to terrorists.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 2339B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2339B" data-uslm-ref="/us/usc/t18/s2339B">2339B.</a>  </td>
 
     <td> Providing material support or resources to designated foreign terrorist organizations.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 2339C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2339C" data-uslm-ref="/us/usc/t18/s2339C">2339C.</a>  </td>
 
     <td> Prohibitions against the financing of terrorism.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 2339D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2339D" data-uslm-ref="/us/usc/t18/s2339D">2339D.</a>  </td>
 
     <td> Receiving military-type training from a foreign terrorist organization. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section 2339D added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F108%2F458" data-uslm-ref="/us/pl/108/458">Pub. L. 108–458</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 

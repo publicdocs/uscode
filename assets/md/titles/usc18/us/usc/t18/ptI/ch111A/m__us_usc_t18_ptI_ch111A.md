@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2290.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2290" data-uslm-ref="/us/usc/t18/s2290">2290.</a>  </td>
 
     <td> Jurisdiction and scope.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2291" data-uslm-ref="/us/usc/t18/s2291">2291.</a>  </td>
 
     <td> Destruction of vessel or maritime facility.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2292" data-uslm-ref="/us/usc/t18/s2292">2292.</a>  </td>
 
     <td> Imparting or conveying false information.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2293" data-uslm-ref="/us/usc/t18/s2293">2293.</a>  </td>
 
     <td> Bar to prosecution. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section 2293 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F109%2F177" data-uslm-ref="/us/pl/109/177">Pub. L. 109–177</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 

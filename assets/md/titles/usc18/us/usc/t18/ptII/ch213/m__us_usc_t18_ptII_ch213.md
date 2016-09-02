@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3281.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3281" data-uslm-ref="/us/usc/t18/s3281">3281.</a>  </td>
 
     <td> Capital offenses.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3282.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3282" data-uslm-ref="/us/usc/t18/s3282">3282.</a>  </td>
 
     <td> Offenses not capital.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3283.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3283" data-uslm-ref="/us/usc/t18/s3283">3283.</a>  </td>
 
     <td> Child abuse offenses. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F108%2F21" data-uslm-ref="/us/pl/108/21">Pub. L. 108–21</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3284.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3284" data-uslm-ref="/us/usc/t18/s3284">3284.</a>  </td>
 
     <td> Concealment of bankrupt’s assets.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3285.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3285" data-uslm-ref="/us/usc/t18/s3285">3285.</a>  </td>
 
     <td> Criminal contempt.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3286.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3286" data-uslm-ref="/us/usc/t18/s3286">3286.</a>  </td>
 
     <td> Extension of statute of limitation for certain terrorism offenses.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3287.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3287" data-uslm-ref="/us/usc/t18/s3287">3287.</a>  </td>
 
     <td> Wartime suspension of limitations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3288.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3288" data-uslm-ref="/us/usc/t18/s3288">3288.</a>  </td>
 
     <td> Indictments and information dismissed after period of limitations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3289.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3289" data-uslm-ref="/us/usc/t18/s3289">3289.</a>  </td>
 
     <td> Indictments and information dismissed before period of limitations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3290.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3290" data-uslm-ref="/us/usc/t18/s3290">3290.</a>  </td>
 
     <td> Fugitives from justice.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3291" data-uslm-ref="/us/usc/t18/s3291">3291.</a>  </td>
 
     <td> Nationality, citizenship and passports.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3292" data-uslm-ref="/us/usc/t18/s3292">3292.</a>  </td>
 
     <td> Suspension of limitations to permit United States to obtain foreign evidence.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3293" data-uslm-ref="/us/usc/t18/s3293">3293.</a>  </td>
 
     <td> Financial institution offenses.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3294.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3294" data-uslm-ref="/us/usc/t18/s3294">3294.</a>  </td>
 
     <td> Theft of major artwork.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3295.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3295" data-uslm-ref="/us/usc/t18/s3295">3295.</a>  </td>
 
     <td> Arson offenses.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3296.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3296" data-uslm-ref="/us/usc/t18/s3296">3296.</a>  </td>
 
     <td> Counts dismissed pursuant to a plea agreement.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 3297.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3297" data-uslm-ref="/us/usc/t18/s3297">3297.</a>  </td>
 
     <td> Cases involving DNA evidence.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 3298.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3298" data-uslm-ref="/us/usc/t18/s3298">3298.</a>  </td>
 
     <td> Trafficking-related offenses  <sup>[2]</sup>  <sup><sup> 2 So in original. Probably should be followed by a period. </sup></sup>   </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 3299.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3299" data-uslm-ref="/us/usc/t18/s3299">3299.</a>  </td>
 
     <td> Child abduction and sex offenses  <sup>[2]</sup>   </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 3300.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3300" data-uslm-ref="/us/usc/t18/s3300">3300.</a>  </td>
 
     <td> Recruitment or use of child soldiers.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 3301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3301" data-uslm-ref="/us/usc/t18/s3301">3301.</a>  </td>
 
     <td> Securities fraud offenses.  </td>
 

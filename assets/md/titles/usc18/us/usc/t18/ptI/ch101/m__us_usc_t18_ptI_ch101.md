@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2071.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2071" data-uslm-ref="/us/usc/t18/s2071">2071.</a>  </td>
 
     <td> Concealment, removal, or mutilation generally.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2072.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2072" data-uslm-ref="/us/usc/t18/s2072">2072.</a>  </td>
 
     <td> False crop reports.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2073.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2073" data-uslm-ref="/us/usc/t18/s2073">2073.</a>  </td>
 
     <td> False entries and reports of moneys or securities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2074.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2074" data-uslm-ref="/us/usc/t18/s2074">2074.</a>  </td>
 
     <td> False weather reports.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2075.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2075" data-uslm-ref="/us/usc/t18/s2075">2075.</a>  </td>
 
     <td> Officer failing to make returns or reports.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2076.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2076" data-uslm-ref="/us/usc/t18/s2076">2076.</a>  </td>
 
     <td> Clerk of United States District Court.  </td>
 

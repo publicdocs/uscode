@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3161" data-uslm-ref="/us/usc/t18/s3161">3161.</a>  </td>
 
     <td> Time limits and exclusions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3162" data-uslm-ref="/us/usc/t18/s3162">3162.</a>  </td>
 
     <td> Sanctions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3163" data-uslm-ref="/us/usc/t18/s3163">3163.</a>  </td>
 
     <td> Effective dates.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3164" data-uslm-ref="/us/usc/t18/s3164">3164.</a>  </td>
 
     <td> Persons detained or designated as being of high risk.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3165" data-uslm-ref="/us/usc/t18/s3165">3165.</a>  </td>
 
     <td> District plans—generally.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3166" data-uslm-ref="/us/usc/t18/s3166">3166.</a>  </td>
 
     <td> District plans—contents.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3167" data-uslm-ref="/us/usc/t18/s3167">3167.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3168.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3168" data-uslm-ref="/us/usc/t18/s3168">3168.</a>  </td>
 
     <td> Planning process.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3169.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3169" data-uslm-ref="/us/usc/t18/s3169">3169.</a>  </td>
 
     <td> Federal Judicial Center.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3170.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3170" data-uslm-ref="/us/usc/t18/s3170">3170.</a>  </td>
 
     <td> Speedy trial data.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3171" data-uslm-ref="/us/usc/t18/s3171">3171.</a>  </td>
 
     <td> Planning appropriations.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3172" data-uslm-ref="/us/usc/t18/s3172">3172.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3173" data-uslm-ref="/us/usc/t18/s3173">3173.</a>  </td>
 
     <td> Sixth amendment rights.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3174.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3174" data-uslm-ref="/us/usc/t18/s3174">3174.</a>  </td>
 
     <td> Judicial emergency and implementation.  </td>
 

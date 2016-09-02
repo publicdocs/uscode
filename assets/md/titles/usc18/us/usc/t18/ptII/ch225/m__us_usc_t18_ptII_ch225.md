@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3531" data-uslm-ref="/us/usc/t18/s3531">3531.</a>  </td>
 
     <td> Return; several defendants; conviction of less offense; poll of jury—Rule.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3532" data-uslm-ref="/us/usc/t18/s3532">3532.</a>  </td>
 
     <td> Setting aside verdict of guilty; judgment notwithstanding verdict—Rule.  </td>
 

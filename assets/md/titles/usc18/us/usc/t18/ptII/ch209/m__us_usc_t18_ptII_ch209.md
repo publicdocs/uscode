@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3181.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3181" data-uslm-ref="/us/usc/t18/s3181">3181.</a>  </td>
 
     <td> Scope and limitation of chapter.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3182.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3182" data-uslm-ref="/us/usc/t18/s3182">3182.</a>  </td>
 
     <td> Fugitives from State or Territory to State, District, or Territory.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3183.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3183" data-uslm-ref="/us/usc/t18/s3183">3183.</a>  </td>
 
     <td> Fugitives from State, Territory, or Possession into extraterritorial jurisdiction of United States.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3184.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3184" data-uslm-ref="/us/usc/t18/s3184">3184.</a>  </td>
 
     <td> Fugitives from foreign country to United States.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3185.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3185" data-uslm-ref="/us/usc/t18/s3185">3185.</a>  </td>
 
     <td> Fugitives from country under control of United States into the United States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3186.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3186" data-uslm-ref="/us/usc/t18/s3186">3186.</a>  </td>
 
     <td> Secretary of State to surrender fugitive.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3187.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3187" data-uslm-ref="/us/usc/t18/s3187">3187.</a>  </td>
 
     <td> Provisional arrest and detention within extraterritorial jurisdiction.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3188.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3188" data-uslm-ref="/us/usc/t18/s3188">3188.</a>  </td>
 
     <td> Time of commitment pending extradition.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3189.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3189" data-uslm-ref="/us/usc/t18/s3189">3189.</a>  </td>
 
     <td> Place and character of hearing.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3190.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3190" data-uslm-ref="/us/usc/t18/s3190">3190.</a>  </td>
 
     <td> Evidence on hearing.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3191" data-uslm-ref="/us/usc/t18/s3191">3191.</a>  </td>
 
     <td> Witnesses for indigent fugitives.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3192" data-uslm-ref="/us/usc/t18/s3192">3192.</a>  </td>
 
     <td> Protection of accused.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3193" data-uslm-ref="/us/usc/t18/s3193">3193.</a>  </td>
 
     <td> Receiving agent’s authority over offenders.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3194.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3194" data-uslm-ref="/us/usc/t18/s3194">3194.</a>  </td>
 
     <td> Transportation of fugitive by receiving agent.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3195.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3195" data-uslm-ref="/us/usc/t18/s3195">3195.</a>  </td>
 
     <td> Payment of fees and costs.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3196.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3196" data-uslm-ref="/us/usc/t18/s3196">3196.</a>  </td>
 
     <td> Extradition of United States citizens.  </td>
 

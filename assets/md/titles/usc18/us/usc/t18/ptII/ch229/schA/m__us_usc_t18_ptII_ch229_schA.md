@@ -33,7 +33,7 @@ SUBCHAPTER A—PROBATION  <sup>[1]</sup>  <sup><sup> 1 So in original. Proba
 
   <tr>
 
-    <td> 3601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3601" data-uslm-ref="/us/usc/t18/s3601">3601.</a>  </td>
 
     <td> Supervision of probation.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER A—PROBATION  <sup>[1]</sup>  <sup><sup> 1 So in original. Proba
 
   <tr>
 
-    <td> 3602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3602" data-uslm-ref="/us/usc/t18/s3602">3602.</a>  </td>
 
     <td> Appointment of probation officers.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER A—PROBATION  <sup>[1]</sup>  <sup><sup> 1 So in original. Proba
 
   <tr>
 
-    <td> 3603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3603" data-uslm-ref="/us/usc/t18/s3603">3603.</a>  </td>
 
     <td> Duties of probation officers.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER A—PROBATION  <sup>[1]</sup>  <sup><sup> 1 So in original. Proba
 
   <tr>
 
-    <td> 3604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3604" data-uslm-ref="/us/usc/t18/s3604">3604.</a>  </td>
 
     <td> Transportation of a probationer.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER A—PROBATION  <sup>[1]</sup>  <sup><sup> 1 So in original. Proba
 
   <tr>
 
-    <td> 3605.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3605" data-uslm-ref="/us/usc/t18/s3605">3605.</a>  </td>
 
     <td> Transfer of jurisdiction over a probationer.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER A—PROBATION  <sup>[1]</sup>  <sup><sup> 1 So in original. Proba
 
   <tr>
 
-    <td> 3606.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3606" data-uslm-ref="/us/usc/t18/s3606">3606.</a>  </td>
 
     <td> Arrest and return of a probationer.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER A—PROBATION  <sup>[1]</sup>  <sup><sup> 1 So in original. Proba
 
   <tr>
 
-    <td> 3607.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3607" data-uslm-ref="/us/usc/t18/s3607">3607.</a>  </td>
 
     <td> Special probation and expungement procedures for drug possessors.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER A—PROBATION  <sup>[1]</sup>  <sup><sup> 1 So in original. Proba
 
   <tr>
 
-    <td> 3608.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3608" data-uslm-ref="/us/usc/t18/s3608">3608.</a>  </td>
 
     <td> Drug testing of Federal offenders on post-conviction release.  </td>
 

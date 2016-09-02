@@ -29,57 +29,57 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch301" data-uslm-ref="/us/usc/t18/ptIII/ch301">301.</a>  </td>
 
     <td> General provisions  </td>
 
-    <td> 4001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4001" data-uslm-ref="/us/usc/t18/s4001">4001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch303" data-uslm-ref="/us/usc/t18/ptIII/ch303">303.</a>  </td>
 
     <td> Bureau of Prisons  </td>
 
-    <td> 4041  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4041" data-uslm-ref="/us/usc/t18/s4041">4041</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch305" data-uslm-ref="/us/usc/t18/ptIII/ch305">305.</a>  </td>
 
     <td> Commitment and transfer  </td>
 
-    <td> 4081  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4081" data-uslm-ref="/us/usc/t18/s4081">4081</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch306" data-uslm-ref="/us/usc/t18/ptIII/ch306">306.</a>  </td>
 
     <td> Transfer to or from foreign countries  </td>
 
-    <td> 4100  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4100" data-uslm-ref="/us/usc/t18/s4100">4100</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch307" data-uslm-ref="/us/usc/t18/ptIII/ch307">307.</a>  </td>
 
     <td> Employment  </td>
 
-    <td> 4121  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4121" data-uslm-ref="/us/usc/t18/s4121">4121</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [309.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch309" data-uslm-ref="/us/usc/t18/ptIII/ch309">309.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [311.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch311" data-uslm-ref="/us/usc/t18/ptIII/ch311">311.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -99,17 +99,17 @@
 
   <tr>
 
-    <td> 313.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch313" data-uslm-ref="/us/usc/t18/ptIII/ch313">313.</a>  </td>
 
     <td> Offenders with mental disease or defect  </td>
 
-    <td> 4241  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4241" data-uslm-ref="/us/usc/t18/s4241">4241</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [314.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch314" data-uslm-ref="/us/usc/t18/ptIII/ch314">314.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -119,31 +119,31 @@
 
   <tr>
 
-    <td> 315.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch315" data-uslm-ref="/us/usc/t18/ptIII/ch315">315.</a>  </td>
 
     <td> Discharge and release payments  </td>
 
-    <td> 4281  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4281" data-uslm-ref="/us/usc/t18/s4281">4281</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 317.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch317" data-uslm-ref="/us/usc/t18/ptIII/ch317">317.</a>  </td>
 
     <td> Institutions for women  </td>
 
-    <td> 4321  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4321" data-uslm-ref="/us/usc/t18/s4321">4321</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 319.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIII%2Fch319" data-uslm-ref="/us/usc/t18/ptIII/ch319">319.</a>  </td>
 
     <td> National Institute of Corrections  </td>
 
-    <td> 4351  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4351" data-uslm-ref="/us/usc/t18/s4351">4351</a>  </td>
 
   </tr>
 

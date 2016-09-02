@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs641" data-uslm-ref="/us/usc/t18/s641">641.</a>  </td>
 
     <td> Public money, property or records.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs642" data-uslm-ref="/us/usc/t18/s642">642.</a>  </td>
 
     <td> Tools and materials for counterfeiting purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs643" data-uslm-ref="/us/usc/t18/s643">643.</a>  </td>
 
     <td> Accounting generally for public money.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 644.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs644" data-uslm-ref="/us/usc/t18/s644">644.</a>  </td>
 
     <td> Banker receiving unauthorized deposit of public money.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 645.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs645" data-uslm-ref="/us/usc/t18/s645">645.</a>  </td>
 
     <td> Court officers generally.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 646.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs646" data-uslm-ref="/us/usc/t18/s646">646.</a>  </td>
 
     <td> Court officers depositing registry moneys.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 647.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs647" data-uslm-ref="/us/usc/t18/s647">647.</a>  </td>
 
     <td> Receiving loan from court officer.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 648.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs648" data-uslm-ref="/us/usc/t18/s648">648.</a>  </td>
 
     <td> Custodians, generally, misusing public funds.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 649.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs649" data-uslm-ref="/us/usc/t18/s649">649.</a>  </td>
 
     <td> Custodians failing to deposit moneys; persons affected.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 650.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs650" data-uslm-ref="/us/usc/t18/s650">650.</a>  </td>
 
     <td> Depositaries failing to safeguard deposits.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs651" data-uslm-ref="/us/usc/t18/s651">651.</a>  </td>
 
     <td> Disbursing officer falsely certifying full payment.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs652" data-uslm-ref="/us/usc/t18/s652">652.</a>  </td>
 
     <td> Disbursing officer paying lesser in lieu of lawful amount.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs653" data-uslm-ref="/us/usc/t18/s653">653.</a>  </td>
 
     <td> Disbursing officer misusing public funds.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs654" data-uslm-ref="/us/usc/t18/s654">654.</a>  </td>
 
     <td> Officer or employee of United States converting property of another.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs655" data-uslm-ref="/us/usc/t18/s655">655.</a>  </td>
 
     <td> Theft by bank examiner.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 656.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs656" data-uslm-ref="/us/usc/t18/s656">656.</a>  </td>
 
     <td> Theft, embezzlement, or misapplication by bank officer or employee.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 657.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs657" data-uslm-ref="/us/usc/t18/s657">657.</a>  </td>
 
     <td> Lending, credit and insurance institutions.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 658.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs658" data-uslm-ref="/us/usc/t18/s658">658.</a>  </td>
 
     <td> Property mortgaged or pledged to farm credit agencies.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 659.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs659" data-uslm-ref="/us/usc/t18/s659">659.</a>  </td>
 
     <td> Interstate or foreign shipments by carrier; State prosecutions.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 660.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs660" data-uslm-ref="/us/usc/t18/s660">660.</a>  </td>
 
     <td> Carrier’s funds derived from commerce; State prosecutions.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs661" data-uslm-ref="/us/usc/t18/s661">661.</a>  </td>
 
     <td> Within special maritime and territorial jurisdiction.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs662" data-uslm-ref="/us/usc/t18/s662">662.</a>  </td>
 
     <td> Receiving stolen property, <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>  within special maritime and territorial jurisdiction.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs663" data-uslm-ref="/us/usc/t18/s663">663.</a>  </td>
 
     <td> Solicitation or use of gifts.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs664" data-uslm-ref="/us/usc/t18/s664">664.</a>  </td>
 
     <td> Theft or embezzlement from employee benefit plan.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 665.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs665" data-uslm-ref="/us/usc/t18/s665">665.</a>  </td>
 
     <td> Theft or embezzlement from employment and training funds; improper inducement; obstruction of investigations.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 666.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs666" data-uslm-ref="/us/usc/t18/s666">666.</a>  </td>
 
     <td> Theft or bribery concerning programs receiving Federal funds.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 667.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs667" data-uslm-ref="/us/usc/t18/s667">667.</a>  </td>
 
     <td> Theft of livestock.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 668.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs668" data-uslm-ref="/us/usc/t18/s668">668.</a>  </td>
 
     <td> Theft of major artwork.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 669.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs669" data-uslm-ref="/us/usc/t18/s669">669.</a>  </td>
 
     <td> Theft or embezzlement in connection with health care.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 670.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs670" data-uslm-ref="/us/usc/t18/s670">670.</a>  </td>
 
     <td> Theft of medical products.  </td>
 

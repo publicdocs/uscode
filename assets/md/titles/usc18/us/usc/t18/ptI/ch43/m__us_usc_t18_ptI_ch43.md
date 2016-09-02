@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs911" data-uslm-ref="/us/usc/t18/s911">911.</a>  </td>
 
     <td> Citizen of the United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs912" data-uslm-ref="/us/usc/t18/s912">912.</a>  </td>
 
     <td> Officer or employee of the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs913" data-uslm-ref="/us/usc/t18/s913">913.</a>  </td>
 
     <td> Impersonator making arrest or search.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs914" data-uslm-ref="/us/usc/t18/s914">914.</a>  </td>
 
     <td> Creditors of the United States.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs915" data-uslm-ref="/us/usc/t18/s915">915.</a>  </td>
 
     <td> Foreign diplomats, consuls or officers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs916" data-uslm-ref="/us/usc/t18/s916">916.</a>  </td>
 
     <td> 4–H Club members or agents.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs917" data-uslm-ref="/us/usc/t18/s917">917.</a>  </td>
 
     <td> Red Cross members or agents.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1501" data-uslm-ref="/us/usc/t18/s1501">1501.</a>  </td>
 
     <td> Assault on process server.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1502" data-uslm-ref="/us/usc/t18/s1502">1502.</a>  </td>
 
     <td> Resistance to extradition agent.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1503" data-uslm-ref="/us/usc/t18/s1503">1503.</a>  </td>
 
     <td> Influencing or injuring officer or juror generally.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1504" data-uslm-ref="/us/usc/t18/s1504">1504.</a>  </td>
 
     <td> Influencing juror by writing.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1505" data-uslm-ref="/us/usc/t18/s1505">1505.</a>  </td>
 
     <td> Obstruction of proceedings before departments, agencies, and committees.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1506" data-uslm-ref="/us/usc/t18/s1506">1506.</a>  </td>
 
     <td> Theft or alteration of record or process; false bail.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1507" data-uslm-ref="/us/usc/t18/s1507">1507.</a>  </td>
 
     <td> Picketing or parading.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1508" data-uslm-ref="/us/usc/t18/s1508">1508.</a>  </td>
 
     <td> Recording, listening to, or observing proceedings of grand or petit juries while deliberating or voting.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1509" data-uslm-ref="/us/usc/t18/s1509">1509.</a>  </td>
 
     <td> Obstruction of court orders.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1510" data-uslm-ref="/us/usc/t18/s1510">1510.</a>  </td>
 
     <td> Obstruction of criminal investigations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1511" data-uslm-ref="/us/usc/t18/s1511">1511.</a>  </td>
 
     <td> Obstruction of State or local law enforcement.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1512" data-uslm-ref="/us/usc/t18/s1512">1512.</a>  </td>
 
     <td> Tampering with a witness, victim, or an informant.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1513" data-uslm-ref="/us/usc/t18/s1513">1513.</a>  </td>
 
     <td> Retaliating against a witness, victim, or an informant.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1514" data-uslm-ref="/us/usc/t18/s1514">1514.</a>  </td>
 
     <td> Civil action to restrain harassment of a victim or witness.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1514A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1514A" data-uslm-ref="/us/usc/t18/s1514A">1514A.</a>  </td>
 
     <td> Civil action to protect against retaliation in fraud cases.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1515" data-uslm-ref="/us/usc/t18/s1515">1515.</a>  </td>
 
     <td> Definitions for certain provisions; general provision.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1516" data-uslm-ref="/us/usc/t18/s1516">1516.</a>  </td>
 
     <td> Obstruction of Federal audit.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1517" data-uslm-ref="/us/usc/t18/s1517">1517.</a>  </td>
 
     <td> Obstructing examination of financial institution.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1518" data-uslm-ref="/us/usc/t18/s1518">1518.</a>  </td>
 
     <td> Obstruction of criminal investigations of health care offenses.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1519" data-uslm-ref="/us/usc/t18/s1519">1519.</a>  </td>
 
     <td> Destruction, alteration, or falsification of records in Federal investigations and bankruptcy.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1520" data-uslm-ref="/us/usc/t18/s1520">1520.</a>  </td>
 
     <td> Destruction of corporate audit records.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 1521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1521" data-uslm-ref="/us/usc/t18/s1521">1521.</a>  </td>
 
     <td> Retaliating against a Federal judge or Federal law enforcement officer by false claim or slander of title.  </td>
 

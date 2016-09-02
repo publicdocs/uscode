@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 700.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs700" data-uslm-ref="/us/usc/t18/s700">700.</a>  </td>
 
     <td> Desecration of the flag of the United States; penalties.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs701" data-uslm-ref="/us/usc/t18/s701">701.</a>  </td>
 
     <td> Official badges, identification cards, other insignia.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs702" data-uslm-ref="/us/usc/t18/s702">702.</a>  </td>
 
     <td> Uniform of armed forces and Public Health Service.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs703" data-uslm-ref="/us/usc/t18/s703">703.</a>  </td>
 
     <td> Uniform of friendly nation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs704" data-uslm-ref="/us/usc/t18/s704">704.</a>  </td>
 
     <td> Military medals or decorations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs705" data-uslm-ref="/us/usc/t18/s705">705.</a>  </td>
 
     <td> Badge or medal of veterans’ organizations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs706" data-uslm-ref="/us/usc/t18/s706">706.</a>  </td>
 
     <td> Red Cross.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 706a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs706a" data-uslm-ref="/us/usc/t18/s706a">706a.</a>  </td>
 
     <td> Geneva distinctive emblems.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs707" data-uslm-ref="/us/usc/t18/s707">707.</a>  </td>
 
     <td> 4–H Club emblem fraudulently used. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs708" data-uslm-ref="/us/usc/t18/s708">708.</a>  </td>
 
     <td> Swiss Confederation coat of arms.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs709" data-uslm-ref="/us/usc/t18/s709">709.</a>  </td>
 
     <td> False advertising or misuse of names to indicate Federal agency.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs710" data-uslm-ref="/us/usc/t18/s710">710.</a>  </td>
 
     <td> Cremation urns for military use.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs711" data-uslm-ref="/us/usc/t18/s711">711.</a>  </td>
 
     <td> “Smokey Bear” character or name.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 711a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs711a" data-uslm-ref="/us/usc/t18/s711a">711a.</a>  </td>
 
     <td> “Woodsy Owl” character, name, or slogan.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs712" data-uslm-ref="/us/usc/t18/s712">712.</a>  </td>
 
     <td> Misuse of names, words, emblems, or insignia.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs713" data-uslm-ref="/us/usc/t18/s713">713.</a>  </td>
 
     <td> Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> [714.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs714" data-uslm-ref="/us/usc/t18/s714">714.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs715" data-uslm-ref="/us/usc/t18/s715">715.</a>  </td>
 
     <td> “The Golden Eagle Insignia”.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 716.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs716" data-uslm-ref="/us/usc/t18/s716">716.</a>  </td>
 
     <td> Public employee insignia and uniform.  </td>
 

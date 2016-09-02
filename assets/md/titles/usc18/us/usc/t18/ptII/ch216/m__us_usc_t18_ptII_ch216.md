@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3331" data-uslm-ref="/us/usc/t18/s3331">3331.</a>  </td>
 
     <td> Summoning and term.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3332" data-uslm-ref="/us/usc/t18/s3332">3332.</a>  </td>
 
     <td> Powers and duties.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3333" data-uslm-ref="/us/usc/t18/s3333">3333.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3334" data-uslm-ref="/us/usc/t18/s3334">3334.</a>  </td>
 
     <td> General provisions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1991.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1991" data-uslm-ref="/us/usc/t18/s1991">1991.</a>  </td>
 
     <td> Entering train to commit crime.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1992.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1992" data-uslm-ref="/us/usc/t18/s1992">1992.</a>  </td>
 
     <td> Terrorist attacks and other violence against railroad carriers and against mass transportation systems on land, on water, or through the air.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1001" data-uslm-ref="/us/usc/t18/s1001">1001.</a>  </td>
 
     <td> Statements or entries generally.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1002" data-uslm-ref="/us/usc/t18/s1002">1002.</a>  </td>
 
     <td> Possession of false papers to defraud United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1003" data-uslm-ref="/us/usc/t18/s1003">1003.</a>  </td>
 
     <td> Demands against the United States.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1004" data-uslm-ref="/us/usc/t18/s1004">1004.</a>  </td>
 
     <td> Certification of checks.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1005" data-uslm-ref="/us/usc/t18/s1005">1005.</a>  </td>
 
     <td> Bank entries, reports and transactions.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1006" data-uslm-ref="/us/usc/t18/s1006">1006.</a>  </td>
 
     <td> Federal credit institution entries, reports and transactions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1007" data-uslm-ref="/us/usc/t18/s1007">1007.</a>  </td>
 
     <td> Federal Deposit Insurance Corporation transactions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [1008, 1009.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1008" data-uslm-ref="/us/usc/t18/s1008">1008</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1009" data-uslm-ref="/us/usc/t18/s1009">1009.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1010" data-uslm-ref="/us/usc/t18/s1010">1010.</a>  </td>
 
     <td> Department of Housing and Urban Development and Federal Housing Administration transactions.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1011.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1011" data-uslm-ref="/us/usc/t18/s1011">1011.</a>  </td>
 
     <td> Federal land bank mortgage transactions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1012.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1012" data-uslm-ref="/us/usc/t18/s1012">1012.</a>  </td>
 
     <td> Department of Housing and Urban Development transactions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1013.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1013" data-uslm-ref="/us/usc/t18/s1013">1013.</a>  </td>
 
     <td> Farm loan bonds and credit bank debentures.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1014.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1014" data-uslm-ref="/us/usc/t18/s1014">1014.</a>  </td>
 
     <td> Loan and credit applications generally; renewals and discounts; crop insurance.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1015.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1015" data-uslm-ref="/us/usc/t18/s1015">1015.</a>  </td>
 
     <td> Naturalization, citizenship or alien registry.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1016.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1016" data-uslm-ref="/us/usc/t18/s1016">1016.</a>  </td>
 
     <td> Acknowledgment of appearance or oath.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1017.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1017" data-uslm-ref="/us/usc/t18/s1017">1017.</a>  </td>
 
     <td> Government seals wrongfully used and instruments wrongfully sealed.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1018.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1018" data-uslm-ref="/us/usc/t18/s1018">1018.</a>  </td>
 
     <td> Official certificates or writings.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1019.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1019" data-uslm-ref="/us/usc/t18/s1019">1019.</a>  </td>
 
     <td> Certificates by consular officers.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1020.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1020" data-uslm-ref="/us/usc/t18/s1020">1020.</a>  </td>
 
     <td> Highway projects.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1021.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1021" data-uslm-ref="/us/usc/t18/s1021">1021.</a>  </td>
 
     <td> Title records.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1022.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1022" data-uslm-ref="/us/usc/t18/s1022">1022.</a>  </td>
 
     <td> Delivery of certificate, voucher, receipt for military or naval property.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 1023.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1023" data-uslm-ref="/us/usc/t18/s1023">1023.</a>  </td>
 
     <td> Insufficient delivery of money or property for military or naval service.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 1024.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1024" data-uslm-ref="/us/usc/t18/s1024">1024.</a>  </td>
 
     <td> Purchase or receipt of military, naval, or veteran’s facilities property.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 1025.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1025" data-uslm-ref="/us/usc/t18/s1025">1025.</a>  </td>
 
     <td> False pretenses on high seas and other waters.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 1026.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1026" data-uslm-ref="/us/usc/t18/s1026">1026.</a>  </td>
 
     <td> Compromise, adjustment, or cancellation of farm indebtedness.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 1027.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1027" data-uslm-ref="/us/usc/t18/s1027">1027.</a>  </td>
 
     <td> False statements and concealment of facts in relation to documents required by the Employee Retirement Income Security Act of 1974.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 1028.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1028" data-uslm-ref="/us/usc/t18/s1028">1028.</a>  </td>
 
     <td> Fraud and related activity in connection with identification documents and information. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F108%2F21" data-uslm-ref="/us/pl/108/21">Pub. L. 108–21</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 1028A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1028A" data-uslm-ref="/us/usc/t18/s1028A">1028A.</a>  </td>
 
     <td> Aggravated identity theft.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 1029.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1029" data-uslm-ref="/us/usc/t18/s1029">1029.</a>  </td>
 
     <td> Fraud and related activity in connection with access devices.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 1030.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1030" data-uslm-ref="/us/usc/t18/s1030">1030.</a>  </td>
 
     <td> Fraud and related activity in connection with computers.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 1031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1031" data-uslm-ref="/us/usc/t18/s1031">1031.</a>  </td>
 
     <td> Major fraud against the United States.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 1032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1032" data-uslm-ref="/us/usc/t18/s1032">1032.</a>  </td>
 
     <td> Concealment of assets from conservator, receiver, or liquidating agent of financial institution. <sup>[2]</sup>  <sup><sup> 2 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F111%2F203" data-uslm-ref="/us/pl/111/203">Pub. L. 111–203</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 1033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1033" data-uslm-ref="/us/usc/t18/s1033">1033.</a>  </td>
 
     <td> Crimes by or affecting persons engaged in the business of insurance whose activities affect interstate commerce.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 1034.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1034" data-uslm-ref="/us/usc/t18/s1034">1034.</a>  </td>
 
     <td> Civil penalties and injunctions for violations of section 1033.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 1035.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1035" data-uslm-ref="/us/usc/t18/s1035">1035.</a>  </td>
 
     <td> False statements relating to health care matters.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 1036.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1036" data-uslm-ref="/us/usc/t18/s1036">1036.</a>  </td>
 
     <td> Entry by false pretenses to any real property, vessel, or aircraft of the United States or secure area of any airport or seaport.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 1037.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1037" data-uslm-ref="/us/usc/t18/s1037">1037.</a>  </td>
 
     <td> Fraud and related activity in connection with electronic mail.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 1038.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1038" data-uslm-ref="/us/usc/t18/s1038">1038.</a>  </td>
 
     <td> False information and hoaxes.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 1039.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1039" data-uslm-ref="/us/usc/t18/s1039">1039.</a>  </td>
 
     <td> Fraud and related activity in connection with obtaining confidential phone records information of a covered entity.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 1040.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1040" data-uslm-ref="/us/usc/t18/s1040">1040.</a>  </td>
 
     <td> Fraud in connection with major disaster or emergency benefits.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2151" data-uslm-ref="/us/usc/t18/s2151">2151.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2152" data-uslm-ref="/us/usc/t18/s2152">2152.</a>  </td>
 
     <td> Fortifications, harbor defenses, or defensive sea areas.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2153" data-uslm-ref="/us/usc/t18/s2153">2153.</a>  </td>
 
     <td> Destruction of war material, war premises or war utilities. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2154" data-uslm-ref="/us/usc/t18/s2154">2154.</a>  </td>
 
     <td> Production of defective war material, war premises or war utilities. <sup>[1]</sup>   </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2155" data-uslm-ref="/us/usc/t18/s2155">2155.</a>  </td>
 
     <td> Destruction of national-defense materials, national-defense premises, or national-defense utilities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2156" data-uslm-ref="/us/usc/t18/s2156">2156.</a>  </td>
 
     <td> Production of defective national-defense material, national-defense premises, or national-defense utilities.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [2157.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2157" data-uslm-ref="/us/usc/t18/s2157">2157.</a>  </td>
 
     <td> Repealed.]  </td>
 

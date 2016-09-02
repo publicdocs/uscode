@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 431.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs431" data-uslm-ref="/us/usc/t18/s431">431.</a>  </td>
 
     <td> Contracts by Member of Congress.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 432.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs432" data-uslm-ref="/us/usc/t18/s432">432.</a>  </td>
 
     <td> Officer or employee contracting with Member of Congress.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 433.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs433" data-uslm-ref="/us/usc/t18/s433">433.</a>  </td>
 
     <td> Exemptions with respect to certain contracts.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [434.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs434" data-uslm-ref="/us/usc/t18/s434">434.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 435.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs435" data-uslm-ref="/us/usc/t18/s435">435.</a>  </td>
 
     <td> Contracts in excess of specific appropriation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 436.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs436" data-uslm-ref="/us/usc/t18/s436">436.</a>  </td>
 
     <td> Convict labor contracts.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [437.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs437" data-uslm-ref="/us/usc/t18/s437">437.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 438.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs438" data-uslm-ref="/us/usc/t18/s438">438.</a>  </td>
 
     <td> Indian contracts for services generally. <sup>[1]</sup>  <sup><sup> 1 Section repealed by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F106%2F568" data-uslm-ref="/us/pl/106/568">Pub. L. 106–568</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 439.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs439" data-uslm-ref="/us/usc/t18/s439">439.</a>  </td>
 
     <td> Indian enrollment contracts. <sup>[1]</sup>   </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 440.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs440" data-uslm-ref="/us/usc/t18/s440">440.</a>  </td>
 
     <td> Mail contracts.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs441" data-uslm-ref="/us/usc/t18/s441">441.</a>  </td>
 
     <td> Postal supply contracts.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs442" data-uslm-ref="/us/usc/t18/s442">442.</a>  </td>
 
     <td> Printing contracts.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs443" data-uslm-ref="/us/usc/t18/s443">443.</a>  </td>
 
     <td> War contracts.  </td>
 

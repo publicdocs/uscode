@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1" data-uslm-ref="/us/usc/t18/s1">1.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2" data-uslm-ref="/us/usc/t18/s2">2.</a>  </td>
 
     <td> Principals.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3" data-uslm-ref="/us/usc/t18/s3">3.</a>  </td>
 
     <td> Accessory after the fact.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4" data-uslm-ref="/us/usc/t18/s4">4.</a>  </td>
 
     <td> Misprision of felony.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5" data-uslm-ref="/us/usc/t18/s5">5.</a>  </td>
 
     <td> United States defined.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs6" data-uslm-ref="/us/usc/t18/s6">6.</a>  </td>
 
     <td> Department and agency defined.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs7" data-uslm-ref="/us/usc/t18/s7">7.</a>  </td>
 
     <td> Special maritime and territorial jurisdiction of the United States defined.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs8" data-uslm-ref="/us/usc/t18/s8">8.</a>  </td>
 
     <td> Obligation or other security of the United States defined.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs9" data-uslm-ref="/us/usc/t18/s9">9.</a>  </td>
 
     <td> Vessel of the United States defined.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs10" data-uslm-ref="/us/usc/t18/s10">10.</a>  </td>
 
     <td> Interstate commerce and foreign commerce defined.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs11" data-uslm-ref="/us/usc/t18/s11">11.</a>  </td>
 
     <td> Foreign government defined.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs12" data-uslm-ref="/us/usc/t18/s12">12.</a>  </td>
 
     <td> United States Postal Service defined.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs13" data-uslm-ref="/us/usc/t18/s13">13.</a>  </td>
 
     <td> Laws of States adopted for areas within Federal jurisdiction.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [14.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs14" data-uslm-ref="/us/usc/t18/s14">14.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs15" data-uslm-ref="/us/usc/t18/s15">15.</a>  </td>
 
     <td> Obligation or other security of foreign government defined.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs16" data-uslm-ref="/us/usc/t18/s16">16.</a>  </td>
 
     <td> Crime of violence defined.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs17" data-uslm-ref="/us/usc/t18/s17">17.</a>  </td>
 
     <td> Insanity defense.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs18" data-uslm-ref="/us/usc/t18/s18">18.</a>  </td>
 
     <td> Organization defined.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs19" data-uslm-ref="/us/usc/t18/s19">19.</a>  </td>
 
     <td> Petty offense defined.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 20.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs20" data-uslm-ref="/us/usc/t18/s20">20.</a>  </td>
 
     <td> Financial institution defined.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs21" data-uslm-ref="/us/usc/t18/s21">21.</a>  </td>
 
     <td> Stolen or counterfeit nature of property for certain crimes defined.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs23" data-uslm-ref="/us/usc/t18/s23">23.</a>  </td>
 
     <td> Court of the United States defined.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs24" data-uslm-ref="/us/usc/t18/s24">24.</a>  </td>
 
     <td> Definitions relating to Federal health care offense.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs25" data-uslm-ref="/us/usc/t18/s25">25.</a>  </td>
 
     <td> Use of minors in crimes of violence.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs26" data-uslm-ref="/us/usc/t18/s26">26.</a>  </td>
 
     <td> Definition of seaport.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs27" data-uslm-ref="/us/usc/t18/s27">27.</a>  </td>
 
     <td> Mortgage lending business defined.  </td>
 

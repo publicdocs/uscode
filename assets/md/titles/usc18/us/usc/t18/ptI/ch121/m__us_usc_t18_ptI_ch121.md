@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2701" data-uslm-ref="/us/usc/t18/s2701">2701.</a>  </td>
 
     <td> Unlawful access to stored communications.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2702" data-uslm-ref="/us/usc/t18/s2702">2702.</a>  </td>
 
     <td> Voluntary disclosure of customer communications or records.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2703" data-uslm-ref="/us/usc/t18/s2703">2703.</a>  </td>
 
     <td> Required disclosure of customer communications or records.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2704" data-uslm-ref="/us/usc/t18/s2704">2704.</a>  </td>
 
     <td> Backup preservation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2705" data-uslm-ref="/us/usc/t18/s2705">2705.</a>  </td>
 
     <td> Delayed notice.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2706" data-uslm-ref="/us/usc/t18/s2706">2706.</a>  </td>
 
     <td> Cost reimbursement.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2707" data-uslm-ref="/us/usc/t18/s2707">2707.</a>  </td>
 
     <td> Civil action.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2708" data-uslm-ref="/us/usc/t18/s2708">2708.</a>  </td>
 
     <td> Exclusivity of remedies.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2709" data-uslm-ref="/us/usc/t18/s2709">2709.</a>  </td>
 
     <td> Counterintelligence access to telephone toll and transactional records.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2710.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2710" data-uslm-ref="/us/usc/t18/s2710">2710.</a>  </td>
 
     <td> Wrongful disclosure of video tape rental or sale records.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2711" data-uslm-ref="/us/usc/t18/s2711">2711.</a>  </td>
 
     <td> Definitions for chapter.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2712" data-uslm-ref="/us/usc/t18/s2712">2712.</a>  </td>
 
     <td> Civil actions against the United States.  </td>
 

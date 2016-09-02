@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs351" data-uslm-ref="/us/usc/t18/s351">351.</a>  </td>
 
     <td> Congressional, Cabinet, and Supreme Court assassination, kidnapping, and assault; penalties.  </td>
 

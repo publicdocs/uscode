@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 891.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs891" data-uslm-ref="/us/usc/t18/s891">891.</a>  </td>
 
     <td> Definitions and rules of construction.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 892.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs892" data-uslm-ref="/us/usc/t18/s892">892.</a>  </td>
 
     <td> Making extortionate extensions of credit.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 893.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs893" data-uslm-ref="/us/usc/t18/s893">893.</a>  </td>
 
     <td> Financing extortionate extensions of credit.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 894.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs894" data-uslm-ref="/us/usc/t18/s894">894.</a>  </td>
 
     <td> Collection of extensions of credit by extortionate means.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [895.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs895" data-uslm-ref="/us/usc/t18/s895">895.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 896.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs896" data-uslm-ref="/us/usc/t18/s896">896.</a>  </td>
 
     <td> Effect on State laws.  </td>
 

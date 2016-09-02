@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1111" data-uslm-ref="/us/usc/t18/s1111">1111.</a>  </td>
 
     <td> Murder.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1112" data-uslm-ref="/us/usc/t18/s1112">1112.</a>  </td>
 
     <td> Manslaughter.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1113" data-uslm-ref="/us/usc/t18/s1113">1113.</a>  </td>
 
     <td> Attempt to commit murder or manslaughter.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1114" data-uslm-ref="/us/usc/t18/s1114">1114.</a>  </td>
 
     <td> Protection of officers and employees of the United States.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1115" data-uslm-ref="/us/usc/t18/s1115">1115.</a>  </td>
 
     <td> Misconduct or neglect of ship officers.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1116" data-uslm-ref="/us/usc/t18/s1116">1116.</a>  </td>
 
     <td> Murder or manslaughter of foreign officials, official guests, or internationally protected persons.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1117" data-uslm-ref="/us/usc/t18/s1117">1117.</a>  </td>
 
     <td> Conspiracy to murder.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1118" data-uslm-ref="/us/usc/t18/s1118">1118.</a>  </td>
 
     <td> Murder by a Federal prisoner.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1119" data-uslm-ref="/us/usc/t18/s1119">1119.</a>  </td>
 
     <td> Foreign murder of United States nationals.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1120" data-uslm-ref="/us/usc/t18/s1120">1120.</a>  </td>
 
     <td> Murder by escaped prisoners.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1121" data-uslm-ref="/us/usc/t18/s1121">1121.</a>  </td>
 
     <td> Killing persons aiding Federal investigations or State correctional officers.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1122" data-uslm-ref="/us/usc/t18/s1122">1122.</a>  </td>
 
     <td> Protection against the human immunodeficiency virus.  </td>
 

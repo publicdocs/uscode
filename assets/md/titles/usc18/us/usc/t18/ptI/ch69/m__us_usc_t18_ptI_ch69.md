@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1421" data-uslm-ref="/us/usc/t18/s1421">1421.</a>  </td>
 
     <td> Accounts of court officers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1422" data-uslm-ref="/us/usc/t18/s1422">1422.</a>  </td>
 
     <td> Fees in naturalization proceedings.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1423" data-uslm-ref="/us/usc/t18/s1423">1423.</a>  </td>
 
     <td> Misuse of evidence of citizenship or naturalization.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1424" data-uslm-ref="/us/usc/t18/s1424">1424.</a>  </td>
 
     <td> Personation or misuse of papers in naturalization proceedings.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1425" data-uslm-ref="/us/usc/t18/s1425">1425.</a>  </td>
 
     <td> Procurement of citizenship or naturalization unlawfully.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1426" data-uslm-ref="/us/usc/t18/s1426">1426.</a>  </td>
 
     <td> Reproduction of naturalization or citizenship papers.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1427.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1427" data-uslm-ref="/us/usc/t18/s1427">1427.</a>  </td>
 
     <td> Sale of naturalization or citizenship papers.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1428.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1428" data-uslm-ref="/us/usc/t18/s1428">1428.</a>  </td>
 
     <td> Surrender of canceled naturalization certificate.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1429.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1429" data-uslm-ref="/us/usc/t18/s1429">1429.</a>  </td>
 
     <td> Penalties for neglect or refusal to answer subpena.  </td>
 

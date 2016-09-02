@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2421" data-uslm-ref="/us/usc/t18/s2421">2421.</a>  </td>
 
     <td> Transportation generally.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2422" data-uslm-ref="/us/usc/t18/s2422">2422.</a>  </td>
 
     <td> Coercion and enticement.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2423" data-uslm-ref="/us/usc/t18/s2423">2423.</a>  </td>
 
     <td> Transportation of minors.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2424" data-uslm-ref="/us/usc/t18/s2424">2424.</a>  </td>
 
     <td> Filing factual statement about alien individual.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2425" data-uslm-ref="/us/usc/t18/s2425">2425.</a>  </td>
 
     <td> Use of interstate facilities to transmit information about a minor.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2426" data-uslm-ref="/us/usc/t18/s2426">2426.</a>  </td>
 
     <td> Repeat offenders.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2427.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2427" data-uslm-ref="/us/usc/t18/s2427">2427.</a>  </td>
 
     <td> Inclusion of offenses relating to child pornography in definition of sexual activity for which any person can be charged with a criminal offense.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2428.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2428" data-uslm-ref="/us/usc/t18/s2428">2428.</a>  </td>
 
     <td> Forfeitures.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1231" data-uslm-ref="/us/usc/t18/s1231">1231.</a>  </td>
 
     <td> Transportation of strikebreakers.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [1232.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1232" data-uslm-ref="/us/usc/t18/s1232">1232.</a>  </td>
 
     <td> Repealed.]  </td>
 

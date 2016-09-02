@@ -45,10 +45,6 @@
 
 (Added [Pub. L. 103–322, title IV, § 40221(a)][/us/pl/103/322/s40221/a], Sept. 13, 1994, [108 Stat. 1926][/us/stat/108/1926]; amended [Pub. L. 104–201, div. A, title X, § 1069(b)(1)][/us/pl/104/201/s1069/b/1], (2), Sept. 23, 1996, [110 Stat. 2656][/us/stat/110/2656]; [Pub. L. 106–386, div. B, title I, § 1107(a)][/us/pl/106/386/s1107/a], Oct. 28, 2000, [114 Stat. 1497][/us/stat/114/1497]; [Pub. L. 109–162, title I][/us/pl/109/162], §§ 114(b), 116(a), 117(a), Jan. 5, 2006, [119 Stat. 2988][/us/stat/119/2988], 2989; [Pub. L. 113–4, title I, § 107(a)][/us/pl/113/4/s107/a], Mar. 7, 2013, [127 Stat. 77][/us/stat/127/77].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __Amendments__ 
 
     2013—Subsec. (a)(1). [Pub. L. 113–4][/us/pl/113/4] inserted “is present” after “Indian country or” and “or presence” after “as a result of such travel”.
@@ -93,7 +89,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/119/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2988
 [/us/pl/113/4/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs107%2Fa
 [/us/stat/127/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F77
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162/s117/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs117%2Fa
 [/us/pl/109/162/s116/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162%2Fs116%2Fa%2F1

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs541" data-uslm-ref="/us/usc/t18/s541">541.</a>  </td>
 
     <td> Entry of goods falsely classified.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs542" data-uslm-ref="/us/usc/t18/s542">542.</a>  </td>
 
     <td> Entry of goods by means of false statements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs543" data-uslm-ref="/us/usc/t18/s543">543.</a>  </td>
 
     <td> Entry of goods for less than legal duty.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs544" data-uslm-ref="/us/usc/t18/s544">544.</a>  </td>
 
     <td> Relanding of goods.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs545" data-uslm-ref="/us/usc/t18/s545">545.</a>  </td>
 
     <td> Smuggling goods into the United States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 546.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs546" data-uslm-ref="/us/usc/t18/s546">546.</a>  </td>
 
     <td> Smuggling goods into foreign countries.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 547.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs547" data-uslm-ref="/us/usc/t18/s547">547.</a>  </td>
 
     <td> Depositing goods in buildings on boundaries.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 548.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs548" data-uslm-ref="/us/usc/t18/s548">548.</a>  </td>
 
     <td> Removing or repacking goods in warehouses.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 549.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs549" data-uslm-ref="/us/usc/t18/s549">549.</a>  </td>
 
     <td> Removing goods from customs custody; breaking seals.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 550.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs550" data-uslm-ref="/us/usc/t18/s550">550.</a>  </td>
 
     <td> False claim for refund of duties.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs551" data-uslm-ref="/us/usc/t18/s551">551.</a>  </td>
 
     <td> Concealing or destroying invoices or other papers.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs552" data-uslm-ref="/us/usc/t18/s552">552.</a>  </td>
 
     <td> Officers aiding importation of obscene or treasonous books and articles.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs553" data-uslm-ref="/us/usc/t18/s553">553.</a>  </td>
 
     <td> Importation or exportation of stolen motor vehicles, off-highway mobile equipment, vessels, or aircraft.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 554.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs554" data-uslm-ref="/us/usc/t18/s554">554.</a>  </td>
 
     <td> Smuggling goods from the United States.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs555" data-uslm-ref="/us/usc/t18/s555">555.</a>  </td>
 
     <td> Border tunnels and passages.  </td>
 

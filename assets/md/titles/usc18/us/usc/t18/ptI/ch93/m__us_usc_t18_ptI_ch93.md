@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1901" data-uslm-ref="/us/usc/t18/s1901">1901.</a>  </td>
 
     <td> Collecting or disbursing officer trading in public property.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1902" data-uslm-ref="/us/usc/t18/s1902">1902.</a>  </td>
 
     <td> Disclosure of crop information and speculation thereon.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1903" data-uslm-ref="/us/usc/t18/s1903">1903.</a>  </td>
 
     <td> Speculation in stocks or commodities affecting crop insurance.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [1904.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1904" data-uslm-ref="/us/usc/t18/s1904">1904.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1905" data-uslm-ref="/us/usc/t18/s1905">1905.</a>  </td>
 
     <td> Disclosure of confidential information generally.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1906.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1906" data-uslm-ref="/us/usc/t18/s1906">1906.</a>  </td>
 
     <td> Disclosure of information from a bank examination report.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1907.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1907" data-uslm-ref="/us/usc/t18/s1907">1907.</a>  </td>
 
     <td> Disclosure of information by farm credit examiner.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [1908.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1908" data-uslm-ref="/us/usc/t18/s1908">1908.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1909.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1909" data-uslm-ref="/us/usc/t18/s1909">1909.</a>  </td>
 
     <td> Examiner performing other services.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1910.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1910" data-uslm-ref="/us/usc/t18/s1910">1910.</a>  </td>
 
     <td> Nepotism in appointment of receiver or trustee.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1911" data-uslm-ref="/us/usc/t18/s1911">1911.</a>  </td>
 
     <td> Receiver mismanaging property.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1912" data-uslm-ref="/us/usc/t18/s1912">1912.</a>  </td>
 
     <td> Unauthorized fees for inspection of vessels.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1913" data-uslm-ref="/us/usc/t18/s1913">1913.</a>  </td>
 
     <td> Lobbying with appropriated moneys.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [1914.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1914" data-uslm-ref="/us/usc/t18/s1914">1914.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1915" data-uslm-ref="/us/usc/t18/s1915">1915.</a>  </td>
 
     <td> Compromise of customs liabilities.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1916" data-uslm-ref="/us/usc/t18/s1916">1916.</a>  </td>
 
     <td> Unauthorized employment and disposition of lapsed appropriations.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1917" data-uslm-ref="/us/usc/t18/s1917">1917.</a>  </td>
 
     <td> Interference with civil service examinations.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1918.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1918" data-uslm-ref="/us/usc/t18/s1918">1918.</a>  </td>
 
     <td> Disloyalty and asserting the right to strike against the Government.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1919.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1919" data-uslm-ref="/us/usc/t18/s1919">1919.</a>  </td>
 
     <td> False statement to obtain unemployment compensation for Federal service.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1920.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1920" data-uslm-ref="/us/usc/t18/s1920">1920.</a>  </td>
 
     <td> False statement or fraud to obtain Federal employees’ compensation.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1921" data-uslm-ref="/us/usc/t18/s1921">1921.</a>  </td>
 
     <td> Receiving Federal employees’ compensation after marriage.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 1922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1922" data-uslm-ref="/us/usc/t18/s1922">1922.</a>  </td>
 
     <td> False or withheld report concerning Federal employees’ compensation.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 1923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1923" data-uslm-ref="/us/usc/t18/s1923">1923.</a>  </td>
 
     <td> Fraudulent receipt of payments of missing persons.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 1924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1924" data-uslm-ref="/us/usc/t18/s1924">1924.</a>  </td>
 
     <td> Unauthorized removal and retention of classified documents or material.  </td>
 

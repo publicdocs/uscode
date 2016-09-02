@@ -33,7 +33,7 @@ SUBCHAPTER C—IMPRISONMENT  <sup>[1]</sup>  <sup><sup> 1 So in original. Pr
 
   <tr>
 
-    <td> 3621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3621" data-uslm-ref="/us/usc/t18/s3621">3621.</a>  </td>
 
     <td> Imprisonment of a convicted person.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER C—IMPRISONMENT  <sup>[1]</sup>  <sup><sup> 1 So in original. Pr
 
   <tr>
 
-    <td> 3622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3622" data-uslm-ref="/us/usc/t18/s3622">3622.</a>  </td>
 
     <td> Temporary release of a prisoner.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER C—IMPRISONMENT  <sup>[1]</sup>  <sup><sup> 1 So in original. Pr
 
   <tr>
 
-    <td> 3623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3623" data-uslm-ref="/us/usc/t18/s3623">3623.</a>  </td>
 
     <td> Transfer of a prisoner to State authority.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER C—IMPRISONMENT  <sup>[1]</sup>  <sup><sup> 1 So in original. Pr
 
   <tr>
 
-    <td> 3624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3624" data-uslm-ref="/us/usc/t18/s3624">3624.</a>  </td>
 
     <td> Release of a prisoner.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER C—IMPRISONMENT  <sup>[1]</sup>  <sup><sup> 1 So in original. Pr
 
   <tr>
 
-    <td> 3625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3625" data-uslm-ref="/us/usc/t18/s3625">3625.</a>  </td>
 
     <td> Inapplicability of the Administrative Procedure Act.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER C—IMPRISONMENT  <sup>[1]</sup>  <sup><sup> 1 So in original. Pr
 
   <tr>
 
-    <td> 3626.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3626" data-uslm-ref="/us/usc/t18/s3626">3626.</a>  </td>
 
     <td> Appropriate remedies with respect to prison conditions.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1851.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1851" data-uslm-ref="/us/usc/t18/s1851">1851.</a>  </td>
 
     <td> Coal depredations.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1852.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1852" data-uslm-ref="/us/usc/t18/s1852">1852.</a>  </td>
 
     <td> Timber removed or transported.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1853.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1853" data-uslm-ref="/us/usc/t18/s1853">1853.</a>  </td>
 
     <td> Trees cut or injured.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1854.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1854" data-uslm-ref="/us/usc/t18/s1854">1854.</a>  </td>
 
     <td> Trees boxed for pitch or turpentine.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1855.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1855" data-uslm-ref="/us/usc/t18/s1855">1855.</a>  </td>
 
     <td> Timber set afire.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1856.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1856" data-uslm-ref="/us/usc/t18/s1856">1856.</a>  </td>
 
     <td> Fires left unattended and unextinguished.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1857.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1857" data-uslm-ref="/us/usc/t18/s1857">1857.</a>  </td>
 
     <td> Fences destroyed; livestock entering.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1858.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1858" data-uslm-ref="/us/usc/t18/s1858">1858.</a>  </td>
 
     <td> Survey marks destroyed or removed.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1859.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1859" data-uslm-ref="/us/usc/t18/s1859">1859.</a>  </td>
 
     <td> Surveys interrupted.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1860.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1860" data-uslm-ref="/us/usc/t18/s1860">1860.</a>  </td>
 
     <td> Bids at land sales.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1861.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1861" data-uslm-ref="/us/usc/t18/s1861">1861.</a>  </td>
 
     <td> Deception of prospective purchasers.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [1862.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1862" data-uslm-ref="/us/usc/t18/s1862">1862.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1863.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1863" data-uslm-ref="/us/usc/t18/s1863">1863.</a>  </td>
 
     <td> Trespass on national forest lands.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1864.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1864" data-uslm-ref="/us/usc/t18/s1864">1864.</a>  </td>
 
     <td> Hazardous or injurious devices on Federal lands.  </td>
 

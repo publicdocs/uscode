@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3231.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3231" data-uslm-ref="/us/usc/t18/s3231">3231.</a>  </td>
 
     <td> District courts.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3232.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3232" data-uslm-ref="/us/usc/t18/s3232">3232.</a>  </td>
 
     <td> District of offense—Rule.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3233.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3233" data-uslm-ref="/us/usc/t18/s3233">3233.</a>  </td>
 
     <td> Transfer within district—Rule.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3234.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3234" data-uslm-ref="/us/usc/t18/s3234">3234.</a>  </td>
 
     <td> Change of venue to another district—Rule.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3235.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3235" data-uslm-ref="/us/usc/t18/s3235">3235.</a>  </td>
 
     <td> Venue in capital cases.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3236.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3236" data-uslm-ref="/us/usc/t18/s3236">3236.</a>  </td>
 
     <td> Murder or manslaughter.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3237.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3237" data-uslm-ref="/us/usc/t18/s3237">3237.</a>  </td>
 
     <td> Offenses begun in one district and completed in another.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3238.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3238" data-uslm-ref="/us/usc/t18/s3238">3238.</a>  </td>
 
     <td> Offenses not committed in any district.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3239.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3239" data-uslm-ref="/us/usc/t18/s3239">3239.</a>  </td>
 
     <td> Optional venue for espionage and related offenses.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3240.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3240" data-uslm-ref="/us/usc/t18/s3240">3240.</a>  </td>
 
     <td> Creation of new district or division.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3241" data-uslm-ref="/us/usc/t18/s3241">3241.</a>  </td>
 
     <td> Jurisdiction of offenses under certain sections.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3242" data-uslm-ref="/us/usc/t18/s3242">3242.</a>  </td>
 
     <td> Indians committing certain offenses; acts on reservations.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3243" data-uslm-ref="/us/usc/t18/s3243">3243.</a>  </td>
 
     <td> Jurisdiction of State of Kansas over offenses committed by or against Indians on Indian reservations.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3244" data-uslm-ref="/us/usc/t18/s3244">3244.</a>  </td>
 
     <td> Jurisdiction of proceedings relating to transferred offenders.  </td>
 

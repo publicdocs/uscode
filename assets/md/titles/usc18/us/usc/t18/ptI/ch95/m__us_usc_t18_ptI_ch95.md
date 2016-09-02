@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1951" data-uslm-ref="/us/usc/t18/s1951">1951.</a>  </td>
 
     <td> Interference with commerce by threats or violence.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1952" data-uslm-ref="/us/usc/t18/s1952">1952.</a>  </td>
 
     <td> Interstate and foreign travel or transportation in aid of racketeering enterprises.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1953" data-uslm-ref="/us/usc/t18/s1953">1953.</a>  </td>
 
     <td> Interstate transportation of wagering paraphernalia.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1954" data-uslm-ref="/us/usc/t18/s1954">1954.</a>  </td>
 
     <td> Offer, acceptance, or solicitation to influence operations of employee benefit plan.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1955.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1955" data-uslm-ref="/us/usc/t18/s1955">1955.</a>  </td>
 
     <td> Prohibition of illegal gambling businesses.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1956.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1956" data-uslm-ref="/us/usc/t18/s1956">1956.</a>  </td>
 
     <td> Laundering of monetary instruments.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1957.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1957" data-uslm-ref="/us/usc/t18/s1957">1957.</a>  </td>
 
     <td> Engaging in monetary transactions in property derived from specified unlawful activity.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1958.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1958" data-uslm-ref="/us/usc/t18/s1958">1958.</a>  </td>
 
     <td> Use of interstate commerce facilities in the commission of murder-for-hire.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1959.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1959" data-uslm-ref="/us/usc/t18/s1959">1959.</a>  </td>
 
     <td> Violent crimes in aid of racketeering activity.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1960.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1960" data-uslm-ref="/us/usc/t18/s1960">1960.</a>  </td>
 
     <td> Prohibition of unlicensed money transmitting businesses.  </td>
 

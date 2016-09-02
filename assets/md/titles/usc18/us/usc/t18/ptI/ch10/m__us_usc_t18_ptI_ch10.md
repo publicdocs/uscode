@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 175.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs175" data-uslm-ref="/us/usc/t18/s175">175.</a>  </td>
 
     <td> Prohibitions with respect to biological weapons.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 175a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs175a" data-uslm-ref="/us/usc/t18/s175a">175a.</a>  </td>
 
     <td> Requests for military assistance to enforce prohibition in certain emergencies.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 175b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs175b" data-uslm-ref="/us/usc/t18/s175b">175b.</a>  </td>
 
     <td> Select agents; certain other agents. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 175c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs175c" data-uslm-ref="/us/usc/t18/s175c">175c.</a>  </td>
 
     <td> Variola virus.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 176.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs176" data-uslm-ref="/us/usc/t18/s176">176.</a>  </td>
 
     <td> Seizure, forfeiture, and destruction.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 177.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs177" data-uslm-ref="/us/usc/t18/s177">177.</a>  </td>
 
     <td> Injunctions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 178.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs178" data-uslm-ref="/us/usc/t18/s178">178.</a>  </td>
 
     <td> Definitions.  </td>
 

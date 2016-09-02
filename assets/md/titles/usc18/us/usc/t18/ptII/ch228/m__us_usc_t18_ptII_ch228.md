@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3591.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3591" data-uslm-ref="/us/usc/t18/s3591">3591.</a>  </td>
 
     <td> Sentence of death.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3592" data-uslm-ref="/us/usc/t18/s3592">3592.</a>  </td>
 
     <td> Mitigating and aggravating factors to be considered in determining whether a sentence of death is justified.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3593" data-uslm-ref="/us/usc/t18/s3593">3593.</a>  </td>
 
     <td> Special hearing to determine whether a sentence of death is justified.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3594" data-uslm-ref="/us/usc/t18/s3594">3594.</a>  </td>
 
     <td> Imposition of a sentence of death.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3595.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3595" data-uslm-ref="/us/usc/t18/s3595">3595.</a>  </td>
 
     <td> Review of a sentence of death.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3596.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3596" data-uslm-ref="/us/usc/t18/s3596">3596.</a>  </td>
 
     <td> Implementation of a sentence of death.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3597.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3597" data-uslm-ref="/us/usc/t18/s3597">3597.</a>  </td>
 
     <td> Use of State facilities.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3598.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3598" data-uslm-ref="/us/usc/t18/s3598">3598.</a>  </td>
 
     <td> Special provisions for Indian country.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3599.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3599" data-uslm-ref="/us/usc/t18/s3599">3599.</a>  </td>
 
     <td> Counsel for financially unable defendants.  </td>
 

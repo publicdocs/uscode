@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1460.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1460" data-uslm-ref="/us/usc/t18/s1460">1460.</a>  </td>
 
     <td> Possession with intent to sell, and sale, of obscene matter on Federal property.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1461" data-uslm-ref="/us/usc/t18/s1461">1461.</a>  </td>
 
     <td> Mailing obscene or crime-inciting matter.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1462" data-uslm-ref="/us/usc/t18/s1462">1462.</a>  </td>
 
     <td> Importation or transportation of obscene matters.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1463" data-uslm-ref="/us/usc/t18/s1463">1463.</a>  </td>
 
     <td> Mailing indecent matter on wrappers or envelopes.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1464.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1464" data-uslm-ref="/us/usc/t18/s1464">1464.</a>  </td>
 
     <td> Broadcasting obscene language.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1465.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1465" data-uslm-ref="/us/usc/t18/s1465">1465.</a>  </td>
 
     <td> Transportation of obscene matters for sale or distribution. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F109%2F248" data-uslm-ref="/us/pl/109/248">Pub. L. 109–248</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1466.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1466" data-uslm-ref="/us/usc/t18/s1466">1466.</a>  </td>
 
     <td> Engaging in the business of selling or transferring obscene matter.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1466A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1466A" data-uslm-ref="/us/usc/t18/s1466A">1466A.</a>  </td>
 
     <td> Obscene visual representations of the sexual abuse of children.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1467.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1467" data-uslm-ref="/us/usc/t18/s1467">1467.</a>  </td>
 
     <td> Criminal forfeiture.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1468.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1468" data-uslm-ref="/us/usc/t18/s1468">1468.</a>  </td>
 
     <td> Distributing obscene material by cable or subscription television.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1469.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1469" data-uslm-ref="/us/usc/t18/s1469">1469.</a>  </td>
 
     <td> Presumptions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1470.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1470" data-uslm-ref="/us/usc/t18/s1470">1470.</a>  </td>
 
     <td> Transfer of obscene material to minors.  </td>
 

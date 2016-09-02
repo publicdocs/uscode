@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1381" data-uslm-ref="/us/usc/t18/s1381">1381.</a>  </td>
 
     <td> Enticing desertion and harboring deserters.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1382" data-uslm-ref="/us/usc/t18/s1382">1382.</a>  </td>
 
     <td> Entering military, naval, or Coast Guard property.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [1383.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1383" data-uslm-ref="/us/usc/t18/s1383">1383.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1384" data-uslm-ref="/us/usc/t18/s1384">1384.</a>  </td>
 
     <td> Prostitution near military and naval establishments.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1385" data-uslm-ref="/us/usc/t18/s1385">1385.</a>  </td>
 
     <td> Use of Army and Air Force as posse comitatus.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1386.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1386" data-uslm-ref="/us/usc/t18/s1386">1386.</a>  </td>
 
     <td> Keys and keyways used in security applications by the Department of Defense.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1387.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1387" data-uslm-ref="/us/usc/t18/s1387">1387.</a>  </td>
 
     <td> Demonstrations at cemeteries under the control of the National Cemetery Administration and at Arlington National Cemetery.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1388.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1388" data-uslm-ref="/us/usc/t18/s1388">1388.</a>  </td>
 
     <td> Prohibition on disruptions of funerals of members or former members of the Armed Forces.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1389.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1389" data-uslm-ref="/us/usc/t18/s1389">1389.</a>  </td>
 
     <td> Prohibition on attacks on United States servicemen on account of service.  </td>
 

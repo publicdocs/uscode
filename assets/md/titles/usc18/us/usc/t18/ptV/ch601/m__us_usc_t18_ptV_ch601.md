@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 6001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs6001" data-uslm-ref="/us/usc/t18/s6001">6001.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 6002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs6002" data-uslm-ref="/us/usc/t18/s6002">6002.</a>  </td>
 
     <td> Immunity generally.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 6003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs6003" data-uslm-ref="/us/usc/t18/s6003">6003.</a>  </td>
 
     <td> Court and grand jury proceedings.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 6004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs6004" data-uslm-ref="/us/usc/t18/s6004">6004.</a>  </td>
 
     <td> Certain administrative proceedings.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 6005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs6005" data-uslm-ref="/us/usc/t18/s6005">6005.</a>  </td>
 
     <td> Congressional proceedings.  </td>
 

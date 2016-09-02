@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1581" data-uslm-ref="/us/usc/t18/s1581">1581.</a>  </td>
 
     <td> Peonage; obstructing enforcement.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1582" data-uslm-ref="/us/usc/t18/s1582">1582.</a>  </td>
 
     <td> Vessels for slave trade.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1583.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1583" data-uslm-ref="/us/usc/t18/s1583">1583.</a>  </td>
 
     <td> Enticement into slavery.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1584.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1584" data-uslm-ref="/us/usc/t18/s1584">1584.</a>  </td>
 
     <td> Sale into involuntary servitude.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1585.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1585" data-uslm-ref="/us/usc/t18/s1585">1585.</a>  </td>
 
     <td> Seizure, detention, transportation or sale of slaves.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1586.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1586" data-uslm-ref="/us/usc/t18/s1586">1586.</a>  </td>
 
     <td> Service on vessels in slave trade.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1587.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1587" data-uslm-ref="/us/usc/t18/s1587">1587.</a>  </td>
 
     <td> Possession of slaves aboard vessel.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1588.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1588" data-uslm-ref="/us/usc/t18/s1588">1588.</a>  </td>
 
     <td> Transportation of slaves from United States.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1589.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1589" data-uslm-ref="/us/usc/t18/s1589">1589.</a>  </td>
 
     <td> Forced labor.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1590.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1590" data-uslm-ref="/us/usc/t18/s1590">1590.</a>  </td>
 
     <td> Trafficking with respect to peonage, slavery, involuntary servitude, or forced labor.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1591.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1591" data-uslm-ref="/us/usc/t18/s1591">1591.</a>  </td>
 
     <td> Sex trafficking of children or by force, fraud, or coercion.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1592" data-uslm-ref="/us/usc/t18/s1592">1592.</a>  </td>
 
     <td> Unlawful conduct with respect to documents in furtherance of trafficking, peonage, slavery, involuntary servitude, or forced labor.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1593" data-uslm-ref="/us/usc/t18/s1593">1593.</a>  </td>
 
     <td> Mandatory restitution.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1593A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1593A" data-uslm-ref="/us/usc/t18/s1593A">1593A.</a>  </td>
 
     <td> Benefitting financially from peonage, slavery, and trafficking in persons.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1594" data-uslm-ref="/us/usc/t18/s1594">1594.</a>  </td>
 
     <td> General provisions.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1595.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1595" data-uslm-ref="/us/usc/t18/s1595">1595.</a>  </td>
 
     <td> Civil remedy.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1596.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1596" data-uslm-ref="/us/usc/t18/s1596">1596.</a>  </td>
 
     <td> Additional jurisdiction in certain trafficking offenses.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1597.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1597" data-uslm-ref="/us/usc/t18/s1597">1597.</a>  </td>
 
     <td> Unlawful conduct with respect to immigration documents.  </td>
 

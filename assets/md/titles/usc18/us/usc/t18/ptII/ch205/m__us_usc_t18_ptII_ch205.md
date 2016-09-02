@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3101" data-uslm-ref="/us/usc/t18/s3101">3101.</a>  </td>
 
     <td> Effect of rules of court—Rule.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3102" data-uslm-ref="/us/usc/t18/s3102">3102.</a>  </td>
 
     <td> Authority to issue search warrant—Rule.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3103" data-uslm-ref="/us/usc/t18/s3103">3103.</a>  </td>
 
     <td> Grounds for issuing search warrant—Rule.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3103a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3103a" data-uslm-ref="/us/usc/t18/s3103a">3103a.</a>  </td>
 
     <td> Additional grounds for issuing warrant.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3104" data-uslm-ref="/us/usc/t18/s3104">3104.</a>  </td>
 
     <td> Issuance of search warrant; contents—Rule.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3105" data-uslm-ref="/us/usc/t18/s3105">3105.</a>  </td>
 
     <td> Persons authorized to serve search warrant.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3106" data-uslm-ref="/us/usc/t18/s3106">3106.</a>  </td>
 
     <td> Officer authorized to serve search warrant—Rule.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3107" data-uslm-ref="/us/usc/t18/s3107">3107.</a>  </td>
 
     <td> Service of warrants and seizures by Federal Bureau of Investigation.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3108" data-uslm-ref="/us/usc/t18/s3108">3108.</a>  </td>
 
     <td> Execution, service, and return—Rule.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3109" data-uslm-ref="/us/usc/t18/s3109">3109.</a>  </td>
 
     <td> Breaking doors or windows for entry or exit.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3110" data-uslm-ref="/us/usc/t18/s3110">3110.</a>  </td>
 
     <td> Property defined—Rule.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3111" data-uslm-ref="/us/usc/t18/s3111">3111.</a>  </td>
 
     <td> Property seizable on search warrant—Rule.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> [3112.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3112" data-uslm-ref="/us/usc/t18/s3112">3112.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3113" data-uslm-ref="/us/usc/t18/s3113">3113.</a>  </td>
 
     <td> Liquor violations in Indian country.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3114" data-uslm-ref="/us/usc/t18/s3114">3114.</a>  </td>
 
     <td> Return of seized property and suppression of evidence; motion—Rule.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3115" data-uslm-ref="/us/usc/t18/s3115">3115.</a>  </td>
 
     <td> Inventory upon execution and return of search warrant—Rule.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 3116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3116" data-uslm-ref="/us/usc/t18/s3116">3116.</a>  </td>
 
     <td> Records of examining magistrate judge; return to clerk of court—Rule.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 3117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3117" data-uslm-ref="/us/usc/t18/s3117">3117.</a>  </td>
 
     <td> Mobile tracking devices.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 3118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3118" data-uslm-ref="/us/usc/t18/s3118">3118.</a>  </td>
 
     <td> Implied consent for certain tests.  </td>
 

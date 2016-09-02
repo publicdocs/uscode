@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 951.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs951" data-uslm-ref="/us/usc/t18/s951">951.</a>  </td>
 
     <td> Agents of foreign governments.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 952.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs952" data-uslm-ref="/us/usc/t18/s952">952.</a>  </td>
 
     <td> Diplomatic codes and correspondence.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 953.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs953" data-uslm-ref="/us/usc/t18/s953">953.</a>  </td>
 
     <td> Private correspondence with foreign governments.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 954.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs954" data-uslm-ref="/us/usc/t18/s954">954.</a>  </td>
 
     <td> False statements influencing foreign government.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 955.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs955" data-uslm-ref="/us/usc/t18/s955">955.</a>  </td>
 
     <td> Financial transactions with foreign governments.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 956.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs956" data-uslm-ref="/us/usc/t18/s956">956.</a>  </td>
 
     <td> Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 957.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs957" data-uslm-ref="/us/usc/t18/s957">957.</a>  </td>
 
     <td> Possession of property in aid of foreign government.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 958.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs958" data-uslm-ref="/us/usc/t18/s958">958.</a>  </td>
 
     <td> Commission to serve against friendly nation.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 959.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs959" data-uslm-ref="/us/usc/t18/s959">959.</a>  </td>
 
     <td> Enlistment in foreign service.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 960.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs960" data-uslm-ref="/us/usc/t18/s960">960.</a>  </td>
 
     <td> Expedition against friendly nation.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs961" data-uslm-ref="/us/usc/t18/s961">961.</a>  </td>
 
     <td> Strengthening armed vessel of foreign nation.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs962" data-uslm-ref="/us/usc/t18/s962">962.</a>  </td>
 
     <td> Arming vessel against friendly nation.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 963.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs963" data-uslm-ref="/us/usc/t18/s963">963.</a>  </td>
 
     <td> Detention of armed vessel.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 964.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs964" data-uslm-ref="/us/usc/t18/s964">964.</a>  </td>
 
     <td> Delivering armed vessel to belligerent nation.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 965.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs965" data-uslm-ref="/us/usc/t18/s965">965.</a>  </td>
 
     <td> Verified statements as prerequisite to vessel’s departure.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 966.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs966" data-uslm-ref="/us/usc/t18/s966">966.</a>  </td>
 
     <td> Departure of vessel forbidden for false statements.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 967.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs967" data-uslm-ref="/us/usc/t18/s967">967.</a>  </td>
 
     <td> Departure of vessel forbidden in aid of neutrality.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> [968, 969.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs968" data-uslm-ref="/us/usc/t18/s968">968</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs969" data-uslm-ref="/us/usc/t18/s969">969.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 970.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs970" data-uslm-ref="/us/usc/t18/s970">970.</a>  </td>
 
     <td> Protection of property occupied by foreign governments.  </td>
 

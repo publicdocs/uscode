@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4351" data-uslm-ref="/us/usc/t18/s4351">4351.</a>  </td>
 
     <td> Establishment; Advisory Board; appointment of members; compensation; officers; committees; delegation of powers; Director, appointment and powers. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Sections 4351 and 4352 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F93%2F415" data-uslm-ref="/us/pl/93/415">Pub. L. 93–415</a> without corresponding enactment of chapter analysis. </sup></sup>   </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4352" data-uslm-ref="/us/usc/t18/s4352">4352.</a>  </td>
 
     <td> Authority of Institute; time; records of recipients; access; scope of section. <sup>[1]</sup>   </td>
 

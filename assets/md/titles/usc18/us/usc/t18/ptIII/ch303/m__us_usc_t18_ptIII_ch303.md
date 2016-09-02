@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4041" data-uslm-ref="/us/usc/t18/s4041">4041.</a>  </td>
 
     <td> Bureau of Prisons; director and employees.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4042.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4042" data-uslm-ref="/us/usc/t18/s4042">4042.</a>  </td>
 
     <td> Duties of Bureau of Prisons.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4043.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4043" data-uslm-ref="/us/usc/t18/s4043">4043.</a>  </td>
 
     <td> Acceptance of gifts and bequests to the Commissary Funds, Federal Prisons.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4044.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4044" data-uslm-ref="/us/usc/t18/s4044">4044.</a>  </td>
 
     <td> Donations on behalf of the Bureau of Prisons.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4045.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4045" data-uslm-ref="/us/usc/t18/s4045">4045.</a>  </td>
 
     <td> Authority to conduct autopsies.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4046.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4046" data-uslm-ref="/us/usc/t18/s4046">4046.</a>  </td>
 
     <td> Shock incarceration program.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4047.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4047" data-uslm-ref="/us/usc/t18/s4047">4047.</a>  </td>
 
     <td> Prison impact assessments.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4048.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4048" data-uslm-ref="/us/usc/t18/s4048">4048.</a>  </td>
 
     <td> Fees for health care services for prisoners.  </td>
 

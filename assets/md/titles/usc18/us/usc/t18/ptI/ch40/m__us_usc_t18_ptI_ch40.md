@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs841" data-uslm-ref="/us/usc/t18/s841">841.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs842" data-uslm-ref="/us/usc/t18/s842">842.</a>  </td>
 
     <td> Unlawful acts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 843.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs843" data-uslm-ref="/us/usc/t18/s843">843.</a>  </td>
 
     <td> Licenses and user permits.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 844.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs844" data-uslm-ref="/us/usc/t18/s844">844.</a>  </td>
 
     <td> Penalties.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 845.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs845" data-uslm-ref="/us/usc/t18/s845">845.</a>  </td>
 
     <td> Exceptions; relief from disabilities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 846.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs846" data-uslm-ref="/us/usc/t18/s846">846.</a>  </td>
 
     <td> Additional powers of the Attorney General.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 847.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs847" data-uslm-ref="/us/usc/t18/s847">847.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 848.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs848" data-uslm-ref="/us/usc/t18/s848">848.</a>  </td>
 
     <td> Effect on State law.  </td>
 

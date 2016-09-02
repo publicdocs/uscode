@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3401" data-uslm-ref="/us/usc/t18/s3401">3401.</a>  </td>
 
     <td> Misdemeanors; application of probation laws.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3402" data-uslm-ref="/us/usc/t18/s3402">3402.</a>  </td>
 
     <td> Rules of procedure, practice and appeal.  </td>
 

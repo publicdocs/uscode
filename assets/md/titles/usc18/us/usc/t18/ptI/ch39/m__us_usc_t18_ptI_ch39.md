@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 831.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs831" data-uslm-ref="/us/usc/t18/s831">831.</a>  </td>
 
     <td> Prohibited transactions involving nuclear materials.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 832.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs832" data-uslm-ref="/us/usc/t18/s832">832.</a>  </td>
 
     <td> Participation in nuclear and weapons of mass destruction threats to the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [833 to 835.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs833" data-uslm-ref="/us/usc/t18/s833">833</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs835" data-uslm-ref="/us/usc/t18/s835">835.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 836.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs836" data-uslm-ref="/us/usc/t18/s836">836.</a>  </td>
 
     <td> Transportation of fireworks into State prohibiting sale or use.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [837.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs837" data-uslm-ref="/us/usc/t18/s837">837.</a>  </td>
 
     <td> Repealed.]  </td>
 

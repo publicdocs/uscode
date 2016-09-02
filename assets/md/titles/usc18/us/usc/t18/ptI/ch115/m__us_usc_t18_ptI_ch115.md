@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2381.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2381" data-uslm-ref="/us/usc/t18/s2381">2381.</a>  </td>
 
     <td> Treason.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2382.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2382" data-uslm-ref="/us/usc/t18/s2382">2382.</a>  </td>
 
     <td> Misprision of treason.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2383.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2383" data-uslm-ref="/us/usc/t18/s2383">2383.</a>  </td>
 
     <td> Rebellion or insurrection.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2384.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2384" data-uslm-ref="/us/usc/t18/s2384">2384.</a>  </td>
 
     <td> Seditious conspiracy.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2385.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2385" data-uslm-ref="/us/usc/t18/s2385">2385.</a>  </td>
 
     <td> Advocating overthrow of Government.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2386.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2386" data-uslm-ref="/us/usc/t18/s2386">2386.</a>  </td>
 
     <td> Registration of certain organizations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2387.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2387" data-uslm-ref="/us/usc/t18/s2387">2387.</a>  </td>
 
     <td> Activities affecting armed forces generally.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2388.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2388" data-uslm-ref="/us/usc/t18/s2388">2388.</a>  </td>
 
     <td> Activities affecting armed forces during war.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2389.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2389" data-uslm-ref="/us/usc/t18/s2389">2389.</a>  </td>
 
     <td> Recruiting for service against United States.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2390.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2390" data-uslm-ref="/us/usc/t18/s2390">2390.</a>  </td>
 
     <td> Enlistment to serve against United States.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> [2391.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2391" data-uslm-ref="/us/usc/t18/s2391">2391.</a>  </td>
 
     <td> Repealed.]  </td>
 

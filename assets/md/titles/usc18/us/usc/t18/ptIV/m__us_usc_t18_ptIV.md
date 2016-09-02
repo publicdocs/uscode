@@ -29,17 +29,17 @@
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIV%2Fch401" data-uslm-ref="/us/usc/t18/ptIV/ch401">401.</a>  </td>
 
     <td> General provisions  </td>
 
-    <td> 5001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5001" data-uslm-ref="/us/usc/t18/s5001">5001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIV%2Fch402" data-uslm-ref="/us/usc/t18/ptIV/ch402">402.</a>  </td>
 
     <td> Repealed  </td>
 
@@ -49,11 +49,11 @@
 
   <tr>
 
-    <td> 403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIV%2Fch403" data-uslm-ref="/us/usc/t18/ptIV/ch403">403.</a>  </td>
 
     <td> Juvenile delinquency  </td>
 
-    <td> 5031  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5031" data-uslm-ref="/us/usc/t18/s5031">5031</a>  </td>
 
   </tr>
 

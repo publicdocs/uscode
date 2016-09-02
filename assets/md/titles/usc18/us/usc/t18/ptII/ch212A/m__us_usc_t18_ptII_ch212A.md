@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3271.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3271" data-uslm-ref="/us/usc/t18/s3271">3271.</a>  </td>
 
     <td> Trafficking in persons offenses committed by persons employed by or accompanying the Federal Government outside the United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3272.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3272" data-uslm-ref="/us/usc/t18/s3272">3272.</a>  </td>
 
     <td> Definitions.  </td>
 

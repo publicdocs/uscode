@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3661" data-uslm-ref="/us/usc/t18/s3661">3661.</a>  </td>
 
     <td> Use of information for sentencing.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3662" data-uslm-ref="/us/usc/t18/s3662">3662.</a>  </td>
 
     <td> Conviction records.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3663" data-uslm-ref="/us/usc/t18/s3663">3663.</a>  </td>
 
     <td> Order of restitution.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3663A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3663A" data-uslm-ref="/us/usc/t18/s3663A">3663A.</a>  </td>
 
     <td> Mandatory restitution to victims of certain crimes.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3664" data-uslm-ref="/us/usc/t18/s3664">3664.</a>  </td>
 
     <td> Procedure for issuance and enforcement of order of restitution.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3665.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3665" data-uslm-ref="/us/usc/t18/s3665">3665.</a>  </td>
 
     <td> Firearms possessed by convicted felons.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3666.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3666" data-uslm-ref="/us/usc/t18/s3666">3666.</a>  </td>
 
     <td> Bribe moneys.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3667.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3667" data-uslm-ref="/us/usc/t18/s3667">3667.</a>  </td>
 
     <td> Liquors and related property; definitions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3668.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3668" data-uslm-ref="/us/usc/t18/s3668">3668.</a>  </td>
 
     <td> Remission or mitigation of forfeitures under liquor laws; possession pending trial.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3669.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3669" data-uslm-ref="/us/usc/t18/s3669">3669.</a>  </td>
 
     <td> Conveyances carrying liquor.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 3670.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3670" data-uslm-ref="/us/usc/t18/s3670">3670.</a>  </td>
 
     <td> Disposition of conveyances seized for violation of the Indian liquor laws.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3671" data-uslm-ref="/us/usc/t18/s3671">3671.</a>  </td>
 
     <td> Vessels carrying explosives and steerage passengers.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3672.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3672" data-uslm-ref="/us/usc/t18/s3672">3672.</a>  </td>
 
     <td> Duties of Director of Administrative Office of the United States Courts.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3673.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3673" data-uslm-ref="/us/usc/t18/s3673">3673.</a>  </td>
 
     <td> Definitions for sentencing provisions.  </td>
 

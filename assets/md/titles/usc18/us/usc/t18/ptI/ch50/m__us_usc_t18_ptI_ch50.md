@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1081.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1081" data-uslm-ref="/us/usc/t18/s1081">1081.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1082.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1082" data-uslm-ref="/us/usc/t18/s1082">1082.</a>  </td>
 
     <td> Gambling ships.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1083.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1083" data-uslm-ref="/us/usc/t18/s1083">1083.</a>  </td>
 
     <td> Transportation between shore and ship; penalties.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1084.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1084" data-uslm-ref="/us/usc/t18/s1084">1084.</a>  </td>
 
     <td> Transmission of wagering information; penalties.  </td>
 

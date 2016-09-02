@@ -101,7 +101,7 @@
 
         (3) the fact that during the period wire, oral, or electronic communications were or were not intercepted.
 
-            The judge, upon the filing of a motion, may in his discretion make available to such person or his counsel for inspection such portions of the intercepted communications, applications and orders as the judge determines to be in the interest of justice. On an ex parte showing of good cause to a judge of competent jurisdiction the serving of the inventory required by this subsection may be postponed.
+        The judge, upon the filing of a motion, may in his discretion make available to such person or his counsel for inspection such portions of the intercepted communications, applications and orders as the judge determines to be in the interest of justice. On an ex parte showing of good cause to a judge of competent jurisdiction the serving of the inventory required by this subsection may be postponed.
 
         (9) The contents of any wire, oral, or electronic communication intercepted pursuant to this chapter or evidence derived therefrom shall not be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in a Federal or State court unless each party, not less than ten days before the trial, hearing, or proceeding, has been furnished with a copy of the court order, and accompanying application, under which the interception was authorized or approved. This ten-day period may be waived by the judge if he finds that it was not possible to furnish the party with the above information ten days before the trial, hearing, or proceeding and that the party will not be prejudiced by the delay in receiving such information.
 
@@ -133,11 +133,11 @@
 
         (ii) the application contains a full and complete statement as to why such specification is not practical and identifies the person committing the offense and whose communications are to be intercepted; and
 
-        (iii)
+        (iii) the judge finds that such specification is not practical; and
 
-         the judge finds that such specification is not practical; and
+    (b)
 
-            (b) in the case of an application with respect to a wire or electronic communication—
+     in the case of an application with respect to a wire or electronic communication—
 
         (i) the application is by a Federal investigative or law enforcement officer and is approved by the Attorney General, the Deputy Attorney General, the Associate Attorney General, an Assistant Attorney General, or an acting Assistant Attorney General;
 
@@ -147,7 +147,7 @@
 
         (iv) the order authorizing or approving the interception is limited to interception only for such time as it is reasonable to presume that the person identified in the application is or was reasonably proximate to the instrument through which such communication will be or was transmitted.
 
-        (12) An interception of a communication under an order with respect to which the requirements of subsections (1)(b)(ii) and (3)(d) of this section do not apply by reason of subsection (11)(a) shall not begin until the place where the communication is to be intercepted is ascertained by the person implementing the interception order. A provider of wire or electronic communications service that has received an order as provided for in subsection (11)(b) may move the court to modify or quash the order on the ground that its assistance with respect to the interception cannot be performed in a timely or reasonable fashion. The court, upon notice to the government, shall decide such a motion expeditiously.
+    (12) An interception of a communication under an order with respect to which the requirements of subsections (1)(b)(ii) and (3)(d) of this section do not apply by reason of subsection (11)(a) shall not begin until the place where the communication is to be intercepted is ascertained by the person implementing the interception order. A provider of wire or electronic communications service that has received an order as provided for in subsection (11)(b) may move the court to modify or quash the order on the ground that its assistance with respect to the interception cannot be performed in a timely or reasonable fashion. The court, upon notice to the government, shall decide such a motion expeditiously.
 
 (Added [Pub. L. 90–351, title III, § 802][/us/pl/90/351/s802], June 19, 1968, [82 Stat. 218][/us/stat/82/218]; amended [Pub. L. 91–358, title II, § 211(b)][/us/pl/91/358/s211/b], July 29, 1970, [84 Stat. 654][/us/stat/84/654]; [Pub. L. 95–511, title II, § 201(d)][/us/pl/95/511/s201/d]–(g), Oct. 25, 1978, [92 Stat. 1797][/us/stat/92/1797], 1798; [Pub. L. 98–473, title II, § 1203(a)][/us/pl/98/473/s1203/a], (b), Oct. 12, 1984, [98 Stat. 2152][/us/stat/98/2152]; [Pub. L. 99–508, title I][/us/pl/99/508], §§ 101(c)(1)(A), (8), (e), 106(a)–(d)(3), Oct. 21, 1986, [100 Stat. 1851–1853][/us/stat/100/1851-1853], 1856, 1857; [Pub. L. 103–414, title II, § 201(b)(1)][/us/pl/103/414/s201/b/1], Oct. 25, 1994, [108 Stat. 4290][/us/stat/108/4290]; [Pub. L. 105–272, title VI, § 604][/us/pl/105/272/s604], Oct. 20, 1998, [112 Stat. 2413][/us/stat/112/2413].)
 

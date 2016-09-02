@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1151" data-uslm-ref="/us/usc/t18/s1151">1151.</a>  </td>
 
     <td> Indian country defined.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1152" data-uslm-ref="/us/usc/t18/s1152">1152.</a>  </td>
 
     <td> Laws governing.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1153" data-uslm-ref="/us/usc/t18/s1153">1153.</a>  </td>
 
     <td> Offenses committed within Indian country.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1154" data-uslm-ref="/us/usc/t18/s1154">1154.</a>  </td>
 
     <td> Intoxicants dispensed in Indian country.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1155" data-uslm-ref="/us/usc/t18/s1155">1155.</a>  </td>
 
     <td> Intoxicants dispensed on school site.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1156" data-uslm-ref="/us/usc/t18/s1156">1156.</a>  </td>
 
     <td> Intoxicants possessed unlawfully.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> [1157.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1157" data-uslm-ref="/us/usc/t18/s1157">1157.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1158.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1158" data-uslm-ref="/us/usc/t18/s1158">1158.</a>  </td>
 
     <td> Counterfeiting Indian Arts and Crafts Board trade mark.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1159.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1159" data-uslm-ref="/us/usc/t18/s1159">1159.</a>  </td>
 
     <td> Misrepresentation of Indian produced goods and products.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1160.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1160" data-uslm-ref="/us/usc/t18/s1160">1160.</a>  </td>
 
     <td> Property damaged in committing offense.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1161" data-uslm-ref="/us/usc/t18/s1161">1161.</a>  </td>
 
     <td> Application of Indian liquor laws.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1162" data-uslm-ref="/us/usc/t18/s1162">1162.</a>  </td>
 
     <td> State jurisdiction over offenses committed by or against Indians in the Indian country.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1163" data-uslm-ref="/us/usc/t18/s1163">1163.</a>  </td>
 
     <td> Embezzlement and theft from Indian tribal organizations.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1164" data-uslm-ref="/us/usc/t18/s1164">1164.</a>  </td>
 
     <td> Destroying boundary and warning signs.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1165.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1165" data-uslm-ref="/us/usc/t18/s1165">1165.</a>  </td>
 
     <td> Hunting, trapping, or fishing on Indian land.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1166.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1166" data-uslm-ref="/us/usc/t18/s1166">1166.</a>  </td>
 
     <td> Gambling in Indian country.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1167.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1167" data-uslm-ref="/us/usc/t18/s1167">1167.</a>  </td>
 
     <td> Theft from gaming establishments on Indian lands.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1168.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1168" data-uslm-ref="/us/usc/t18/s1168">1168.</a>  </td>
 
     <td> Theft by officers or employees of gaming establishments on Indian lands.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1169.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1169" data-uslm-ref="/us/usc/t18/s1169">1169.</a>  </td>
 
     <td> Reporting of child abuse.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1170.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1170" data-uslm-ref="/us/usc/t18/s1170">1170.</a>  </td>
 
     <td> Illegal trafficking in Native American human remains and cultural items.  </td>
 

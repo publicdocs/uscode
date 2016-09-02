@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs111" data-uslm-ref="/us/usc/t18/s111">111.</a>  </td>
 
     <td> Assaulting, resisting, or impeding certain officers or employees.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs112" data-uslm-ref="/us/usc/t18/s112">112.</a>  </td>
 
     <td> Protection of foreign officials, official guests, and internationally protected persons.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs113" data-uslm-ref="/us/usc/t18/s113">113.</a>  </td>
 
     <td> Assaults within maritime and territorial jurisdiction.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs114" data-uslm-ref="/us/usc/t18/s114">114.</a>  </td>
 
     <td> Maiming within maritime and territorial jurisdiction.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs115" data-uslm-ref="/us/usc/t18/s115">115.</a>  </td>
 
     <td> Influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs116" data-uslm-ref="/us/usc/t18/s116">116.</a>  </td>
 
     <td> Female genital mutilation.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs117" data-uslm-ref="/us/usc/t18/s117">117.</a>  </td>
 
     <td> Domestic assault by an habitual offender. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section 117 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F109%2F162" data-uslm-ref="/us/pl/109/162">Pub. L. 109–162</a> without corresponding amendment of chapter analysis. </sup></sup>   </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs118" data-uslm-ref="/us/usc/t18/s118">118.</a>  </td>
 
     <td> Interference with certain protective functions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs119" data-uslm-ref="/us/usc/t18/s119">119.</a>  </td>
 
     <td> Protection of individuals performing certain official duties.  </td>
 

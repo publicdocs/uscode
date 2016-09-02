@@ -33,7 +33,7 @@ SUBCHAPTER D—IMPRISONMENT  <sup>[1]</sup>  <sup><sup> 1 So in original. Pr
 
   <tr>
 
-    <td> 3581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3581" data-uslm-ref="/us/usc/t18/s3581">3581.</a>  </td>
 
     <td> Sentence of imprisonment.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER D—IMPRISONMENT  <sup>[1]</sup>  <sup><sup> 1 So in original. Pr
 
   <tr>
 
-    <td> 3582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3582" data-uslm-ref="/us/usc/t18/s3582">3582.</a>  </td>
 
     <td> Imposition of a sentence of imprisonment.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER D—IMPRISONMENT  <sup>[1]</sup>  <sup><sup> 1 So in original. Pr
 
   <tr>
 
-    <td> 3583.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3583" data-uslm-ref="/us/usc/t18/s3583">3583.</a>  </td>
 
     <td> Inclusion of a term of supervised release after imprisonment.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER D—IMPRISONMENT  <sup>[1]</sup>  <sup><sup> 1 So in original. Pr
 
   <tr>
 
-    <td> 3584.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3584" data-uslm-ref="/us/usc/t18/s3584">3584.</a>  </td>
 
     <td> Multiple sentences of imprisonment.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER D—IMPRISONMENT  <sup>[1]</sup>  <sup><sup> 1 So in original. Pr
 
   <tr>
 
-    <td> 3585.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3585" data-uslm-ref="/us/usc/t18/s3585">3585.</a>  </td>
 
     <td> Calculation of a term of imprisonment.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER D—IMPRISONMENT  <sup>[1]</sup>  <sup><sup> 1 So in original. Pr
 
   <tr>
 
-    <td> 3586.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3586" data-uslm-ref="/us/usc/t18/s3586">3586.</a>  </td>
 
     <td> Implementation of a sentence of imprisonment.  </td>
 

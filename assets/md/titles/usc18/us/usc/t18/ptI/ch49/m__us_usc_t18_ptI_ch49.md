@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1071.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1071" data-uslm-ref="/us/usc/t18/s1071">1071.</a>  </td>
 
     <td> Concealing person from arrest.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1072.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1072" data-uslm-ref="/us/usc/t18/s1072">1072.</a>  </td>
 
     <td> Concealing escaped prisoner.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1073.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1073" data-uslm-ref="/us/usc/t18/s1073">1073.</a>  </td>
 
     <td> Flight to avoid prosecution or giving testimony.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1074.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1074" data-uslm-ref="/us/usc/t18/s1074">1074.</a>  </td>
 
     <td> Flight to avoid prosecution for damaging or destroying any building or other real or personal property.  </td>
 

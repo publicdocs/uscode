@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1301" data-uslm-ref="/us/usc/t18/s1301">1301.</a>  </td>
 
     <td> Importing or transporting lottery tickets.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1302" data-uslm-ref="/us/usc/t18/s1302">1302.</a>  </td>
 
     <td> Mailing lottery tickets or related matter.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1303" data-uslm-ref="/us/usc/t18/s1303">1303.</a>  </td>
 
     <td> Postmaster or employee as lottery agent.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1304" data-uslm-ref="/us/usc/t18/s1304">1304.</a>  </td>
 
     <td> Broadcasting lottery information.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1305" data-uslm-ref="/us/usc/t18/s1305">1305.</a>  </td>
 
     <td> Fishing contests.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1306" data-uslm-ref="/us/usc/t18/s1306">1306.</a>  </td>
 
     <td> Participation by financial institutions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1307.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1307" data-uslm-ref="/us/usc/t18/s1307">1307.</a>  </td>
 
     <td> Exceptions relating to certain advertisements and other information and to State-conducted lotteries.  </td>
 

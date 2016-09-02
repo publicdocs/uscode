@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 5031.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5031" data-uslm-ref="/us/usc/t18/s5031">5031.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 5032.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5032" data-uslm-ref="/us/usc/t18/s5032">5032.</a>  </td>
 
     <td> Delinquency proceedings in district courts; transfer for criminal prosecution.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 5033.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5033" data-uslm-ref="/us/usc/t18/s5033">5033.</a>  </td>
 
     <td> Custody prior to appearance before magistrate judge.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 5034.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5034" data-uslm-ref="/us/usc/t18/s5034">5034.</a>  </td>
 
     <td> Duties of magistrate judge.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5035.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5035" data-uslm-ref="/us/usc/t18/s5035">5035.</a>  </td>
 
     <td> Detention prior to disposition.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 5036.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5036" data-uslm-ref="/us/usc/t18/s5036">5036.</a>  </td>
 
     <td> Speedy trial.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 5037.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5037" data-uslm-ref="/us/usc/t18/s5037">5037.</a>  </td>
 
     <td> Dispositional hearing.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 5038.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5038" data-uslm-ref="/us/usc/t18/s5038">5038.</a>  </td>
 
     <td> Use of juvenile records.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 5039.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5039" data-uslm-ref="/us/usc/t18/s5039">5039.</a>  </td>
 
     <td> Commitment.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 5040.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5040" data-uslm-ref="/us/usc/t18/s5040">5040.</a>  </td>
 
     <td> Support.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 5041.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5041" data-uslm-ref="/us/usc/t18/s5041">5041.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 5042.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5042" data-uslm-ref="/us/usc/t18/s5042">5042.</a>  </td>
 
     <td> Revocation of probation.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER B—FINES  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably 
 
   <tr>
 
-    <td> 3611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3611" data-uslm-ref="/us/usc/t18/s3611">3611.</a>  </td>
 
     <td> Payment of a fine or restitution.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER B—FINES  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably 
 
   <tr>
 
-    <td> 3612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3612" data-uslm-ref="/us/usc/t18/s3612">3612.</a>  </td>
 
     <td> Collection of an unpaid fine or restitution. <sup>[2]</sup>  <sup><sup> 2 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER B—FINES  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably 
 
   <tr>
 
-    <td> 3613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3613" data-uslm-ref="/us/usc/t18/s3613">3613.</a>  </td>
 
     <td> Civil remedies for satisfaction of an unpaid fine.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER B—FINES  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably 
 
   <tr>
 
-    <td> 3613A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3613A" data-uslm-ref="/us/usc/t18/s3613A">3613A.</a>  </td>
 
     <td> Effect of default.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER B—FINES  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably 
 
   <tr>
 
-    <td> 3614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3614" data-uslm-ref="/us/usc/t18/s3614">3614.</a>  </td>
 
     <td> Resentencing upon failure to pay a fine or restitution.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER B—FINES  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably 
 
   <tr>
 
-    <td> 3615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3615" data-uslm-ref="/us/usc/t18/s3615">3615.</a>  </td>
 
     <td> Criminal default.  </td>
 

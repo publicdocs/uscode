@@ -29,487 +29,487 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch1" data-uslm-ref="/us/usc/t18/ptI/ch1">1.</a>  </td>
 
     <td> General provisions  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1" data-uslm-ref="/us/usc/t18/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch2" data-uslm-ref="/us/usc/t18/ptI/ch2">2.</a>  </td>
 
     <td> Aircraft and motor vehicles  </td>
 
-    <td> 31  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs31" data-uslm-ref="/us/usc/t18/s31">31</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch3" data-uslm-ref="/us/usc/t18/ptI/ch3">3.</a>  </td>
 
     <td> Animals, birds, fish, and plants  </td>
 
-    <td> 41  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs41" data-uslm-ref="/us/usc/t18/s41">41</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch5" data-uslm-ref="/us/usc/t18/ptI/ch5">5.</a>  </td>
 
     <td> Arson  </td>
 
-    <td> 81  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs81" data-uslm-ref="/us/usc/t18/s81">81</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch7" data-uslm-ref="/us/usc/t18/ptI/ch7">7.</a>  </td>
 
     <td> Assault  </td>
 
-    <td> 111  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs111" data-uslm-ref="/us/usc/t18/s111">111</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch9" data-uslm-ref="/us/usc/t18/ptI/ch9">9.</a>  </td>
 
     <td> Bankruptcy  </td>
 
-    <td> 151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs151" data-uslm-ref="/us/usc/t18/s151">151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch10" data-uslm-ref="/us/usc/t18/ptI/ch10">10.</a>  </td>
 
     <td> Biological weapons  </td>
 
-    <td> 175  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs175" data-uslm-ref="/us/usc/t18/s175">175</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch11" data-uslm-ref="/us/usc/t18/ptI/ch11">11.</a>  </td>
 
     <td> Bribery, graft, and conflicts of interest  </td>
 
-    <td> 201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs201" data-uslm-ref="/us/usc/t18/s201">201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch11A" data-uslm-ref="/us/usc/t18/ptI/ch11A">11A.</a>  </td>
 
     <td> Child support  </td>
 
-    <td> 228  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs228" data-uslm-ref="/us/usc/t18/s228">228</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch11B" data-uslm-ref="/us/usc/t18/ptI/ch11B">11B.</a>  </td>
 
     <td> Chemical Weapons  <sup>[1]</sup>  <sup><sup> 1 So in original. First word only of item should be capitalized. </sup></sup>   </td>
 
-    <td> 229  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs229" data-uslm-ref="/us/usc/t18/s229">229</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch12" data-uslm-ref="/us/usc/t18/ptI/ch12">12.</a>  </td>
 
     <td> Civil disorders  </td>
 
-    <td> 231  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs231" data-uslm-ref="/us/usc/t18/s231">231</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch13" data-uslm-ref="/us/usc/t18/ptI/ch13">13.</a>  </td>
 
     <td> Civil rights  </td>
 
-    <td> 241  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs241" data-uslm-ref="/us/usc/t18/s241">241</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch15" data-uslm-ref="/us/usc/t18/ptI/ch15">15.</a>  </td>
 
     <td> Claims and services in matters affecting government  </td>
 
-    <td> 281  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs281" data-uslm-ref="/us/usc/t18/s281">281</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch17" data-uslm-ref="/us/usc/t18/ptI/ch17">17.</a>  </td>
 
     <td> Coins and currency  </td>
 
-    <td> 331  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs331" data-uslm-ref="/us/usc/t18/s331">331</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 17A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch17A" data-uslm-ref="/us/usc/t18/ptI/ch17A">17A.</a>  </td>
 
     <td> Common carrier operation under the influence of alcohol or drugs  </td>
 
-    <td> 341  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs341" data-uslm-ref="/us/usc/t18/s341">341</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 18.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch18" data-uslm-ref="/us/usc/t18/ptI/ch18">18.</a>  </td>
 
     <td> Congressional, Cabinet, and Supreme Court assassination, kidnapping, and assault  </td>
 
-    <td> 351  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs351" data-uslm-ref="/us/usc/t18/s351">351</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch19" data-uslm-ref="/us/usc/t18/ptI/ch19">19.</a>  </td>
 
     <td> Conspiracy  </td>
 
-    <td> 371  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs371" data-uslm-ref="/us/usc/t18/s371">371</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch21" data-uslm-ref="/us/usc/t18/ptI/ch21">21.</a>  </td>
 
     <td> Contempts  </td>
 
-    <td> 401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs401" data-uslm-ref="/us/usc/t18/s401">401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch23" data-uslm-ref="/us/usc/t18/ptI/ch23">23.</a>  </td>
 
     <td> Contracts  </td>
 
-    <td> 431  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs431" data-uslm-ref="/us/usc/t18/s431">431</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch25" data-uslm-ref="/us/usc/t18/ptI/ch25">25.</a>  </td>
 
     <td> Counterfeiting and forgery  </td>
 
-    <td> 470  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs470" data-uslm-ref="/us/usc/t18/s470">470</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch26" data-uslm-ref="/us/usc/t18/ptI/ch26">26.</a>  </td>
 
     <td> Criminal street gangs  </td>
 
-    <td> 521  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs521" data-uslm-ref="/us/usc/t18/s521">521</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch27" data-uslm-ref="/us/usc/t18/ptI/ch27">27.</a>  </td>
 
     <td> Customs  </td>
 
-    <td> 541  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs541" data-uslm-ref="/us/usc/t18/s541">541</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 29.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch29" data-uslm-ref="/us/usc/t18/ptI/ch29">29.</a>  </td>
 
     <td> Elections and political activities  </td>
 
-    <td> 591  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs591" data-uslm-ref="/us/usc/t18/s591">591</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch31" data-uslm-ref="/us/usc/t18/ptI/ch31">31.</a>  </td>
 
     <td> Embezzlement and theft  </td>
 
-    <td> 641  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs641" data-uslm-ref="/us/usc/t18/s641">641</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch33" data-uslm-ref="/us/usc/t18/ptI/ch33">33.</a>  </td>
 
     <td> Emblems, insignia, and names  </td>
 
-    <td> 700  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs700" data-uslm-ref="/us/usc/t18/s700">700</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch35" data-uslm-ref="/us/usc/t18/ptI/ch35">35.</a>  </td>
 
     <td> Escape and rescue  </td>
 
-    <td> 751  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs751" data-uslm-ref="/us/usc/t18/s751">751</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch37" data-uslm-ref="/us/usc/t18/ptI/ch37">37.</a>  </td>
 
     <td> Espionage and censorship  </td>
 
-    <td> 791  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs791" data-uslm-ref="/us/usc/t18/s791">791</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 39.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch39" data-uslm-ref="/us/usc/t18/ptI/ch39">39.</a>  </td>
 
     <td> Explosives and combustibles  <sup>[2]</sup>  <sup><sup> 2 Chapter heading amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F86%2F710" data-uslm-ref="/us/pl/86/710">Pub. L. 86–710</a> without corresponding amendment of part analysis. </sup></sup>   </td>
 
-    <td> 831  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs831" data-uslm-ref="/us/usc/t18/s831">831</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 40.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch40" data-uslm-ref="/us/usc/t18/ptI/ch40">40.</a>  </td>
 
     <td> Importation, manufacture, distribution and storage of explosive materials  </td>
 
-    <td> 841  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs841" data-uslm-ref="/us/usc/t18/s841">841</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch41" data-uslm-ref="/us/usc/t18/ptI/ch41">41.</a>  </td>
 
     <td> Extortion and threats  </td>
 
-    <td> 871  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs871" data-uslm-ref="/us/usc/t18/s871">871</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch42" data-uslm-ref="/us/usc/t18/ptI/ch42">42.</a>  </td>
 
     <td> Extortionate credit transactions  </td>
 
-    <td> 891  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs891" data-uslm-ref="/us/usc/t18/s891">891</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch43" data-uslm-ref="/us/usc/t18/ptI/ch43">43.</a>  </td>
 
     <td> False personation  </td>
 
-    <td> 911  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs911" data-uslm-ref="/us/usc/t18/s911">911</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 44.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch44" data-uslm-ref="/us/usc/t18/ptI/ch44">44.</a>  </td>
 
     <td> Firearms  </td>
 
-    <td> 921  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs921" data-uslm-ref="/us/usc/t18/s921">921</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 45.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch45" data-uslm-ref="/us/usc/t18/ptI/ch45">45.</a>  </td>
 
     <td> Foreign relations  </td>
 
-    <td> 951  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs951" data-uslm-ref="/us/usc/t18/s951">951</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 46.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch46" data-uslm-ref="/us/usc/t18/ptI/ch46">46.</a>  </td>
 
     <td> Forfeiture  </td>
 
-    <td> 981  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs981" data-uslm-ref="/us/usc/t18/s981">981</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 47.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch47" data-uslm-ref="/us/usc/t18/ptI/ch47">47.</a>  </td>
 
     <td> Fraud and false statements  </td>
 
-    <td> 1001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1001" data-uslm-ref="/us/usc/t18/s1001">1001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 49.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch49" data-uslm-ref="/us/usc/t18/ptI/ch49">49.</a>  </td>
 
     <td> Fugitives from justice  </td>
 
-    <td> 1071  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1071" data-uslm-ref="/us/usc/t18/s1071">1071</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 50.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch50" data-uslm-ref="/us/usc/t18/ptI/ch50">50.</a>  </td>
 
     <td> Gambling  </td>
 
-    <td> 1081  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1081" data-uslm-ref="/us/usc/t18/s1081">1081</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 50A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch50A" data-uslm-ref="/us/usc/t18/ptI/ch50A">50A.</a>  </td>
 
     <td> Genocide  </td>
 
-    <td> 1091  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1091" data-uslm-ref="/us/usc/t18/s1091">1091</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 51.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch51" data-uslm-ref="/us/usc/t18/ptI/ch51">51.</a>  </td>
 
     <td> Homicide  </td>
 
-    <td> 1111  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1111" data-uslm-ref="/us/usc/t18/s1111">1111</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 53.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch53" data-uslm-ref="/us/usc/t18/ptI/ch53">53.</a>  </td>
 
     <td> Indians  </td>
 
-    <td> 1151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1151" data-uslm-ref="/us/usc/t18/s1151">1151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 55.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch55" data-uslm-ref="/us/usc/t18/ptI/ch55">55.</a>  </td>
 
     <td> Kidnapping  </td>
 
-    <td> 1201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1201" data-uslm-ref="/us/usc/t18/s1201">1201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 57.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch57" data-uslm-ref="/us/usc/t18/ptI/ch57">57.</a>  </td>
 
     <td> Labor  </td>
 
-    <td> 1231  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1231" data-uslm-ref="/us/usc/t18/s1231">1231</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 59.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch59" data-uslm-ref="/us/usc/t18/ptI/ch59">59.</a>  </td>
 
     <td> Liquor traffic  </td>
 
-    <td> 1261  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1261" data-uslm-ref="/us/usc/t18/s1261">1261</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 61.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch61" data-uslm-ref="/us/usc/t18/ptI/ch61">61.</a>  </td>
 
     <td> Lotteries  </td>
 
-    <td> 1301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1301" data-uslm-ref="/us/usc/t18/s1301">1301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 63.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch63" data-uslm-ref="/us/usc/t18/ptI/ch63">63.</a>  </td>
 
     <td> Mail fraud  <sup>[3]</sup>  <sup><sup> 3 Chapter heading amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F110%2F457" data-uslm-ref="/us/pl/110/457">Pub. L. 110–457</a> without corresponding amendment of part analysis. </sup></sup>   </td>
 
-    <td> 1341  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1341" data-uslm-ref="/us/usc/t18/s1341">1341</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 65.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch65" data-uslm-ref="/us/usc/t18/ptI/ch65">65.</a>  </td>
 
     <td> Malicious mischief  </td>
 
-    <td> 1361  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1361" data-uslm-ref="/us/usc/t18/s1361">1361</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 67.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch67" data-uslm-ref="/us/usc/t18/ptI/ch67">67.</a>  </td>
 
     <td> Military and Navy  </td>
 
-    <td> 1381  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1381" data-uslm-ref="/us/usc/t18/s1381">1381</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [68.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch68" data-uslm-ref="/us/usc/t18/ptI/ch68">68.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -519,217 +519,217 @@
 
   <tr>
 
-    <td> 69.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch69" data-uslm-ref="/us/usc/t18/ptI/ch69">69.</a>  </td>
 
     <td> Nationality and citizenship  </td>
 
-    <td> 1421  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1421" data-uslm-ref="/us/usc/t18/s1421">1421</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 71.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch71" data-uslm-ref="/us/usc/t18/ptI/ch71">71.</a>  </td>
 
     <td> Obscenity  </td>
 
-    <td> 1460  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1460" data-uslm-ref="/us/usc/t18/s1460">1460</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 73.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch73" data-uslm-ref="/us/usc/t18/ptI/ch73">73.</a>  </td>
 
     <td> Obstruction of justice  </td>
 
-    <td> 1501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1501" data-uslm-ref="/us/usc/t18/s1501">1501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 74.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch74" data-uslm-ref="/us/usc/t18/ptI/ch74">74.</a>  </td>
 
     <td> Partial-birth abortions  </td>
 
-    <td> 1531  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1531" data-uslm-ref="/us/usc/t18/s1531">1531</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 75.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch75" data-uslm-ref="/us/usc/t18/ptI/ch75">75.</a>  </td>
 
     <td> Passports and visas  </td>
 
-    <td> 1541  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1541" data-uslm-ref="/us/usc/t18/s1541">1541</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 77.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch77" data-uslm-ref="/us/usc/t18/ptI/ch77">77.</a>  </td>
 
     <td> Peonage, slavery, and trafficking in persons  </td>
 
-    <td> 1581  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1581" data-uslm-ref="/us/usc/t18/s1581">1581</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 79.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch79" data-uslm-ref="/us/usc/t18/ptI/ch79">79.</a>  </td>
 
     <td> Perjury  </td>
 
-    <td> 1621  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1621" data-uslm-ref="/us/usc/t18/s1621">1621</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 81.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch81" data-uslm-ref="/us/usc/t18/ptI/ch81">81.</a>  </td>
 
     <td> Piracy and privateering  </td>
 
-    <td> 1651  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1651" data-uslm-ref="/us/usc/t18/s1651">1651</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 83.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch83" data-uslm-ref="/us/usc/t18/ptI/ch83">83.</a>  </td>
 
     <td> Postal service  </td>
 
-    <td> 1691  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1691" data-uslm-ref="/us/usc/t18/s1691">1691</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 84.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch84" data-uslm-ref="/us/usc/t18/ptI/ch84">84.</a>  </td>
 
     <td> Presidential and Presidential staff assassination, kidnapping, and assault  </td>
 
-    <td> 1751  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1751" data-uslm-ref="/us/usc/t18/s1751">1751</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 85.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch85" data-uslm-ref="/us/usc/t18/ptI/ch85">85.</a>  </td>
 
     <td> Prison-made goods  </td>
 
-    <td> 1761  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1761" data-uslm-ref="/us/usc/t18/s1761">1761</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 87.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch87" data-uslm-ref="/us/usc/t18/ptI/ch87">87.</a>  </td>
 
     <td> Prisons  </td>
 
-    <td> 1791  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1791" data-uslm-ref="/us/usc/t18/s1791">1791</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 88.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch88" data-uslm-ref="/us/usc/t18/ptI/ch88">88.</a>  </td>
 
     <td> Privacy  </td>
 
-    <td> 1801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1801" data-uslm-ref="/us/usc/t18/s1801">1801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 89.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch89" data-uslm-ref="/us/usc/t18/ptI/ch89">89.</a>  </td>
 
     <td> Professions and occupations  </td>
 
-    <td> 1821  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1821" data-uslm-ref="/us/usc/t18/s1821">1821</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 90.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch90" data-uslm-ref="/us/usc/t18/ptI/ch90">90.</a>  </td>
 
     <td> Protection of trade secrets  </td>
 
-    <td> 1831  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1831" data-uslm-ref="/us/usc/t18/s1831">1831</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 90A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch90A" data-uslm-ref="/us/usc/t18/ptI/ch90A">90A.</a>  </td>
 
     <td> Protection of unborn children  </td>
 
-    <td> 1841  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1841" data-uslm-ref="/us/usc/t18/s1841">1841</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 91.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch91" data-uslm-ref="/us/usc/t18/ptI/ch91">91.</a>  </td>
 
     <td> Public lands  </td>
 
-    <td> 1851  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1851" data-uslm-ref="/us/usc/t18/s1851">1851</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 93.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch93" data-uslm-ref="/us/usc/t18/ptI/ch93">93.</a>  </td>
 
     <td> Public officers and employees  </td>
 
-    <td> 1901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1901" data-uslm-ref="/us/usc/t18/s1901">1901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 95.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch95" data-uslm-ref="/us/usc/t18/ptI/ch95">95.</a>  </td>
 
     <td> Racketeering  </td>
 
-    <td> 1951  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1951" data-uslm-ref="/us/usc/t18/s1951">1951</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 96.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch96" data-uslm-ref="/us/usc/t18/ptI/ch96">96.</a>  </td>
 
     <td> Racketeer influenced and corrupt organizations  </td>
 
-    <td> 1961  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1961" data-uslm-ref="/us/usc/t18/s1961">1961</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 97.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch97" data-uslm-ref="/us/usc/t18/ptI/ch97">97.</a>  </td>
 
     <td> Railroad carriers and mass transportation systems on land, on water, or through the air  </td>
 
-    <td> 1991  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1991" data-uslm-ref="/us/usc/t18/s1991">1991</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [99.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch99" data-uslm-ref="/us/usc/t18/ptI/ch99">99.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -739,231 +739,231 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch101" data-uslm-ref="/us/usc/t18/ptI/ch101">101.</a>  </td>
 
     <td> Records and reports  </td>
 
-    <td> 2071  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2071" data-uslm-ref="/us/usc/t18/s2071">2071</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch102" data-uslm-ref="/us/usc/t18/ptI/ch102">102.</a>  </td>
 
     <td> Riots  </td>
 
-    <td> 2101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2101" data-uslm-ref="/us/usc/t18/s2101">2101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch103" data-uslm-ref="/us/usc/t18/ptI/ch103">103.</a>  </td>
 
     <td> Robbery and burglary  </td>
 
-    <td> 2111  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2111" data-uslm-ref="/us/usc/t18/s2111">2111</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch105" data-uslm-ref="/us/usc/t18/ptI/ch105">105.</a>  </td>
 
     <td> Sabotage  </td>
 
-    <td> 2151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2151" data-uslm-ref="/us/usc/t18/s2151">2151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch107" data-uslm-ref="/us/usc/t18/ptI/ch107">107.</a>  </td>
 
     <td> Seamen and stowaways  </td>
 
-    <td> 2191  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2191" data-uslm-ref="/us/usc/t18/s2191">2191</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch109" data-uslm-ref="/us/usc/t18/ptI/ch109">109.</a>  </td>
 
     <td> Searches and seizures  </td>
 
-    <td> 2231  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2231" data-uslm-ref="/us/usc/t18/s2231">2231</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 109A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch109A" data-uslm-ref="/us/usc/t18/ptI/ch109A">109A.</a>  </td>
 
     <td> Sexual abuse  </td>
 
-    <td> 2241  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2241" data-uslm-ref="/us/usc/t18/s2241">2241</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 109B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch109B" data-uslm-ref="/us/usc/t18/ptI/ch109B">109B.</a>  </td>
 
     <td> Sex offender and crimes against children registry  </td>
 
-    <td> 2250  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2250" data-uslm-ref="/us/usc/t18/s2250">2250</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch110" data-uslm-ref="/us/usc/t18/ptI/ch110">110.</a>  </td>
 
     <td> Sexual exploitation and other abuse of children  </td>
 
-    <td> 2251  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2251" data-uslm-ref="/us/usc/t18/s2251">2251</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 110A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch110A" data-uslm-ref="/us/usc/t18/ptI/ch110A">110A.</a>  </td>
 
     <td> Domestic violence and stalking  </td>
 
-    <td> 2261  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2261" data-uslm-ref="/us/usc/t18/s2261">2261</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch111" data-uslm-ref="/us/usc/t18/ptI/ch111">111.</a>  </td>
 
     <td> Shipping  </td>
 
-    <td> 2271  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2271" data-uslm-ref="/us/usc/t18/s2271">2271</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 111A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch111A" data-uslm-ref="/us/usc/t18/ptI/ch111A">111A.</a>  </td>
 
     <td> Destruction of, or interference with, vessels or maritime facilities  </td>
 
-    <td> 2290  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2290" data-uslm-ref="/us/usc/t18/s2290">2290</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch113" data-uslm-ref="/us/usc/t18/ptI/ch113">113.</a>  </td>
 
     <td> Stolen property  </td>
 
-    <td> 2311  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2311" data-uslm-ref="/us/usc/t18/s2311">2311</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 113A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch113A" data-uslm-ref="/us/usc/t18/ptI/ch113A">113A.</a>  </td>
 
     <td> Telemarketing fraud  </td>
 
-    <td> 2325  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2325" data-uslm-ref="/us/usc/t18/s2325">2325</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 113B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch113B" data-uslm-ref="/us/usc/t18/ptI/ch113B">113B.</a>  </td>
 
     <td> Terrorism  </td>
 
-    <td> 2331  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2331" data-uslm-ref="/us/usc/t18/s2331">2331</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 113C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch113C" data-uslm-ref="/us/usc/t18/ptI/ch113C">113C.</a>  </td>
 
     <td> Torture  </td>
 
-    <td> 2340  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2340" data-uslm-ref="/us/usc/t18/s2340">2340</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch114" data-uslm-ref="/us/usc/t18/ptI/ch114">114.</a>  </td>
 
     <td> Trafficking in contraband cigarettes and smokeless tobacco  </td>
 
-    <td> 2341  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2341" data-uslm-ref="/us/usc/t18/s2341">2341</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch115" data-uslm-ref="/us/usc/t18/ptI/ch115">115.</a>  </td>
 
     <td> Treason, sedition, and subversive activities  </td>
 
-    <td> 2381  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2381" data-uslm-ref="/us/usc/t18/s2381">2381</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch117" data-uslm-ref="/us/usc/t18/ptI/ch117">117.</a>  </td>
 
     <td> Transportation for illegal sexual activity and related crimes  </td>
 
-    <td> 2421  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2421" data-uslm-ref="/us/usc/t18/s2421">2421</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch118" data-uslm-ref="/us/usc/t18/ptI/ch118">118.</a>  </td>
 
     <td> War crimes  </td>
 
-    <td> 2441  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2441" data-uslm-ref="/us/usc/t18/s2441">2441</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch119" data-uslm-ref="/us/usc/t18/ptI/ch119">119.</a>  </td>
 
     <td> Wire and electronic communications interception and interception of oral communications  <sup>[4]</sup>  <sup><sup> 4 Editorially supplied. Chapter 119 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F90%2F351" data-uslm-ref="/us/pl/90/351">Pub. L. 90–351</a> without corresponding amendment of part analysis. </sup></sup>   </td>
 
-    <td> 2510  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2510" data-uslm-ref="/us/usc/t18/s2510">2510</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch121" data-uslm-ref="/us/usc/t18/ptI/ch121">121.</a>  </td>
 
     <td> Stored wire and electronic communications and transactional records access  </td>
 
-    <td> 2701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2701" data-uslm-ref="/us/usc/t18/s2701">2701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch123" data-uslm-ref="/us/usc/t18/ptI/ch123">123.</a>  </td>
 
     <td>  Prohibition on release and use of certain personal information from State motor vehicle records  </td>
 
-    <td> 2721  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2721" data-uslm-ref="/us/usc/t18/s2721">2721</a>  </td>
 
   </tr>
 

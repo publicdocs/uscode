@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs401" data-uslm-ref="/us/usc/t18/s401">401.</a>  </td>
 
     <td> Power of court.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs402" data-uslm-ref="/us/usc/t18/s402">402.</a>  </td>
 
     <td> Contempts constituting crimes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs403" data-uslm-ref="/us/usc/t18/s403">403.</a>  </td>
 
     <td> Protection of the privacy of child victims and child witnesses.  </td>
 

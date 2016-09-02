@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 3141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3141" data-uslm-ref="/us/usc/t18/s3141">3141.</a>  </td>
 
     <td> Release and detention authority generally.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 3142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3142" data-uslm-ref="/us/usc/t18/s3142">3142.</a>  </td>
 
     <td> Release or detention of a defendant pending trial.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3143" data-uslm-ref="/us/usc/t18/s3143">3143.</a>  </td>
 
     <td> Release or detention of a defendant pending sentence or appeal.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3144" data-uslm-ref="/us/usc/t18/s3144">3144.</a>  </td>
 
     <td> Release or detention of a material witness.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 3145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3145" data-uslm-ref="/us/usc/t18/s3145">3145.</a>  </td>
 
     <td> Review and appeal of a release or detention order.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 3146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3146" data-uslm-ref="/us/usc/t18/s3146">3146.</a>  </td>
 
     <td> Penalty for failure to appear.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 3147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3147" data-uslm-ref="/us/usc/t18/s3147">3147.</a>  </td>
 
     <td> Penalty for an offense committed while on release.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 3148.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3148" data-uslm-ref="/us/usc/t18/s3148">3148.</a>  </td>
 
     <td> Sanctions for violation of a release condition.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 3149.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3149" data-uslm-ref="/us/usc/t18/s3149">3149.</a>  </td>
 
     <td> Surrender of an offender by a surety.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 3150.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3150" data-uslm-ref="/us/usc/t18/s3150">3150.</a>  </td>
 
     <td> Applicability to a case removed from a State court.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> [3150a.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3150a" data-uslm-ref="/us/usc/t18/s3150a">3150a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 3151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3151" data-uslm-ref="/us/usc/t18/s3151">3151.</a>  </td>
 
     <td> Refund of forfeited bail.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 3152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3152" data-uslm-ref="/us/usc/t18/s3152">3152.</a>  </td>
 
     <td> Establishment of pretrial services.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 3153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3153" data-uslm-ref="/us/usc/t18/s3153">3153.</a>  </td>
 
     <td> Organization and administration of pretrial services.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 3154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3154" data-uslm-ref="/us/usc/t18/s3154">3154.</a>  </td>
 
     <td> Functions and powers relating to pretrial services.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 3155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3155" data-uslm-ref="/us/usc/t18/s3155">3155.</a>  </td>
 
     <td> Annual reports.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 3156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3156" data-uslm-ref="/us/usc/t18/s3156">3156.</a>  </td>
 
     <td> Definitions.  </td>
 

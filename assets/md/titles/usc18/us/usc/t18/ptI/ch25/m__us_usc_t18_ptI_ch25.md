@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 470.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs470" data-uslm-ref="/us/usc/t18/s470">470.</a>  </td>
 
     <td> Counterfeit acts committed outside the United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs471" data-uslm-ref="/us/usc/t18/s471">471.</a>  </td>
 
     <td> Obligations or securities of United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs472" data-uslm-ref="/us/usc/t18/s472">472.</a>  </td>
 
     <td> Uttering counterfeit obligations or securities.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs473" data-uslm-ref="/us/usc/t18/s473">473.</a>  </td>
 
     <td> Dealing in counterfeit obligations or securities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs474" data-uslm-ref="/us/usc/t18/s474">474.</a>  </td>
 
     <td> Plates, stones, or analog, digital, or electronic images for counterfeiting obligations or securities.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 474A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs474A" data-uslm-ref="/us/usc/t18/s474A">474A.</a>  </td>
 
     <td> Deterrents to counterfeiting of obligations and securities.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs475" data-uslm-ref="/us/usc/t18/s475">475.</a>  </td>
 
     <td> Imitating obligations or securities; advertisements.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs476" data-uslm-ref="/us/usc/t18/s476">476.</a>  </td>
 
     <td> Taking impressions of tools used for obligations or securities.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 477.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs477" data-uslm-ref="/us/usc/t18/s477">477.</a>  </td>
 
     <td> Possessing or selling impressions of tools used for obligations or securities.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 478.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs478" data-uslm-ref="/us/usc/t18/s478">478.</a>  </td>
 
     <td> Foreign obligations or securities.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 479.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs479" data-uslm-ref="/us/usc/t18/s479">479.</a>  </td>
 
     <td> Uttering counterfeit foreign obligations or securities.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 480.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs480" data-uslm-ref="/us/usc/t18/s480">480.</a>  </td>
 
     <td> Possessing counterfeit foreign obligations or securities.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs481" data-uslm-ref="/us/usc/t18/s481">481.</a>  </td>
 
     <td> Plates, stones, or analog, digital, or electronic images for counterfeiting foreign obligations or securities.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs482" data-uslm-ref="/us/usc/t18/s482">482.</a>  </td>
 
     <td> Foreign bank notes.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 483.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs483" data-uslm-ref="/us/usc/t18/s483">483.</a>  </td>
 
     <td> Uttering counterfeit foreign bank notes.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 484.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs484" data-uslm-ref="/us/usc/t18/s484">484.</a>  </td>
 
     <td> Connecting parts of different notes.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 485.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs485" data-uslm-ref="/us/usc/t18/s485">485.</a>  </td>
 
     <td> Coins or bars.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 486.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs486" data-uslm-ref="/us/usc/t18/s486">486.</a>  </td>
 
     <td> Uttering coins of gold, silver or other metal.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 487.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs487" data-uslm-ref="/us/usc/t18/s487">487.</a>  </td>
 
     <td> Making or possessing counterfeit dies for coins.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 488.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs488" data-uslm-ref="/us/usc/t18/s488">488.</a>  </td>
 
     <td> Making or possessing counterfeit dies for foreign coins.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 489.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs489" data-uslm-ref="/us/usc/t18/s489">489.</a>  </td>
 
     <td> Making or possessing likeness of coins.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 490.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs490" data-uslm-ref="/us/usc/t18/s490">490.</a>  </td>
 
     <td> Minor coins.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs491" data-uslm-ref="/us/usc/t18/s491">491.</a>  </td>
 
     <td> Tokens or paper used as money.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs492" data-uslm-ref="/us/usc/t18/s492">492.</a>  </td>
 
     <td> Forfeiture of counterfeit paraphernalia.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 493.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs493" data-uslm-ref="/us/usc/t18/s493">493.</a>  </td>
 
     <td> Bonds and obligations of certain lending agencies.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 494.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs494" data-uslm-ref="/us/usc/t18/s494">494.</a>  </td>
 
     <td> Contractors’ bonds, bids, and public records.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 495.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs495" data-uslm-ref="/us/usc/t18/s495">495.</a>  </td>
 
     <td> Contracts, deeds, and powers of attorney.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 496.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs496" data-uslm-ref="/us/usc/t18/s496">496.</a>  </td>
 
     <td> Customs matters.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 497.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs497" data-uslm-ref="/us/usc/t18/s497">497.</a>  </td>
 
     <td> Letters patent.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 498.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs498" data-uslm-ref="/us/usc/t18/s498">498.</a>  </td>
 
     <td> Military or naval discharge certificates.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 499.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs499" data-uslm-ref="/us/usc/t18/s499">499.</a>  </td>
 
     <td> Military, naval, or official passes.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 500.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs500" data-uslm-ref="/us/usc/t18/s500">500.</a>  </td>
 
     <td> Money orders.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs501" data-uslm-ref="/us/usc/t18/s501">501.</a>  </td>
 
     <td> Postage stamps, postage meter stamps, and postal cards.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs502" data-uslm-ref="/us/usc/t18/s502">502.</a>  </td>
 
     <td> Postage and revenue stamps of foreign governments.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs503" data-uslm-ref="/us/usc/t18/s503">503.</a>  </td>
 
     <td> Postmarking stamps.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs504" data-uslm-ref="/us/usc/t18/s504">504.</a>  </td>
 
     <td> Printing and filming of United States and foreign obligations and securities.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs505" data-uslm-ref="/us/usc/t18/s505">505.</a>  </td>
 
     <td> Seals of courts; signatures of judges or court officers.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs506" data-uslm-ref="/us/usc/t18/s506">506.</a>  </td>
 
     <td> Seals of departments or agencies.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs507" data-uslm-ref="/us/usc/t18/s507">507.</a>  </td>
 
     <td> Ship’s papers.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs508" data-uslm-ref="/us/usc/t18/s508">508.</a>  </td>
 
     <td> Transportation requests of Government.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> 509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs509" data-uslm-ref="/us/usc/t18/s509">509.</a>  </td>
 
     <td> Possessing and making plates or stones for Government transportation requests.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> 510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs510" data-uslm-ref="/us/usc/t18/s510">510.</a>  </td>
 
     <td> Forging endorsements on Treasury checks or bonds or securities of the United States.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> 511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs511" data-uslm-ref="/us/usc/t18/s511">511.</a>  </td>
 
     <td> Altering or removing motor vehicle identification numbers.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> 511A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs511A" data-uslm-ref="/us/usc/t18/s511A">511A.</a>  </td>
 
     <td> Unauthorized application of theft prevention decal or device.  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> 512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs512" data-uslm-ref="/us/usc/t18/s512">512.</a>  </td>
 
     <td> Forfeiture of certain motor vehicles and motor vehicle parts.  </td>
 
@@ -385,7 +385,7 @@
 
   <tr>
 
-    <td> 513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs513" data-uslm-ref="/us/usc/t18/s513">513.</a>  </td>
 
     <td> Securities of the States and private entities.  </td>
 
@@ -393,7 +393,7 @@
 
   <tr>
 
-    <td> 514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs514" data-uslm-ref="/us/usc/t18/s514">514.</a>  </td>
 
     <td> Fictitious obligations.  </td>
 

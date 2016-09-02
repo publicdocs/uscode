@@ -33,51 +33,51 @@ This title was enacted by [act June 25, 1948, ch. 645, § 1][/us/act/1948-06-2
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptI" data-uslm-ref="/us/usc/t18/ptI">I.</a>  </td>
 
     <td> Crimes  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1" data-uslm-ref="/us/usc/t18/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptII" data-uslm-ref="/us/usc/t18/ptII">II.</a>  </td>
 
     <td> Criminal Procedure  </td>
 
-    <td> 3001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3001" data-uslm-ref="/us/usc/t18/s3001">3001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIII" data-uslm-ref="/us/usc/t18/ptIII">III.</a>  </td>
 
     <td> Prisons and Prisoners  </td>
 
-    <td> 4001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4001" data-uslm-ref="/us/usc/t18/s4001">4001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptIV" data-uslm-ref="/us/usc/t18/ptIV">IV.</a>  </td>
 
     <td> Correction of Youthful Offenders  </td>
 
-    <td> 5001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs5001" data-uslm-ref="/us/usc/t18/s5001">5001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2FptV" data-uslm-ref="/us/usc/t18/ptV">V.</a>  </td>
 
     <td> Immunity of Witnesses  </td>
 
-    <td> 6001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs6001" data-uslm-ref="/us/usc/t18/s6001">6001</a>  </td>
 
   </tr>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2191.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2191" data-uslm-ref="/us/usc/t18/s2191">2191.</a>  </td>
 
     <td> Cruelty to seamen.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2192.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2192" data-uslm-ref="/us/usc/t18/s2192">2192.</a>  </td>
 
     <td> Incitation of seamen to revolt or mutiny.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2193.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2193" data-uslm-ref="/us/usc/t18/s2193">2193.</a>  </td>
 
     <td> Revolt or mutiny of seamen.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2194.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2194" data-uslm-ref="/us/usc/t18/s2194">2194.</a>  </td>
 
     <td> Shanghaiing sailors.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2195.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2195" data-uslm-ref="/us/usc/t18/s2195">2195.</a>  </td>
 
     <td> Abandonment of sailors.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2196.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2196" data-uslm-ref="/us/usc/t18/s2196">2196.</a>  </td>
 
     <td> Drunkenness or neglect of duty by seamen.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2197.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2197" data-uslm-ref="/us/usc/t18/s2197">2197.</a>  </td>
 
     <td> Misuse of Federal certificate, license or document.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> [2198.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2198" data-uslm-ref="/us/usc/t18/s2198">2198.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2199.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs2199" data-uslm-ref="/us/usc/t18/s2199">2199.</a>  </td>
 
     <td> Stowaways on vessels or aircraft.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER A—GENERAL PROVISIONS  <sup>[1]</sup>  <sup><sup> 1 So in origin
 
   <tr>
 
-    <td> 3551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3551" data-uslm-ref="/us/usc/t18/s3551">3551.</a>  </td>
 
     <td> Authorized sentences.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER A—GENERAL PROVISIONS  <sup>[1]</sup>  <sup><sup> 1 So in origin
 
   <tr>
 
-    <td> 3552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3552" data-uslm-ref="/us/usc/t18/s3552">3552.</a>  </td>
 
     <td> Presentence reports.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER A—GENERAL PROVISIONS  <sup>[1]</sup>  <sup><sup> 1 So in origin
 
   <tr>
 
-    <td> 3553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3553" data-uslm-ref="/us/usc/t18/s3553">3553.</a>  </td>
 
     <td> Imposition of a sentence.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER A—GENERAL PROVISIONS  <sup>[1]</sup>  <sup><sup> 1 So in origin
 
   <tr>
 
-    <td> 3554.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3554" data-uslm-ref="/us/usc/t18/s3554">3554.</a>  </td>
 
     <td> Order of criminal forfeiture.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER A—GENERAL PROVISIONS  <sup>[1]</sup>  <sup><sup> 1 So in origin
 
   <tr>
 
-    <td> 3555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3555" data-uslm-ref="/us/usc/t18/s3555">3555.</a>  </td>
 
     <td> Order of notice to victims.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER A—GENERAL PROVISIONS  <sup>[1]</sup>  <sup><sup> 1 So in origin
 
   <tr>
 
-    <td> 3556.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3556" data-uslm-ref="/us/usc/t18/s3556">3556.</a>  </td>
 
     <td> Order of restitution.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER A—GENERAL PROVISIONS  <sup>[1]</sup>  <sup><sup> 1 So in origin
 
   <tr>
 
-    <td> 3557.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3557" data-uslm-ref="/us/usc/t18/s3557">3557.</a>  </td>
 
     <td> Review of a sentence.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER A—GENERAL PROVISIONS  <sup>[1]</sup>  <sup><sup> 1 So in origin
 
   <tr>
 
-    <td> 3558.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3558" data-uslm-ref="/us/usc/t18/s3558">3558.</a>  </td>
 
     <td> Implementation of a sentence.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER A—GENERAL PROVISIONS  <sup>[1]</sup>  <sup><sup> 1 So in origin
 
   <tr>
 
-    <td> 3559.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs3559" data-uslm-ref="/us/usc/t18/s3559">3559.</a>  </td>
 
     <td> Sentencing classification of offenses.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 4121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4121" data-uslm-ref="/us/usc/t18/s4121">4121.</a>  </td>
 
     <td> Federal Prison Industries; board of directors.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 4122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4122" data-uslm-ref="/us/usc/t18/s4122">4122.</a>  </td>
 
     <td> Administration of Federal Prison Industries.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 4123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4123" data-uslm-ref="/us/usc/t18/s4123">4123.</a>  </td>
 
     <td> New industries.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4124" data-uslm-ref="/us/usc/t18/s4124">4124.</a>  </td>
 
     <td> Purchase of prison-made products by Federal departments.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4125" data-uslm-ref="/us/usc/t18/s4125">4125.</a>  </td>
 
     <td> Public works; prison camps.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4126" data-uslm-ref="/us/usc/t18/s4126">4126.</a>  </td>
 
     <td> Prison Industries Fund; use and settlement of accounts.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4127.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4127" data-uslm-ref="/us/usc/t18/s4127">4127.</a>  </td>
 
     <td> Prison Industries report to Congress.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4128.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4128" data-uslm-ref="/us/usc/t18/s4128">4128.</a>  </td>
 
     <td> Enforcement by Attorney General.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4129.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs4129" data-uslm-ref="/us/usc/t18/s4129">4129.</a>  </td>
 
     <td> Authority to borrow and invest.  </td>
 

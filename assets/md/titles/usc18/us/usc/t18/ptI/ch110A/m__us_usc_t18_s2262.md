@@ -43,10 +43,6 @@
 
 (Added [Pub. L. 103–322, title IV, § 40221(a)][/us/pl/103/322/s40221/a], Sept. 13, 1994, [108 Stat. 1927][/us/stat/108/1927]; amended [Pub. L. 104–201, div. A, title X, § 1069(b)(2)][/us/pl/104/201/s1069/b/2], Sept. 23, 1996, [110 Stat. 2656][/us/stat/110/2656]; [Pub. L. 104–294, title VI, § 605(d)][/us/pl/104/294/s605/d], Oct. 11, 1996, [110 Stat. 3509][/us/stat/110/3509]; [Pub. L. 106–386, div. B, title I, § 1107(c)][/us/pl/106/386/s1107/c], Oct. 28, 2000, [114 Stat. 1498][/us/stat/114/1498]; [Pub. L. 109–162, title I, § 117(b)][/us/pl/109/162/s117/b], Jan. 5, 2006, [119 Stat. 2989][/us/stat/119/2989]; [Pub. L. 113–4, title I, § 107(c)][/us/pl/113/4/s107/c], Mar. 7, 2013, [127 Stat. 78][/us/stat/127/78].)
 
- __Amendment of Section__ 
-
-For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effective Date of 2013 Amendment note below.
-
  __Amendments__ 
 
     2013—Subsec. (a)(1). [Pub. L. 113–4][/us/pl/113/4], which directed amendment of subsec. (a)(2) by inserting “is present” after “Indian country or”, was executed by making the insertion in subsec. (a)(1) to reflect the probable intent of Congress.
@@ -94,7 +90,6 @@ For effective date of amendment by [Pub. L. 113–4][/us/pl/113/4], see Effectiv
 [/us/stat/119/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2989
 [/us/pl/113/4/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs107%2Fc
 [/us/stat/127/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F78
-[/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/113/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4
 [/us/pl/109/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F162
 [/us/pl/106/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F386
