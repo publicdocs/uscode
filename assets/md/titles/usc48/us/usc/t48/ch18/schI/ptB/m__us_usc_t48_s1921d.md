@@ -25,7 +25,7 @@
 
         (2) Appropriations made pursuant to subsections (a)(1) and (a)(3) through (6) of section 221 of Article II of Title Two of the U.S.-FSM Compact and subsection (a)(1) and (a)(3) through (5) of the U.S.-RMI Compact shall be made directly to the agencies named in those subsections.
 
-        (3) Appropriations for services and programs referred to in subsection (b) of section 221 of Article II of Title Two of the U.S.-FSM Compact or U.S.-RMI Compact and appropriations for services and programs referred to in subsection (f) of this section and [section 1921g(a) of this title][/us/usc/t48/s1921g/a] shall be made to the relevant agencies in accordance with the terms of the appropriations for such services and programs.
+        (3) Appropriations for services and programs referred to in subsection (b) of section 221 of Article II of Title Two of the U.S.-FSM Compact or U.S.-RMI Compact and appropriations for services and programs referred to in subsection (f) and [section 1921g(a) of this title][/us/usc/t48/s1921g/a] shall be made to the relevant agencies in accordance with the terms of the appropriations for such services and programs.
 
         (4) Federal agencies providing programs and services to the Federated States of Micronesia and the Republic of the Marshall Islands shall coordinate with the Secretaries of the Interior and State regarding provision of such programs and services. The Secretaries of the Interior and State shall consult with appropriate officials of the Asian Development Bank and with the Secretary of the Treasury regarding overall economic conditions in the Federated States of Micronesia and the Republic of the Marshall Islands and regarding the activities of other donors of assistance to the Federated States of Micronesia and the Republic of the Marshall Islands.
 
@@ -193,7 +193,7 @@
 
     (j) __Technical assistance__ 
 
-        Technical assistance may be provided pursuant to section 224 of the U.S.-FSM Compact or the U.S.-RMI Compact by Federal agencies and institutions of the Government of the United States to the extent such assistance may be provided to States, territories, or units of local government. Such assistance by the Forest Service, the Natural Resources Conservation Service, the Fish and Wildlife Service, the National Marine Fisheries Service, the United States Coast Guard, and the Advisory Council on Historic Preservation, the Department of the Interior, and other agencies providing assistance under the National Historic Preservation Act ([80 Stat. 915][/us/stat/80/915]; [16 U.S.C. 470–470t][/us/usc/t16/s470–470t]), shall be on a nonreimbursable basis. During the period the U.S.-FSM Compact and the U.S.-RMI Compact are in effect, the grant programs under the National Historic Preservation Act shall continue to apply to the Federated States of Micronesia and the Republic of the Marshall Islands in the same manner and to the same extent as prior to the approval of the Compact. Any funds provided pursuant to subsections (c) and (g) to (m) of this section and sections 1921a(a) and 1921b(a), (b), (f) to (h), and (j) of this title shall be in addition to and not charged against any amounts to be paid to either the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact, the U.S.-RMI Compact, or their related subsidiary agreements.
+        Technical assistance may be provided pursuant to section 224 of the U.S.-FSM Compact or the U.S.-RMI Compact by Federal agencies and institutions of the Government of the United States to the extent such assistance may be provided to States, territories, or units of local government. Such assistance by the Forest Service, the Natural Resources Conservation Service, the Fish and Wildlife Service, the National Marine Fisheries Service, the United States Coast Guard, and the Advisory Council on Historic Preservation, the Department of the Interior, and other agencies providing assistance under division A of subtitle III of title 54, shall be on a nonreimbursable basis. During the period the U.S.-FSM Compact and the U.S.-RMI Compact are in effect, the grant programs under the National Historic Preservation Act shall continue to apply to the Federated States of Micronesia and the Republic of the Marshall Islands in the same manner and to the same extent as prior to the approval of the Compact. Any funds provided pursuant to subsections (c) and (g) to (m) and sections 1921a(a) and 1921b(a), (b), (f) to (h), and (j) of this title shall be in addition to and not charged against any amounts to be paid to either the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact, the U.S.-RMI Compact, or their related subsidiary agreements.
 
     (k) __Prior service benefits program__ 
 
@@ -237,7 +237,7 @@
 
             Without limiting the authority that the United States Government may otherwise have under applicable law, the United States Government may, but shall not be obligated to, provide financial, technical, or other assistance directly or indirectly to the Government of the Federated States of Micronesia or the Government of the Republic of the Marshall Islands for the purpose of establishing and operating a trust fund or other legal entity that will solicit bids from, and enter into contracts with, parties willing to serve in such capacities as trustee, depositary, money manager, or investment advisor, with the intention that the contracts will ultimately be assumed by and assigned to a trust fund established pursuant to a Trust Fund Agreement.
 
-([Pub. L. 108–188, title I, § 105][/us/pl/108/188/s105], Dec. 17, 2003, [117 Stat. 2744][/us/stat/117/2744]; [Pub. L. 109–270, § 2][/us/pl/109/270/s2](l), Aug. 12, 2006, [120 Stat. 749][/us/stat/120/749]; [Pub. L. 110–161, div. F, title I, § 124][/us/pl/110/161/s124], Dec. 26, 2007, [121 Stat. 2121][/us/stat/121/2121]; [Pub. L. 110–229, title VIII][/us/pl/110/229], §§ 803(a), 804, 805, 806(a)(3), May 8, 2008, [122 Stat. 870][/us/stat/122/870], 871; [Pub. L. 113–128, title V, § 512(g)(1)][/us/pl/113/128/s512/g/1], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708].)
+([Pub. L. 108–188, title I, § 105][/us/pl/108/188/s105], Dec. 17, 2003, [117 Stat. 2744][/us/stat/117/2744]; [Pub. L. 109–270, § 2][/us/pl/109/270/s2](l), Aug. 12, 2006, [120 Stat. 749][/us/stat/120/749]; [Pub. L. 110–161, div. F, title I, § 124][/us/pl/110/161/s124], Dec. 26, 2007, [121 Stat. 2121][/us/stat/121/2121]; [Pub. L. 110–229, title VIII][/us/pl/110/229], §§ 803(a), 804, 805, 806(a)(3), May 8, 2008, [122 Stat. 870][/us/stat/122/870], 871; [Pub. L. 113–128, title V, § 512(g)(1)][/us/pl/113/128/s512/g/1], July 22, 2014, [128 Stat. 1708][/us/stat/128/1708]; [Pub. L. 113–287, § 5][/us/pl/113/287/s5](o)(2), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272].)
 
  __Amendment of Subsection (f)(1)(B)(iii)__ 
 
@@ -265,11 +265,11 @@
 
     The Head Start Act, referred to in subsec. (f)(1)(B)(iii), (v), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], Aug. 13, 1981, [95 Stat. 499][/us/stat/95/499], as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
 
-    The National Historic Preservation Act, referred to in subsec. (j), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470(a) of Title 16][/us/usc/t16/s470/a] and Tables.
-
  __Amendments__ 
 
     2014—Subsec. (f)(1)(B)(iii). [Pub. L. 113–128][/us/pl/113/128] substituted “titles I (other than subtitle C) and II of the Workforce Innovation and Opportunity Act,” for “title I of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.), other than subtitle C of that Act ([29 U.S.C. 2881][/us/usc/t29/s2881] et seq.) (Job Corps), title II of the Workforce Investment Act of 1998 ([20 U.S.C. 9201][/us/usc/t20/s9201] et seq.; commonly known as the Adult Education and Family Literacy Act),”.
+
+    Subsec. (j). [Pub. L. 113–287][/us/pl/113/287] substituted “division A of subtitle III of title 54” for “the National Historic Preservation Act ([80 Stat. 915][/us/stat/80/915]; [16 U.S.C. 470–470t][/us/usc/t16/s470–470t])”.
 
     2008—Subsec. (b)(1). [Pub. L. 110–229, § 806(a)(3)][/us/pl/110/229/s806/a/3], substituted “Trust Funds)” for “Trust Fund)”.
 
@@ -337,8 +337,6 @@
 [/us/usc/t20/s1070b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070b
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/usc/t42/s9831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9831
-[/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470–470t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%E2%80%93470t
 [/us/pl/108/188/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F188%2Fs105
 [/us/stat/117/2744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2744
 [/us/pl/109/270/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs2
@@ -349,6 +347,8 @@
 [/us/stat/122/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F870
 [/us/pl/113/128/s512/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fg%2F1
 [/us/stat/128/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1708
+[/us/pl/113/287/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
@@ -386,13 +386,13 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/stat/95/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F499
 [/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
-[/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
-[/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/usc/t29/s2881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2881
 [/us/usc/t20/s9201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9201
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
+[/us/usc/t16/s470–470t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%E2%80%93470t
 [/us/pl/110/229/s806/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs806%2Fa%2F3
 [/us/pl/110/229/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs803%2Fa
 [/us/pl/110/229/s804/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs804%2F1

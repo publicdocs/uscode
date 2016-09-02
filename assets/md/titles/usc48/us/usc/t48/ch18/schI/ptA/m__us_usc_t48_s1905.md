@@ -161,7 +161,7 @@
 
     (l) __Technical assistance__ 
 
-        Technical assistance may be provided pursuant to section 226 of the Compact by Federal agencies and institutions of the Government of the United States to the extent such assistance may be provided to States, territories, or units of local government. Such assistance by the Forest Service, the Soil Conservation Service, the Fish and Wildlife Service, the National Marine Fisheries Service, the United States Coast Guard, and the Advisory Council on Historic Preservation, the Department of the Interior, and other agencies providing assistance under the National Historic Preservation Act ([80 Stat. 915][/us/stat/80/915]; [16 U.S.C. 470–470t][/us/usc/t16/s470–470t]), shall be on a nonreimbursable basis. During the period the Compact is in effect, the grant programs under the National Historic Preservation Act shall continue to apply to the Federated States of Micronesia and the Marshall Islands in the same manner and to the same extent as prior to the approval of the Compact. Funds provided pursuant to sections 1902(a), 1903(a), 1903(c), 1903(h), 1903(i), 1903(j), and 1903(l) of this title and subsections (c), (i), (j), (k), (l), (m), (n), and (o) of this section shall be in addition to and not charged against any amounts to be paid to either the Federated States of Micronesia or the Marshall Islands pursuant to the Compact or the subsidiary agreements.
+        Technical assistance may be provided pursuant to section 226 of the Compact by Federal agencies and institutions of the Government of the United States to the extent such assistance may be provided to States, territories, or units of local government. Such assistance by the Forest Service, the Soil Conservation Service, the Fish and Wildlife Service, the National Marine Fisheries Service, the United States Coast Guard, and the Advisory Council on Historic Preservation, the Department of the Interior, and other agencies providing assistance under division A of subtitle III of title 54, shall be on a nonreimbursable basis. During the period the Compact is in effect, the grant programs under the National Historic Preservation Act shall continue to apply to the Federated States of Micronesia and the Marshall Islands in the same manner and to the same extent as prior to the approval of the Compact. Funds provided pursuant to sections 1902(a), 1903(a), 1903(c), 1903(h), 1903(i), 1903(j), and 1903(l) of this title and subsections (c), (i), (j), (k), (l), (m), (n), and (o) shall be in addition to and not charged against any amounts to be paid to either the Federated States of Micronesia or the Marshall Islands pursuant to the Compact or the subsidiary agreements.
 
     (m) __Prior Service Benefits Program__ 
 
@@ -185,7 +185,7 @@
 
         Any person in the Federated States of Micronesia or the Marshall Islands shall be liable for user fees, if any, for services provided in the Federated States of Micronesia or the Marshall Islands by the Government of the United States to the same extent as any person in the United States would be liable for fees, if any, for such services in the United States.
 
-([Pub. L. 99–239, title I, § 105][/us/pl/99/239/s105], Jan. 14, 1986, [99 Stat. 1791][/us/stat/99/1791]; [Pub. L. 99–396, § 20(a)][/us/pl/99/396/s20/a], Aug. 27, 1986, [100 Stat. 844][/us/stat/100/844]; [Pub. L. 99–658, title I, § 104(c)][/us/pl/99/658/s104/c], Nov. 14, 1986, [100 Stat. 3676][/us/stat/100/3676]; [Pub. L. 100–369, § 9][/us/pl/100/369/s9], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 102–486, title XXVII, § 2704][/us/pl/102/486/s2704], Oct. 24, 1992, [106 Stat. 3120][/us/stat/106/3120].)
+([Pub. L. 99–239, title I, § 105][/us/pl/99/239/s105], Jan. 14, 1986, [99 Stat. 1791][/us/stat/99/1791]; [Pub. L. 99–396, § 20(a)][/us/pl/99/396/s20/a], Aug. 27, 1986, [100 Stat. 844][/us/stat/100/844]; [Pub. L. 99–658, title I, § 104(c)][/us/pl/99/658/s104/c], Nov. 14, 1986, [100 Stat. 3676][/us/stat/100/3676]; [Pub. L. 100–369, § 9][/us/pl/100/369/s9], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 102–486, title XXVII, § 2704][/us/pl/102/486/s2704], Oct. 24, 1992, [106 Stat. 3120][/us/stat/106/3120]; [Pub. L. 113–287, § 5][/us/pl/113/287/s5](o)(1), Dec. 19, 2014, [128 Stat. 3272][/us/stat/128/3272].)
 
  __References in Text__ 
 
@@ -211,8 +211,6 @@
 
     The Higher Education Act of 1965, referred to in subsec. (h)(5), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219], as amended. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education, and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
 
-    The National Historic Preservation Act, referred to in subsec. (l), is [Pub. L. 89–665][/us/pl/89/665], Oct. 15, 1966, [80 Stat. 915][/us/stat/80/915], as amended, which is classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation. For complete classification of this Act to the Code, see [section 470(a) of Title 16][/us/usc/t16/s470/a] and Tables.
-
  __Codification__ 
 
     Subsec. (q) of this section, which required the President to report annually to Congress on determinations made by the United States in the exercise of its authority under section 313 of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, 14th item on page 37 of House Document No. 103–7.
@@ -220,6 +218,8 @@
     Section was formerly set out as a note under [section 1681 of this title][/us/usc/t48/s1681].
 
  __Amendments__ 
+
+    2014—Subsec. (l). [Pub. L. 113–287][/us/pl/113/287] substituted “division A of subtitle III of title 54” for “the National Historic Preservation Act ([80 Stat. 915][/us/stat/80/915]; [16 U.S.C. 470–470t][/us/usc/t16/s470–470t])”.
 
     1992—Subsec. (h)(5). [Pub. L. 102–486][/us/pl/102/486] added par. (5) relating to PCB cleanup.
 
@@ -241,7 +241,7 @@
 
 [Pub. L. 99–396, § 20(b)][/us/pl/99/396/s20/b], Aug. 27, 1986, [100 Stat. 844][/us/stat/100/844], provided that: 
 
-> “The programs and services specified in section 105(h)(1), sections \[sic\] 105(i)(1) and (2), section 111(a) \[[48 U.S.C. 1905(h)(1)][/us/usc/t48/s1905/h/1], (i)(1), (2), 1911(a)\], the services of the National Health Service Corps pursuant to section 105(k), and the Technical Assistance and National Historic Preservation Act \[[16 U.S.C. 470][/us/usc/t16/s470] et seq.\] grants pursuant to section 105(l), of [Public Law 99–239][/us/pl/99/239] shall be provided on a nonreimbursable basis.”
+> “The programs and services specified in section 105(h)(1), sections \[sic\] 105(i)(1) and (2), section 111(a) \[[48 U.S.C. 1905(h)(1)][/us/usc/t48/s1905/h/1], (i)(1), (2), 1911(a)\], the services of the National Health Service Corps pursuant to section 105(k), and the Technical Assistance and National Historic Preservation Act \[see [54 U.S.C. 300101][/us/usc/t54/s300101] et seq.\] grants pursuant to section 105(l), of [Public Law 99–239][/us/pl/99/239] shall be provided on a nonreimbursable basis.”
 
 ----------
 
@@ -260,8 +260,6 @@
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/pl/99/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F658
-[/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470–470t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%E2%80%93470t
 [/us/pl/99/239/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239%2Fs105
 [/us/stat/99/1791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1791
 [/us/pl/99/396/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs20%2Fa
@@ -272,6 +270,8 @@
 [/us/stat/102/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F837
 [/us/pl/102/486/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2704
 [/us/stat/106/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3120
+[/us/pl/113/287/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5
+[/us/stat/128/3272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3272
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 [/us/stat/99/1770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1770
 [/us/usc/t48/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1901
@@ -305,12 +305,12 @@
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/89/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F665
-[/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
-[/us/usc/t16/s470/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%2Fa
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/80/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F915
+[/us/usc/t16/s470–470t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470%E2%80%93470t
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/100/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F369
 [/us/pl/99/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396
@@ -320,7 +320,7 @@
 [/us/pl/99/396/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F396%2Fs20%2Fb
 [/us/stat/100/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F844
 [/us/usc/t48/s1905/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1905%2Fh%2F1
-[/us/usc/t16/s470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs470
+[/us/usc/t54/s300101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs300101
 [/us/pl/99/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F239
 
 

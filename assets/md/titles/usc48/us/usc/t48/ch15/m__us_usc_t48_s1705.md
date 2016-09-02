@@ -33,7 +33,7 @@
 
         (v) all tracts or parcels of submerged land containing on any part thereof any structures or improvements constructed by the United States;
 
-        (vi) all submerged lands that have heretofore been determined by the President or the Congress to be of such scientific, scenic, or historic character as to warrant preservation and administration under the provisions of sections 1, 2, 3, and 4 of title 16;
+        (vi) all submerged lands that have heretofore been determined by the President or the Congress to be of such scientific, scenic, or historic character as to warrant preservation and administration under the provisions of the Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ([16 U.S.C. 1][/us/usc/t16/s1] et seq.);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (vii) all submerged lands designated by the President within one hundred and twenty days after the date of enactment of this Act;
 
@@ -65,6 +65,8 @@
 
     The date of enactment of this Act, referred to in subsec. (b)(iii), (iv), and (vii), is the date of enactment of [Pub. L. 93–435][/us/pl/93/435], which was approved Oct. 5, 1974.
 
+    The Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 ([16 U.S.C. 1][/us/usc/t16/s1] et seq.), referred to in subsec. (b)(vi), is [act Aug. 25, 1916, ch. 408][/us/act/1916-08-25/ch408], [39 Stat. 535][/us/stat/39/535], known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of Title 16, Conservation, amended sections 22 and 43 of Title 16 and [section 1457 of Title 43][/us/usc/t43/s1457], Public Lands, and enacted provisions set out as a note under [section 1 of Title 16][/us/usc/t16/s1]. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18][/us/usc/t18/s1865/a], Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by [Pub. L. 113–287][/us/pl/113/287], §§ 3, 4(a)(1), 7, Dec. 19, 2014, [128 Stat. 3094][/us/stat/128/3094], 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54][/us/usc/t54/s100101].
+
     [Section 398b of title 16][/us/usc/t16/s398b], referred to in subsec. (b)(x), was repealed by [Pub. L. 85–404][/us/pl/85/404], May 16, 1958, [72 Stat. 112][/us/stat/72/112].
 
     The date of enactment of this subsection, referred to in subsec. (d)(1), is the date of enactment of [Pub. L. 96–205][/us/pl/96/205], which was approved Mar. 12, 1980.
@@ -93,9 +95,9 @@
 
     These thirty acres of submerged lands are presently owned in fee by the United States. They will be conveyed to the Government of the Virgin Islands on February 3, 1975, pursuant to [Section 1(a) of Public Law 93–435][/us/pl/93/435/s1/a] ([88 Stat. 1210][/us/stat/88/1210]) \[subsec. (a) of this section\], unless the President, under Section 1(b)(vii) of that Act \[subsec. (b)(vii) of this section\], designates otherwise.
 
-    Under [Section 2 of the Act of June 8, 1906][/us/act/1906-06-08/s2], [34 Stat. 225][/us/stat/34/225] ([16 U.S.C. 431][/us/usc/t16/s431]), the President is authorized to declare by public Proclamation objects of historic or scientific interest that are situated upon the lands owned or controlled by the Government of the United States to be national monuments, and may reserve as a part thereof parcels of land, the limits of which in all cases shall be confined to the smallest area compatible with the proper care and management of the objects to be protected. The aforementioned thirty acres of submerged lands are contiguous to the site of the Buck Island Reef National Monument, constitute a part of the ecological community of the Buck Island Reef, and will not enlarge the monument boundaries beyond the smallest area compatible with its proper care and management.
+    Under [Section 2 of the Act of June 8, 1906][/us/act/1906-06-08/s2], [34 Stat. 225][/us/stat/34/225] ([16 U.S.C. 431][/us/usc/t16/s431]) \[now [54 U.S.C. 320301(a)][/us/usc/t54/s320301/a]–(c)\], the President is authorized to declare by public Proclamation objects of historic or scientific interest that are situated upon the lands owned or controlled by the Government of the United States to be national monuments, and may reserve as a part thereof parcels of land, the limits of which in all cases shall be confined to the smallest area compatible with the proper care and management of the objects to be protected. The aforementioned thirty acres of submerged lands are contiguous to the site of the Buck Island Reef National Monument, constitute a part of the ecological community of the Buck Island Reef, and will not enlarge the monument boundaries beyond the smallest area compatible with its proper care and management.
 
-    NOW, THEREFORE, I, GERALD R. FORD, President of the United States of America, by virtue of the authority vested in me by [Section 1(b)(vii) of Public Law 93–435][/us/pl/93/435/s1/b/vii] ([88 Stat. 1210][/us/stat/88/1210]) \[subsec. (b)(vii) of this section\], do hereby proclaim that the lands hereinafter described are excepted from the transfer to the Government of the Virgin Islands under [Section 1(a) of Public Law 93–435][/us/pl/93/435/s1/a] \[subsec. (a) of this section\]; and, by virtue of the authority vested in me by [Section 2 of the Act of June 8, 1906][/us/act/1906-06-08/s2], [34 Stat. 225][/us/stat/34/225] ([16 U.S.C. 431][/us/usc/t16/s431]), do hereby proclaim that, subject to valid existing rights, the lands hereinafter described are hereby added to and made a part of the Buck Island Reef National Monument, and Proclamation No. 3443 of December 28, 1961, establishing the Buck Island Reef National Monument is amended accordingly.
+    NOW, THEREFORE, I, GERALD R. FORD, President of the United States of America, by virtue of the authority vested in me by [Section 1(b)(vii) of Public Law 93–435][/us/pl/93/435/s1/b/vii] ([88 Stat. 1210][/us/stat/88/1210]) \[subsec. (b)(vii) of this section\], do hereby proclaim that the lands hereinafter described are excepted from the transfer to the Government of the Virgin Islands under [Section 1(a) of Public Law 93–435][/us/pl/93/435/s1/a] \[subsec. (a) of this section\]; and, by virtue of the authority vested in me by [Section 2 of the Act of June 8, 1906][/us/act/1906-06-08/s2], [34 Stat. 225][/us/stat/34/225] ([16 U.S.C. 431][/us/usc/t16/s431]) \[now [54 U.S.C. 320301(a)][/us/usc/t54/s320301/a]–(c)\], do hereby proclaim that, subject to valid existing rights, the lands hereinafter described are hereby added to and made a part of the Buck Island Reef National Monument, and Proclamation No. 3443 of December 28, 1961, establishing the Buck Island Reef National Monument is amended accordingly.
 
     Beginning at latitude 17°47′30′′ N. longitude 64°36′32′′ W; thence approximately 1000 feet to latitude 17°47′27′′ N, longitude 64°36′22′′ W; thence approximately 900 feet to latitude 17°47′18′′ N, longitude 64°36′22′′ W; thence approximately 1000 feet to latitude 17°47′15′′ N, longitude 64°36′32′′ W; thence approximately 1500 feet to latitude 17°47′30′′ N, longitude 64°36′32′′ W, then place of beginning, embracing an area of approximately 30 acres.
 
@@ -150,6 +152,7 @@ NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by v
 
 [/us/stat/84/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1204
 [/us/stat/86/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1135
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
 [/us/pl/93/435/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs1
 [/us/stat/88/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1210
 [/us/pl/96/205/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs607
@@ -165,6 +168,15 @@ NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by v
 [/us/pl/92/545/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F545%2Fs201
 [/us/stat/86/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1138
 [/us/pl/93/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/act/1916-08-25/ch408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-25%2Fch408
+[/us/stat/39/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F535
+[/us/usc/t43/s1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1457
+[/us/usc/t16/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1
+[/us/usc/t18/s1865/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1865%2Fa
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
+[/us/stat/128/3094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3094
+[/us/usc/t54/s100101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs100101
 [/us/usc/t16/s398b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs398b
 [/us/pl/85/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F404
 [/us/stat/72/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F112
@@ -183,12 +195,14 @@ NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, by v
 [/us/act/1906-06-08/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-08%2Fs2
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
 [/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301%2Fa
 [/us/pl/93/435/s1/b/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs1%2Fb%2Fvii
 [/us/stat/88/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1210
 [/us/pl/93/435/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs1%2Fa
 [/us/act/1906-06-08/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-08%2Fs2
 [/us/stat/34/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F225
 [/us/usc/t16/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs431
+[/us/usc/t54/s320301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft54%2Fs320301%2Fa
 [/us/pl/93/435/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs1%2Fa
 [/us/stat/88/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1210
 [/us/pl/93/435/s1/b/vii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs1%2Fb%2Fvii
