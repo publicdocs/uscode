@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1 to 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1" data-uslm-ref="/us/usc/t47/s1">1</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs8" data-uslm-ref="/us/usc/t47/s8">8.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs9" data-uslm-ref="/us/usc/t47/s9">9.</a>  </td>
 
     <td> Subsidized companies required to construct and operate lines.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs10" data-uslm-ref="/us/usc/t47/s10">10.</a>  </td>
 
     <td> Equal facilities to connecting lines; discrimination in rates.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs11" data-uslm-ref="/us/usc/t47/s11">11.</a>  </td>
 
     <td> Powers of Federal Communications Commission.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs12" data-uslm-ref="/us/usc/t47/s12">12.</a>  </td>
 
     <td> Interference with liens of United States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs13" data-uslm-ref="/us/usc/t47/s13">13.</a>  </td>
 
     <td> Violations; punishment; action for damages.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs14" data-uslm-ref="/us/usc/t47/s14">14.</a>  </td>
 
     <td> Contracts filed with Federal Communications Commission; reports; failure to make.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs15" data-uslm-ref="/us/usc/t47/s15">15.</a>  </td>
 
     <td> Reservation of power to alter, amend, or repeal act; power to fix rates and purchase lines.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs16" data-uslm-ref="/us/usc/t47/s16">16.</a>  </td>
 
     <td> Washington-Alaska Military Cable and Telegraph System; money transfers; portion of receipts withheld.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs17" data-uslm-ref="/us/usc/t47/s17">17.</a>  </td>
 
     <td> Repealed.  </td>
 

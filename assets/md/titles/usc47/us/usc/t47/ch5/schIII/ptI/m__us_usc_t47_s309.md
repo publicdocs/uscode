@@ -895,7 +895,9 @@
 
 >         “(2) to require by that date that all broadcasting by Class A stations, whether in the analog television service or digital television service, and all broadcasting by full-power stations in the digital television service, occur only on channels between channels 2 and 36, inclusive, or 38 and 51, inclusive (between frequencies 54 and 698 megahertz, inclusive).
 
->     “(c) __Conforming Amendments.—\[Amended__  __[__  __section 337 of this title__  __][/us/usc/t47/s337]__  __.\]__ 
+>     “(c) __Conforming Amendments.—__ 
+
+>     \[Amended [section 337 of this title][/us/usc/t47/s337].\]
 
 > “SEC. 3003. __AUCTION OF RECOVERED SPECTRUM.__ 
 

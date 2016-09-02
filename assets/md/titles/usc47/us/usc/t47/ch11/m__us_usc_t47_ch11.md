@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1201" data-uslm-ref="/us/usc/t47/s1201">1201.</a>  </td>
 
     <td> Federal Communications Commission duties.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1202" data-uslm-ref="/us/usc/t47/s1202">1202.</a>  </td>
 
     <td> Commercial Mobile Service Alert Advisory Committee.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1203" data-uslm-ref="/us/usc/t47/s1203">1203.</a>  </td>
 
     <td> Research and development.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1204" data-uslm-ref="/us/usc/t47/s1204">1204.</a>  </td>
 
     <td> Grant program for remote community alert systems.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1205" data-uslm-ref="/us/usc/t47/s1205">1205.</a>  </td>
 
     <td> Funding.  </td>
 

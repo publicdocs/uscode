@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs21" data-uslm-ref="/us/usc/t47/s21">21.</a>  </td>
 
     <td> Submarine cables; willful injury to; punishment.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 22.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs22" data-uslm-ref="/us/usc/t47/s22">22.</a>  </td>
 
     <td> Negligent injury to submarine cables; punishment.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs23" data-uslm-ref="/us/usc/t47/s23">23.</a>  </td>
 
     <td> Injury to submarine cables in efforts to save life excepted.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 24.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs24" data-uslm-ref="/us/usc/t47/s24">24.</a>  </td>
 
     <td> Vessels laying cables; signals; avoidance of buoys.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 25.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs25" data-uslm-ref="/us/usc/t47/s25">25.</a>  </td>
 
     <td> Fishing vessels; duty to keep nets from cables.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 26.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs26" data-uslm-ref="/us/usc/t47/s26">26.</a>  </td>
 
     <td> Duties of commanders of warships.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 27.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs27" data-uslm-ref="/us/usc/t47/s27">27.</a>  </td>
 
     <td> Offending vessels to show nationality.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 28.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs28" data-uslm-ref="/us/usc/t47/s28">28.</a>  </td>
 
     <td> Penalties not to bar suits for damages.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 29.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs29" data-uslm-ref="/us/usc/t47/s29">29.</a>  </td>
 
     <td> Master of offending vessel punishable.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 30.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs30" data-uslm-ref="/us/usc/t47/s30">30.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs31" data-uslm-ref="/us/usc/t47/s31">31.</a>  </td>
 
     <td> Summary trials.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 32.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs32" data-uslm-ref="/us/usc/t47/s32">32.</a>  </td>
 
     <td> Application.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs33" data-uslm-ref="/us/usc/t47/s33">33.</a>  </td>
 
     <td> Jurisdiction and venue of actions and offenses.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 34.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs34" data-uslm-ref="/us/usc/t47/s34">34.</a>  </td>
 
     <td> Licenses for landing or operating cables connecting United States with foreign country; necessity for.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs35" data-uslm-ref="/us/usc/t47/s35">35.</a>  </td>
 
     <td> Withholding or revoking of licenses by President; terms and conditions of licenses.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 36.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs36" data-uslm-ref="/us/usc/t47/s36">36.</a>  </td>
 
     <td> Preventing landing or operating of cables; injunction.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs37" data-uslm-ref="/us/usc/t47/s37">37.</a>  </td>
 
     <td> Violations; punishment.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 38.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs38" data-uslm-ref="/us/usc/t47/s38">38.</a>  </td>
 
     <td> “United States” defined.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 39.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs39" data-uslm-ref="/us/usc/t47/s39">39.</a>  </td>
 
     <td> Amendment, modification, etc., of rights granted.  </td>
 

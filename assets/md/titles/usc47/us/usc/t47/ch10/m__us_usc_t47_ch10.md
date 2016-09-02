@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1101" data-uslm-ref="/us/usc/t47/s1101">1101.</a>  </td>
 
     <td> Purpose.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1102" data-uslm-ref="/us/usc/t47/s1102">1102.</a>  </td>
 
     <td> LOCAL Television Loan Guarantee Board.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1103" data-uslm-ref="/us/usc/t47/s1103">1103.</a>  </td>
 
     <td> Approval of loan guarantees.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1104" data-uslm-ref="/us/usc/t47/s1104">1104.</a>  </td>
 
     <td> Administration of loan guarantees.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1105" data-uslm-ref="/us/usc/t47/s1105">1105.</a>  </td>
 
     <td> Annual audit.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1106" data-uslm-ref="/us/usc/t47/s1106">1106.</a>  </td>
 
     <td> Improved cellular service in rural areas.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1107" data-uslm-ref="/us/usc/t47/s1107">1107.</a>  </td>
 
     <td> Sunset.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1108" data-uslm-ref="/us/usc/t47/s1108">1108.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1109" data-uslm-ref="/us/usc/t47/s1109">1109.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1110" data-uslm-ref="/us/usc/t47/s1110">1110.</a>  </td>
 
     <td> Prevention of interference to direct broadcast satellite services.  </td>
 

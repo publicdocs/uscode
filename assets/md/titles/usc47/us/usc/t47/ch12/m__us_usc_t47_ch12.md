@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1301" data-uslm-ref="/us/usc/t47/s1301">1301.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1302" data-uslm-ref="/us/usc/t47/s1302">1302.</a>  </td>
 
     <td> Advanced telecommunications incentives.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1303" data-uslm-ref="/us/usc/t47/s1303">1303.</a>  </td>
 
     <td> Improving Federal data on broadband.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1304" data-uslm-ref="/us/usc/t47/s1304">1304.</a>  </td>
 
     <td> Encouraging State initiatives to improve broadband.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs1305" data-uslm-ref="/us/usc/t47/s1305">1305.</a>  </td>
 
     <td> Broadband Technology Opportunities Program.  </td>
 

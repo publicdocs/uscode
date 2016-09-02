@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs701" data-uslm-ref="/us/usc/t47/s701">701.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs702" data-uslm-ref="/us/usc/t47/s702">702.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs703" data-uslm-ref="/us/usc/t47/s703">703.</a>  </td>
 
     <td> Satellite service report.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER II—FEDERAL COORDINATION, PLANNING, AND REGULATION  </td>
 
   <tr>
 
-    <td> 721.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs721" data-uslm-ref="/us/usc/t47/s721">721.</a>  </td>
 
     <td> Implementation of policy.  </td>
 
@@ -81,7 +81,9 @@ SUBCHAPTER III—COMMUNICATIONS SATELLITE CORPORATION  </td>
 
   <tr>
 
-    <td> 731 to 735. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs731" data-uslm-ref="/us/usc/t47/s731">731</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs735" data-uslm-ref="/us/usc/t47/s735">735.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -95,7 +97,9 @@ SUBCHAPTER IV—MISCELLANEOUS PROVISIONS  </td>
 
   <tr>
 
-    <td> 741 to 744. Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs741" data-uslm-ref="/us/usc/t47/s741">741</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs744" data-uslm-ref="/us/usc/t47/s744">744.</a>  </td>
+
+    <td> Omitted.  </td>
 
   </tr>
 
@@ -109,7 +113,7 @@ SUBCHAPTER V—INTERNATIONAL MARITIME SATELLITE TELECOMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 751, 752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs751" data-uslm-ref="/us/usc/t47/s751">751</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs752" data-uslm-ref="/us/usc/t47/s752">752.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -117,7 +121,7 @@ SUBCHAPTER V—INTERNATIONAL MARITIME SATELLITE TELECOMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs753" data-uslm-ref="/us/usc/t47/s753">753.</a>  </td>
 
     <td> Implementation of policy.  </td>
 
@@ -125,7 +129,7 @@ SUBCHAPTER V—INTERNATIONAL MARITIME SATELLITE TELECOMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 754 to 756.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs754" data-uslm-ref="/us/usc/t47/s754">754</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs756" data-uslm-ref="/us/usc/t47/s756">756.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -133,7 +137,7 @@ SUBCHAPTER V—INTERNATIONAL MARITIME SATELLITE TELECOMMUNICATIONS  </td>
 
   <tr>
 
-    <td> 757.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs757" data-uslm-ref="/us/usc/t47/s757">757.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -157,7 +161,7 @@ Part A—Actions To Ensure Pro-Competitive Privatization  </td>
 
   <tr>
 
-    <td> 761.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs761" data-uslm-ref="/us/usc/t47/s761">761.</a>  </td>
 
     <td> Federal Communications Commission licensing.  </td>
 
@@ -165,7 +169,7 @@ Part A—Actions To Ensure Pro-Competitive Privatization  </td>
 
   <tr>
 
-    <td> 761a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs761a" data-uslm-ref="/us/usc/t47/s761a">761a.</a>  </td>
 
     <td> Incentives; limitation on expansion pending privatization.  </td>
 
@@ -181,7 +185,7 @@ Part B—Federal Communications Commission Licensing Criteria: Privatization Cri
 
   <tr>
 
-    <td> 763.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs763" data-uslm-ref="/us/usc/t47/s763">763.</a>  </td>
 
     <td> General criteria to ensure a pro-competitive privatization of INTELSAT and Inmarsat.  </td>
 
@@ -189,7 +193,7 @@ Part B—Federal Communications Commission Licensing Criteria: Privatization Cri
 
   <tr>
 
-    <td> 763a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs763a" data-uslm-ref="/us/usc/t47/s763a">763a.</a>  </td>
 
     <td> Specific criteria for INTELSAT.  </td>
 
@@ -197,7 +201,7 @@ Part B—Federal Communications Commission Licensing Criteria: Privatization Cri
 
   <tr>
 
-    <td> 763b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs763b" data-uslm-ref="/us/usc/t47/s763b">763b.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -205,7 +209,7 @@ Part B—Federal Communications Commission Licensing Criteria: Privatization Cri
 
   <tr>
 
-    <td> 763c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs763c" data-uslm-ref="/us/usc/t47/s763c">763c.</a>  </td>
 
     <td> Space segment capacity of the GMDSS.  </td>
 
@@ -213,7 +217,7 @@ Part B—Federal Communications Commission Licensing Criteria: Privatization Cri
 
   <tr>
 
-    <td> 763d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs763d" data-uslm-ref="/us/usc/t47/s763d">763d.</a>  </td>
 
     <td> Encouraging market access and privatization.  </td>
 
@@ -229,7 +233,7 @@ Part C—Deregulation and Other Statutory Changes  </td>
 
   <tr>
 
-    <td> 765.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs765" data-uslm-ref="/us/usc/t47/s765">765.</a>  </td>
 
     <td> Access to INTELSAT.  </td>
 
@@ -237,7 +241,7 @@ Part C—Deregulation and Other Statutory Changes  </td>
 
   <tr>
 
-    <td> 765a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs765a" data-uslm-ref="/us/usc/t47/s765a">765a.</a>  </td>
 
     <td> Signatory role.  </td>
 
@@ -245,7 +249,7 @@ Part C—Deregulation and Other Statutory Changes  </td>
 
   <tr>
 
-    <td> 765b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs765b" data-uslm-ref="/us/usc/t47/s765b">765b.</a>  </td>
 
     <td> Elimination of procurement preferences.  </td>
 
@@ -253,7 +257,7 @@ Part C—Deregulation and Other Statutory Changes  </td>
 
   <tr>
 
-    <td> 765c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs765c" data-uslm-ref="/us/usc/t47/s765c">765c.</a>  </td>
 
     <td> ITU functions.  </td>
 
@@ -261,7 +265,7 @@ Part C—Deregulation and Other Statutory Changes  </td>
 
   <tr>
 
-    <td> 765d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs765d" data-uslm-ref="/us/usc/t47/s765d">765d.</a>  </td>
 
     <td> Termination of provisions of this chapter.  </td>
 
@@ -269,7 +273,7 @@ Part C—Deregulation and Other Statutory Changes  </td>
 
   <tr>
 
-    <td> 765e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs765e" data-uslm-ref="/us/usc/t47/s765e">765e.</a>  </td>
 
     <td> Reports to Congress.  </td>
 
@@ -277,7 +281,7 @@ Part C—Deregulation and Other Statutory Changes  </td>
 
   <tr>
 
-    <td> 765f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs765f" data-uslm-ref="/us/usc/t47/s765f">765f.</a>  </td>
 
     <td> Satellite auctions.  </td>
 
@@ -285,7 +289,7 @@ Part C—Deregulation and Other Statutory Changes  </td>
 
   <tr>
 
-    <td> 765g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs765g" data-uslm-ref="/us/usc/t47/s765g">765g.</a>  </td>
 
     <td> Exclusivity arrangements.  </td>
 
@@ -301,7 +305,7 @@ Part D—Negotiations To Pursue Privatization  </td>
 
   <tr>
 
-    <td> 767.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs767" data-uslm-ref="/us/usc/t47/s767">767.</a>  </td>
 
     <td> Methods to pursue privatization.  </td>
 
@@ -317,7 +321,7 @@ Part E—Definitions  </td>
 
   <tr>
 
-    <td> 769.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs769" data-uslm-ref="/us/usc/t47/s769">769.</a>  </td>
 
     <td> Definitions.  </td>
 

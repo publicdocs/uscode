@@ -33,7 +33,7 @@ SUBCHAPTER I—ORGANIZATION AND FUNCTIONS  </td>
 
   <tr>
 
-    <td> 901.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs901" data-uslm-ref="/us/usc/t47/s901">901.</a>  </td>
 
     <td> Definitions; findings; policy.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—ORGANIZATION AND FUNCTIONS  </td>
 
   <tr>
 
-    <td> 902.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs902" data-uslm-ref="/us/usc/t47/s902">902.</a>  </td>
 
     <td> Establishment; assigned functions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—ORGANIZATION AND FUNCTIONS  </td>
 
   <tr>
 
-    <td> 903.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs903" data-uslm-ref="/us/usc/t47/s903">903.</a>  </td>
 
     <td> Spectrum management activities.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—ORGANIZATION AND FUNCTIONS  </td>
 
   <tr>
 
-    <td> 904.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs904" data-uslm-ref="/us/usc/t47/s904">904.</a>  </td>
 
     <td> General administrative provisions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—ORGANIZATION AND FUNCTIONS  </td>
 
   <tr>
 
-    <td> 905.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs905" data-uslm-ref="/us/usc/t47/s905">905.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—TRANSFER OF AUCTIONABLE FREQUENCIES  </td>
 
   <tr>
 
-    <td> 921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs921" data-uslm-ref="/us/usc/t47/s921">921.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—TRANSFER OF AUCTIONABLE FREQUENCIES  </td>
 
   <tr>
 
-    <td> 922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs922" data-uslm-ref="/us/usc/t47/s922">922.</a>  </td>
 
     <td> National spectrum allocation planning.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—TRANSFER OF AUCTIONABLE FREQUENCIES  </td>
 
   <tr>
 
-    <td> 923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs923" data-uslm-ref="/us/usc/t47/s923">923.</a>  </td>
 
     <td> Identification of reallocable frequencies.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—TRANSFER OF AUCTIONABLE FREQUENCIES  </td>
 
   <tr>
 
-    <td> 924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs924" data-uslm-ref="/us/usc/t47/s924">924.</a>  </td>
 
     <td> Withdrawal or limitation of assignment to Federal Government stations.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—TRANSFER OF AUCTIONABLE FREQUENCIES  </td>
 
   <tr>
 
-    <td> 925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs925" data-uslm-ref="/us/usc/t47/s925">925.</a>  </td>
 
     <td> Distribution of frequencies by Commission.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—TRANSFER OF AUCTIONABLE FREQUENCIES  </td>
 
   <tr>
 
-    <td> 926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs926" data-uslm-ref="/us/usc/t47/s926">926.</a>  </td>
 
     <td> Authority to recover reassigned frequencies.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—TRANSFER OF AUCTIONABLE FREQUENCIES  </td>
 
   <tr>
 
-    <td> 927.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs927" data-uslm-ref="/us/usc/t47/s927">927.</a>  </td>
 
     <td> Existing allocation and transfer authority retained.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—TRANSFER OF AUCTIONABLE FREQUENCIES  </td>
 
   <tr>
 
-    <td> 928.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs928" data-uslm-ref="/us/usc/t47/s928">928.</a>  </td>
 
     <td> Spectrum Relocation Fund.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—TRANSFER OF AUCTIONABLE FREQUENCIES  </td>
 
   <tr>
 
-    <td> 929.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs929" data-uslm-ref="/us/usc/t47/s929">929.</a>  </td>
 
     <td> National security and other sensitive information.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 941.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs941" data-uslm-ref="/us/usc/t47/s941">941.</a>  </td>
 
     <td> Child-friendly second-level Internet domain.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 942.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft47%2Fs942" data-uslm-ref="/us/usc/t47/s942">942.</a>  </td>
 
     <td> Coordination of 9–1–1, E9–1–1, and Next Generation 9–1–1 implementation.  </td>
 
