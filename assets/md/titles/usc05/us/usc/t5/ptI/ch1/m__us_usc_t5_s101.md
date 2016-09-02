@@ -215,6 +215,10 @@ R.S. § 159.  </td>
 
  __Short Title of 2016 Amendment__ 
 
+[Pub. L. 114–185][/us/pl/114/185], § 1, June 30, 2016, [130 Stat. 538][/us/stat/130/538], provided that: 
+
+> “This Act \[amending [section 552 of this title][/us/usc/t5/s552] and [section 3102 of Title 44][/us/usc/t44/s3102], Public Printing and Documents, and enacting provisions set out as notes under [section 552 of this title][/us/usc/t5/s552]\] may be cited as the ‘FOIA Improvement Act of 2016’.”
+
 [Pub. L. 114–137][/us/pl/114/137], § 1, Mar. 18, 2016, [130 Stat. 310][/us/stat/130/310], provided that: 
 
 > “This Act \[amending sections 3318, 3319, and 9510 of this title and enacting provisions set out as a note under [section 3318 of this title][/us/usc/t5/s3318]\] may be cited as the ‘Competitive Service Act of 2015’.”
@@ -419,6 +423,11 @@ R.S. § 159.  </td>
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
+[/us/pl/114/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F185
+[/us/stat/130/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F538
+[/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
+[/us/usc/t44/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3102
+[/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/pl/114/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F137
 [/us/stat/130/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F310
 [/us/usc/t5/s3318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3318
